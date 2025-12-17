@@ -1,0 +1,15 @@
+[
+    {
+        "name": "name",
+        "naming-source": "What source or authority provided this name",
+        "nickname": "An informal or colloquial name for the color",
+        "color-family": "Optional family or category the color belongs to",
+        "color-codes": {
+            "hex": "#999999",
+            "rgb": "rgb(0, 0, 0)",
+            "hsl": "hsl(0, 0%, 0%)",
+            "cmyk": "cmyk(0, 0, 0, 0)"
+        },
+        "description": "A brief description of the color."
+    }
+]

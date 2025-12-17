@@ -1,0 +1,22 @@
+[
+    {
+        "file-name": "color-collection",
+        "schema-file": "color-file-schema",
+        "description": "A collection of colors used throughout the project.",
+        "colors": [
+            {
+                "name": "Naval Adventures",
+                "naming-source": "color picker tool",
+                "nickname": "Basic Text Blue",
+                "color-family": "Blue Shades",
+                "color-codes": {
+                    "hex": "#1b248d",
+                    "rgb": "rgb(27, 36, 141)",
+                    "hsl": "hsl(231, 66%, 33%)",
+                    "cmyk": "cmyk(81, 74, 0, 45)"
+                },
+                "description": "A deep blue color used for primary text elements."
+            }
+        ]
+    }
+]
