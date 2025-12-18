@@ -1,6 +1,6 @@
 [
     {
-        "UUID": "uuid-v4-string",
+        "unique-color-id": "uses unique-color-id.ts to generate unique IDs",
         "name": "name",
         "other-names": [
             {
