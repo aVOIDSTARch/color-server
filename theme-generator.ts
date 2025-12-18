@@ -2,8 +2,27 @@
 
 import fs from "fs";
 import path from "path";
+import { Color } from './color-api';
 
 interface ThemeFile {
     themeName: string;
-    colors: { [key: string]: string };
+    filename: string;
+    filepath: string;
+}
+
+export enum ThemeExportFormat {
+    REACT = "react",
+    CSS = "css",
+    SCSS = "scss",
+    LESS = "less",
+    VUE = "vue",
+    ANGULAR = "angular",
+    SVELTE = "svelte",
+    SOLID = "solid",
+    STYLED_COMPONENTS = "styled-components",
+    TAILWIND = "tailwind",
+    EMOTION = "emotion",
+    VANILLA = "vanilla",
+    JSON = "json",
+    XML = "xml"
 }
