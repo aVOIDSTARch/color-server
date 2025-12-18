@@ -1,0 +1,52 @@
+[
+    {
+        "unique-color-id": "8486786",
+        "name": "Grey",
+        "other-names": [
+            {
+            "name": "Grey",
+            "source": {"name": "Coolors", "url": "https://coolors.co/"}
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "1",
+                    "g1": "7",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                    }
+                },
+            "rgb": {
+                "values": {
+                    "r": 129,
+                    "g": 127,
+                    "b": 130
+                }
+            },
+            "hsl": {
+                "values":  {
+                    "h": 280,
+                    "s": 1,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 2,
+                    "y": 0,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A neutral grey with a subtle purple undertone."
+    }
+]

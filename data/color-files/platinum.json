@@ -1,0 +1,52 @@
+[
+    {
+        "unique-color-id": "15594228",
+        "name": "Platinum",
+        "other-names": [
+            {
+            "name": "Platinum",
+            "source": {"name": "Coolors", "url": "https://coolors.co/"}
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "White Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "F",
+                    "g2": "2",
+                    "b1": "F",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                    }
+                },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 242,
+                    "b": 244
+                }
+            },
+            "hsl": {
+                "values":  {
+                    "h": 197,
+                    "s": 24,
+                    "l": 94
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 1,
+                    "y": 0,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light grey with cool blue undertones."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "unique-color-id": "16685344",
+        "name": "Deep Saffron",
+        "other-names": [
+            {
+            "name": "Deep Saffron",
+            "source": {"name": "Coolors", "url": "https://coolors.co/"}
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "E",
+                    "g1": "9",
+                    "g2": "9",
+                    "b1": "2",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                    }
+                },
+            "rgb": {
+                "values": {
+                    "r": 254,
+                    "g": 153,
+                    "b": 32
+                }
+            },
+            "hsl": {
+                "values":  {
+                    "h": 33,
+                    "s": 99,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 40,
+                    "y": 87,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A rich golden-orange inspired by saffron spice."
+    }
+]

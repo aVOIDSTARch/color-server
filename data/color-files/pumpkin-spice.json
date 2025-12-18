@@ -1,0 +1,52 @@
+[
+    {
+        "unique-color-id": "16415009",
+        "name": "Pumpkin Spice",
+        "other-names": [
+            {
+            "name": "Pumpkin Spice",
+            "source": {"name": "Coolors", "url": "https://coolors.co/"}
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "2",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                    }
+                },
+            "rgb": {
+                "values": {
+                    "r": 250,
+                    "g": 121,
+                    "b": 33
+                }
+            },
+            "hsl": {
+                "values":  {
+                    "h": 24,
+                    "s": 96,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 52,
+                    "y": 87,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A vibrant orange reminiscent of autumn pumpkins."
+    }
+]
