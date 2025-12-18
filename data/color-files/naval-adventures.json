@@ -5,10 +5,40 @@
         "nickname": "Basic Text Blue",
         "color-family": "Blue Shades",
         "color-codes": {
-            "hex": "#1b248d",
-            "rgb": "rgb(27, 36, 141)",
-            "hsl": "hsl(231, 66%, 33%)",
-            "cmyk": "cmyk(81, 74, 0, 45)"
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "B",
+                    "g1": "2",
+                    "g2": "4",
+                    "b1": "8",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                    }
+                },
+            "rgb": {
+                "values": {
+                    "r": 27,
+                    "g": 36,
+                    "b": 141
+                }
+            },
+            "hsl": {
+                "values":  {
+                    "h": 231,
+                    "s": 66,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 81,
+                    "m": 74,
+                    "y": 0,
+                    "k": 45
+                }
+            }
         },
         "description": "A deep blue color used for primary text elements."
     }
