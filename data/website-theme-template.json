@@ -1,0 +1,91 @@
+{
+    "theme-name": "",
+    "theme-description": "",
+    "colors": {
+        "primary": {
+            "description": "Main brand color used for primary buttons, active navigation, key UI elements, and brand identity",
+            "main": "",
+            "light": "",
+            "dark": "",
+            "contrast": ""
+        },
+        "secondary": {
+            "description": "Supporting brand color for secondary buttons, less prominent actions, and complementary UI elements",
+            "main": "",
+            "light": "",
+            "dark": "",
+            "contrast": ""
+        },
+        "accent": {
+            "description": "Highlight color for drawing attention to specific elements like badges, tags, notifications, and call-to-action items",
+            "main": "",
+            "light": "",
+            "dark": "",
+            "contrast": ""
+        },
+        "background": {
+            "description": "Page and container backgrounds",
+            "default": "",
+            "paper": "",
+            "elevated": ""
+        },
+        "surface": {
+            "description": "Component surfaces like cards, modals, dropdowns, and panels",
+            "default": "",
+            "variant": "",
+            "inverse": ""
+        },
+        "text": {
+            "description": "Typography colors for headings, body text, labels, and placeholders",
+            "primary": "",
+            "secondary": "",
+            "disabled": "",
+            "hint": "",
+            "inverse": ""
+        },
+        "border": {
+            "description": "Borders for inputs, cards, dividers, and separators",
+            "default": "",
+            "light": "",
+            "focus": ""
+        },
+        "status": {
+            "description": "Semantic colors for alerts, toasts, form validation, and status indicators",
+            "success": "",
+            "success-light": "",
+            "warning": "",
+            "warning-light": "",
+            "error": "",
+            "error-light": "",
+            "info": "",
+            "info-light": ""
+        },
+        "interaction": {
+            "description": "State colors for interactive elements like buttons, links, and form controls",
+            "hover": "",
+            "active": "",
+            "selected": "",
+            "disabled": "",
+            "focus-ring": ""
+        },
+        "link": {
+            "description": "Anchor and navigation link colors across different states",
+            "default": "",
+            "visited": "",
+            "hover": "",
+            "active": ""
+        },
+        "shadow": {
+            "description": "Box shadow colors for depth and elevation effects",
+            "light": "",
+            "medium": "",
+            "dark": ""
+        },
+        "overlay": {
+            "description": "Semi-transparent backgrounds for modals, drawers, and backdrop layers",
+            "light": "",
+            "medium": "",
+            "dark": ""
+        }
+    }
+}
