@@ -2,6 +2,16 @@
     {
         "UUID": "uuid-v4-string",
         "name": "name",
+        "other-names": [
+            {
+            "name": "alt-color-name-1",
+            "source": {"name": "Example", "url": "https://example.com/"}
+            },
+            {
+            "name": "alt-color-name-2",
+            "source": "source of this alternative name"
+            }
+        ],
         "naming-source": "What source or authority provided this name",
         "nickname": "An informal or colloquial name for the color",
         "color-family": "Optional family or category the color belongs to",
