@@ -1,6 +1,6 @@
 // Application to generate themes based on color files, color theme collections and output in a variety of formats for different platforms
 
-import { } from '.theme-creators/*.ts'
+import {  } from '.theme-creators/*.ts'
 
 interface ThemeFile {
     themeName: string;
