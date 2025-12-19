@@ -1,6 +1,6 @@
 // Access to the JSON Color API through TypeScript interfaces and types
 
-import { Color, ColorCollection, ColorFormatCollection, } from './typescript-color-types/color-types';
+import { Color, ColorCollection, ColorFormatsCollection, } from './typescript-color-types/color-types-index';
 import { COLOR_CODE_FORMAT_STRING, COLOR_CODE_SYSTEM_NAME, COLOR_FAMILY } from './typescript-color-types/color-enums';
 
 
