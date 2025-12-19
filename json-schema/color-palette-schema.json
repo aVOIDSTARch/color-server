@@ -1,93 +1,91 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "title": "Color Palette Schema",
-    "description": "Schema for color palette definition files",
-    "palette": {
-        "type": "object",
-        "description": "Project associated with the palette file",
-        "properties": {
-            "required": ["palette-name", "version", "author", "date-created"],
-            "palette-name": {
-                "type": "string",
-                "description": "Name of the palette"
-            },
-            "project-name": {
-                "type": "string",
-                "description": "Name of the project"
-            },
-            "version": {
-                "type": "string",
-                "description": "Version of the palette"
-            },
-            "author": {
-                "type": "string",
-                "description": "Author of palette"
-            },
-            "project-url": {
-                "type": "string",
-                "description": "URL the project is associated with"
-            },
-            "description": {
-                "type": "string",
-                "description": "Description of the palette and what it is to applied to"
-            },
-            "date-created": {
-                "type": "string",
-                "description": "Date that the file was created"
-            }
-        }
-    },
-
-    "type": "array",
-    "items": {
-        "type": "object",
-        "required": ["file-name", "schema-file", "description", "color-files"],
-        "properties": {
-            "file-name": {
-                "type": "string",
-                "description": "The name identifier for this collection"
-            },
-            "schema-file": {
-                "type": "string",
-                "description": "Reference to the schema file used for individual color files"
-            },
-            "description": {
-                "type": "string",
-                "description": "A brief description of the color collection"
-            },
-            "color-files": {
-                "type": "array",
-                "description": "Array of color file references",
-                "items": {
-                    "type": "object",
-                    "required": ["file-path", "color-family"],
-                    "properties": {
-                        "file-path": {
-                            "type": "string",
-                            "description": "Relative path to the color file"
+    "description": "Schema for color palette definition files containing metadata and a color collection",
+    "type": "object",
+    "required": ["palette-name", "version", "author", "date-created", "collection"],
+    "properties": {
+        "palette-name": {
+            "type": "string",
+            "description": "Name of the palette"
+        },
+        "project-name": {
+            "type": "string",
+            "description": "Name of the project"
+        },
+        "version": {
+            "type": "string",
+            "description": "Version of the palette"
+        },
+        "author": {
+            "type": "string",
+            "description": "Author of palette"
+        },
+        "project-url": {
+            "type": "string",
+            "format": "uri",
+            "description": "URL the project is associated with"
+        },
+        "description": {
+            "type": "string",
+            "description": "Description of the palette and what it is to applied to"
+        },
+        "date-created": {
+            "type": "string",
+            "format": "date",
+            "description": "Date that the file was created"
+        },
+        "collection": {
+            "type": "object",
+            "description": "The color collection contained in this palette",
+            "required": ["file-name", "schema-file", "description", "color-files"],
+            "properties": {
+                "file-name": {
+                    "type": "string",
+                    "description": "The name identifier for this collection"
+                },
+                "schema-file": {
+                    "type": "string",
+                    "description": "Reference to the schema file used for individual color files"
+                },
+                "description": {
+                    "type": "string",
+                    "description": "A brief description of the color collection"
+                },
+                "color-files": {
+                    "type": "array",
+                    "description": "Array of color file references",
+                    "items": {
+                        "type": "object",
+                        "required": ["file-path", "color-family"],
+                        "properties": {
+                            "file-path": {
+                                "type": "string",
+                                "description": "Relative path to the color file"
+                            },
+                            "color-family": {
+                                "type": "string",
+                                "description": "The color family category",
+                                "enum": [
+                                    "Red Shades",
+                                    "Orange Shades",
+                                    "Yellow Shades",
+                                    "Green Shades",
+                                    "Blue Shades",
+                                    "Purple Shades",
+                                    "Pink Shades",
+                                    "Brown Shades",
+                                    "Grey Shades",
+                                    "White Shades",
+                                    "Black Shades",
+                                    "Other"
+                                ]
+                            }
                         },
-                        "color-family": {
+                        "additionalProperties": {
                             "type": "string",
-                            "description": "The color family category",
-                            "enum": [
-                                "Red Shades",
-                                "Orange Shades",
-                                "Yellow Shades",
-                                "Green Shades",
-                                "Blue Shades",
-                                "Purple Shades",
-                                "Pink Shades",
-                                "Brown Shades",
-                                "Grey Shades",
-                                "White Shades",
-                                "Black Shades",
-                                "Other"
-                            ]
+                            "description": "Dynamic color name key mapping to filename"
                         }
-                    },
-                    "additionalProperties": {
-                        "type": "string",
-                        "description": "Dynamic color name key mapping to filename"
                     }
                 }
             }

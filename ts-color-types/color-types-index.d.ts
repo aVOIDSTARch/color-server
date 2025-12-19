@@ -30,3 +30,11 @@ export type {
     Color,
     ColorCollection
 } from "./color-modules/color";
+
+// Re-export palette types
+export type {
+    ColorFileReference,
+    PaletteCollection,
+    ColorPalette,
+    CreatePaletteOptions
+} from "./color-modules/color-palette";
