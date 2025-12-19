@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13352866",
+        "name": "Gravel",
+        "other-names": [
+            {
+                "name": "Gravel",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1014",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Stylish",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "B",
+                    "g1": "B",
+                    "g2": "F",
+                    "b1": "A",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 203,
+                    "g": 191,
+                    "b": 162
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 42,
+                    "s": 28,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 20,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted orange with warm orange-yellow tones."
+    }
+]

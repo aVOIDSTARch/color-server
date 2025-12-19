@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13868099",
+        "name": "Mineral Yellow",
+        "other-names": [
+            {
+                "name": "Mineral Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1046",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Espresso Crema",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "3",
+                    "g1": "9",
+                    "g2": "C",
+                    "b1": "4",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 211,
+                    "g": 156,
+                    "b": 67
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 37,
+                    "s": 62,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 26,
+                    "y": 68,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm orange-yellow tones."
+    }
+]

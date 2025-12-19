@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7495235",
+        "name": "Kangaroo",
+        "other-names": [
+            {
+                "name": "Kangaroo",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0920",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Muddy River",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "2",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 114,
+                    "g": 94,
+                    "b": 67
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 34,
+                    "s": 26,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 41,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

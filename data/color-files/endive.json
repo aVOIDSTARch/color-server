@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13814913",
+        "name": "Endive",
+        "other-names": [
+            {
+                "name": "Endive",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0632",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Yellow Endive",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "C",
+                    "b1": "8",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 204,
+                    "b": 129
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 56,
+                    "s": 47,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 39,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

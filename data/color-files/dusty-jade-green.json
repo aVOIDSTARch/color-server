@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8107427",
+        "name": "Dusty Jade Green",
+        "other-names": [
+            {
+                "name": "Dusty Jade Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-5711",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Key Largo",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "B",
+                    "g1": "B",
+                    "g2": "5",
+                    "b1": "A",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 123,
+                    "g": 181,
+                    "b": 163
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 161,
+                    "s": 28,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 32,
+                    "m": 0,
+                    "y": 10,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool cyan-blue tones."
+    }
+]

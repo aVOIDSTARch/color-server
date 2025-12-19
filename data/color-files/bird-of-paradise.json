@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16747605",
+        "name": "Bird Of Paradise",
+        "other-names": [
+            {
+                "name": "Bird Of Paradise",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1357",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Paradise Bird",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "5",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 140,
+                    "b": 85
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 19,
+                    "s": 100,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 45,
+                    "y": 67,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

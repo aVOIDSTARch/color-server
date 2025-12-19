@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7438235",
+        "name": "Country Blue",
+        "other-names": [
+            {
+                "name": "Country Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3918",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "1",
+                    "g1": "7",
+                    "g2": "F",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 113,
+                    "g": 127,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 220,
+                    "s": 17,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 27,
+                    "m": 18,
+                    "y": 0,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

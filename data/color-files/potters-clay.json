@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10372644",
+        "name": "Potters Clay",
+        "other-names": [
+            {
+                "name": "Potters Clay",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1340",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Autumn Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "E",
+                    "g1": "4",
+                    "g2": "6",
+                    "b1": "2",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 158,
+                    "g": 70,
+                    "b": 36
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 17,
+                    "s": 63,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 56,
+                    "y": 77,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant orange with warm red tones."
+    }
+]

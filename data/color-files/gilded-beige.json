@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11771789",
+        "name": "Gilded Beige",
+        "other-names": [
+            {
+                "name": "Gilded Beige",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1012",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "3",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 179,
+                    "g": 159,
+                    "b": 141
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 20,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 21,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

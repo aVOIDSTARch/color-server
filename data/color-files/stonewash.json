@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7635098",
+        "name": "Stonewash",
+        "other-names": [
+            {
+                "name": "Stonewash",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3917",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 116,
+                    "g": 128,
+                    "b": 154
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 221,
+                    "s": 16,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 17,
+                    "y": 0,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

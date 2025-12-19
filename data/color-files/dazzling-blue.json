@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3690656",
+        "name": "Dazzling Blue",
+        "other-names": [
+            {
+                "name": "Dazzling Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3949",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "8",
+                    "g1": "5",
+                    "g2": "0",
+                    "b1": "A",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 56,
+                    "g": 80,
+                    "b": 160
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 226,
+                    "s": 48,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 65,
+                    "m": 50,
+                    "y": 0,
+                    "k": 37
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

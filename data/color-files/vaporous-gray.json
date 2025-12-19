@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14671319",
+        "name": "Vaporous Gray",
+        "other-names": [
+            {
+                "name": "Vaporous Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-4302",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Seagull",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "F",
+                    "g1": "D",
+                    "g2": "D",
+                    "b1": "D",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 223,
+                    "g": 221,
+                    "b": 215
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 45,
+                    "s": 11,
+                    "l": 86
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 4,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A very light, muted yellow with warm orange-yellow tones."
+    }
+]

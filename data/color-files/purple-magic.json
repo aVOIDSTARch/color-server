@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6697585",
+        "name": "Purple Magic",
+        "other-names": [
+            {
+                "name": "Purple Magic",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3540",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "6",
+                    "g1": "3",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 102,
+                    "g": 50,
+                    "b": 113
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 290,
+                    "s": 39,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 56,
+                    "y": 0,
+                    "k": 56
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10052472",
+        "name": "Mellow Mauve",
+        "other-names": [
+            {
+                "name": "Mellow Mauve",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1612",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "9",
+                    "g1": "6",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 153,
+                    "g": 99,
+                    "b": 120
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 337,
+                    "s": 21,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 35,
+                    "y": 22,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted pink with warm red-pink tones."
+    }
+]

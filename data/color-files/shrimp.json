@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14850694",
+        "name": "Shrimp",
+        "other-names": [
+            {
+                "name": "Shrimp",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1523",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "9",
+                    "g2": "A",
+                    "b1": "8",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 154,
+                    "b": 134
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 61,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 32,
+                    "y": 41,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm red tones."
+    }
+]

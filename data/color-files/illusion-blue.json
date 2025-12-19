@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13226972",
+        "name": "Illusion Blue",
+        "other-names": [
+            {
+                "name": "Illusion Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-4103",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Memory Lane",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "9",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 201,
+                    "g": 211,
+                    "b": 220
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 208,
+                    "s": 21,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 4,
+                    "y": 0,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A light, muted blue with cool cyan-blue tones."
+    }
+]

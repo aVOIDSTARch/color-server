@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14142128",
+        "name": "Wood Ash",
+        "other-names": [
+            {
+                "name": "Wood Ash",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1108",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "7",
+                    "g1": "C",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 215,
+                    "g": 202,
+                    "b": 176
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 40,
+                    "s": 33,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 18,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

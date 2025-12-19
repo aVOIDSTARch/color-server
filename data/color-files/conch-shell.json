@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16551835",
+        "name": "Conch Shell",
+        "other-names": [
+            {
+                "name": "Conch Shell",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1624",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "C",
+                    "g1": "8",
+                    "g2": "F",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 252,
+                    "g": 143,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 353,
+                    "s": 95,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 43,
+                    "y": 38,
+                    "k": 1
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red-pink tones."
+    }
+]

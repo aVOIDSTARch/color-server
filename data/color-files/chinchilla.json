@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10260091",
+        "name": "Chinchilla",
+        "other-names": [
+            {
+                "name": "Chinchilla",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1109",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "C",
+                    "g1": "8",
+                    "g2": "E",
+                    "b1": "7",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 156,
+                    "g": 142,
+                    "b": 123
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 14,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 21,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm orange-yellow tones."
+    }
+]

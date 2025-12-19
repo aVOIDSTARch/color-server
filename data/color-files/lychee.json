@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12192562",
+        "name": "Lychee",
+        "other-names": [
+            {
+                "name": "Lychee",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1654",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Active Volcano",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "A",
+                    "g1": "0",
+                    "g2": "B",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 186,
+                    "g": 11,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 347,
+                    "s": 89,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 94,
+                    "y": 73,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated red with warm red-pink tones."
+    }
+]

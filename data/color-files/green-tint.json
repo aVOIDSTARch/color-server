@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12963008",
+        "name": "Green Tint",
+        "other-names": [
+            {
+                "name": "Green Tint",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-6106",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Willow Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "C",
+                    "b1": "C",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 197,
+                    "g": 204,
+                    "b": 192
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 95,
+                    "s": 11,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 6,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted green with cool green tones."
+    }
+]

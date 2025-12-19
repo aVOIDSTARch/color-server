@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16609083",
+        "name": "Carrot",
+        "other-names": [
+            {
+                "name": "Carrot",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1361",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "D",
+                    "g1": "6",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 253,
+                    "g": 111,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 16,
+                    "s": 98,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 56,
+                    "y": 77,
+                    "k": 1
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

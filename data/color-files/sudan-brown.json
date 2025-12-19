@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11299625",
+        "name": "Sudan Brown",
+        "other-names": [
+            {
+                "name": "Sudan Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1160",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Golden Oak",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "C",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "2",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 172,
+                    "g": 107,
+                    "b": 41
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 62,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 76,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant orange with warm orange-yellow tones."
+    }
+]

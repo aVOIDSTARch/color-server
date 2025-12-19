@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8603221",
+        "name": "Maroon",
+        "other-names": [
+            {
+                "name": "Maroon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1619",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Haunting Melody",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "3",
+                    "g1": "4",
+                    "g2": "6",
+                    "b1": "5",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 131,
+                    "g": 70,
+                    "b": 85
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 345,
+                    "s": 30,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 47,
+                    "y": 35,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, muted red with warm red-pink tones."
+    }
+]

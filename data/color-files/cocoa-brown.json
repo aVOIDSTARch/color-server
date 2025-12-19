@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7098435",
+        "name": "Cocoa Brown",
+        "other-names": [
+            {
+                "name": "Cocoa Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1222",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Calthan Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "C",
+                    "g1": "5",
+                    "g2": "0",
+                    "b1": "4",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 108,
+                    "g": 80,
+                    "b": 67
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 19,
+                    "s": 23,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 26,
+                    "y": 38,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

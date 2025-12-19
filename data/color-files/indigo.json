@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4995415",
+        "name": "Indigo",
+        "other-names": [
+            {
+                "name": "Indigo",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3215",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Purple Plumeria",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "C",
+                    "g1": "3",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 76,
+                    "g": 57,
+                    "b": 87
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 278,
+                    "s": 21,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 13,
+                    "m": 34,
+                    "y": 0,
+                    "k": 66
+                }
+            }
+        },
+        "description": "A dark, muted purple with warm purple-magenta tones."
+    }
+]

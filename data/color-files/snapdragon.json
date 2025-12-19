@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16701303",
+        "name": "Snapdragon",
+        "other-names": [
+            {
+                "name": "Snapdragon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0840",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "E",
+                    "g1": "D",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 254,
+                    "g": 215,
+                    "b": 119
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 99,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 53,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm orange-yellow tones."
+    }
+]

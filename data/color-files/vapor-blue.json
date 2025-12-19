@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12500413",
+        "name": "Vapor Blue",
+        "other-names": [
+            {
+                "name": "Vapor Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4203",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Vapour Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "E",
+                    "g1": "B",
+                    "g2": "D",
+                    "b1": "B",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 190,
+                    "g": 189,
+                    "b": 189
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 1,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 1,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

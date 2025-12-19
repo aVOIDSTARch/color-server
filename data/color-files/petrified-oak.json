@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9271648",
+        "name": "Petrified Oak",
+        "other-names": [
+            {
+                "name": "Petrified Oak",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1115",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Archaeological Site",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "D",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 141,
+                    "g": 121,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 33,
+                    "s": 19,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 14,
+                    "y": 32,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, muted brown with earthy warm orange-yellow tones."
+    }
+]

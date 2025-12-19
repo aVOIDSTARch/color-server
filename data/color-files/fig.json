@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5451067",
+        "name": "Fig",
+        "other-names": [
+            {
+                "name": "Fig",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1718",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "3",
+                    "g1": "2",
+                    "g2": "D",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 83,
+                    "g": 45,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 338,
+                    "s": 30,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 46,
+                    "y": 29,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A dark, muted pink with warm red-pink tones."
+    }
+]

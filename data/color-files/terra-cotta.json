@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13861751",
+        "name": "Terra Cotta",
+        "other-names": [
+            {
+                "name": "Terra Cotta",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1526",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Island Coral",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "3",
+                    "g1": "8",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 211,
+                    "g": 131,
+                    "b": 119
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 8,
+                    "s": 51,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 44,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A medium-light, vibrant red with warm red tones."
+    }
+]

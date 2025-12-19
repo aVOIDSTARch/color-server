@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9412253",
+        "name": "Abyss",
+        "other-names": [
+            {
+                "name": "Abyss",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4404",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "E",
+                    "b1": "9",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 143,
+                    "g": 158,
+                    "b": 157
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 176,
+                    "s": 7,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 0,
+                    "y": 1,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

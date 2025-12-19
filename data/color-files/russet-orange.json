@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14971175",
+        "name": "Russet Orange",
+        "other-names": [
+            {
+                "name": "Russet Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1255",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "1",
+                    "b1": "2",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 228,
+                    "g": 113,
+                    "b": 39
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 78,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 50,
+                    "y": 83,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A medium, highly saturated orange with warm red tones."
+    }
+]

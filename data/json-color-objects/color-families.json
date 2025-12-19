@@ -1,0 +1,90 @@
+{
+    "description": "Color family classification system based on HSL (Hue, Saturation, Lightness) color values. The algorithm first checks for achromatic colors (white, black, grey) based on extreme lightness or low saturation values, then identifies brown shades by combining hue range with saturation and lightness thresholds, and finally classifies remaining colors by their hue angle on the color wheel.",
+    "identification-algorithm": ".data/identifyColorFamily.ts",
+    "families": [
+        {
+            "name": "Red Shades",
+            "enum-key": "RED",
+            "description": "Colors dominated by red hues, including pure reds, crimsons, and scarlets",
+            "hue-range": "345-360, 0-10",
+            "conditions": "Hue >= 345 OR Hue < 10"
+        },
+        {
+            "name": "Orange Shades",
+            "enum-key": "ORANGE",
+            "description": "Warm colors between red and yellow, including tangerines, corals, and peaches",
+            "hue-range": "10-45",
+            "conditions": "Hue >= 10 AND Hue < 45 AND (Saturation > 40 OR Lightness > 50)"
+        },
+        {
+            "name": "Yellow Shades",
+            "enum-key": "YELLOW",
+            "description": "Bright warm colors including golds, lemons, and canary yellows",
+            "hue-range": "45-65",
+            "conditions": "Hue >= 45 AND Hue < 65"
+        },
+        {
+            "name": "Green Shades",
+            "enum-key": "GREEN",
+            "description": "Colors ranging from yellow-greens to teals, including limes, emeralds, and forests",
+            "hue-range": "65-165",
+            "conditions": "Hue >= 65 AND Hue < 165"
+        },
+        {
+            "name": "Blue Shades",
+            "enum-key": "BLUE",
+            "description": "Cool colors from cyan to deep blue, including sky blues, navies, and cobalts",
+            "hue-range": "165-255",
+            "conditions": "Hue >= 165 AND Hue < 255"
+        },
+        {
+            "name": "Purple Shades",
+            "enum-key": "PURPLE",
+            "description": "Colors between blue and magenta, including violets, lavenders, and indigos",
+            "hue-range": "255-290",
+            "conditions": "Hue >= 255 AND Hue < 290"
+        },
+        {
+            "name": "Pink Shades",
+            "enum-key": "PINK",
+            "description": "Light to vivid magenta-reds, including roses, fuchsias, and magentas",
+            "hue-range": "290-345",
+            "conditions": "Hue >= 290 AND Hue < 345"
+        },
+        {
+            "name": "Brown Shades",
+            "enum-key": "BROWN",
+            "description": "Desaturated warm colors with lower lightness, including tans, chestnuts, and siennas",
+            "hue-range": "0-45, 350-360",
+            "conditions": "(Saturation <= 50 AND Lightness <= 45 AND (Hue >= 0 AND Hue <= 45 OR Hue >= 350)) OR (Hue >= 10 AND Hue < 45 AND Saturation <= 40 AND Lightness <= 50)"
+        },
+        {
+            "name": "Grey Shades",
+            "enum-key": "GREY",
+            "description": "Neutral colors with very low saturation, from light silver to dark charcoal",
+            "hue-range": "any",
+            "conditions": "Saturation <= 10 AND Lightness > 8 AND Lightness < 95"
+        },
+        {
+            "name": "White Shades",
+            "enum-key": "WHITE",
+            "description": "Very light colors approaching pure white, including ivory, cream, and snow",
+            "hue-range": "any",
+            "conditions": "Lightness >= 95"
+        },
+        {
+            "name": "Black Shades",
+            "enum-key": "BLACK",
+            "description": "Very dark colors approaching pure black, including jet, onyx, and ebony",
+            "hue-range": "any",
+            "conditions": "Lightness <= 8"
+        },
+        {
+            "name": "Other",
+            "enum-key": "OTHER",
+            "description": "Colors that don't fit into the defined categories",
+            "hue-range": "N/A",
+            "conditions": "Fallback when no other conditions match"
+        }
+    ]
+}

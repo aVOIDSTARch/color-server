@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13841529",
+        "name": "Fuchsia Purple",
+        "other-names": [
+            {
+                "name": "Fuchsia Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-2436",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "3",
+                    "g1": "3",
+                    "g2": "4",
+                    "b1": "7",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 211,
+                    "g": 52,
+                    "b": 121
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 334,
+                    "s": 64,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 75,
+                    "y": 43,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A medium, vibrant pink with warm red-pink tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16309356",
+        "name": "Goldfinch",
+        "other-names": [
+            {
+                "name": "Goldfinch",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0737",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pale Pear",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "8",
+                    "g1": "D",
+                    "g2": "C",
+                    "b1": "6",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 248,
+                    "g": 220,
+                    "b": 108
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 48,
+                    "s": 91,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 56,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

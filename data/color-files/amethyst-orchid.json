@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9595558",
+        "name": "Amethyst Orchid",
+        "other-names": [
+            {
+                "name": "Amethyst Orchid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3628",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "2",
+                    "g1": "6",
+                    "g2": "A",
+                    "b1": "A",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 146,
+                    "g": 106,
+                    "b": 166
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 280,
+                    "s": 25,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 36,
+                    "y": 0,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium, muted purple with warm purple-magenta tones."
+    }
+]

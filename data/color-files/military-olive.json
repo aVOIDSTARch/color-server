@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6510139",
+        "name": "Military Olive",
+        "other-names": [
+            {
+                "name": "Military Olive",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0622",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Prehistoric Wood",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "3",
+                    "g1": "5",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 99,
+                    "g": 86,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 41,
+                    "s": 25,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 40,
+                    "k": 61
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

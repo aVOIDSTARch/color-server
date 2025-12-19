@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2771836",
+        "name": "Galaxy Blue",
+        "other-names": [
+            {
+                "name": "Galaxy Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4055",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Nautical",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "A",
+                    "g1": "4",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 42,
+                    "g": 75,
+                    "b": 124
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 216,
+                    "s": 49,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 66,
+                    "m": 40,
+                    "y": 0,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

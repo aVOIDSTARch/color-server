@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13049645",
+        "name": "High Risk Red",
+        "other-names": [
+            {
+                "name": "High Risk Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1763",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "7",
+                    "g1": "1",
+                    "g2": "F",
+                    "b1": "2",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 199,
+                    "g": 31,
+                    "b": 45
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 73,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 84,
+                    "y": 77,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated red with warm red-pink tones."
+    }
+]

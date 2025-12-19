@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5138534",
+        "name": "Silver Pine",
+        "other-names": [
+            {
+                "name": "Silver Pine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5410",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hancock",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "E",
+                    "g1": "6",
+                    "g2": "8",
+                    "b1": "6",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 78,
+                    "g": 104,
+                    "b": 102
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 175,
+                    "s": 14,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 0,
+                    "y": 2,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

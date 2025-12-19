@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5008018",
+        "name": "Riverside",
+        "other-names": [
+            {
+                "name": "Riverside",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4028",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Wickford Bay",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "C",
+                    "g1": "6",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 76,
+                    "g": 106,
+                    "b": 146
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 214,
+                    "s": 32,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 48,
+                    "m": 27,
+                    "y": 0,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

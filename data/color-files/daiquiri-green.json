@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13227902",
+        "name": "Daiquiri Green",
+        "other-names": [
+            {
+                "name": "Daiquiri Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0435",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Goody Gumdrop",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "9",
+                    "g1": "D",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 201,
+                    "g": 215,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 69,
+                    "s": 53,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 0,
+                    "y": 41,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium-light, vibrant green with yellow-green tones."
+    }
+]

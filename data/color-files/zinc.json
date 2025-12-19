@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9603466",
+        "name": "Zinc",
+        "other-names": [
+            {
+                "name": "Zinc",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-2601",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "2",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 146,
+                    "g": 137,
+                    "b": 138
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 353,
+                    "s": 4,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 5,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

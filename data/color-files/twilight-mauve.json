@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9138032",
+        "name": "Twilight Mauve",
+        "other-names": [
+            {
+                "name": "Twilight Mauve",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1807",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sandstone Red Grey",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "B",
+                    "g1": "6",
+                    "g2": "F",
+                    "b1": "7",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 139,
+                    "g": 111,
+                    "b": 112
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 358,
+                    "s": 11,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 19,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, muted red with warm red-pink tones."
+    }
+]

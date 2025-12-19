@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15192007",
+        "name": "Silver Peony",
+        "other-names": [
+            {
+                "name": "Silver Peony",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1206",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pout",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "7",
+                    "g1": "C",
+                    "g2": "F",
+                    "b1": "C",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 231,
+                    "g": 207,
+                    "b": 199
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 15,
+                    "s": 40,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 14,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, moderately saturated orange with warm red tones."
+    }
+]

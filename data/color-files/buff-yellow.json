@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15843184",
+        "name": "Buff Yellow",
+        "other-names": [
+            {
+                "name": "Buff Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0847",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pineapple Cake",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "1",
+                    "g1": "B",
+                    "g2": "F",
+                    "b1": "7",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 241,
+                    "g": 191,
+                    "b": 112
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 37,
+                    "s": 82,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 21,
+                    "y": 54,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm orange-yellow tones."
+    }
+]

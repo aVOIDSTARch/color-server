@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14407121",
+        "name": "White Sand",
+        "other-names": [
+            {
+                "name": "White Sand",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0002",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "White Castle",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "B",
+                    "g1": "D",
+                    "g2": "5",
+                    "b1": "D",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 219,
+                    "g": 213,
+                    "b": 209
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 12,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 5,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A light, muted orange with warm red tones."
+    }
+]

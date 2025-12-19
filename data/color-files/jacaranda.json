@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8687045",
+        "name": "Jacaranda",
+        "other-names": [
+            {
+                "name": "Jacaranda",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3930",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pleated Mauve",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "C",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 132,
+                    "g": 141,
+                    "b": 197
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 232,
+                    "s": 36,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 33,
+                    "m": 28,
+                    "y": 0,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

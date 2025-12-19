@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13606738",
+        "name": "Bright Gold",
+        "other-names": [
+            {
+                "name": "Bright Gold",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0947",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "5",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 207,
+                    "g": 159,
+                    "b": 82
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 37,
+                    "s": 57,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 60,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm orange-yellow tones."
+    }
+]

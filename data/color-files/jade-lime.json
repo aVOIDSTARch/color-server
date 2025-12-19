@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10603131",
+        "name": "Jade Lime",
+        "other-names": [
+            {
+                "name": "Jade Lime",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0232",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "1",
+                    "g1": "C",
+                    "g2": "A",
+                    "b1": "7",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 161,
+                    "g": 202,
+                    "b": 123
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 91,
+                    "s": 43,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 20,
+                    "m": 0,
+                    "y": 39,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool green tones."
+    }
+]

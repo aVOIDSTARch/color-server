@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2631725",
+        "name": "Anthracite",
+        "other-names": [
+            {
+                "name": "Anthracite",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4007",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "8",
+                    "g1": "2",
+                    "g2": "8",
+                    "b1": "2",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 40,
+                    "g": 40,
+                    "b": 45
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 240,
+                    "s": 6,
+                    "l": 17
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 11,
+                    "y": 0,
+                    "k": 82
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9018296",
+        "name": "Forever Blue",
+        "other-names": [
+            {
+                "name": "Forever Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4019",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "9",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "B",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 137,
+                    "g": 155,
+                    "b": 184
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 217,
+                    "s": 25,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 26,
+                    "m": 16,
+                    "y": 0,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool blue-violet tones."
+    }
+]

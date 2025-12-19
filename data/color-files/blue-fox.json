@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12172470",
+        "name": "Blue Fox",
+        "other-names": [
+            {
+                "name": "Blue Fox",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4804",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Solstice",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "9",
+                    "g1": "B",
+                    "g2": "C",
+                    "b1": "B",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 185,
+                    "g": 188,
+                    "b": 182
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 90,
+                    "s": 4,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 0,
+                    "y": 3,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

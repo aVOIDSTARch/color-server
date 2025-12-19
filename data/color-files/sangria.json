@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9971025",
+        "name": "Sangria",
+        "other-names": [
+            {
+                "name": "Sangria",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2047",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Raspberry Romantic",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "8",
+                    "g1": "2",
+                    "g2": "5",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 152,
+                    "g": 37,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 337,
+                    "s": 61,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 76,
+                    "y": 47,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant pink with warm red-pink tones."
+    }
+]

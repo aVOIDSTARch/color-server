@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5083590",
+        "name": "Azure Blue",
+        "other-names": [
+            {
+                "name": "Azure Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4139",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "D",
+                    "g1": "9",
+                    "g2": "1",
+                    "b1": "C",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 77,
+                    "g": 145,
+                    "b": 198
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 206,
+                    "s": 51,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 61,
+                    "m": 27,
+                    "y": 0,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, vibrant blue with cool cyan-blue tones."
+    }
+]

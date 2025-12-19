@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8751457",
+        "name": "Mosstone",
+        "other-names": [
+            {
+                "name": "Mosstone",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0525",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pesto Paste",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "5",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "6",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 133,
+                    "g": 137,
+                    "b": 97
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 66,
+                    "s": 17,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 29,
+                    "k": 46
+                }
+            }
+        },
+        "description": "A medium, muted green with yellow-green tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7358498",
+        "name": "Monks Robe",
+        "other-names": [
+            {
+                "name": "Monks Robe",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1048",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "0",
+                    "g1": "4",
+                    "g2": "8",
+                    "b1": "2",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 112,
+                    "g": 72,
+                    "b": 34
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 29,
+                    "s": 53,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 36,
+                    "y": 70,
+                    "k": 56
+                }
+            }
+        },
+        "description": "A dark, vibrant orange with warm red tones."
+    }
+]

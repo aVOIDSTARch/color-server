@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15588697",
+        "name": "Aurora",
+        "other-names": [
+            {
+                "name": "Aurora",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0642",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Biotic Orb",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "D",
+                    "g2": "D",
+                    "b1": "5",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 221,
+                    "b": 89
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 54,
+                    "s": 80,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 62,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

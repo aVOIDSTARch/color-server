@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8681862",
+        "name": "Gray Ridge",
+        "other-names": [
+            {
+                "name": "Gray Ridge",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3710",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Grey Ridge",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 132,
+                    "g": 121,
+                    "b": 134
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 291,
+                    "s": 5,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 10,
+                    "y": 0,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

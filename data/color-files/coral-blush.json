@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15119032",
+        "name": "Coral Blush",
+        "other-names": [
+            {
+                "name": "Coral Blush",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1909",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Amazon River Dolphin",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "6",
+                    "g1": "B",
+                    "g2": "2",
+                    "b1": "B",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 230,
+                    "g": 178,
+                    "b": 184
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 353,
+                    "s": 51,
+                    "l": 80
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 20,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A light, vibrant red with warm red-pink tones."
+    }
+]

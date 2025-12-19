@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13550546",
+        "name": "Orchid Hush",
+        "other-names": [
+            {
+                "name": "Orchid Hush",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-3805",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "C",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 206,
+                    "g": 195,
+                    "b": 210
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 284,
+                    "s": 14,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 7,
+                    "y": 0,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A light, muted purple with warm purple-magenta tones."
+    }
+]

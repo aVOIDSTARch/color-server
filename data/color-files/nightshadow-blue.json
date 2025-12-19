@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5133160",
+        "name": "Nightshadow Blue",
+        "other-names": [
+            {
+                "name": "Nightshadow Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3919",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Harbourmaster",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "3",
+                    "b1": "6",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 78,
+                    "g": 83,
+                    "b": 104
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 228,
+                    "s": 14,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 20,
+                    "y": 0,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool blue-violet tones."
+    }
+]

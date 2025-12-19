@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11361945",
+        "name": "Radiant Orchid",
+        "other-names": [
+            {
+                "name": "Radiant Orchid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3224",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "D",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "9",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 173,
+                    "g": 94,
+                    "b": 153
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 315,
+                    "s": 33,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 46,
+                    "y": 12,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium, moderately saturated pink with warm purple-magenta tones."
+    }
+]

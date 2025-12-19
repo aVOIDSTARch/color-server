@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10204478",
+        "name": "Macaw Green",
+        "other-names": [
+            {
+                "name": "Macaw Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0230",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Booger",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "B",
+                    "g1": "B",
+                    "g2": "5",
+                    "b1": "3",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 155,
+                    "g": 181,
+                    "b": 62
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 73,
+                    "s": 49,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 0,
+                    "y": 66,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium, moderately saturated green with yellow-green tones."
+    }
+]

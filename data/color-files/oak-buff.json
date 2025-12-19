@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13605987",
+        "name": "Oak Buff",
+        "other-names": [
+            {
+                "name": "Oak Buff",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1144",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "C",
+                    "b1": "6",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 207,
+                    "g": 156,
+                    "b": 99
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 32,
+                    "s": 53,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 25,
+                    "y": 52,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm orange-yellow tones."
+    }
+]

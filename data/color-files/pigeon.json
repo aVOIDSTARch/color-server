@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11120554",
+        "name": "Pigeon",
+        "other-names": [
+            {
+                "name": "Pigeon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4704",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "9",
+                    "g1": "A",
+                    "g2": "F",
+                    "b1": "A",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 169,
+                    "g": 175,
+                    "b": 170
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 130,
+                    "s": 4,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 3,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

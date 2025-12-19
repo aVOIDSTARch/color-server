@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14142404",
+        "name": "Crystal Gray",
+        "other-names": [
+            {
+                "name": "Crystal Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-3801",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Subpoena",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "7",
+                    "g1": "C",
+                    "g2": "B",
+                    "b1": "C",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 215,
+                    "g": 203,
+                    "b": 196
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 19,
+                    "l": 81
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 9,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, muted orange with warm red tones."
+    }
+]

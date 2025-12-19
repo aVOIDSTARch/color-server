@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9997429",
+        "name": "Tree House",
+        "other-names": [
+            {
+                "name": "Tree House",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0630",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Peat Swamp Forest",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "8",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 152,
+                    "g": 140,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 15,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 23,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm orange-yellow tones."
+    }
+]

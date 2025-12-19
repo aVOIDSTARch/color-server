@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16240640",
+        "name": "Empire Yellow",
+        "other-names": [
+            {
+                "name": "Empire Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0756",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "7",
+                    "g1": "D",
+                    "g2": "0",
+                    "b1": "0",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 247,
+                    "g": 208,
+                    "b": 0
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 51,
+                    "s": 100,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 100,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A medium, highly saturated yellow with warm orange-yellow tones."
+    }
+]

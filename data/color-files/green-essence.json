@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15329992",
+        "name": "Green Essence",
+        "other-names": [
+            {
+                "name": "Green Essence",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0607",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "9",
+                    "g1": "E",
+                    "g2": "A",
+                    "b1": "C",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 233,
+                    "g": 234,
+                    "b": 200
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 62,
+                    "s": 45,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 0,
+                    "y": 15,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A light, moderately saturated yellow with yellow-green tones."
+    }
+]

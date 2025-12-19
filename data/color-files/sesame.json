@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12231563",
+        "name": "Sesame",
+        "other-names": [
+            {
+                "name": "Sesame",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1215",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "A",
+                    "g1": "A",
+                    "g2": "3",
+                    "b1": "8",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 186,
+                    "g": 163,
+                    "b": 139
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 31,
+                    "s": 25,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 25,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16343867",
+        "name": "Vermillion Orange",
+        "other-names": [
+            {
+                "name": "Vermillion Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1362",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Vermilion Orange",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "9",
+                    "g1": "6",
+                    "g2": "3",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 249,
+                    "g": 99,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 94,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 60,
+                    "y": 76,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

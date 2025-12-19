@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15053723",
+        "name": "Almost Apricot",
+        "other-names": [
+            {
+                "name": "Almost Apricot",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1319",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hush Puppy",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "5",
+                    "g1": "B",
+                    "g2": "3",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 229,
+                    "g": 179,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 19,
+                    "s": 59,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 32,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm red tones."
+    }
+]

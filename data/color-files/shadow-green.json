@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13616262",
+        "name": "Shadow Green",
+        "other-names": [
+            {
+                "name": "Shadow Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0627",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Winter Hazel",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "F",
+                    "g1": "C",
+                    "g2": "4",
+                    "b1": "8",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 207,
+                    "g": 196,
+                    "b": 134
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 51,
+                    "s": 43,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 35,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

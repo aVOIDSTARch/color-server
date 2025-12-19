@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9536889",
+        "name": "Roasted Cashew",
+        "other-names": [
+            {
+                "name": "Roasted Cashew",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1105",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Film Fest",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "1",
+                    "g1": "8",
+                    "g2": "5",
+                    "b1": "7",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 145,
+                    "g": 133,
+                    "b": 121
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 10,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 17,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

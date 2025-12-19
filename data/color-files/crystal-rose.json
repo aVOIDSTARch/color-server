@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16630726",
+        "name": "Crystal Rose",
+        "other-names": [
+            {
+                "name": "Crystal Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1708",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "D",
+                    "g1": "C",
+                    "g2": "3",
+                    "b1": "C",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 253,
+                    "g": 195,
+                    "b": 198
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 357,
+                    "s": 94,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 22,
+                    "k": 1
+                }
+            }
+        },
+        "description": "A very light, highly saturated red with warm red-pink tones."
+    }
+]

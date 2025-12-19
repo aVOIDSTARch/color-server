@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2960431",
+        "name": "Jet Black",
+        "other-names": [
+            {
+                "name": "Jet Black",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0303",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dark Onyx",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "D",
+                    "g1": "2",
+                    "g2": "C",
+                    "b1": "2",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 45,
+                    "g": 44,
+                    "b": 47
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 260,
+                    "s": 3,
+                    "l": 18
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 6,
+                    "y": 0,
+                    "k": 82
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

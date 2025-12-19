@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8872277",
+        "name": "Clove",
+        "other-names": [
+            {
+                "name": "Clove",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1320",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "7",
+                    "g1": "6",
+                    "g2": "1",
+                    "b1": "5",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 135,
+                    "g": 97,
+                    "b": 85
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 14,
+                    "s": 23,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 28,
+                    "y": 37,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

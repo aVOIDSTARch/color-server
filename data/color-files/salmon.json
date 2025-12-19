@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16427668",
+        "name": "Salmon",
+        "other-names": [
+            {
+                "name": "Salmon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1323",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "No Way Rosé",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "A",
+                    "g1": "A",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 250,
+                    "g": 170,
+                    "b": 148
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 91,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 32,
+                    "y": 41,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

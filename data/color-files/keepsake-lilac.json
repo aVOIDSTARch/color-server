@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12625326",
+        "name": "Keepsake Lilac",
+        "other-names": [
+            {
+                "name": "Keepsake Lilac",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-2705",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Cold Pink",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "0",
+                    "g1": "A",
+                    "g2": "5",
+                    "b1": "A",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 192,
+                    "g": 165,
+                    "b": 174
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 340,
+                    "s": 18,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 14,
+                    "y": 9,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-light, muted pink with warm red-pink tones."
+    }
+]

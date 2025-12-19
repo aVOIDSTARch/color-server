@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15391054",
+        "name": "Meadowlark",
+        "other-names": [
+            {
+                "name": "Meadowlark",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0646",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Longlure Frogfish",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "A",
+                    "g1": "D",
+                    "g2": "9",
+                    "b1": "4",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 234,
+                    "g": 217,
+                    "b": 78
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 53,
+                    "s": 79,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 67,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

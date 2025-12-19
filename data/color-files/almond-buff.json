@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13415312",
+        "name": "Almond Buff",
+        "other-names": [
+            {
+                "name": "Almond Buff",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1116",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tropical Tan",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "C",
+                    "g1": "B",
+                    "g2": "3",
+                    "b1": "9",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 204,
+                    "g": 179,
+                    "b": 144
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 37,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 29,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12686272",
+        "name": "Violet Tulle",
+        "other-names": [
+            {
+                "name": "Violet Tulle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3416",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "La la Love",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "3",
+                    "b1": "C",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 193,
+                    "g": 147,
+                    "b": 192
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 301,
+                    "s": 27,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 1,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, muted pink with warm purple-magenta tones."
+    }
+]

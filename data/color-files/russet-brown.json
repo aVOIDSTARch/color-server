@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7615282",
+        "name": "Russet Brown",
+        "other-names": [
+            {
+                "name": "Russet Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1338",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Chocolate Bar",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "4",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 116,
+                    "g": 51,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 1,
+                    "s": 40,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 56,
+                    "y": 57,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

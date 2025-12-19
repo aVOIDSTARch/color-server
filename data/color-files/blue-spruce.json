@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4746087",
+        "name": "Blue Spruce",
+        "other-names": [
+            {
+                "name": "Blue Spruce",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5308",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pond Newt",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "8",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "6",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 72,
+                    "g": 107,
+                    "b": 103
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 173,
+                    "s": 20,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 33,
+                    "m": 0,
+                    "y": 4,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

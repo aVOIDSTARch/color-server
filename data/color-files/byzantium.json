@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8731515",
+        "name": "Byzantium",
+        "other-names": [
+            {
+                "name": "Byzantium",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3138",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sparkling Grape",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "5",
+                    "g1": "3",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 133,
+                    "g": 59,
+                    "b": 123
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 308,
+                    "s": 39,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 56,
+                    "y": 8,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

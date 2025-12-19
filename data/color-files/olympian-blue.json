@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "1723531",
+        "name": "Olympian Blue",
+        "other-names": [
+            {
+                "name": "Olympian Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4056",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "A",
+                    "g1": "4",
+                    "g2": "C",
+                    "b1": "8",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 26,
+                    "g": 76,
+                    "b": 139
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 213,
+                    "s": 68,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 81,
+                    "m": 45,
+                    "y": 0,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant blue with cool blue-violet tones."
+    }
+]

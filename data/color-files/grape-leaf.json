@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5525828",
+        "name": "Grape Leaf",
+        "other-names": [
+            {
+                "name": "Grape Leaf",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0511",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Forest Floor",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "4",
+                    "g1": "5",
+                    "g2": "1",
+                    "b1": "4",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 84,
+                    "g": 81,
+                    "b": 68
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 49,
+                    "s": 11,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 19,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A dark, muted yellow with warm orange-yellow tones."
+    }
+]

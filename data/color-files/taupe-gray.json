@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9337969",
+        "name": "Taupe Gray",
+        "other-names": [
+            {
+                "name": "Taupe Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0808",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bridle Leather",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "E",
+                    "g1": "7",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 142,
+                    "g": 124,
+                    "b": 113
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 11,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 20,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium, muted brown with earthy warm red tones."
+    }
+]

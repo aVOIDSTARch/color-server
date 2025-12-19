@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6732945",
+        "name": "Katydid",
+        "other-names": [
+            {
+                "name": "Katydid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-6030",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "6",
+                    "g1": "B",
+                    "g2": "C",
+                    "b1": "9",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 102,
+                    "g": 188,
+                    "b": 145
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 150,
+                    "s": 39,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 46,
+                    "m": 0,
+                    "y": 23,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool cyan-blue tones."
+    }
+]

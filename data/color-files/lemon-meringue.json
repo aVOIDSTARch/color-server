@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16179609",
+        "name": "Lemon Meringue",
+        "other-names": [
+            {
+                "name": "Lemon Meringue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0711",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "6",
+                    "g1": "E",
+                    "g2": "1",
+                    "b1": "9",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 246,
+                    "g": 225,
+                    "b": 153
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 46,
+                    "s": 84,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 38,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

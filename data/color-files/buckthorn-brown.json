@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10972959",
+        "name": "Buckthorn Brown",
+        "other-names": [
+            {
+                "name": "Buckthorn Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0935",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "7",
+                    "g1": "6",
+                    "g2": "F",
+                    "b1": "1",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 167,
+                    "g": 111,
+                    "b": 31
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 69,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 34,
+                    "y": 81,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant orange with warm orange-yellow tones."
+    }
+]

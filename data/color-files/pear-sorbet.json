@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15985347",
+        "name": "Pear Sorbet",
+        "other-names": [
+            {
+                "name": "Pear Sorbet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0615",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "3",
+                    "g1": "E",
+                    "g2": "A",
+                    "b1": "C",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 243,
+                    "g": 234,
+                    "b": 195
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 49,
+                    "s": 67,
+                    "l": 86
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 20,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, vibrant yellow with warm orange-yellow tones."
+    }
+]

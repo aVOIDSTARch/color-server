@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7196295",
+        "name": "Spring Bouquet",
+        "other-names": [
+            {
+                "name": "Spring Bouquet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-6340",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Serengeti Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "D",
+                    "g1": "C",
+                    "g2": "E",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 109,
+                    "g": 206,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 136,
+                    "s": 50,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 47,
+                    "m": 0,
+                    "y": 34,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool green tones."
+    }
+]

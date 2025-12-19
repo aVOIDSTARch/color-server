@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13476643",
+        "name": "Lemon Curry",
+        "other-names": [
+            {
+                "name": "Lemon Curry",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0751",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "D",
+                    "g1": "A",
+                    "g2": "3",
+                    "b1": "2",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 205,
+                    "g": 163,
+                    "b": 35
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 45,
+                    "s": 71,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 83,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium, highly saturated yellow with warm orange-yellow tones."
+    }
+]

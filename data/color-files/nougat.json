@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11966597",
+        "name": "Nougat",
+        "other-names": [
+            {
+                "name": "Nougat",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1320",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Stone Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "6",
+                    "g1": "9",
+                    "g2": "8",
+                    "b1": "8",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 182,
+                    "g": 152,
+                    "b": 133
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 25,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 27,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

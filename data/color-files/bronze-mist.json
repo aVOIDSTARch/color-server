@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10255937",
+        "name": "Bronze Mist",
+        "other-names": [
+            {
+                "name": "Bronze Mist",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0843",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Burnished Bronze",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "C",
+                    "g1": "7",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 156,
+                    "g": 126,
+                    "b": 65
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 40,
+                    "s": 41,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 19,
+                    "y": 58,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm orange-yellow tones."
+    }
+]

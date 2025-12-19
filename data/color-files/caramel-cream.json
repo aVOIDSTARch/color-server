@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16038548",
+        "name": "Caramel Cream",
+        "other-names": [
+            {
+                "name": "Caramel Cream",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1022",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mild Orange",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "B",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 186,
+                    "b": 148
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 81,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 39,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14572428",
+        "name": "Shocking Pink",
+        "other-names": [
+            {
+                "name": "Shocking Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-2127",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Carmine Rose",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "B",
+                    "b1": "8",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 222,
+                    "g": 91,
+                    "b": 140
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 338,
+                    "s": 66,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 59,
+                    "y": 37,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A medium-light, vibrant pink with warm red-pink tones."
+    }
+]

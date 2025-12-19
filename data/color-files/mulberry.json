@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10972311",
+        "name": "Mulberry",
+        "other-names": [
+            {
+                "name": "Mulberry",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3014",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mauve Memento",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "7",
+                    "g1": "6",
+                    "g2": "C",
+                    "b1": "9",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 167,
+                    "g": 108,
+                    "b": 151
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 316,
+                    "s": 25,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 35,
+                    "y": 10,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium, muted pink with warm purple-magenta tones."
+    }
+]

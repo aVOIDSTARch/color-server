@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6580066",
+        "name": "Castor Gray",
+        "other-names": [
+            {
+                "name": "Castor Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0510",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Black Locust",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "6",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 103,
+                    "b": 98
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 96,
+                    "s": 2,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 5,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

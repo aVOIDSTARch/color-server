@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8550251",
+        "name": "Brindle",
+        "other-names": [
+            {
+                "name": "Brindle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1110",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "2",
+                    "g1": "7",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 130,
+                    "g": 119,
+                    "b": 107
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 31,
+                    "s": 10,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 18,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

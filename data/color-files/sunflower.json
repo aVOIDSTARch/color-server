@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13865527",
+        "name": "Sunflower",
+        "other-names": [
+            {
+                "name": "Sunflower",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1054",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Fuel Yellow",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "3",
+                    "g1": "9",
+                    "g2": "2",
+                    "b1": "3",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 211,
+                    "g": 146,
+                    "b": 55
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 64,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 74,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm orange-yellow tones."
+    }
+]

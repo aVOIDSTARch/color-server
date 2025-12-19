@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8902851",
+        "name": "Ice Green",
+        "other-names": [
+            {
+                "name": "Ice Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-5414",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "7",
+                    "g1": "D",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 135,
+                    "g": 216,
+                    "b": 195
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 164,
+                    "s": 51,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 38,
+                    "m": 0,
+                    "y": 10,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium-light, vibrant green with cool cyan-blue tones."
+    }
+]

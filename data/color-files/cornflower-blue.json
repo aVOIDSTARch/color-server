@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7573960",
+        "name": "Cornflower Blue",
+        "other-names": [
+            {
+                "name": "Cornflower Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4031",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Organza Violet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "3",
+                    "g1": "9",
+                    "g2": "1",
+                    "b1": "C",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 115,
+                    "g": 145,
+                    "b": 200
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 219,
+                    "s": 44,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 43,
+                    "m": 28,
+                    "y": 0,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

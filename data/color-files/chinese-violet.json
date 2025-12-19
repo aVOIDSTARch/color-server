@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8609409",
+        "name": "Chinese Violet",
+        "other-names": [
+            {
+                "name": "Chinese Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3418",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Trendy Pink",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "3",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "8",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 131,
+                    "g": 94,
+                    "b": 129
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 303,
+                    "s": 16,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 28,
+                    "y": 2,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm purple-magenta tones."
+    }
+]

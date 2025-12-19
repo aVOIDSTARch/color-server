@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11353672",
+        "name": "Cardinal",
+        "other-names": [
+            {
+                "name": "Cardinal",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1643",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Frosted Pomegranate",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "D",
+                    "g1": "3",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 173,
+                    "g": 62,
+                    "b": 72
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 47,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 64,
+                    "y": 58,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium, moderately saturated red with warm red-pink tones."
+    }
+]

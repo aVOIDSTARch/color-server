@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6390875",
+        "name": "English Ivy",
+        "other-names": [
+            {
+                "name": "English Ivy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0110",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tee Off",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "1",
+                    "g1": "8",
+                    "g2": "4",
+                    "b1": "5",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 97,
+                    "g": 132,
+                    "b": 91
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 111,
+                    "s": 18,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 27,
+                    "m": 0,
+                    "y": 31,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

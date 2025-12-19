@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13592951",
+        "name": "Desert Rose",
+        "other-names": [
+            {
+                "name": "Desert Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1927",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Lovebirds",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "F",
+                    "g1": "6",
+                    "g2": "9",
+                    "b1": "7",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 207,
+                    "g": 105,
+                    "b": 119
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 52,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 49,
+                    "y": 43,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, vibrant red with warm red-pink tones."
+    }
+]

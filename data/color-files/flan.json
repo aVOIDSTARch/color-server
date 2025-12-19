@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16180148",
+        "name": "Flan",
+        "other-names": [
+            {
+                "name": "Flan",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0619",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "6",
+                    "g1": "E",
+                    "g2": "3",
+                    "b1": "B",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 246,
+                    "g": 227,
+                    "b": 180
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 79,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 27,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm orange-yellow tones."
+    }
+]

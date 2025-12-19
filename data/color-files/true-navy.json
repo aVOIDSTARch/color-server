@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4149879",
+        "name": "True Navy",
+        "other-names": [
+            {
+                "name": "True Navy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4030",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Deep Azure",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "F",
+                    "g1": "5",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 63,
+                    "g": 82,
+                    "b": 119
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 220,
+                    "s": 31,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 47,
+                    "m": 31,
+                    "y": 0,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14796492",
+        "name": "Pale Lilac",
+        "other-names": [
+            {
+                "name": "Pale Lilac",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-2803",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bunny Pink",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "1",
+                    "g1": "C",
+                    "g2": "6",
+                    "b1": "C",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 225,
+                    "g": 198,
+                    "b": 204
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 347,
+                    "s": 31,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 9,
+                    "k": 12
+                }
+            }
+        },
+        "description": "A light, moderately saturated red with warm red-pink tones."
+    }
+]

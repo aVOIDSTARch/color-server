@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12559239",
+        "name": "Candied Ginger",
+        "other-names": [
+            {
+                "name": "Candied Ginger",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1213",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "F",
+                    "g1": "A",
+                    "g2": "3",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 191,
+                    "g": 163,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 30,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 29,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm orange-yellow tones."
+    }
+]

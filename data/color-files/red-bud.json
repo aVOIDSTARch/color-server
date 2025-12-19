@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9841993",
+        "name": "Red Bud",
+        "other-names": [
+            {
+                "name": "Red Bud",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1850",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Scarlet Apple",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "6",
+                    "g1": "2",
+                    "g2": "D",
+                    "b1": "4",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 150,
+                    "g": 45,
+                    "b": 73
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 344,
+                    "s": 54,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 70,
+                    "y": 51,
+                    "k": 41
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant pink with warm red-pink tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15647934",
+        "name": "Chintz Rose",
+        "other-names": [
+            {
+                "name": "Chintz Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1408",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Strawberry Risotto",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "E",
+                    "g1": "C",
+                    "g2": "4",
+                    "b1": "B",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 238,
+                    "g": 196,
+                    "b": 190
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 8,
+                    "s": 59,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 20,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, vibrant red with warm red tones."
+    }
+]

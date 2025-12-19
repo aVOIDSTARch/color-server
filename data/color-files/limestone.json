@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10001048",
+        "name": "Limestone",
+        "other-names": [
+            {
+                "name": "Limestone",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4702",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dark Limestone",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 152,
+                    "g": 154,
+                    "b": 152
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 120,
+                    "s": 1,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 1,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

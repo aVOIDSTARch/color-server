@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8801653",
+        "name": "Amethyst",
+        "other-names": [
+            {
+                "name": "Amethyst",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3015",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Graphic Grape",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "6",
+                    "g1": "4",
+                    "g2": "D",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 134,
+                    "g": 77,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 318,
+                    "s": 27,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 43,
+                    "y": 13,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm purple-magenta tones."
+    }
+]

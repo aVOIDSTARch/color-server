@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9011096",
+        "name": "Dusk",
+        "other-names": [
+            {
+                "name": "Dusk",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3812",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Grey Dusk",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "9",
+                    "g1": "7",
+                    "g2": "F",
+                    "b1": "9",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 137,
+                    "g": 127,
+                    "b": 152
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 264,
+                    "s": 11,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 16,
+                    "y": 0,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted purple with cool blue-violet tones."
+    }
+]

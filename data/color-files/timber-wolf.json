@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9273456",
+        "name": "Timber Wolf",
+        "other-names": [
+            {
+                "name": "Timber Wolf",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1310",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mocha Accent",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "D",
+                    "g1": "8",
+                    "g2": "0",
+                    "b1": "7",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 141,
+                    "g": 128,
+                    "b": 112
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 33,
+                    "s": 11,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 21,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, muted brown with earthy warm orange-yellow tones."
+    }
+]

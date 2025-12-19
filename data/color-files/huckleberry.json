@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5981001",
+        "name": "Huckleberry",
+        "other-names": [
+            {
+                "name": "Huckleberry",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1620",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "B",
+                    "g1": "4",
+                    "g2": "3",
+                    "b1": "4",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 91,
+                    "g": 67,
+                    "b": 73
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 345,
+                    "s": 15,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 26,
+                    "y": 20,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A medium-dark, muted red with warm red-pink tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14592667",
+        "name": "Dusty Pink",
+        "other-names": [
+            {
+                "name": "Dusty Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1316",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tamanegi Peel",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "E",
+                    "g1": "A",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 222,
+                    "g": 170,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 50,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 30,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A light, moderately saturated orange with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11643571",
+        "name": "Raindrops",
+        "other-names": [
+            {
+                "name": "Raindrops",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3906",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Endless Slumber",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "1",
+                    "g1": "A",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 177,
+                    "g": 170,
+                    "b": 179
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 287,
+                    "s": 6,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 5,
+                    "y": 0,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13719607",
+        "name": "Koi",
+        "other-names": [
+            {
+                "name": "Koi",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1452",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bronze Satin",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "1",
+                    "g1": "5",
+                    "g2": "8",
+                    "b1": "3",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 209,
+                    "g": 88,
+                    "b": 55
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 63,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 58,
+                    "y": 74,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm red tones."
+    }
+]

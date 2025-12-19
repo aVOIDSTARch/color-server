@@ -1,0 +1,81 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Color Families Schema",
+    "description": "Schema for color family classification definitions",
+    "type": "object",
+    "required": ["description", "identification-algorithm", "families"],
+    "properties": {
+        "description": {
+            "type": "string",
+            "description": "High-level explanation of the color family classification algorithm"
+        },
+        "identification-algorithm": {
+            "type": "string",
+            "description": "Path to the TypeScript function that implements the classification logic"
+        },
+        "families": {
+            "type": "array",
+            "description": "Array of color family definitions",
+            "items": {
+                "$ref": "#/$defs/colorFamily"
+            }
+        }
+    },
+    "$defs": {
+        "colorFamily": {
+            "type": "object",
+            "description": "A single color family classification definition",
+            "required": ["name", "enum-key", "description", "conditions"],
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "Display name of the color family",
+                    "enum": [
+                        "Red Shades",
+                        "Orange Shades",
+                        "Yellow Shades",
+                        "Green Shades",
+                        "Blue Shades",
+                        "Purple Shades",
+                        "Pink Shades",
+                        "Brown Shades",
+                        "Grey Shades",
+                        "White Shades",
+                        "Black Shades",
+                        "Other"
+                    ]
+                },
+                "enum-key": {
+                    "type": "string",
+                    "description": "Corresponding key in the COLOR_FAMILY enum",
+                    "enum": [
+                        "RED",
+                        "ORANGE",
+                        "YELLOW",
+                        "GREEN",
+                        "BLUE",
+                        "PURPLE",
+                        "PINK",
+                        "BROWN",
+                        "GREY",
+                        "WHITE",
+                        "BLACK",
+                        "OTHER"
+                    ]
+                },
+                "description": {
+                    "type": "string",
+                    "description": "Human-readable description of what colors belong to this family"
+                },
+                "hue-range": {
+                    "type": "string",
+                    "description": "The hue angle range(s) on the 0-360 color wheel, or 'any' for achromatic colors"
+                },
+                "conditions": {
+                    "type": "string",
+                    "description": "Logical conditions using Hue (0-360), Saturation (0-100), and Lightness (0-100) values"
+                }
+            }
+        }
+    }
+}

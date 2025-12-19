@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16182216",
+        "name": "Lemon Icing",
+        "other-names": [
+            {
+                "name": "Lemon Icing",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0515",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "6",
+                    "g1": "E",
+                    "g2": "B",
+                    "b1": "C",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 246,
+                    "g": 235,
+                    "b": 200
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 46,
+                    "s": 72,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 19,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

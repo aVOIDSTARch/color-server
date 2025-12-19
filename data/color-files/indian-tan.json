@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11371879",
+        "name": "Indian Tan",
+        "other-names": [
+            {
+                "name": "Indian Tan",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1328",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sylvaneth Bark",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "D",
+                    "g1": "8",
+                    "g2": "5",
+                    "b1": "6",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 173,
+                    "g": 133,
+                    "b": 103
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 30,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 40,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm red tones."
+    }
+]

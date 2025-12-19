@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "1659280",
+        "name": "Turkish Sea",
+        "other-names": [
+            {
+                "name": "Turkish Sea",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4053",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Nautical Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "9",
+                    "g1": "5",
+                    "g2": "1",
+                    "b1": "9",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 25,
+                    "g": 81,
+                    "b": 144
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 212,
+                    "s": 70,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 83,
+                    "m": 44,
+                    "y": 0,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant blue with cool blue-violet tones."
+    }
+]

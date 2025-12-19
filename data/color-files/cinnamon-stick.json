@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10176290",
+        "name": "Cinnamon Stick",
+        "other-names": [
+            {
+                "name": "Cinnamon Stick",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1345",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Autumn Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "B",
+                    "g1": "4",
+                    "g2": "7",
+                    "b1": "2",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 155,
+                    "g": 71,
+                    "b": 34
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 18,
+                    "s": 64,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 54,
+                    "y": 78,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant orange with warm red tones."
+    }
+]

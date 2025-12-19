@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8887203",
+        "name": "Arona",
+        "other-names": [
+            {
+                "name": "Arona",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4109",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "7",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "A",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 135,
+                    "g": 155,
+                    "b": 163
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 13,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 5,
+                    "y": 0,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool cyan-blue tones."
+    }
+]

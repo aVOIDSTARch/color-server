@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14299676",
+        "name": "Orange Com",
+        "other-names": [
+            {
+                "name": "Orange Com",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1561",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Fatal Fury",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "A",
+                    "g1": "3",
+                    "g2": "2",
+                    "b1": "1",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 218,
+                    "g": 50,
+                    "b": 28
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 7,
+                    "s": 77,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 77,
+                    "y": 87,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium, highly saturated red with warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7768693",
+        "name": "Hedge Green",
+        "other-names": [
+            {
+                "name": "Hedge Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-6323",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "6",
+                    "g1": "8",
+                    "g2": "A",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 118,
+                    "g": 138,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 117,
+                    "s": 8,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 0,
+                    "y": 15,
+                    "k": 46
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

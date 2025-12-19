@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12880489",
+        "name": "Sandstone",
+        "other-names": [
+            {
+                "name": "Sandstone",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1328",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Toasted Nut",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "A",
+                    "b1": "6",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 196,
+                    "g": 138,
+                    "b": 105
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 44,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 30,
+                    "y": 46,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm red tones."
+    }
+]

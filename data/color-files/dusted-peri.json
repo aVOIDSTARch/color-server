@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6908832",
+        "name": "Dusted Peri",
+        "other-names": [
+            {
+                "name": "Dusted Peri",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3833",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "9",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "A",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 105,
+                    "g": 107,
+                    "b": 160
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 238,
+                    "s": 22,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 34,
+                    "m": 33,
+                    "y": 0,
+                    "k": 37
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

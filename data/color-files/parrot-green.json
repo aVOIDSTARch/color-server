@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9285713",
+        "name": "Parrot Green",
+        "other-names": [
+            {
+                "name": "Parrot Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0341",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "D",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 141,
+                    "g": 176,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 82,
+                    "s": 38,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 20,
+                    "m": 0,
+                    "y": 54,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium, moderately saturated green with yellow-green tones."
+    }
+]

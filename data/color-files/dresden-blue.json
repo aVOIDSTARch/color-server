@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "34491",
+        "name": "Dresden Blue",
+        "other-names": [
+            {
+                "name": "Dresden Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4433",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "8",
+                    "g2": "6",
+                    "b1": "B",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 134,
+                    "b": 187
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 100,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 28,
+                    "y": 0,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

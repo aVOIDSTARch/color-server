@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5604199",
+        "name": "Deep Grass Green",
+        "other-names": [
+            {
+                "name": "Deep Grass Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-6219",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Verdigris Roundhead",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "5",
+                    "g1": "8",
+                    "g2": "3",
+                    "b1": "6",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 85,
+                    "g": 131,
+                    "b": 103
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 143,
+                    "s": 21,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 35,
+                    "m": 0,
+                    "y": 21,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

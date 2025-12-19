@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15948627",
+        "name": "Hot Coral",
+        "other-names": [
+            {
+                "name": "Hot Coral",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1656",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "3",
+                    "g1": "5",
+                    "g2": "B",
+                    "b1": "5",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 243,
+                    "g": 91,
+                    "b": 83
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 3,
+                    "s": 87,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 63,
+                    "y": 66,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated red with warm red tones."
+    }
+]

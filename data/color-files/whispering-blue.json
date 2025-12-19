@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13229276",
+        "name": "Whispering Blue",
+        "other-names": [
+            {
+                "name": "Whispering Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-4610",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "9",
+                    "g1": "D",
+                    "g2": "C",
+                    "b1": "D",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 201,
+                    "g": 220,
+                    "b": 220
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 180,
+                    "s": 21,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 0,
+                    "y": 0,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A light, muted blue with cool cyan-blue tones."
+    }
+]

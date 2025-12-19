@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6904156",
+        "name": "Sparrow",
+        "other-names": [
+            {
+                "name": "Sparrow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1404",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "9",
+                    "g1": "5",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 105,
+                    "g": 89,
+                    "b": 92
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 349,
+                    "s": 8,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 12,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

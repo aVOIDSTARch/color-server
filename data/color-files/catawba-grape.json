@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6110275",
+        "name": "Catawba Grape",
+        "other-names": [
+            {
+                "name": "Catawba Grape",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1621",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Night Mauve",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "D",
+                    "g1": "3",
+                    "g2": "C",
+                    "b1": "4",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 93,
+                    "g": 60,
+                    "b": 67
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 347,
+                    "s": 22,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 35,
+                    "y": 28,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A dark, muted red with warm red-pink tones."
+    }
+]

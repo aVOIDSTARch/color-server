@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15630751",
+        "name": "Morning Glory",
+        "other-names": [
+            {
+                "name": "Morning Glory",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1920",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pink Sherbet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "E",
+                    "g1": "8",
+                    "g2": "1",
+                    "b1": "9",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 238,
+                    "g": 129,
+                    "b": 159
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 343,
+                    "s": 76,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 46,
+                    "y": 33,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, highly saturated pink with warm red-pink tones."
+    }
+]

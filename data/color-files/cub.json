@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7232587",
+        "name": "Cub",
+        "other-names": [
+            {
+                "name": "Cub",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1016",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "C",
+                    "b1": "4",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 110,
+                    "g": 92,
+                    "b": 75
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 29,
+                    "s": 19,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 32,
+                    "k": 57
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

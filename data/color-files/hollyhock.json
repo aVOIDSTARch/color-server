@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8532592",
+        "name": "Hollyhock",
+        "other-names": [
+            {
+                "name": "Hollyhock",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2924",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Violet Vixen",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "2",
+                    "g1": "3",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 130,
+                    "g": 50,
+                    "b": 112
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 313,
+                    "s": 44,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 62,
+                    "y": 14,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

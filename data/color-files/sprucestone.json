@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10469532",
+        "name": "Sprucestone",
+        "other-names": [
+            {
+                "name": "Sprucestone",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-6316",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Spruce Stone",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "F",
+                    "g1": "C",
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 159,
+                    "g": 192,
+                    "b": 156
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 115,
+                    "s": 22,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 0,
+                    "y": 19,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

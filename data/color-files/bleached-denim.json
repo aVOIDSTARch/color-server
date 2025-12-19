@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6582171",
+        "name": "Bleached Denim",
+        "other-names": [
+            {
+                "name": "Bleached Denim",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3930",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blueberry Patch",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "6",
+                    "g2": "F",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 111,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 228,
+                    "s": 22,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 35,
+                    "m": 28,
+                    "y": 0,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

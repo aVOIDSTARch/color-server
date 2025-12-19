@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9814219",
+        "name": "Porcelain Blue",
+        "other-names": [
+            {
+                "name": "Porcelain Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4512",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "0",
+                    "b1": "C",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 149,
+                    "g": 192,
+                    "b": 203
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 192,
+                    "s": 34,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 27,
+                    "m": 5,
+                    "y": 0,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

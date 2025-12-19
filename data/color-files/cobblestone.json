@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11049614",
+        "name": "Cobblestone",
+        "other-names": [
+            {
+                "name": "Cobblestone",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1407",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "A",
+                    "b1": "8",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 168,
+                    "g": 154,
+                    "b": 142
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 13,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 15,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

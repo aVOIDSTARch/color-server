@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13490058",
+        "name": "Lime Sherbet",
+        "other-names": [
+            {
+                "name": "Lime Sherbet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0530",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "D",
+                    "g1": "D",
+                    "g2": "7",
+                    "b1": "8",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 205,
+                    "g": 215,
+                    "b": 138
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 68,
+                    "s": 49,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 36,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with yellow-green tones."
+    }
+]

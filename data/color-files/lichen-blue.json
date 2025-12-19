@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6130099",
+        "name": "Lichen Blue",
+        "other-names": [
+            {
+                "name": "Lichen Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4032",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "D",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "B",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 93,
+                    "g": 137,
+                    "b": 179
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 209,
+                    "s": 36,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 48,
+                    "m": 23,
+                    "y": 0,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

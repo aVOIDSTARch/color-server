@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8612687",
+        "name": "Ermine",
+        "other-names": [
+            {
+                "name": "Ermine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1022",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "3",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "4",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 131,
+                    "g": 107,
+                    "b": 79
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 32,
+                    "s": 25,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 40,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

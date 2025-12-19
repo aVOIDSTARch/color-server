@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6400689",
+        "name": "Aquarelle",
+        "other-names": [
+            {
+                "name": "Aquarelle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4714",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "1",
+                    "g1": "A",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 97,
+                    "g": 170,
+                    "b": 177
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 185,
+                    "s": 34,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 45,
+                    "m": 4,
+                    "y": 0,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

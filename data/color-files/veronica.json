@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7169685",
+        "name": "Veronica",
+        "other-names": [
+            {
+                "name": "Veronica",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3834",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pandora",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "D",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "9",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 109,
+                    "g": 102,
+                    "b": 149
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 249,
+                    "s": 19,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 27,
+                    "m": 32,
+                    "y": 0,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

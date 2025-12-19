@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10968423",
+        "name": "Mauvewood",
+        "other-names": [
+            {
+                "name": "Mauvewood",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1522",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Delicate Prunus",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "7",
+                    "g1": "5",
+                    "g2": "D",
+                    "b1": "6",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 167,
+                    "g": 93,
+                    "b": 103
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 30,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 44,
+                    "y": 38,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium, muted red with warm red-pink tones."
+    }
+]

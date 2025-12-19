@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3488332",
+        "name": "Mood Indigo",
+        "other-names": [
+            {
+                "name": "Mood Indigo",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4025",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Carbon Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "5",
+                    "g1": "3",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 53,
+                    "g": 58,
+                    "b": 76
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 227,
+                    "s": 18,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 30,
+                    "m": 24,
+                    "y": 0,
+                    "k": 70
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool blue-violet tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8146003",
+        "name": "Wild Ginger",
+        "other-names": [
+            {
+                "name": "Wild Ginger",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1420",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rouge Charm",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "C",
+                    "g1": "4",
+                    "g2": "C",
+                    "b1": "5",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 124,
+                    "g": 76,
+                    "b": 83
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 24,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 39,
+                    "y": 33,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red-pink tones."
+    }
+]

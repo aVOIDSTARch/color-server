@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8666755",
+        "name": "Dahlia",
+        "other-names": [
+            {
+                "name": "Dahlia",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3324",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Violet Webcap",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "4",
+                    "g1": "3",
+                    "g2": "E",
+                    "b1": "8",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 132,
+                    "g": 62,
+                    "b": 131
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 301,
+                    "s": 36,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 53,
+                    "y": 1,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

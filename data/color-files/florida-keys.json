@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5684907",
+        "name": "Florida Keys",
+        "other-names": [
+            {
+                "name": "Florida Keys",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-5416",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "6",
+                    "g1": "B",
+                    "g2": "E",
+                    "b1": "A",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 86,
+                    "g": 190,
+                    "b": 171
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 169,
+                    "s": 44,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 55,
+                    "m": 0,
+                    "y": 10,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

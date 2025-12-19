@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12637989",
+        "name": "Lime Punch",
+        "other-names": [
+            {
+                "name": "Lime Punch",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0550",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "0",
+                    "g1": "D",
+                    "g2": "7",
+                    "b1": "2",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 192,
+                    "g": 215,
+                    "b": 37
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 68,
+                    "s": 71,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 0,
+                    "y": 83,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium, highly saturated green with yellow-green tones."
+    }
+]

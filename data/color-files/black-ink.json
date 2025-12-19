@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4473148",
+        "name": "Black Ink",
+        "other-names": [
+            {
+                "name": "Black Ink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0506",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Deepest Nightmare",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "4",
+                    "g1": "4",
+                    "g2": "1",
+                    "b1": "3",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 68,
+                    "g": 65,
+                    "b": 60
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 37,
+                    "s": 6,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 12,
+                    "k": 73
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

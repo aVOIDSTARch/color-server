@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11508350",
+        "name": "Incense",
+        "other-names": [
+            {
+                "name": "Incense",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1010",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "A",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 175,
+                    "g": 154,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 34,
+                    "s": 23,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 28,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm orange-yellow tones."
+    }
+]

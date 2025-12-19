@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10042492",
+        "name": "Vivid Viola",
+        "other-names": [
+            {
+                "name": "Vivid Viola",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3339",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Purple Wine",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "9",
+                    "g1": "3",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 153,
+                    "g": 60,
+                    "b": 124
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 319,
+                    "s": 44,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 61,
+                    "y": 19,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

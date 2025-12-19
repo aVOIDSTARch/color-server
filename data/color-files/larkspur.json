@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3964304",
+        "name": "Larkspur",
+        "other-names": [
+            {
+                "name": "Larkspur",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4421",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "C",
+                    "g1": "7",
+                    "g2": "D",
+                    "b1": "9",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 60,
+                    "g": 125,
+                    "b": 144
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 194,
+                    "s": 41,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 58,
+                    "m": 13,
+                    "y": 0,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool cyan-blue tones."
+    }
+]

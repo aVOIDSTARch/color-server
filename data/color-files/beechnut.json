@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12763533",
+        "name": "Beechnut",
+        "other-names": [
+            {
+                "name": "Beechnut",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0425",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Brimstone Butterfly",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "1",
+                    "b1": "8",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 194,
+                    "g": 193,
+                    "b": 141
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 59,
+                    "s": 30,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 27,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, muted yellow with warm orange-yellow tones."
+    }
+]

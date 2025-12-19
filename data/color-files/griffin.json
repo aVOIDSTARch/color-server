@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9277327",
+        "name": "Griffin",
+        "other-names": [
+            {
+                "name": "Griffin",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-5102",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Silver Snippet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "D",
+                    "g1": "8",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 141,
+                    "g": 143,
+                    "b": 143
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 180,
+                    "s": 1,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 0,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

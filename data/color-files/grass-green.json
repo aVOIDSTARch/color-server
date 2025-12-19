@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8106857",
+        "name": "Grass Green",
+        "other-names": [
+            {
+                "name": "Grass Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-6437",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Soon to Be Hay",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "B",
+                    "g1": "B",
+                    "g2": "3",
+                    "b1": "6",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 123,
+                    "g": 179,
+                    "b": 105
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 105,
+                    "s": 33,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 31,
+                    "m": 0,
+                    "y": 41,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool green tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15723495",
+        "name": "White Alyssum",
+        "other-names": [
+            {
+                "name": "White Alyssum",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-1001",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "F",
+                    "g1": "E",
+                    "g2": "B",
+                    "b1": "E",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 239,
+                    "g": 235,
+                    "b": 231
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 20,
+                    "l": 92
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 3,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A very light, muted orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9665386",
+        "name": "Portabella",
+        "other-names": [
+            {
+                "name": "Portabella",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1316",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Spiced Nutmeg",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "3",
+                    "g1": "7",
+                    "g2": "B",
+                    "b1": "6",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 147,
+                    "g": 123,
+                    "b": 106
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 25,
+                    "s": 16,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 28,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium, muted brown with earthy warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13145888",
+        "name": "Nugget Gold",
+        "other-names": [
+            {
+                "name": "Nugget Gold",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0952",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Duck Sauce",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "7",
+                    "b1": "2",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 200,
+                    "g": 151,
+                    "b": 32
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 72,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 25,
+                    "y": 84,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated orange with warm orange-yellow tones."
+    }
+]

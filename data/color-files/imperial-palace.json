@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6311546",
+        "name": "Imperial Palace",
+        "other-names": [
+            {
+                "name": "Imperial Palace",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3615",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "0",
+                    "g1": "4",
+                    "g2": "E",
+                    "b1": "7",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 96,
+                    "g": 78,
+                    "b": 122
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 265,
+                    "s": 22,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 36,
+                    "y": 0,
+                    "k": 52
+                }
+            }
+        },
+        "description": "A medium-dark, muted purple with cool blue-violet tones."
+    }
+]

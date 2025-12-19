@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16636024",
+        "name": "Lemon Drop",
+        "other-names": [
+            {
+                "name": "Lemon Drop",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0736",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Spiced Butternut",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "D",
+                    "g1": "D",
+                    "g2": "8",
+                    "b1": "7",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 253,
+                    "g": 216,
+                    "b": 120
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 97,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 53,
+                    "k": 1
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm orange-yellow tones."
+    }
+]

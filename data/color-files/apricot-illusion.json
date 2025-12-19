@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14861478",
+        "name": "Apricot Illusion",
+        "other-names": [
+            {
+                "name": "Apricot Illusion",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1120",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "4",
+                    "b1": "A",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 196,
+                    "b": 166
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 51,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 27,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm orange-yellow tones."
+    }
+]

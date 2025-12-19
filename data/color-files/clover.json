@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9057137",
+        "name": "Clover",
+        "other-names": [
+            {
+                "name": "Clover",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-2320",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Violet Vixen",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "A",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 138,
+                    "g": 51,
+                    "b": 113
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 317,
+                    "s": 46,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 63,
+                    "y": 18,
+                    "k": 46
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

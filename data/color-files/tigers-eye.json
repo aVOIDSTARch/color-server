@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9927777",
+        "name": "Tigers Eye",
+        "other-names": [
+            {
+                "name": "Tigers Eye",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1038",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Ginger Pie",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "7",
+                    "g1": "7",
+                    "g2": "C",
+                    "b1": "6",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 151,
+                    "g": 124,
+                    "b": 97
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 22,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 36,
+                    "k": 41
+                }
+            }
+        },
+        "description": "A medium, muted brown with earthy warm orange-yellow tones."
+    }
+]

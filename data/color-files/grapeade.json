@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8742779",
+        "name": "Grapeade",
+        "other-names": [
+            {
+                "name": "Grapeade",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3211",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Port Wine Stain",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "5",
+                    "g1": "6",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 133,
+                    "g": 103,
+                    "b": 123
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 320,
+                    "s": 13,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 8,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium, muted pink with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7382192",
+        "name": "Stillwater",
+        "other-names": [
+            {
+                "name": "Stillwater",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4610",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "0",
+                    "g1": "A",
+                    "g2": "4",
+                    "b1": "B",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 112,
+                    "g": 164,
+                    "b": 176
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 191,
+                    "s": 29,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 36,
+                    "m": 7,
+                    "y": 0,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16566956",
+        "name": "Bleached Apricot",
+        "other-names": [
+            {
+                "name": "Bleached Apricot",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0917",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "C",
+                    "g1": "C",
+                    "g2": "A",
+                    "b1": "A",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 252,
+                    "g": 202,
+                    "b": 172
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 93,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 32,
+                    "k": 1
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

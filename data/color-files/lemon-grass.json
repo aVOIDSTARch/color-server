@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14472340",
+        "name": "Lemon Grass",
+        "other-names": [
+            {
+                "name": "Lemon Grass",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0626",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "That’s My Lime",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "C",
+                    "g1": "D",
+                    "g2": "4",
+                    "b1": "9",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 220,
+                    "g": 212,
+                    "b": 148
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 53,
+                    "s": 51,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 33,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A light, vibrant yellow with warm orange-yellow tones."
+    }
+]

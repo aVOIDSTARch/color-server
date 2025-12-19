@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "1397127",
+        "name": "Baleine Blue",
+        "other-names": [
+            {
+                "name": "Baleine Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4048",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Lake Baikal",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "5",
+                    "g1": "5",
+                    "g2": "1",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 21,
+                    "g": 81,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 208,
+                    "s": 73,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 84,
+                    "m": 40,
+                    "y": 0,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

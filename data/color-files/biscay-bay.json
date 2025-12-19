@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "620936",
+        "name": "Biscay Bay",
+        "other-names": [
+            {
+                "name": "Biscay Bay",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4726",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "9",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 9,
+                    "g": 121,
+                    "b": 136
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 187,
+                    "s": 88,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 93,
+                    "m": 11,
+                    "y": 0,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

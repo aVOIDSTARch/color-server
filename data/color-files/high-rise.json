@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11449013",
+        "name": "High Rise",
+        "other-names": [
+            {
+                "name": "High Rise",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4101",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "E",
+                    "g1": "B",
+                    "g2": "2",
+                    "b1": "B",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 174,
+                    "g": 178,
+                    "b": 181
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 206,
+                    "s": 5,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 2,
+                    "y": 0,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

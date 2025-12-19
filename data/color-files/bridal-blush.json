@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15655645",
+        "name": "Bridal Blush",
+        "other-names": [
+            {
+                "name": "Bridal Blush",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-1005",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Milady",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "E",
+                    "g1": "E",
+                    "g2": "2",
+                    "b1": "D",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 238,
+                    "g": 226,
+                    "b": 221
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 18,
+                    "s": 33,
+                    "l": 90
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 7,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A very light, moderately saturated orange with warm red tones."
+    }
+]

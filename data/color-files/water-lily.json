@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14541781",
+        "name": "Water Lily",
+        "other-names": [
+            {
+                "name": "Water Lily",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0304",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "D",
+                    "g1": "E",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 221,
+                    "g": 227,
+                    "b": 213
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 86,
+                    "s": 20,
+                    "l": 86
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 6,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A very light, muted green with yellow-green tones."
+    }
+]

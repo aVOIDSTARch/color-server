@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9661607",
+        "name": "Hyacinth",
+        "other-names": [
+            {
+                "name": "Hyacinth",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3619",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "3",
+                    "g1": "6",
+                    "g2": "C",
+                    "b1": "A",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 147,
+                    "g": 108,
+                    "b": 167
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 280,
+                    "s": 25,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 35,
+                    "y": 0,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium, muted purple with warm purple-magenta tones."
+    }
+]

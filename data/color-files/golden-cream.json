@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16234344",
+        "name": "Golden Cream",
+        "other-names": [
+            {
+                "name": "Golden Cream",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0939",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "7",
+                    "g1": "B",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 247,
+                    "g": 183,
+                    "b": 104
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 33,
+                    "s": 90,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 26,
+                    "y": 58,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm orange-yellow tones."
+    }
+]

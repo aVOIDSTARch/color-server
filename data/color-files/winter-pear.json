@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11580551",
+        "name": "Winter Pear",
+        "other-names": [
+            {
+                "name": "Winter Pear",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0523",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "0",
+                    "g1": "B",
+                    "g2": "4",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 176,
+                    "g": 180,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 65,
+                    "s": 23,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 0,
+                    "y": 25,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, muted green with yellow-green tones."
+    }
+]

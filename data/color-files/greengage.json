@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9159308",
+        "name": "Greengage",
+        "other-names": [
+            {
+                "name": "Greengage",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0127",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "B",
+                    "g1": "C",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 139,
+                    "g": 194,
+                    "b": 140
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 121,
+                    "s": 31,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 28,
+                    "m": 0,
+                    "y": 28,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool green tones."
+    }
+]

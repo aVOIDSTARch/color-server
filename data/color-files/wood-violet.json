@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7684202",
+        "name": "Wood Violet",
+        "other-names": [
+            {
+                "name": "Wood Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3325",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "5",
+                    "g1": "4",
+                    "g2": "0",
+                    "b1": "6",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 117,
+                    "g": 64,
+                    "b": 106
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 312,
+                    "s": 29,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 45,
+                    "y": 9,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm purple-magenta tones."
+    }
+]

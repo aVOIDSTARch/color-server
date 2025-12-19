@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9718303",
+        "name": "Umber",
+        "other-names": [
+            {
+                "name": "Umber",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1246",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rendang",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "4",
+                    "g1": "4",
+                    "g2": "A",
+                    "b1": "1",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 148,
+                    "g": 74,
+                    "b": 31
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 65,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 50,
+                    "y": 79,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant orange with warm red tones."
+    }
+]

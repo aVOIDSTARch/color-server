@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5190758",
+        "name": "Petunia",
+        "other-names": [
+            {
+                "name": "Petunia",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3632",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "F",
+                    "g1": "3",
+                    "g2": "4",
+                    "b1": "6",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 79,
+                    "g": 52,
+                    "b": 102
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 272,
+                    "s": 32,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 23,
+                    "m": 49,
+                    "y": 0,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A dark, moderately saturated purple with warm purple-magenta tones."
+    }
+]

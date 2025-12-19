@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4799289",
+        "name": "Seal Brown",
+        "other-names": [
+            {
+                "name": "Seal Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1314",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dobunezumi Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "9",
+                    "g1": "3",
+                    "g2": "B",
+                    "b1": "3",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 73,
+                    "g": 59,
+                    "b": 57
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 8,
+                    "s": 12,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 19,
+                    "y": 22,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

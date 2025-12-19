@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3621178",
+        "name": "Deep Forest",
+        "other-names": [
+            {
+                "name": "Deep Forest",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-6110",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "7",
+                    "g1": "4",
+                    "g2": "1",
+                    "b1": "3",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 58
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 138,
+                    "s": 8,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 0,
+                    "y": 11,
+                    "k": 75
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

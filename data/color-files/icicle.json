@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14343376",
+        "name": "Icicle",
+        "other-names": [
+            {
+                "name": "Icicle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-5201",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Icepick",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "A",
+                    "g1": "D",
+                    "g2": "C",
+                    "b1": "D",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 218,
+                    "g": 220,
+                    "b": 208
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 70,
+                    "s": 15,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 5,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A light, muted green with yellow-green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12835796",
+        "name": "Glacier",
+        "other-names": [
+            {
+                "name": "Glacier",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-5505",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Green Wave",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "3",
+                    "g1": "D",
+                    "g2": "B",
+                    "b1": "D",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 195,
+                    "g": 219,
+                    "b": 212
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 163,
+                    "s": 25,
+                    "l": 81
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 0,
+                    "y": 3,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A light, muted green with cool cyan-blue tones."
+    }
+]

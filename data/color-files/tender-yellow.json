@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15592887",
+        "name": "Tender Yellow",
+        "other-names": [
+            {
+                "name": "Tender Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0710",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mystic Melon",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "E",
+                    "g2": "D",
+                    "b1": "B",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 237,
+                    "b": 183
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 60,
+                    "s": 60,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 0,
+                    "y": 23,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, vibrant yellow with yellow-green tones."
+    }
+]

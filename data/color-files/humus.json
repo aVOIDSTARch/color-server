@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12035987",
+        "name": "Humus",
+        "other-names": [
+            {
+                "name": "Humus",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1304",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "7",
+                    "g1": "A",
+                    "g2": "7",
+                    "b1": "9",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 183,
+                    "g": 167,
+                    "b": 147
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 33,
+                    "s": 20,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 20,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm orange-yellow tones."
+    }
+]

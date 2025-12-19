@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9011616",
+        "name": "Daybreak",
+        "other-names": [
+            {
+                "name": "Daybreak",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3817",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Live Jazz",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "9",
+                    "g1": "8",
+                    "g2": "1",
+                    "b1": "A",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 137,
+                    "g": 129,
+                    "b": 160
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 255,
+                    "s": 14,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 19,
+                    "y": 0,
+                    "k": 37
+                }
+            }
+        },
+        "description": "A medium-light, muted purple with cool blue-violet tones."
+    }
+]

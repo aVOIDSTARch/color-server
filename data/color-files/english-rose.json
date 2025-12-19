@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16041667",
+        "name": "English Rose",
+        "other-names": [
+            {
+                "name": "English Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1310",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "C",
+                    "g2": "6",
+                    "b1": "C",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 198,
+                    "b": 195
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 4,
+                    "s": 69,
+                    "l": 86
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 19,
+                    "y": 20,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, vibrant red with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5140097",
+        "name": "Aegean Blue",
+        "other-names": [
+            {
+                "name": "Aegean Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4320",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Happy Days",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "E",
+                    "g1": "6",
+                    "g2": "E",
+                    "b1": "8",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 78,
+                    "g": 110,
+                    "b": 129
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 202,
+                    "s": 25,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 40,
+                    "m": 15,
+                    "y": 0,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

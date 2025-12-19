@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11830107",
+        "name": "Biscuit",
+        "other-names": [
+            {
+                "name": "Biscuit",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1336",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Choco Biscuit",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "3",
+                    "b1": "5",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 180,
+                    "g": 131,
+                    "b": 91
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 27,
+                    "s": 37,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 49,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3814710",
+        "name": "Licorice",
+        "other-names": [
+            {
+                "name": "Licorice",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1102",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "After Dark",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "A",
+                    "g1": "3",
+                    "g2": "5",
+                    "b1": "3",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 58,
+                    "g": 53,
+                    "b": 54
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 348,
+                    "s": 5,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 7,
+                    "k": 77
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

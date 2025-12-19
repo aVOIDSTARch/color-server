@@ -1,0 +1,36 @@
+[
+    {
+        "color-code-formats": {
+            "hex3": {
+                "format-string": "#${r1}${g1}${b1}",
+                "description": "A 3-digit hexadecimal color code representing red, green, and blue components.",
+                "example": "#F0A"
+            },
+            "hex6": {
+                "format-string": "#${r1}${r2}${g1}${g2}${b1}${b2}",
+                "description": "A 6-digit hexadecimal color code representing red, green, and blue components.",
+                "example": "#FG002A"
+            },
+            "hex8": {
+                "format-string": "#${r1}${r2}${g1}${g2}${b1}${b2}${a1}${a2}",
+                "description": "An 8-digit hexadecimal color code representing red, green, blue, and alpha (opacity) components.",
+                "example": "#FF00AAFF"
+            },
+            "rgb": {
+                "format-string": "rgb(${R}, ${G}, ${B})",
+                "description": "An RGB color code representing red, green, and blue components.",
+                "example": "rgb(255, 0, 170)"
+            },
+            "hsl": {
+                "format-string": "hsl(${H}, ${S}%, ${L}%)",
+                "description": "An HSL color code representing hue, saturation, and lightness components.",
+                "example": "hsl(320, 100%, 50%)"
+            },
+            "cmyk": {
+                "format-string": "cmyk(${C}%, ${M}%, ${Y}%, ${K}%)",
+                "description": "A CMYK color code representing cyan, magenta, yellow, and black components.",
+                "example": "cmyk(0%, 100%, 33%, 0%)"
+            }
+        }
+    }
+]

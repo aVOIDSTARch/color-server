@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6584755",
+        "name": "Wedgewood",
+        "other-names": [
+            {
+                "name": "Wedgewood",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3935",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Ultramarine Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "B",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 121,
+                    "b": 179
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 224,
+                    "s": 34,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 44,
+                    "m": 32,
+                    "y": 0,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool blue-violet tones."
+    }
+]

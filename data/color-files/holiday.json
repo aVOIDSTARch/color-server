@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8504244",
+        "name": "Holiday",
+        "other-names": [
+            {
+                "name": "Holiday",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-5413",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "1",
+                    "g1": "C",
+                    "g2": "3",
+                    "b1": "B",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 129,
+                    "g": 195,
+                    "b": 180
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 166,
+                    "s": 35,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 34,
+                    "m": 0,
+                    "y": 8,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

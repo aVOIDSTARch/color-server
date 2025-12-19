@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12491969",
+        "name": "Lupine",
+        "other-names": [
+            {
+                "name": "Lupine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3521",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "E",
+                    "g1": "9",
+                    "g2": "C",
+                    "b1": "C",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 190,
+                    "g": 156,
+                    "b": 193
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 295,
+                    "s": 23,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 19,
+                    "y": 0,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, muted pink with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13617341",
+        "name": "Rainy Day",
+        "other-names": [
+            {
+                "name": "Rainy Day",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-5304",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "F",
+                    "g1": "C",
+                    "g2": "8",
+                    "b1": "B",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 207,
+                    "g": 200,
+                    "b": 189
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 37,
+                    "s": 16,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 9,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A light, muted orange with warm orange-yellow tones."
+    }
+]

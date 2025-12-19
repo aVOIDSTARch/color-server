@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12030912",
+        "name": "Sheer Lilac",
+        "other-names": [
+            {
+                "name": "Sheer Lilac",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3617",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "7",
+                    "g1": "9",
+                    "g2": "3",
+                    "b1": "C",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 183,
+                    "g": 147,
+                    "b": 192
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 288,
+                    "s": 26,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 23,
+                    "y": 0,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-light, muted purple with warm purple-magenta tones."
+    }
+]

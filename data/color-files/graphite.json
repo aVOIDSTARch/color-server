@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3881800",
+        "name": "Graphite",
+        "other-names": [
+            {
+                "name": "Graphite",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3927",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "India Ink",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "B",
+                    "g1": "3",
+                    "g2": "B",
+                    "b1": "4",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 59,
+                    "g": 59,
+                    "b": 72
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 240,
+                    "s": 10,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 18,
+                    "m": 18,
+                    "y": 0,
+                    "k": 72
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

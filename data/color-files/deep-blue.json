@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4470653",
+        "name": "Deep Blue",
+        "other-names": [
+            {
+                "name": "Deep Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3847",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sage Violet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "4",
+                    "g1": "3",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 68,
+                    "g": 55,
+                    "b": 125
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 251,
+                    "s": 39,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 46,
+                    "m": 56,
+                    "y": 0,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

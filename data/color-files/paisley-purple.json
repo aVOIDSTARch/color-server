@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9140657",
+        "name": "Paisley Purple",
+        "other-names": [
+            {
+                "name": "Paisley Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3730",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "B",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "B",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 139,
+                    "g": 121,
+                    "b": 177
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 259,
+                    "s": 26,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 32,
+                    "y": 0,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted purple with cool blue-violet tones."
+    }
+]

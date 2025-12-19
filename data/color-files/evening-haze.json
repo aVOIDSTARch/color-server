@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12433607",
+        "name": "Evening Haze",
+        "other-names": [
+            {
+                "name": "Evening Haze",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3904",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Silverberry",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "D",
+                    "g1": "B",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 189,
+                    "g": 184,
+                    "b": 199
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 260,
+                    "s": 12,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 8,
+                    "y": 0,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A light, muted purple with cool blue-violet tones."
+    }
+]

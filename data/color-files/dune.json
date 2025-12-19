@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10062200",
+        "name": "Dune",
+        "other-names": [
+            {
+                "name": "Dune",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1009",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pale Khaki",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "9",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "7",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 153,
+                    "g": 137,
+                    "b": 120
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 31,
+                    "s": 14,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 22,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm orange-yellow tones."
+    }
+]

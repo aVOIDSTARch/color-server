@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4866361",
+        "name": "Wren",
+        "other-names": [
+            {
+                "name": "Wren",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0614",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "A",
+                    "g1": "4",
+                    "g2": "1",
+                    "b1": "3",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 74,
+                    "g": 65,
+                    "b": 57
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 13,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 23,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

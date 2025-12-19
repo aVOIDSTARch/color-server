@@ -1,0 +1,237 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Color File Schema",
+    "description": "Schema for individual color definition files",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "required": ["unique-color-id", "name", "color-codes"],
+        "properties": {
+            "unique-color-id": {
+                "type": "string",
+                "description": "Unique identifier generated from hex code using unique-color-id.ts"
+            },
+            "name": {
+                "type": "string",
+                "description": "Primary display name for the color"
+            },
+            "other-names": {
+                "type": "array",
+                "description": "Alternative names for the color from various sources",
+                "items": {
+                    "type": "object",
+                    "required": ["name", "source"],
+                    "properties": {
+                        "name": {
+                            "type": "string",
+                            "description": "Alternative color name"
+                        },
+                        "source": {
+                            "oneOf": [
+                                {
+                                    "type": "string",
+                                    "description": "Simple source description"
+                                },
+                                {
+                                    "type": "object",
+                                    "required": ["name", "url"],
+                                    "properties": {
+                                        "name": {
+                                            "type": "string",
+                                            "description": "Name of the source"
+                                        },
+                                        "url": {
+                                            "type": "string",
+                                            "format": "uri",
+                                            "description": "URL of the source"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "naming-source": {
+                "type": "string",
+                "description": "Primary source or authority that provided the color name"
+            },
+            "nickname": {
+                "type": "string",
+                "description": "Informal or colloquial name for the color"
+            },
+            "color-family": {
+                "type": "string",
+                "description": "Color family category",
+                "enum": [
+                    "Red Shades",
+                    "Orange Shades",
+                    "Yellow Shades",
+                    "Green Shades",
+                    "Blue Shades",
+                    "Purple Shades",
+                    "Pink Shades",
+                    "Brown Shades",
+                    "Grey Shades",
+                    "White Shades",
+                    "Black Shades",
+                    "Other"
+                ]
+            },
+            "color-codes": {
+                "type": "object",
+                "description": "Color values in various color systems",
+                "properties": {
+                    "hex": {
+                        "type": "object",
+                        "properties": {
+                            "values": {
+                                "type": "object",
+                                "required": ["r1", "r2", "g1", "g2", "b1", "b2"],
+                                "properties": {
+                                    "r1": {
+                                        "type": "string",
+                                        "pattern": "^[0-9A-Fa-f]$",
+                                        "description": "First hex digit of red channel"
+                                    },
+                                    "r2": {
+                                        "type": "string",
+                                        "pattern": "^[0-9A-Fa-f]$",
+                                        "description": "Second hex digit of red channel"
+                                    },
+                                    "g1": {
+                                        "type": "string",
+                                        "pattern": "^[0-9A-Fa-f]$",
+                                        "description": "First hex digit of green channel"
+                                    },
+                                    "g2": {
+                                        "type": "string",
+                                        "pattern": "^[0-9A-Fa-f]$",
+                                        "description": "Second hex digit of green channel"
+                                    },
+                                    "b1": {
+                                        "type": "string",
+                                        "pattern": "^[0-9A-Fa-f]$",
+                                        "description": "First hex digit of blue channel"
+                                    },
+                                    "b2": {
+                                        "type": "string",
+                                        "pattern": "^[0-9A-Fa-f]$",
+                                        "description": "Second hex digit of blue channel"
+                                    },
+                                    "a1": {
+                                        "type": "string",
+                                        "pattern": "^[0-9A-Fa-f]$",
+                                        "description": "First hex digit of alpha channel"
+                                    },
+                                    "a2": {
+                                        "type": "string",
+                                        "pattern": "^[0-9A-Fa-f]$",
+                                        "description": "Second hex digit of alpha channel"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "rgb": {
+                        "type": "object",
+                        "properties": {
+                            "values": {
+                                "type": "object",
+                                "required": ["r", "g", "b"],
+                                "properties": {
+                                    "r": {
+                                        "type": "integer",
+                                        "minimum": 0,
+                                        "maximum": 255,
+                                        "description": "Red channel (0-255)"
+                                    },
+                                    "g": {
+                                        "type": "integer",
+                                        "minimum": 0,
+                                        "maximum": 255,
+                                        "description": "Green channel (0-255)"
+                                    },
+                                    "b": {
+                                        "type": "integer",
+                                        "minimum": 0,
+                                        "maximum": 255,
+                                        "description": "Blue channel (0-255)"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "hsl": {
+                        "type": "object",
+                        "properties": {
+                            "values": {
+                                "type": "object",
+                                "required": ["h", "s", "l"],
+                                "properties": {
+                                    "h": {
+                                        "type": "integer",
+                                        "minimum": 0,
+                                        "maximum": 360,
+                                        "description": "Hue (0-360 degrees)"
+                                    },
+                                    "s": {
+                                        "type": "integer",
+                                        "minimum": 0,
+                                        "maximum": 100,
+                                        "description": "Saturation (0-100%)"
+                                    },
+                                    "l": {
+                                        "type": "integer",
+                                        "minimum": 0,
+                                        "maximum": 100,
+                                        "description": "Lightness (0-100%)"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "cmyk": {
+                        "type": "object",
+                        "properties": {
+                            "values": {
+                                "type": "object",
+                                "required": ["c", "m", "y", "k"],
+                                "properties": {
+                                    "c": {
+                                        "type": "integer",
+                                        "minimum": 0,
+                                        "maximum": 100,
+                                        "description": "Cyan (0-100%)"
+                                    },
+                                    "m": {
+                                        "type": "integer",
+                                        "minimum": 0,
+                                        "maximum": 100,
+                                        "description": "Magenta (0-100%)"
+                                    },
+                                    "y": {
+                                        "type": "integer",
+                                        "minimum": 0,
+                                        "maximum": 100,
+                                        "description": "Yellow (0-100%)"
+                                    },
+                                    "k": {
+                                        "type": "integer",
+                                        "minimum": 0,
+                                        "maximum": 100,
+                                        "description": "Key/Black (0-100%)"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "description": {
+                "type": "string",
+                "description": "Brief description of the color"
+            }
+        }
+    }
+}

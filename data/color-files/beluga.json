@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4868163",
+        "name": "Beluga",
+        "other-names": [
+            {
+                "name": "Beluga",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0405",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Stealth Jet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "A",
+                    "g1": "4",
+                    "g2": "8",
+                    "b1": "4",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 74,
+                    "g": 72,
+                    "b": 67
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 5,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 9,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

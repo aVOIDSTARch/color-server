@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14803934",
+        "name": "Mystic Blue",
+        "other-names": [
+            {
+                "name": "Mystic Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-4303",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Barely White",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "1",
+                    "g1": "E",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 225,
+                    "g": 227,
+                    "b": 222
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 84,
+                    "s": 8,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 2,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A very light, neutral grey."
+    }
+]

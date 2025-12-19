@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11875118",
+        "name": "Molten Lava",
+        "other-names": [
+            {
+                "name": "Molten Lava",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1555",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "2",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 51,
+                    "b": 46
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 2,
+                    "s": 59,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 72,
+                    "y": 75,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant red with warm red tones."
+    }
+]

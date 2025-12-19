@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14339429",
+        "name": "Acacia",
+        "other-names": [
+            {
+                "name": "Acacia",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0640",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "A",
+                    "g1": "C",
+                    "g2": "D",
+                    "b1": "6",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 218,
+                    "g": 205,
+                    "b": 101
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 53,
+                    "s": 61,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 54,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium-light, vibrant yellow with warm orange-yellow tones."
+    }
+]

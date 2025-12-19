@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7310698",
+        "name": "Kashmir",
+        "other-names": [
+            {
+                "name": "Kashmir",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-6319",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "F",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "6",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 111,
+                    "g": 141,
+                    "b": 106
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 111,
+                    "s": 14,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 0,
+                    "y": 25,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, muted green with cool green tones."
+    }
+]

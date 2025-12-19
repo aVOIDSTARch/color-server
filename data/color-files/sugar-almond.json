@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9655593",
+        "name": "Sugar Almond",
+        "other-names": [
+            {
+                "name": "Sugar Almond",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1155",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "3",
+                    "g1": "5",
+                    "g2": "5",
+                    "b1": "2",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 147,
+                    "g": 85,
+                    "b": 41
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 25,
+                    "s": 56,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 42,
+                    "y": 72,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant orange with warm red tones."
+    }
+]

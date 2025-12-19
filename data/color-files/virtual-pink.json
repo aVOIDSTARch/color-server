@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12982094",
+        "name": "Virtual Pink",
+        "other-names": [
+            {
+                "name": "Virtual Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1856",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Jazzy",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "6",
+                    "g1": "1",
+                    "g2": "7",
+                    "b1": "4",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 198,
+                    "g": 23,
+                    "b": 78
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 341,
+                    "s": 79,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 88,
+                    "y": 61,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated pink with warm red-pink tones."
+    }
+]

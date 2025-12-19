@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6711149",
+        "name": "Quiet Shade",
+        "other-names": [
+            {
+                "name": "Quiet Shade",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4006",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "6",
+                    "g1": "6",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 102,
+                    "g": 103,
+                    "b": 109
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 231,
+                    "s": 3,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 6,
+                    "y": 0,
+                    "k": 57
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

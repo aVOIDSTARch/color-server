@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15770047",
+        "name": "Prism Pink",
+        "other-names": [
+            {
+                "name": "Prism Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-2311",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "0",
+                    "g1": "A",
+                    "g2": "1",
+                    "b1": "B",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 240,
+                    "g": 161,
+                    "b": 191
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 337,
+                    "s": 72,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 33,
+                    "y": 20,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A light, highly saturated pink with warm red-pink tones."
+    }
+]

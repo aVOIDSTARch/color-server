@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8803680",
+        "name": "Renaissance Rose",
+        "other-names": [
+            {
+                "name": "Renaissance Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1613",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "6",
+                    "g1": "5",
+                    "g2": "5",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 134,
+                    "g": 85,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 347,
+                    "s": 22,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 37,
+                    "y": 28,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, muted red with warm red-pink tones."
+    }
+]

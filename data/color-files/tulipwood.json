@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8410214",
+        "name": "Tulipwood",
+        "other-names": [
+            {
+                "name": "Tulipwood",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1709",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Private Tone",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "0",
+                    "g1": "5",
+                    "g2": "4",
+                    "b1": "6",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 128,
+                    "g": 84,
+                    "b": 102
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 335,
+                    "s": 21,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 34,
+                    "y": 20,
+                    "k": 50
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm red-pink tones."
+    }
+]

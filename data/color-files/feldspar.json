@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7510923",
+        "name": "Feldspar",
+        "other-names": [
+            {
+                "name": "Feldspar",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5815",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Silent Sage",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "2",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "8",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 114,
+                    "g": 155,
+                    "b": 139
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 157,
+                    "s": 17,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 26,
+                    "m": 0,
+                    "y": 10,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium, muted green with cool cyan-blue tones."
+    }
+]

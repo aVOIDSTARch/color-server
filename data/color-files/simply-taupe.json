@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11378579",
+        "name": "Simply Taupe",
+        "other-names": [
+            {
+                "name": "Simply Taupe",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0906",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "D",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "9",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 173,
+                    "g": 159,
+                    "b": 147
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 14,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 15,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

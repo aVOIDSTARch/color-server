@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11908676",
+        "name": "Apple Green",
+        "other-names": [
+            {
+                "name": "Apple Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0543",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Japanese Fern",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "B",
+                    "g2": "6",
+                    "b1": "4",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 182,
+                    "b": 68
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 61,
+                    "s": 46,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 63,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium, moderately saturated yellow with yellow-green tones."
+    }
+]

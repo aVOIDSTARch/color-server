@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14208187",
+        "name": "Sandshell",
+        "other-names": [
+            {
+                "name": "Sandshell",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0907",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Almond Wisp",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "8",
+                    "g1": "C",
+                    "g2": "C",
+                    "b1": "B",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 216,
+                    "g": 204,
+                    "b": 187
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 27,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 13,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A light, muted orange with warm orange-yellow tones."
+    }
+]

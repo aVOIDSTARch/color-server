@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11365736",
+        "name": "Light Mahogany",
+        "other-names": [
+            {
+                "name": "Light Mahogany",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1436",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Jabłoński Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "D",
+                    "g1": "6",
+                    "g2": "D",
+                    "b1": "6",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 173,
+                    "g": 109,
+                    "b": 104
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 4,
+                    "s": 30,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 37,
+                    "y": 40,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium, muted red with warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10130047",
+        "name": "Seneca Rock",
+        "other-names": [
+            {
+                "name": "Seneca Rock",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1107",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "A",
+                    "g1": "9",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 154,
+                    "g": 146,
+                    "b": 127
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 42,
+                    "s": 12,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 18,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm orange-yellow tones."
+    }
+]

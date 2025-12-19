@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13685687",
+        "name": "Aloe Wash",
+        "other-names": [
+            {
+                "name": "Aloe Wash",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0608",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "0",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "B",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 208,
+                    "g": 211,
+                    "b": 183
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 66,
+                    "s": 24,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 13,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, muted green with yellow-green tones."
+    }
+]

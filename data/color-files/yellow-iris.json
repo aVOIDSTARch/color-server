@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15656846",
+        "name": "Yellow Iris",
+        "other-names": [
+            {
+                "name": "Yellow Iris",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0622",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Lemon Flesh",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "E",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "8",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 238,
+                    "g": 231,
+                    "b": 142
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 56,
+                    "s": 74,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 40,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

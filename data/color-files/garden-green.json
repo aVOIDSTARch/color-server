@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4808245",
+        "name": "Garden Green",
+        "other-names": [
+            {
+                "name": "Garden Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0230",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Woodman",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "9",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "3",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 73,
+                    "g": 94,
+                    "b": 53
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 91,
+                    "s": 28,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 22,
+                    "m": 0,
+                    "y": 44,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A dark, muted green with cool green tones."
+    }
+]

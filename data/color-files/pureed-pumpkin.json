@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12796193",
+        "name": "Pureed Pumpkin",
+        "other-names": [
+            {
+                "name": "Pureed Pumpkin",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1449",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Paprika Kisses",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "3",
+                    "g1": "4",
+                    "g2": "1",
+                    "b1": "2",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 195,
+                    "g": 65,
+                    "b": 33
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 12,
+                    "s": 71,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 67,
+                    "y": 83,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated orange with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10704758",
+        "name": "Red Violet",
+        "other-names": [
+            {
+                "name": "Red Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1818",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Ruby Shade",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "3",
+                    "g1": "5",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 163,
+                    "g": 87,
+                    "b": 118
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 336,
+                    "s": 30,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 47,
+                    "y": 28,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, muted pink with warm red-pink tones."
+    }
+]

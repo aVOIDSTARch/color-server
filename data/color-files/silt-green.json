@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11124145",
+        "name": "Silt Green",
+        "other-names": [
+            {
+                "name": "Silt Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-5706",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Foggy Rain",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "9",
+                    "g1": "B",
+                    "g2": "D",
+                    "b1": "B",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 169,
+                    "g": 189,
+                    "b": 177
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 144,
+                    "s": 13,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 0,
+                    "y": 6,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

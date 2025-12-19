@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8867388",
+        "name": "Coconut Shell",
+        "other-names": [
+            {
+                "name": "Coconut Shell",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1230",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Wiener Dog",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "7",
+                    "g1": "4",
+                    "g2": "E",
+                    "b1": "3",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 135,
+                    "g": 78,
+                    "b": 60
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 14,
+                    "s": 38,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 42,
+                    "y": 56,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

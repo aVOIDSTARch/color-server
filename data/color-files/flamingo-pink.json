@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16225950",
+        "name": "Flamingo Pink",
+        "other-names": [
+            {
+                "name": "Flamingo Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1821",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Primrose Garden",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "7",
+                    "g1": "9",
+                    "g2": "6",
+                    "b1": "9",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 247,
+                    "g": 150,
+                    "b": 158
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 86,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 39,
+                    "y": 36,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red-pink tones."
+    }
+]

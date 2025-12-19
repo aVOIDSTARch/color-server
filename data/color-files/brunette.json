@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6701624",
+        "name": "Brunette",
+        "other-names": [
+            {
+                "name": "Brunette",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1235",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "6",
+                    "g1": "4",
+                    "g2": "2",
+                    "b1": "3",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 102,
+                    "g": 66,
+                    "b": 56
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 29,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 35,
+                    "y": 45,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

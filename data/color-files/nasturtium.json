@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16671559",
+        "name": "Nasturtium",
+        "other-names": [
+            {
+                "name": "Nasturtium",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1451",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bruschetta Tomato",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "E",
+                    "g1": "6",
+                    "g2": "3",
+                    "b1": "4",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 254,
+                    "g": 99,
+                    "b": 71
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 9,
+                    "s": 99,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 61,
+                    "y": 72,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated red with warm red tones."
+    }
+]

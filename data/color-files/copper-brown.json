@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10117201",
+        "name": "Copper Brown",
+        "other-names": [
+            {
+                "name": "Copper Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1336",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "A",
+                    "g1": "6",
+                    "g2": "0",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 154,
+                    "g": 96,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 12,
+                    "s": 31,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 47,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, moderately saturated brown with earthy warm red tones."
+    }
+]

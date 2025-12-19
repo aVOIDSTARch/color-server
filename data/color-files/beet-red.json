@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8003389",
+        "name": "Beet Red",
+        "other-names": [
+            {
+                "name": "Beet Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2030",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "A",
+                    "g1": "1",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 122,
+                    "g": 31,
+                    "b": 61
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 340,
+                    "s": 59,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 75,
+                    "y": 50,
+                    "k": 52
+                }
+            }
+        },
+        "description": "A dark, vibrant pink with warm red-pink tones."
+    }
+]

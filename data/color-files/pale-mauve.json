@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13018276",
+        "name": "Pale Mauve",
+        "other-names": [
+            {
+                "name": "Pale Mauve",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1607",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "6",
+                    "g1": "A",
+                    "g2": "4",
+                    "b1": "A",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 198,
+                    "g": 164,
+                    "b": 164
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 23,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 17,
+                    "y": 17,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A light, muted red with warm red tones."
+    }
+]

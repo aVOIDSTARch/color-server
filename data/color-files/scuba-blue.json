@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "43968",
+        "name": "Scuba Blue",
+        "other-names": [
+            {
+                "name": "Scuba Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4725",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Future",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "A",
+                    "g2": "B",
+                    "b1": "C",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 171,
+                    "b": 192
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 187,
+                    "s": 100,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 11,
+                    "y": 0,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

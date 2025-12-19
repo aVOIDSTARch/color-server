@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10557225",
+        "name": "Haute Red",
+        "other-names": [
+            {
+                "name": "Haute Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1758",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hong Kong Taxi",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "1",
+                    "g1": "1",
+                    "g2": "7",
+                    "b1": "2",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 161,
+                    "g": 23,
+                    "b": 41
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 75,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 86,
+                    "y": 75,
+                    "k": 37
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated red with warm red-pink tones."
+    }
+]

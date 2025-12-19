@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13666623",
+        "name": "Yam",
+        "other-names": [
+            {
+                "name": "Yam",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1140",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Buried Treasure",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "0",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "3",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 208,
+                    "g": 137,
+                    "b": 63
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 31,
+                    "s": 61,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 34,
+                    "y": 70,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm orange-yellow tones."
+    }
+]

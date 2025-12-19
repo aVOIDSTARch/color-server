@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10850973",
+        "name": "Sea Fog",
+        "other-names": [
+            {
+                "name": "Sea Fog",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3304",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Nirvana",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "5",
+                    "g1": "9",
+                    "g2": "2",
+                    "b1": "9",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 165,
+                    "g": 146,
+                    "b": 157
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 325,
+                    "s": 10,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 5,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

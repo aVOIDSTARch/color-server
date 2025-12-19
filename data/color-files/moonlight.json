@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12956064",
+        "name": "Moonlight",
+        "other-names": [
+            {
+                "name": "Moonlight",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1309",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Cracked Earth",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "5",
+                    "g1": "B",
+                    "g2": "1",
+                    "b1": "A",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 197,
+                    "g": 177,
+                    "b": 160
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 24,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 19,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

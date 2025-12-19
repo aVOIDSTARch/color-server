@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15174544",
+        "name": "Strawberry Ice",
+        "other-names": [
+            {
+                "name": "Strawberry Ice",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1720",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "7",
+                    "g1": "8",
+                    "g2": "B",
+                    "b1": "9",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 231,
+                    "g": 139,
+                    "b": 144
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 357,
+                    "s": 66,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 40,
+                    "y": 38,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, vibrant red with warm red-pink tones."
+    }
+]

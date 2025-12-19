@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16504983",
+        "name": "Golden Haze",
+        "other-names": [
+            {
+                "name": "Golden Haze",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0826",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "B",
+                    "g1": "D",
+                    "g2": "8",
+                    "b1": "9",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 251,
+                    "g": 216,
+                    "b": 151
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 93,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 14,
+                    "y": 40,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm orange-yellow tones."
+    }
+]

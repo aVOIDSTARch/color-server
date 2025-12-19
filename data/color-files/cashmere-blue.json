@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10860752",
+        "name": "Cashmere Blue",
+        "other-names": [
+            {
+                "name": "Cashmere Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4115",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "5",
+                    "g1": "B",
+                    "g2": "8",
+                    "b1": "D",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 165,
+                    "g": 184,
+                    "b": 208
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 213,
+                    "s": 31,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 12,
+                    "y": 0,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool blue-violet tones."
+    }
+]

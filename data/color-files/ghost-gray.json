@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10263448",
+        "name": "Ghost Gray",
+        "other-names": [
+            {
+                "name": "Ghost Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4703",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bedrock",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "C",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "9",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 156,
+                    "g": 155,
+                    "b": 152
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 45,
+                    "s": 2,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 3,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

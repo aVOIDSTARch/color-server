@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4280124",
+        "name": "Black Forest",
+        "other-names": [
+            {
+                "name": "Black Forest",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0315",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Zepheniah’s Greed",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "1",
+                    "g1": "4",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 65,
+                    "g": 79,
+                    "b": 60
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 104,
+                    "s": 14,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 18,
+                    "m": 0,
+                    "y": 24,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A dark, muted green with cool green tones."
+    }
+]

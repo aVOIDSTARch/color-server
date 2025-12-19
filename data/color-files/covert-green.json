@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8418911",
+        "name": "Covert Green",
+        "other-names": [
+            {
+                "name": "Covert Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0617",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "0",
+                    "g1": "7",
+                    "g2": "6",
+                    "b1": "5",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 128,
+                    "g": 118,
+                    "b": 95
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 42,
+                    "s": 15,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 26,
+                    "k": 50
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

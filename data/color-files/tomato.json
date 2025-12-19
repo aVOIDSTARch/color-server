@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13510969",
+        "name": "Tomato",
+        "other-names": [
+            {
+                "name": "Tomato",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1660",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mars Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "2",
+                    "g2": "9",
+                    "b1": "3",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 206,
+                    "g": 41,
+                    "b": 57
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 354,
+                    "s": 67,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 80,
+                    "y": 72,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium, vibrant red with warm red-pink tones."
+    }
+]

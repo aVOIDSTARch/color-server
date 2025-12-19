@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4735291",
+        "name": "Black Olive",
+        "other-names": [
+            {
+                "name": "Black Olive",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0608",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Skavenblight Dinge",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "8",
+                    "g1": "4",
+                    "g2": "1",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 72,
+                    "g": 65,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 10,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 18,
+                    "k": 72
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

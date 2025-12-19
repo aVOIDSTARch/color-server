@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9002105",
+        "name": "Argyle Purple",
+        "other-names": [
+            {
+                "name": "Argyle Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3011",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "9",
+                    "g1": "5",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 137,
+                    "g": 92,
+                    "b": 121
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 321,
+                    "s": 20,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 33,
+                    "y": 12,
+                    "k": 46
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm purple-magenta tones."
+    }
+]

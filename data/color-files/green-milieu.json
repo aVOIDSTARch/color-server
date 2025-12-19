@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9083282",
+        "name": "Green Milieu",
+        "other-names": [
+            {
+                "name": "Green Milieu",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5806",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "A",
+                    "g1": "9",
+                    "g2": "9",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 138,
+                    "g": 153,
+                    "b": 146
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 152,
+                    "s": 7,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 5,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

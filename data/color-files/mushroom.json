@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12430499",
+        "name": "Mushroom",
+        "other-names": [
+            {
+                "name": "Mushroom",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1305",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "D",
+                    "g1": "A",
+                    "g2": "C",
+                    "b1": "A",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 189,
+                    "g": 172,
+                    "b": 163
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 21,
+                    "s": 16,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 14,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

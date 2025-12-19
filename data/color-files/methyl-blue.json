@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "29864",
+        "name": "Methyl Blue",
+        "other-names": [
+            {
+                "name": "Methyl Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4537",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "7",
+                    "g2": "4",
+                    "b1": "A",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 116,
+                    "b": 168
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 199,
+                    "s": 100,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 31,
+                    "y": 0,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

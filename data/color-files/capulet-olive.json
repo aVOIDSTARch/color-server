@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6644548",
+        "name": "Capulet Olive",
+        "other-names": [
+            {
+                "name": "Capulet Olive",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0426",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Cedar Glen",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "5",
+                    "g1": "6",
+                    "g2": "3",
+                    "b1": "4",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 101,
+                    "g": 99,
+                    "b": 68
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 56,
+                    "s": 20,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 33,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A medium-dark, muted yellow with warm orange-yellow tones."
+    }
+]

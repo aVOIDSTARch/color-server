@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16158877",
+        "name": "Geranium Pink",
+        "other-names": [
+            {
+                "name": "Geranium Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1922",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pink Geranium",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "6",
+                    "g1": "9",
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 246,
+                    "g": 144,
+                    "b": 157
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 85,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 41,
+                    "y": 36,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red-pink tones."
+    }
+]

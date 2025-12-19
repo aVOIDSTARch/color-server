@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7438756",
+        "name": "English Manor",
+        "other-names": [
+            {
+                "name": "English Manor",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3920",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "1",
+                    "g1": "8",
+                    "g2": "1",
+                    "b1": "A",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 113,
+                    "g": 129,
+                    "b": 164
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 221,
+                    "s": 22,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 31,
+                    "m": 21,
+                    "y": 0,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

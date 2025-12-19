@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15654609",
+        "name": "Dew",
+        "other-names": [
+            {
+                "name": "Dew",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1108",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Nearly Peach",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "E",
+                    "g1": "D",
+                    "g2": "E",
+                    "b1": "D",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 238,
+                    "g": 222,
+                    "b": 209
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 27,
+                    "s": 46,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 12,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A very light, moderately saturated orange with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7104616",
+        "name": "Charcoal Gray",
+        "other-names": [
+            {
+                "name": "Charcoal Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0601",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dotted Dove",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "C",
+                    "g1": "6",
+                    "g2": "8",
+                    "b1": "6",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 108,
+                    "g": 104,
+                    "b": 104
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 2,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 4,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

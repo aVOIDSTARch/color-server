@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2713695",
+        "name": "Galapagos Green",
+        "other-names": [
+            {
+                "name": "Galapagos Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5725",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "9",
+                    "g1": "6",
+                    "g2": "8",
+                    "b1": "5",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 41,
+                    "g": 104,
+                    "b": 95
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 171,
+                    "s": 43,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 61,
+                    "m": 0,
+                    "y": 9,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A dark, moderately saturated blue with cool cyan-blue tones."
+    }
+]

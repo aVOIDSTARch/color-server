@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15636006",
+        "name": "Cadmium Yellow",
+        "other-names": [
+            {
+                "name": "Cadmium Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1054",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Uplifting Yellow",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "E",
+                    "g1": "9",
+                    "g2": "6",
+                    "b1": "2",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 238,
+                    "g": 150,
+                    "b": 38
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 34,
+                    "s": 85,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 37,
+                    "y": 84,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A medium, highly saturated orange with warm orange-yellow tones."
+    }
+]

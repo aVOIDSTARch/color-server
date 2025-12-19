@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10571066",
+        "name": "Burnt Brick",
+        "other-names": [
+            {
+                "name": "Burnt Brick",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1350",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rodeo Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "1",
+                    "g1": "4",
+                    "g2": "D",
+                    "b1": "3",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 161,
+                    "g": 77,
+                    "b": 58
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 11,
+                    "s": 47,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 52,
+                    "y": 64,
+                    "k": 37
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

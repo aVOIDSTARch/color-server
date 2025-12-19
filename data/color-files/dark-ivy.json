@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5994339",
+        "name": "Dark Ivy",
+        "other-names": [
+            {
+                "name": "Dark Ivy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-5912",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Brookside",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "B",
+                    "g1": "7",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 91,
+                    "g": 119,
+                    "b": 99
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 137,
+                    "s": 13,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 24,
+                    "m": 0,
+                    "y": 17,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

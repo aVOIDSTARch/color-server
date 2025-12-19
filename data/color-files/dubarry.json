@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15884134",
+        "name": "Dubarry",
+        "other-names": [
+            {
+                "name": "Dubarry",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1647",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "5",
+                    "g2": "F",
+                    "b1": "6",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 95,
+                    "b": 102
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 357,
+                    "s": 85,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 61,
+                    "y": 58,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated red with warm red-pink tones."
+    }
+]

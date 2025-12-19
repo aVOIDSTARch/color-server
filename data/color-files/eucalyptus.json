@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11643282",
+        "name": "Eucalyptus",
+        "other-names": [
+            {
+                "name": "Eucalyptus",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0513",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Field Khaki",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "1",
+                    "g1": "A",
+                    "g2": "9",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 177,
+                    "g": 169,
+                    "b": 146
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 45,
+                    "s": 17,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 18,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted yellow with warm orange-yellow tones."
+    }
+]

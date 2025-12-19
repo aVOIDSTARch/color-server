@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14523499",
+        "name": "Gold Earth",
+        "other-names": [
+            {
+                "name": "Gold Earth",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1234",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Coyote",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "D",
+                    "g1": "9",
+                    "g2": "C",
+                    "b1": "6",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 221,
+                    "g": 156,
+                    "b": 107
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 63,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 29,
+                    "y": 52,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm red tones."
+    }
+]

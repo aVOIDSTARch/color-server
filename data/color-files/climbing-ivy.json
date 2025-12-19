@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4475200",
+        "name": "Climbing Ivy",
+        "other-names": [
+            {
+                "name": "Climbing Ivy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0307",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Nightly Ivy",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "4",
+                    "g1": "4",
+                    "g2": "9",
+                    "b1": "4",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 68,
+                    "g": 73,
+                    "b": 64
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 93,
+                    "s": 7,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 0,
+                    "y": 12,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2900051",
+        "name": "Blue Wing Teal",
+        "other-names": [
+            {
+                "name": "Blue Wing Teal",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4121",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blue Shade Wash",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "C",
+                    "g1": "4",
+                    "g2": "0",
+                    "b1": "5",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 44,
+                    "g": 64,
+                    "b": 83
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 209,
+                    "s": 31,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 47,
+                    "m": 23,
+                    "y": 0,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A dark, moderately saturated blue with cool cyan-blue tones."
+    }
+]

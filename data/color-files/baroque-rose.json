@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11754086",
+        "name": "Baroque Rose",
+        "other-names": [
+            {
+                "name": "Baroque Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1634",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "3",
+                    "g1": "5",
+                    "g2": "A",
+                    "b1": "6",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 179,
+                    "g": 90,
+                    "b": 102
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 37,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 50,
+                    "y": 43,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium, moderately saturated red with warm red-pink tones."
+    }
+]

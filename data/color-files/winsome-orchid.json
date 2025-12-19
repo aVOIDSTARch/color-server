@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13941195",
+        "name": "Winsome Orchid",
+        "other-names": [
+            {
+                "name": "Winsome Orchid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3206",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bedazzled",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "4",
+                    "g1": "B",
+                    "g2": "9",
+                    "b1": "C",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 212,
+                    "g": 185,
+                    "b": 203
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 320,
+                    "s": 24,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 4,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, muted pink with warm purple-magenta tones."
+    }
+]

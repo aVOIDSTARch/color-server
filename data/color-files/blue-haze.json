@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10861755",
+        "name": "Blue Haze",
+        "other-names": [
+            {
+                "name": "Blue Haze",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4707",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Falkland",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "5",
+                    "g1": "B",
+                    "g2": "C",
+                    "b1": "B",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 165,
+                    "g": 188,
+                    "b": 187
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 177,
+                    "s": 15,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 0,
+                    "y": 1,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool cyan-blue tones."
+    }
+]

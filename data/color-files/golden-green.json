@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12432233",
+        "name": "Golden Green",
+        "other-names": [
+            {
+                "name": "Golden Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0636",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "D",
+                    "g1": "B",
+                    "g2": "3",
+                    "b1": "6",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 189,
+                    "g": 179,
+                    "b": 105
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 53,
+                    "s": 39,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 44,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

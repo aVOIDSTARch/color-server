@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13353390",
+        "name": "Oyster Gray",
+        "other-names": [
+            {
+                "name": "Oyster Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1107",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Oyster Grey",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "B",
+                    "g1": "C",
+                    "g2": "1",
+                    "b1": "A",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 203,
+                    "g": 193,
+                    "b": 174
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 22,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 14,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11718590",
+        "name": "Gossamer Green",
+        "other-names": [
+            {
+                "name": "Gossamer Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-5907",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "F",
+                    "b1": "B",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 178,
+                    "g": 207,
+                    "b": 190
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 145,
+                    "s": 23,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 0,
+                    "y": 8,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A light, muted green with cool green tones."
+    }
+]

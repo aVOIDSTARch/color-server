@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9872327",
+        "name": "Blue Heron",
+        "other-names": [
+            {
+                "name": "Blue Heron",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3921",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "6",
+                    "g1": "A",
+                    "g2": "3",
+                    "b1": "C",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 150,
+                    "g": 163,
+                    "b": 199
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 224,
+                    "s": 30,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 18,
+                    "y": 0,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool blue-violet tones."
+    }
+]

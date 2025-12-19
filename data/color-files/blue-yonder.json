@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5928872",
+        "name": "Blue Yonder",
+        "other-names": [
+            {
+                "name": "Blue Yonder",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3937",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "7",
+                    "b1": "A",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 90,
+                    "g": 119,
+                    "b": 168
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 218,
+                    "s": 31,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 46,
+                    "m": 29,
+                    "y": 0,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool blue-violet tones."
+    }
+]

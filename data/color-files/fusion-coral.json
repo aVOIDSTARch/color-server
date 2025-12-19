@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16745846",
+        "name": "Fusion Coral",
+        "other-names": [
+            {
+                "name": "Fusion Coral",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1543",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "8",
+                    "g2": "5",
+                    "b1": "7",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 133,
+                    "b": 118
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 7,
+                    "s": 100,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 48,
+                    "y": 54,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red tones."
+    }
+]

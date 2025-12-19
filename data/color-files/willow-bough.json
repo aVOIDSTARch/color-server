@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5862733",
+        "name": "Willow Bough",
+        "other-names": [
+            {
+                "name": "Willow Bough",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0119",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "9",
+                    "g1": "7",
+                    "g2": "5",
+                    "b1": "4",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 89,
+                    "g": 117,
+                    "b": 77
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 102,
+                    "s": 21,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 24,
+                    "m": 0,
+                    "y": 34,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

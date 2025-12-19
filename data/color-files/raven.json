@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4275773",
+        "name": "Raven",
+        "other-names": [
+            {
+                "name": "Raven",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0000",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Off Broadway",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "1",
+                    "g1": "3",
+                    "g2": "E",
+                    "b1": "3",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 65,
+                    "g": 62,
+                    "b": 61
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 15,
+                    "s": 3,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 6,
+                    "k": 75
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

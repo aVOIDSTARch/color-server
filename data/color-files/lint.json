@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11975321",
+        "name": "Lint",
+        "other-names": [
+            {
+                "name": "Lint",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0216",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Plymouth Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "6",
+                    "g1": "B",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 182,
+                    "g": 186,
+                    "b": 153
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 67,
+                    "s": 19,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 0,
+                    "y": 18,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, muted green with yellow-green tones."
+    }
+]

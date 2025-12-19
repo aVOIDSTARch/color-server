@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14404541",
+        "name": "Pink Tint",
+        "other-names": [
+            {
+                "name": "Pink Tint",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1404",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "B",
+                    "g1": "C",
+                    "g2": "B",
+                    "b1": "B",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 219,
+                    "g": 203,
+                    "b": 189
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 29,
+                    "l": 80
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 14,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A light, muted orange with warm red tones."
+    }
+]

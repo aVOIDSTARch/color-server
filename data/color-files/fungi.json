@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9404791",
+        "name": "Fungi",
+        "other-names": [
+            {
+                "name": "Fungi",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1212",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "F",
+                    "g1": "8",
+                    "g2": "1",
+                    "b1": "7",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 143,
+                    "g": 129,
+                    "b": 119
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 25,
+                    "s": 10,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 17,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

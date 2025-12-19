@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16682008",
+        "name": "Carrot Curl",
+        "other-names": [
+            {
+                "name": "Carrot Curl",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1262",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Laddu Orange",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "E",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "1",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 254,
+                    "g": 140,
+                    "b": 24
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 99,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 45,
+                    "y": 91,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A medium, highly saturated orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2765380",
+        "name": "Dress Blues",
+        "other-names": [
+            {
+                "name": "Dress Blues",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4024",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "A",
+                    "g1": "3",
+                    "g2": "2",
+                    "b1": "4",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 42,
+                    "g": 50,
+                    "b": 68
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 222,
+                    "s": 24,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 38,
+                    "m": 26,
+                    "y": 0,
+                    "k": 73
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool blue-violet tones."
+    }
+]

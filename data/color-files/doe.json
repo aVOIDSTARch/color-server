@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12160616",
+        "name": "Doe",
+        "other-names": [
+            {
+                "name": "Doe",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1333",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tropical Wood",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "9",
+                    "g1": "8",
+                    "g2": "E",
+                    "b1": "6",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 185,
+                    "g": 142,
+                    "b": 104
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 37,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 44,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm red tones."
+    }
+]

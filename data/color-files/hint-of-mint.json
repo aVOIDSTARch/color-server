@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14215398",
+        "name": "Hint Of Mint",
+        "other-names": [
+            {
+                "name": "Hint Of Mint",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-4805",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Frozen Mint",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "8",
+                    "g1": "E",
+                    "g2": "8",
+                    "b1": "E",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 216,
+                    "g": 232,
+                    "b": 230
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 173,
+                    "s": 26,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 0,
+                    "y": 1,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A very light, muted blue with cool cyan-blue tones."
+    }
+]

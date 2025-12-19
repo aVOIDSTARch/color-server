@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8087136",
+        "name": "Deep Taupe",
+        "other-names": [
+            {
+                "name": "Deep Taupe",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1312",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "B",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 123,
+                    "g": 102,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 12,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 17,
+                    "y": 22,
+                    "k": 52
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

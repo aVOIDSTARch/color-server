@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5666162",
+        "name": "Sagebrush Green",
+        "other-names": [
+            {
+                "name": "Sagebrush Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5612",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "6",
+                    "g1": "7",
+                    "g2": "5",
+                    "b1": "7",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 86,
+                    "g": 117,
+                    "b": 114
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 174,
+                    "s": 15,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 26,
+                    "m": 0,
+                    "y": 3,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

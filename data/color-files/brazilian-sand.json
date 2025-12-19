@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14338743",
+        "name": "Brazilian Sand",
+        "other-names": [
+            {
+                "name": "Brazilian Sand",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1308",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sand Dollar",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "A",
+                    "g1": "C",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 218,
+                    "g": 202,
+                    "b": 183
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 33,
+                    "s": 32,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 16,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

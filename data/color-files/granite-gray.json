@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6381151",
+        "name": "Granite Gray",
+        "other-names": [
+            {
+                "name": "Granite Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5204",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rhine Castle",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "1",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "5",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 97,
+                    "g": 94,
+                    "b": 95
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 340,
+                    "s": 2,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 2,
+                    "k": 62
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

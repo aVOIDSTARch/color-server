@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14520969",
+        "name": "Lobster Bisque",
+        "other-names": [
+            {
+                "name": "Lobster Bisque",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1520",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tuscan Image",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "D",
+                    "g1": "9",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 221,
+                    "g": 146,
+                    "b": 137
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 6,
+                    "s": 55,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 34,
+                    "y": 38,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A medium-light, vibrant red with warm red tones."
+    }
+]

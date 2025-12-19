@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8747334",
+        "name": "Green Moss",
+        "other-names": [
+            {
+                "name": "Green Moss",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0636",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Swamp Mud",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "5",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "4",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 133,
+                    "g": 121,
+                    "b": 70
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 49,
+                    "s": 31,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 47,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7778230",
+        "name": "Marine Blue",
+        "other-names": [
+            {
+                "name": "Marine Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4712",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Water Glitter",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "6",
+                    "g1": "A",
+                    "g2": "F",
+                    "b1": "B",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 118,
+                    "g": 175,
+                    "b": 182
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 187,
+                    "s": 30,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 35,
+                    "m": 4,
+                    "y": 0,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool cyan-blue tones."
+    }
+]

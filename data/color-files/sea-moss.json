@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2442309",
+        "name": "Sea Moss",
+        "other-names": [
+            {
+                "name": "Sea Moss",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-5030",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Metal Deluxe",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "5",
+                    "g1": "4",
+                    "g2": "4",
+                    "b1": "4",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 37,
+                    "g": 68,
+                    "b": 69
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 182,
+                    "s": 30,
+                    "l": 21
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 46,
+                    "m": 1,
+                    "y": 0,
+                    "k": 73
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool cyan-blue tones."
+    }
+]

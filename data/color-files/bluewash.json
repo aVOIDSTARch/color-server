@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14870240",
+        "name": "Bluewash",
+        "other-names": [
+            {
+                "name": "Bluewash",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-4304",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "E",
+                    "g2": "6",
+                    "b1": "E",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 230,
+                    "b": 224
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 100,
+                    "s": 11,
+                    "l": 89
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 0,
+                    "y": 3,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A very light, muted green with cool green tones."
+    }
+]

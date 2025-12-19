@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "1724561",
+        "name": "Nautical Blue",
+        "other-names": [
+            {
+                "name": "Nautical Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4050",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "A",
+                    "g1": "5",
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 26,
+                    "g": 80,
+                    "b": 145
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 213,
+                    "s": 70,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 82,
+                    "m": 45,
+                    "y": 0,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant blue with cool blue-violet tones."
+    }
+]

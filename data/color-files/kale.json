@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5927495",
+        "name": "Kale",
+        "other-names": [
+            {
+                "name": "Kale",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0107",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pineweed",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "2",
+                    "b1": "4",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 90,
+                    "g": 114,
+                    "b": 71
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 93,
+                    "s": 23,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 0,
+                    "y": 38,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

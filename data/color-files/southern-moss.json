@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12363370",
+        "name": "Southern Moss",
+        "other-names": [
+            {
+                "name": "Southern Moss",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0730",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "C",
+                    "g1": "A",
+                    "g2": "6",
+                    "b1": "6",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 188,
+                    "g": 166,
+                    "b": 106
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 44,
+                    "s": 38,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 44,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

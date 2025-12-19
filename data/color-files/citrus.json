@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16362543",
+        "name": "Citrus",
+        "other-names": [
+            {
+                "name": "Citrus",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0955",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Late Afternoon",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "9",
+                    "g1": "A",
+                    "g2": "C",
+                    "b1": "2",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 249,
+                    "g": 172,
+                    "b": 47
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 37,
+                    "s": 94,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 81,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6508386",
+        "name": "Vintage Violet",
+        "other-names": [
+            {
+                "name": "Vintage Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3410",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "3",
+                    "g1": "4",
+                    "g2": "F",
+                    "b1": "6",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 99,
+                    "g": 79,
+                    "b": 98
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 303,
+                    "s": 11,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 1,
+                    "k": 61
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm purple-magenta tones."
+    }
+]

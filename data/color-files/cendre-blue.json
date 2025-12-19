@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4095909",
+        "name": "Cendre Blue",
+        "other-names": [
+            {
+                "name": "Cendre Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4131",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "E",
+                    "g1": "7",
+                    "g2": "F",
+                    "b1": "A",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 62,
+                    "g": 127,
+                    "b": 165
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 202,
+                    "s": 45,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 62,
+                    "m": 23,
+                    "y": 0,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool cyan-blue tones."
+    }
+]

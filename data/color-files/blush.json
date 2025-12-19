@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13735578",
+        "name": "Blush",
+        "other-names": [
+            {
+                "name": "Blush",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1614",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bridal Rose",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "6",
+                    "b1": "9",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 209,
+                    "g": 150,
+                    "b": 154
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 356,
+                    "s": 39,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 28,
+                    "y": 26,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated red with warm red-pink tones."
+    }
+]

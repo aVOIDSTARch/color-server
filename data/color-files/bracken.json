@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5193531",
+        "name": "Bracken",
+        "other-names": [
+            {
+                "name": "Bracken",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1015",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dobunezumi Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "F",
+                    "g1": "3",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 79,
+                    "g": 63,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 12,
+                    "s": 14,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 25,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

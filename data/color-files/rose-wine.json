@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10770797",
+        "name": "Rose Wine",
+        "other-names": [
+            {
+                "name": "Rose Wine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1623",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Splatter",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "4",
+                    "g1": "5",
+                    "g2": "9",
+                    "b1": "6",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 164,
+                    "g": 89,
+                    "b": 109
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 344,
+                    "s": 30,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 46,
+                    "y": 34,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, muted pink with warm red-pink tones."
+    }
+]

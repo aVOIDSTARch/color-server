@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8729180",
+        "name": "Boysenberry",
+        "other-names": [
+            {
+                "name": "Boysenberry",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2431",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "5",
+                    "g1": "3",
+                    "g2": "2",
+                    "b1": "5",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 133,
+                    "g": 50,
+                    "b": 92
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 330,
+                    "s": 45,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 62,
+                    "y": 31,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm red-pink tones."
+    }
+]

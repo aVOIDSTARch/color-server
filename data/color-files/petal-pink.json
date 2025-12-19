@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15917792",
+        "name": "Petal Pink",
+        "other-names": [
+            {
+                "name": "Petal Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-2309",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "New Youth",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "E",
+                    "g2": "2",
+                    "b1": "E",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 226,
+                    "b": 224
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 7,
+                    "s": 41,
+                    "l": 91
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 7,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, moderately saturated red with warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4407863",
+        "name": "Forest Night",
+        "other-names": [
+            {
+                "name": "Forest Night",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0414",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "3",
+                    "g1": "4",
+                    "g2": "2",
+                    "b1": "3",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 67,
+                    "g": 66,
+                    "b": 55
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 55,
+                    "s": 10,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 18,
+                    "k": 74
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

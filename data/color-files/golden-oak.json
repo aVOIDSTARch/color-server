@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12481837",
+        "name": "Golden Oak",
+        "other-names": [
+            {
+                "name": "Golden Oak",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1046",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sudan Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "E",
+                    "g1": "7",
+                    "g2": "5",
+                    "b1": "2",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 190,
+                    "g": 117,
+                    "b": 45
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 62,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 76,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm orange-yellow tones."
+    }
+]

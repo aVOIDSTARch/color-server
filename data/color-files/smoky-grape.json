@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12094124",
+        "name": "Smoky Grape",
+        "other-names": [
+            {
+                "name": "Smoky Grape",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3110",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Purple Lepidolite",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "8",
+                    "g1": "8",
+                    "g2": "A",
+                    "b1": "A",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 184,
+                    "g": 138,
+                    "b": 172
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 316,
+                    "s": 24,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 25,
+                    "y": 7,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium-light, muted pink with warm purple-magenta tones."
+    }
+]

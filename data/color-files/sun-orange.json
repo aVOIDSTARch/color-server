@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16023607",
+        "name": "Sun Orange",
+        "other-names": [
+            {
+                "name": "Sun Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1257",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Beniukon Bronze",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "0",
+                    "b1": "3",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 128,
+                    "b": 55
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 90,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 48,
+                    "y": 77,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

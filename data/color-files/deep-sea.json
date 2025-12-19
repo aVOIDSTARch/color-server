@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5209204",
+        "name": "Deep Sea",
+        "other-names": [
+            {
+                "name": "Deep Sea",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-5513",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dull Turquoise",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "F",
+                    "g1": "7",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 79,
+                    "g": 124,
+                    "b": 116
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 169,
+                    "s": 22,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 36,
+                    "m": 0,
+                    "y": 6,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

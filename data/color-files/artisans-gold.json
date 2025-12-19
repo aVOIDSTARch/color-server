@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15903558",
+        "name": "Artisans Gold",
+        "other-names": [
+            {
+                "name": "Artisans Gold",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1049",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "A",
+                    "g2": "B",
+                    "b1": "4",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 171,
+                    "b": 70
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 87,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 29,
+                    "y": 71,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm orange-yellow tones."
+    }
+]

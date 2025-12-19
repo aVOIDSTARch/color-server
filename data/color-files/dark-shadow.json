@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4868941",
+        "name": "Dark Shadow",
+        "other-names": [
+            {
+                "name": "Dark Shadow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3906",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "A",
+                    "g1": "4",
+                    "g2": "B",
+                    "b1": "4",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 74,
+                    "g": 75,
+                    "b": 77
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 220,
+                    "s": 2,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 3,
+                    "y": 0,
+                    "k": 70
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

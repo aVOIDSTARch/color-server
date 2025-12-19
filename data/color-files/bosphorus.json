@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "30040",
+        "name": "Bosphorus",
+        "other-names": [
+            {
+                "name": "Bosphorus",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5633",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Green Velvet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "7",
+                    "g2": "5",
+                    "b1": "5",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 117,
+                    "b": 88
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 165,
+                    "s": 100,
+                    "l": 23
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 0,
+                    "y": 25,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

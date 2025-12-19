@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16435395",
+        "name": "Gossamer Pink",
+        "other-names": [
+            {
+                "name": "Gossamer Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1513",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "A",
+                    "g1": "C",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 250,
+                    "g": 200,
+                    "b": 195
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 5,
+                    "s": 85,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 22,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A very light, highly saturated red with warm red tones."
+    }
+]

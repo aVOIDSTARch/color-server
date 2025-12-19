@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8482142",
+        "name": "Caribou",
+        "other-names": [
+            {
+                "name": "Caribou",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1017",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "1",
+                    "g1": "6",
+                    "g2": "D",
+                    "b1": "5",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 129,
+                    "g": 109,
+                    "b": 94
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 16,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 27,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

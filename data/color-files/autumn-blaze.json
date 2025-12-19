@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14258734",
+        "name": "Autumn Blaze",
+        "other-names": [
+            {
+                "name": "Autumn Blaze",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1045",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "9",
+                    "g1": "9",
+                    "g2": "2",
+                    "b1": "2",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 217,
+                    "g": 146,
+                    "b": 46
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 69,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 33,
+                    "y": 79,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm orange-yellow tones."
+    }
+]

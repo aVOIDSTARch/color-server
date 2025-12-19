@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11055278",
+        "name": "Puritan Gray",
+        "other-names": [
+            {
+                "name": "Puritan Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4702",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Puritan Grey",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "8",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "A",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 168,
+                    "g": 176,
+                    "b": 174
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 165,
+                    "s": 5,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 1,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

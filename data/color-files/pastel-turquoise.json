@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10077636",
+        "name": "Pastel Turquoise",
+        "other-names": [
+            {
+                "name": "Pastel Turquoise",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-5309",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "9",
+                    "g1": "C",
+                    "g2": "5",
+                    "b1": "C",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 153,
+                    "g": 197,
+                    "b": 196
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 179,
+                    "s": 28,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 22,
+                    "m": 0,
+                    "y": 1,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15512243",
+        "name": "Powder Pink",
+        "other-names": [
+            {
+                "name": "Powder Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1511",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Deeply Embarrassed",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "C",
+                    "g1": "B",
+                    "g2": "2",
+                    "b1": "B",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 236,
+                    "g": 178,
+                    "b": 179
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 359,
+                    "s": 60,
+                    "l": 81
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 25,
+                    "y": 24,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, vibrant red with warm red-pink tones."
+    }
+]

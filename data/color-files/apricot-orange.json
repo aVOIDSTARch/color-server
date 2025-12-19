@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13134652",
+        "name": "Apricot Orange",
+        "other-names": [
+            {
+                "name": "Apricot Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1353",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "8",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "3",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 200,
+                    "g": 107,
+                    "b": 60
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 20,
+                    "s": 56,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 46,
+                    "y": 70,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm red tones."
+    }
+]

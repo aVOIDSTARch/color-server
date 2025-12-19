@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15986407",
+        "name": "Sugar Swizzle",
+        "other-names": [
+            {
+                "name": "Sugar Swizzle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0607",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Valhallan Blizzard",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "3",
+                    "g1": "E",
+                    "g2": "E",
+                    "b1": "E",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 243,
+                    "g": 238,
+                    "b": 231
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 33,
+                    "l": 93
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 5,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

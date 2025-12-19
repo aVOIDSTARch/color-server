@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8682073",
+        "name": "Dried Herb",
+        "other-names": [
+            {
+                "name": "Dried Herb",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0627",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "A",
+                    "b1": "5",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 132,
+                    "g": 122,
+                    "b": 89
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 46,
+                    "s": 19,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 33,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, muted yellow with warm orange-yellow tones."
+    }
+]

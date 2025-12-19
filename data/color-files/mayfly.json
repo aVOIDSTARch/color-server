@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6645311",
+        "name": "Mayfly",
+        "other-names": [
+            {
+                "name": "Mayfly",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0220",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "5",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 101,
+                    "g": 102,
+                    "b": 63
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 62,
+                    "s": 24,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 38,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A medium-dark, muted yellow with yellow-green tones."
+    }
+]

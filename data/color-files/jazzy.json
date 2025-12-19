@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11934800",
+        "name": "Jazzy",
+        "other-names": [
+            {
+                "name": "Jazzy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1950",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Minted Blueberry Lemonade",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "6",
+                    "g1": "1",
+                    "g2": "C",
+                    "b1": "5",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 182,
+                    "g": 28,
+                    "b": 80
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 340,
+                    "s": 73,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 85,
+                    "y": 56,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated pink with warm red-pink tones."
+    }
+]

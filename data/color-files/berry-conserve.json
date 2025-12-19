@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7754345",
+        "name": "Berry Conserve",
+        "other-names": [
+            {
+                "name": "Berry Conserve",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3013",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "6",
+                    "g1": "5",
+                    "g2": "2",
+                    "b1": "6",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 118,
+                    "g": 82,
+                    "b": 105
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 322,
+                    "s": 18,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 11,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm purple-magenta tones."
+    }
+]

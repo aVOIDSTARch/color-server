@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15919322",
+        "name": "Pristine",
+        "other-names": [
+            {
+                "name": "Pristine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0606",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "E",
+                    "g2": "8",
+                    "b1": "D",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 232,
+                    "b": 218
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 48,
+                    "l": 90
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 10,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11445139",
+        "name": "Plaza Taupe",
+        "other-names": [
+            {
+                "name": "Plaza Taupe",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1105",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "E",
+                    "g1": "A",
+                    "g2": "3",
+                    "b1": "9",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 174,
+                    "g": 163,
+                    "b": 147
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 14,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 16,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm orange-yellow tones."
+    }
+]

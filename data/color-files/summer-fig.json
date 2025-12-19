@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12471099",
+        "name": "Summer Fig",
+        "other-names": [
+            {
+                "name": "Summer Fig",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1450",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Chilli Sauce",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "E",
+                    "g1": "4",
+                    "g2": "B",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 190,
+                    "g": 75,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 7,
+                    "s": 53,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 61,
+                    "y": 69,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium, vibrant red with warm red tones."
+    }
+]

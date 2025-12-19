@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2763070",
+        "name": "Evening Blue",
+        "other-names": [
+            {
+                "name": "Evening Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3815",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "A",
+                    "g1": "2",
+                    "g2": "9",
+                    "b1": "3",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 42,
+                    "g": 41,
+                    "b": 62
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 243,
+                    "s": 20,
+                    "l": 20
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 32,
+                    "m": 34,
+                    "y": 0,
+                    "k": 76
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool blue-violet tones."
+    }
+]

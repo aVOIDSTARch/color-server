@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10454642",
+        "name": "Amphora",
+        "other-names": [
+            {
+                "name": "Amphora",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1319",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "F",
+                    "g1": "8",
+                    "g2": "6",
+                    "b1": "7",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 159,
+                    "g": 134,
+                    "b": 114
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 27,
+                    "s": 19,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 28,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm red tones."
+    }
+]

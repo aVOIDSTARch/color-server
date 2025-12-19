@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12571059",
+        "name": "Seacrest",
+        "other-names": [
+            {
+                "name": "Seacrest",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0111",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Apple Ice",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "F",
+                    "g1": "D",
+                    "g2": "1",
+                    "b1": "B",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 191,
+                    "g": 209,
+                    "b": 179
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 96,
+                    "s": 25,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 0,
+                    "y": 14,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A light, muted green with cool green tones."
+    }
+]

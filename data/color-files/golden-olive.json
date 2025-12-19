@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11507777",
+        "name": "Golden Olive",
+        "other-names": [
+            {
+                "name": "Golden Olive",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0639",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mana",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "8",
+                    "b1": "4",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 175,
+                    "g": 152,
+                    "b": 65
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 47,
+                    "s": 46,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 63,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

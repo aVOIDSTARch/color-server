@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3424590",
+        "name": "Midnight Navy",
+        "other-names": [
+            {
+                "name": "Midnight Navy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4110",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Deepsea Core",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "4",
+                    "g1": "4",
+                    "g2": "1",
+                    "b1": "4",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 52,
+                    "g": 65,
+                    "b": 78
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 210,
+                    "s": 20,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 33,
+                    "m": 17,
+                    "y": 0,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool blue-violet tones."
+    }
+]

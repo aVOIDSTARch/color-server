@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8468025",
+        "name": "Rosewood",
+        "other-names": [
+            {
+                "name": "Rosewood",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1532",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Red Pear",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "1",
+                    "g1": "3",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 129,
+                    "g": 54,
+                    "b": 57
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 358,
+                    "s": 41,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 58,
+                    "y": 56,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red-pink tones."
+    }
+]

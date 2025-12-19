@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "27518",
+        "name": "Tahitian Tide",
+        "other-names": [
+            {
+                "name": "Tahitian Tide",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4630",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Shinbashi Azure",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 107,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 189,
+                    "s": 100,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 15,
+                    "y": 0,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

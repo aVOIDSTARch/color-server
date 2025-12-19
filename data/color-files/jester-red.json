@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10358832",
+        "name": "Jester Red",
+        "other-names": [
+            {
+                "name": "Jester Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1862",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Petal of a Dying Rose",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "E",
+                    "g1": "1",
+                    "g2": "0",
+                    "b1": "3",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 158,
+                    "g": 16,
+                    "b": 48
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 346,
+                    "s": 82,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 90,
+                    "y": 70,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated red with warm red-pink tones."
+    }
+]

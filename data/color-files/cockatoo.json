@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5818550",
+        "name": "Cockatoo",
+        "other-names": [
+            {
+                "name": "Cockatoo",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-5420",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "8",
+                    "g1": "C",
+                    "g2": "8",
+                    "b1": "B",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 88,
+                    "g": 200,
+                    "b": 182
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 170,
+                    "s": 50,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 56,
+                    "m": 0,
+                    "y": 9,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

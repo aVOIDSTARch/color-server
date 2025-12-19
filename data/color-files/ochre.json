@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14069606",
+        "name": "Ochre",
+        "other-names": [
+            {
+                "name": "Ochre",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1036",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Butterscotch Bliss",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "6",
+                    "g1": "A",
+                    "g2": "F",
+                    "b1": "6",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 214,
+                    "g": 175,
+                    "b": 102
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 58,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 52,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm orange-yellow tones."
+    }
+]

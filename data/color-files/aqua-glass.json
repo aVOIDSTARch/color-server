@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13822176",
+        "name": "Aqua Glass",
+        "other-names": [
+            {
+                "name": "Aqua Glass",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-5407",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "E",
+                    "g2": "8",
+                    "b1": "E",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 232,
+                    "b": 224
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 158,
+                    "s": 32,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 0,
+                    "y": 3,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A very light, moderately saturated green with cool cyan-blue tones."
+    }
+]

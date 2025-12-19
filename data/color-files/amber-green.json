@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10125370",
+        "name": "Amber Green",
+        "other-names": [
+            {
+                "name": "Amber Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0840",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Wild Olive",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "A",
+                    "g1": "8",
+                    "g2": "0",
+                    "b1": "3",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 154,
+                    "g": 128,
+                    "b": 58
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 44,
+                    "s": 45,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 17,
+                    "y": 62,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm orange-yellow tones."
+    }
+]

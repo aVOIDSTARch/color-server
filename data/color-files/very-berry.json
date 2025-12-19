@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12006005",
+        "name": "Very Berry",
+        "other-names": [
+            {
+                "name": "Very Berry",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-2336",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pink Shadow",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "7",
+                    "g1": "3",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 183,
+                    "g": 50,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 330,
+                    "s": 57,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 73,
+                    "y": 36,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium, vibrant pink with warm red-pink tones."
+    }
+]

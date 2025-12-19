@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11560021",
+        "name": "Aragon",
+        "other-names": [
+            {
+                "name": "Aragon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1532",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "0",
+                    "g1": "6",
+                    "g2": "4",
+                    "b1": "5",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 176,
+                    "g": 100,
+                    "b": 85
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 10,
+                    "s": 37,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 43,
+                    "y": 52,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm red tones."
+    }
+]

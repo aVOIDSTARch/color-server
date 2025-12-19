@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7242174",
+        "name": "Persian Jewel",
+        "other-names": [
+            {
+                "name": "Persian Jewel",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3934",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Orbital",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "E",
+                    "g1": "8",
+                    "g2": "1",
+                    "b1": "B",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 110,
+                    "g": 129,
+                    "b": 190
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 226,
+                    "s": 38,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 42,
+                    "m": 32,
+                    "y": 0,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

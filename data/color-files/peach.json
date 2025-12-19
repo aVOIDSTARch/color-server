@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15903111",
+        "name": "Peach",
+        "other-names": [
+            {
+                "name": "Peach",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1227",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Salmon Slice",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "A",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 169,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 19,
+                    "s": 80,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 30,
+                    "y": 44,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

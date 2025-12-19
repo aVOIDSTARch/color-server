@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4602187",
+        "name": "Mysterioso",
+        "other-names": [
+            {
+                "name": "Mysterioso",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3617",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "6",
+                    "g1": "3",
+                    "g2": "9",
+                    "b1": "4",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 70,
+                    "g": 57,
+                    "b": 75
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 283,
+                    "s": 14,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 24,
+                    "y": 0,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, muted purple with warm purple-magenta tones."
+    }
+]

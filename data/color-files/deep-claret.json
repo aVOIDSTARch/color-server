@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9909315",
+        "name": "Deep Claret",
+        "other-names": [
+            {
+                "name": "Deep Claret",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1840",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Boerewors",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "7",
+                    "g1": "3",
+                    "g2": "4",
+                    "b1": "4",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 151,
+                    "g": 52,
+                    "b": 67
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 49,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 66,
+                    "y": 56,
+                    "k": 41
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red-pink tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16415285",
+        "name": "Orange Peel",
+        "other-names": [
+            {
+                "name": "Orange Peel",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1359",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Temptatious Tangerine",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "A",
+                    "b1": "3",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 250,
+                    "g": 122,
+                    "b": 53
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 21,
+                    "s": 95,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 51,
+                    "y": 79,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

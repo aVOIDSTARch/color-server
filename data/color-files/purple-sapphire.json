@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7292549",
+        "name": "Purple Sapphire",
+        "other-names": [
+            {
+                "name": "Purple Sapphire",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3540",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Plum Jam",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "F",
+                    "g1": "4",
+                    "g2": "6",
+                    "b1": "8",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 111,
+                    "g": 70,
+                    "b": 133
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 279,
+                    "s": 31,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 47,
+                    "y": 0,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated purple with warm purple-magenta tones."
+    }
+]

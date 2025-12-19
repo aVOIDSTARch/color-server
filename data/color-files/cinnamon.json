@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7029049",
+        "name": "Cinnamon",
+        "other-names": [
+            {
+                "name": "Cinnamon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1436",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sekkasshoku Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "B",
+                    "g1": "4",
+                    "g2": "1",
+                    "b1": "3",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 107,
+                    "g": 65,
+                    "b": 57
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 10,
+                    "s": 30,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 39,
+                    "y": 47,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

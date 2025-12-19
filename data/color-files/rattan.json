@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13742706",
+        "name": "Rattan",
+        "other-names": [
+            {
+                "name": "Rattan",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1031",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Indonesian Rattan",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "1",
+                    "g1": "B",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 209,
+                    "g": 178,
+                    "b": 114
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 40,
+                    "s": 51,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 45,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12153167",
+        "name": "Raw Sienna",
+        "other-names": [
+            {
+                "name": "Raw Sienna",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1436",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Iced Tea",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "9",
+                    "g1": "7",
+                    "g2": "1",
+                    "b1": "4",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 185,
+                    "g": 113,
+                    "b": 79
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 19,
+                    "s": 43,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 39,
+                    "y": 57,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm red tones."
+    }
+]

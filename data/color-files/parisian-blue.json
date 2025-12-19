@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5209252",
+        "name": "Parisian Blue",
+        "other-names": [
+            {
+                "name": "Parisian Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4036",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "F",
+                    "g1": "7",
+                    "g2": "C",
+                    "b1": "A",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 79,
+                    "g": 124,
+                    "b": 164
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 208,
+                    "s": 35,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 52,
+                    "m": 24,
+                    "y": 0,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

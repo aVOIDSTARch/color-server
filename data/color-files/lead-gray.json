@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9075043",
+        "name": "Lead Gray",
+        "other-names": [
+            {
+                "name": "Lead Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1118",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Lead Grey",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "6",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 138,
+                    "g": 121,
+                    "b": 99
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 34,
+                    "s": 16,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 28,
+                    "k": 46
+                }
+            }
+        },
+        "description": "A medium, muted brown with earthy warm orange-yellow tones."
+    }
+]

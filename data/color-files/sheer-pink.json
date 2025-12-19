@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16180699",
+        "name": "Sheer Pink",
+        "other-names": [
+            {
+                "name": "Sheer Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1106",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "6",
+                    "g1": "E",
+                    "g2": "5",
+                    "b1": "D",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 246,
+                    "g": 229,
+                    "b": 219
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 60,
+                    "l": 91
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 11,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, vibrant orange with warm red tones."
+    }
+]

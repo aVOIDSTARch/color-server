@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7685940",
+        "name": "Tortoise Shell",
+        "other-names": [
+            {
+                "name": "Tortoise Shell",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1241",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Santana Soul",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "5",
+                    "g1": "4",
+                    "g2": "7",
+                    "b1": "3",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 117,
+                    "g": 71,
+                    "b": 52
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 18,
+                    "s": 38,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 39,
+                    "y": 56,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

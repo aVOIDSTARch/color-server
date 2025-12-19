@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6051416",
+        "name": "Eiffel Tower",
+        "other-names": [
+            {
+                "name": "Eiffel Tower",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5210",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Foggy London",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "C",
+                    "g1": "5",
+                    "g2": "6",
+                    "b1": "5",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 92,
+                    "g": 86,
+                    "b": 88
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 340,
+                    "s": 3,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 4,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

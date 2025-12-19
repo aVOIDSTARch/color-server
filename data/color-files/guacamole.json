@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7961402",
+        "name": "Guacamole",
+        "other-names": [
+            {
+                "name": "Guacamole",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0530",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Evening Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "9",
+                    "g1": "7",
+                    "g2": "B",
+                    "b1": "3",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 121,
+                    "g": 123,
+                    "b": 58
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 62,
+                    "s": 36,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 0,
+                    "y": 53,
+                    "k": 52
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated yellow with yellow-green tones."
+    }
+]

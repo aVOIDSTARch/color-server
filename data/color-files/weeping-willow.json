@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11776379",
+        "name": "Weeping Willow",
+        "other-names": [
+            {
+                "name": "Weeping Willow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0525",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "3",
+                    "g1": "B",
+                    "g2": "1",
+                    "b1": "7",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 179,
+                    "g": 177,
+                    "b": 123
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 58,
+                    "s": 27,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 31,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium-light, muted yellow with warm orange-yellow tones."
+    }
+]

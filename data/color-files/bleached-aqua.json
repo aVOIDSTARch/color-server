@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12379103",
+        "name": "Bleached Aqua",
+        "other-names": [
+            {
+                "name": "Bleached Aqua",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-5410",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "C",
+                    "g1": "E",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 188,
+                    "g": 227,
+                    "b": 223
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 174,
+                    "s": 41,
+                    "l": 81
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 0,
+                    "y": 2,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

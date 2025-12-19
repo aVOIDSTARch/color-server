@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15061199",
+        "name": "Mauve Chalk",
+        "other-names": [
+            {
+                "name": "Mauve Chalk",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-2902",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "5",
+                    "g1": "D",
+                    "g2": "0",
+                    "b1": "C",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 229,
+                    "g": 208,
+                    "b": 207
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 3,
+                    "s": 30,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 10,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A light, muted red with warm red tones."
+    }
+]

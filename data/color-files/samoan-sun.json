@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16500831",
+        "name": "Samoan Sun",
+        "other-names": [
+            {
+                "name": "Samoan Sun",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0851",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Nacho",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "B",
+                    "g1": "C",
+                    "g2": "8",
+                    "b1": "5",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 251,
+                    "g": 200,
+                    "b": 95
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 40,
+                    "s": 95,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 62,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5918351",
+        "name": "Purple Corallite",
+        "other-names": [
+            {
+                "name": "Purple Corallite",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3839",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "A",
+                    "g1": "4",
+                    "g2": "E",
+                    "b1": "8",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 90,
+                    "g": 78,
+                    "b": 143
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 251,
+                    "s": 29,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 37,
+                    "m": 45,
+                    "y": 0,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool blue-violet tones."
+    }
+]

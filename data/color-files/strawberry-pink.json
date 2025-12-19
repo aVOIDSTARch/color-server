@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16088974",
+        "name": "Strawberry Pink",
+        "other-names": [
+            {
+                "name": "Strawberry Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1731",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Flower Blossom Pink",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "5",
+                    "g1": "7",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 245,
+                    "g": 127,
+                    "b": 142
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 86,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 48,
+                    "y": 42,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red-pink tones."
+    }
+]

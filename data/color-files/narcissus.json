@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12817481",
+        "name": "Narcissus",
+        "other-names": [
+            {
+                "name": "Narcissus",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0950",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "3",
+                    "g1": "9",
+                    "g2": "4",
+                    "b1": "4",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 195,
+                    "g": 148,
+                    "b": 73
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 37,
+                    "s": 50,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 63,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm orange-yellow tones."
+    }
+]

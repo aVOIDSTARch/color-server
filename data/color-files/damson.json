@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8735845",
+        "name": "Damson",
+        "other-names": [
+            {
+                "name": "Damson",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1716",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "5",
+                    "g1": "4",
+                    "g2": "C",
+                    "b1": "6",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 133,
+                    "g": 76,
+                    "b": 101
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 334,
+                    "s": 27,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 43,
+                    "y": 24,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm red-pink tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11113594",
+        "name": "Cornstalk",
+        "other-names": [
+            {
+                "name": "Cornstalk",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1315",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Serengeti",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "9",
+                    "g1": "9",
+                    "g2": "4",
+                    "b1": "7",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 169,
+                    "g": 148,
+                    "b": 122
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 33,
+                    "s": 21,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 28,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm orange-yellow tones."
+    }
+]

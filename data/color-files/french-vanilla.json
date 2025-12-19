@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15720871",
+        "name": "French Vanilla",
+        "other-names": [
+            {
+                "name": "French Vanilla",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0722",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "F",
+                    "g1": "E",
+                    "g2": "1",
+                    "b1": "A",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 239,
+                    "g": 225,
+                    "b": 167
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 48,
+                    "s": 69,
+                    "l": 80
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 30,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A light, vibrant yellow with warm orange-yellow tones."
+    }
+]

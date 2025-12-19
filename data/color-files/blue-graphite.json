@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3289399",
+        "name": "Blue Graphite",
+        "other-names": [
+            {
+                "name": "Blue Graphite",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4015",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Granite Black",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "2",
+                    "g1": "3",
+                    "g2": "1",
+                    "b1": "3",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 50,
+                    "g": 49,
+                    "b": 55
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 250,
+                    "s": 6,
+                    "l": 20
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 11,
+                    "y": 0,
+                    "k": 78
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

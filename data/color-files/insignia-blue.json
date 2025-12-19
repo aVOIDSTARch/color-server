@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3096149",
+        "name": "Insignia Blue",
+        "other-names": [
+            {
+                "name": "Insignia Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4028",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Winter Sea",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "F",
+                    "g1": "3",
+                    "g2": "E",
+                    "b1": "5",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 47,
+                    "g": 62,
+                    "b": 85
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 216,
+                    "s": 29,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 45,
+                    "m": 27,
+                    "y": 0,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool blue-violet tones."
+    }
+]

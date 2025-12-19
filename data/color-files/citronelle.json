@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12103459",
+        "name": "Citronelle",
+        "other-names": [
+            {
+                "name": "Citronelle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0548",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "8",
+                    "g1": "A",
+                    "g2": "F",
+                    "b1": "2",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 184,
+                    "g": 175,
+                    "b": 35
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 56,
+                    "s": 68,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 81,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant yellow with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6181703",
+        "name": "Canteen",
+        "other-names": [
+            {
+                "name": "Canteen",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0820",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "3",
+                    "b1": "4",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 94,
+                    "g": 83,
+                    "b": 71
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 31,
+                    "s": 14,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 24,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

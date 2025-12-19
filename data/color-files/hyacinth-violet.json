@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9258631",
+        "name": "Hyacinth Violet",
+        "other-names": [
+            {
+                "name": "Hyacinth Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3331",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Plum Pie",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "D",
+                    "g1": "4",
+                    "g2": "6",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 141,
+                    "g": 70,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 305,
+                    "s": 34,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 50,
+                    "y": 4,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

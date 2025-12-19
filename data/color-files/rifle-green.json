@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4278322",
+        "name": "Rifle Green",
+        "other-names": [
+            {
+                "name": "Rifle Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0419",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "1",
+                    "g1": "4",
+                    "g2": "8",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 65,
+                    "g": 72,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 79,
+                    "s": 18,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 31,
+                    "k": 72
+                }
+            }
+        },
+        "description": "A dark, muted green with yellow-green tones."
+    }
+]

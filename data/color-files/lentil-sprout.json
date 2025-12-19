@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11248717",
+        "name": "Lentil Sprout",
+        "other-names": [
+            {
+                "name": "Lentil Sprout",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0550",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Desert Locust",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "B",
+                    "g1": "A",
+                    "g2": "4",
+                    "b1": "4",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 171,
+                    "g": 164,
+                    "b": 77
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 56,
+                    "s": 38,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 55,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A medium, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

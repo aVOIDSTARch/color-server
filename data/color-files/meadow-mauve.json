@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11097740",
+        "name": "Meadow Mauve",
+        "other-names": [
+            {
+                "name": "Meadow Mauve",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3230",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Cyclamen Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "9",
+                    "g1": "5",
+                    "g2": "6",
+                    "b1": "8",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 169,
+                    "g": 86,
+                    "b": 140
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 321,
+                    "s": 33,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 49,
+                    "y": 17,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium, moderately saturated pink with warm purple-magenta tones."
+    }
+]

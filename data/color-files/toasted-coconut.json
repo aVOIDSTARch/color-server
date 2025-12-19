@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9136719",
+        "name": "Toasted Coconut",
+        "other-names": [
+            {
+                "name": "Toasted Coconut",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1029",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Centaur Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "B",
+                    "g1": "6",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 139,
+                    "g": 106,
+                    "b": 79
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 27,
+                    "s": 28,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 43,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

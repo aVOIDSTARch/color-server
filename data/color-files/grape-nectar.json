@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9264244",
+        "name": "Grape Nectar",
+        "other-names": [
+            {
+                "name": "Grape Nectar",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1710",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "D",
+                    "g1": "5",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 141,
+                    "g": 92,
+                    "b": 116
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 331,
+                    "s": 21,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 35,
+                    "y": 18,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, muted pink with warm red-pink tones."
+    }
+]

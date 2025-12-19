@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13778039",
+        "name": "Magenta",
+        "other-names": [
+            {
+                "name": "Magenta",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-2036",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Beetroot Purple",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "3",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 60,
+                    "b": 119
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 336,
+                    "s": 62,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 71,
+                    "y": 43,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium, vibrant pink with warm red-pink tones."
+    }
+]

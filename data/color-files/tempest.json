@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7963547",
+        "name": "Tempest",
+        "other-names": [
+            {
+                "name": "Tempest",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3915",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "9",
+                    "g1": "8",
+                    "g2": "3",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 121,
+                    "g": 131,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 222,
+                    "s": 15,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 22,
+                    "m": 15,
+                    "y": 0,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

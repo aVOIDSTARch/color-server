@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3300177",
+        "name": "Posy Green",
+        "other-names": [
+            {
+                "name": "Posy Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5616",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Holly Leaf",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "2",
+                    "g1": "5",
+                    "g2": "B",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 50,
+                    "g": 91,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 165,
+                    "s": 29,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 45,
+                    "m": 0,
+                    "y": 11,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool cyan-blue tones."
+    }
+]

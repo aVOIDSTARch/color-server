@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11889228",
+        "name": "Autumn Leaf",
+        "other-names": [
+            {
+                "name": "Autumn Leaf",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1347",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "6",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 106,
+                    "b": 76
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 17,
+                    "s": 42,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 41,
+                    "y": 58,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm red tones."
+    }
+]

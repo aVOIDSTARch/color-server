@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6655591",
+        "name": "Stone Green",
+        "other-names": [
+            {
+                "name": "Stone Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0123",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "5",
+                    "g1": "8",
+                    "g2": "E",
+                    "b1": "6",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 101,
+                    "g": 142,
+                    "b": 103
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 123,
+                    "s": 17,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 29,
+                    "m": 0,
+                    "y": 27,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium, muted green with cool green tones."
+    }
+]

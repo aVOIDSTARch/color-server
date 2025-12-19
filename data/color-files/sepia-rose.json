@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13941430",
+        "name": "Sepia Rose",
+        "other-names": [
+            {
+                "name": "Sepia Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1803",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "4",
+                    "g1": "B",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 212,
+                    "g": 186,
+                    "b": 182
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 8,
+                    "s": 26,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 14,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, muted red with warm red tones."
+    }
+]

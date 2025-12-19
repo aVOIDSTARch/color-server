@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7980883",
+        "name": "Green Flash",
+        "other-names": [
+            {
+                "name": "Green Flash",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0146",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "9",
+                    "g1": "C",
+                    "g2": "7",
+                    "b1": "5",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 121,
+                    "g": 199,
+                    "b": 83
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 100,
+                    "s": 51,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 39,
+                    "m": 0,
+                    "y": 58,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, vibrant green with cool green tones."
+    }
+]

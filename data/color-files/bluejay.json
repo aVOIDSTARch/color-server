@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "1408672",
+        "name": "Bluejay",
+        "other-names": [
+            {
+                "name": "Bluejay",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4427",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Kingfisher Sheen",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "5",
+                    "g1": "7",
+                    "g2": "E",
+                    "b1": "A",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 21,
+                    "g": 126,
+                    "b": 160
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 195,
+                    "s": 77,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 87,
+                    "m": 21,
+                    "y": 0,
+                    "k": 37
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

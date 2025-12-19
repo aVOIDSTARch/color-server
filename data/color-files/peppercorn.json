@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7099990",
+        "name": "Peppercorn",
+        "other-names": [
+            {
+                "name": "Peppercorn",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1409",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Grand Plum",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "C",
+                    "g1": "5",
+                    "g2": "6",
+                    "b1": "5",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 108,
+                    "g": 86,
+                    "b": 86
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 11,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 20,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

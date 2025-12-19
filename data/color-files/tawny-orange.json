@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13860719",
+        "name": "Tawny Orange",
+        "other-names": [
+            {
+                "name": "Tawny Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1341",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "3",
+                    "g1": "7",
+                    "g2": "F",
+                    "b1": "6",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 211,
+                    "g": 127,
+                    "b": 111
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 10,
+                    "s": 53,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 40,
+                    "y": 47,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm red tones."
+    }
+]

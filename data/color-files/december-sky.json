@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7762549",
+        "name": "December Sky",
+        "other-names": [
+            {
+                "name": "December Sky",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4016",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Steel Armour",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "6",
+                    "g1": "7",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 118,
+                    "g": 114,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 315,
+                    "s": 2,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 1,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

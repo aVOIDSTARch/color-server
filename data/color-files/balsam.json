@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3364446",
+        "name": "Balsam",
+        "other-names": [
+            {
+                "name": "Balsam",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4820",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Green Moonstone",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "3",
+                    "g1": "5",
+                    "g2": "6",
+                    "b1": "5",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 51,
+                    "g": 86,
+                    "b": 94
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 191,
+                    "s": 30,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 46,
+                    "m": 9,
+                    "y": 0,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool cyan-blue tones."
+    }
+]

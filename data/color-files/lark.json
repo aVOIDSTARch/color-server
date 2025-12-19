@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12098418",
+        "name": "Lark",
+        "other-names": [
+            {
+                "name": "Lark",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1324",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 184,
+                    "g": 155,
+                    "b": 114
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 33,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 38,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

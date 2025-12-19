@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15985888",
+        "name": "Egret",
+        "other-names": [
+            {
+                "name": "Egret",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0103",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bleached Linen",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "3",
+                    "g1": "E",
+                    "g2": "C",
+                    "b1": "E",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 243,
+                    "g": 236,
+                    "b": 224
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 38,
+                    "s": 44,
+                    "l": 92
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 8,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

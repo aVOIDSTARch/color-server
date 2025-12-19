@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10639179",
+        "name": "Etruscan Red",
+        "other-names": [
+            {
+                "name": "Etruscan Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1434",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Volcanic",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "2",
+                    "g1": "5",
+                    "g2": "7",
+                    "b1": "4",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 162,
+                    "g": 87,
+                    "b": 75
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 8,
+                    "s": 37,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 46,
+                    "y": 54,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, moderately saturated red with warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15250894",
+        "name": "Sweet Lilac",
+        "other-names": [
+            {
+                "name": "Sweet Lilac",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-2808",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "8",
+                    "g1": "B",
+                    "g2": "5",
+                    "b1": "C",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 232,
+                    "g": 181,
+                    "b": 206
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 331,
+                    "s": 53,
+                    "l": 81
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 11,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, vibrant pink with warm red-pink tones."
+    }
+]

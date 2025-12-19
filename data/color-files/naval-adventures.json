@@ -5,12 +5,22 @@
         "naming-source": "color picker tool",
         "other-names": [
             {
-            "name": "True Cobalt",
-            "source": {"name": "Coolors", "url": "https://coolors.co/"}
+                "name": "True Cobalt",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co/"
+                }
             },
             {
-            "name": "alt-color-name-2",
-            "source": "source of this alternative name"
+                "name": "alt-color-name-2",
+                "source": "source of this alternative name"
+            },
+            {
+                "name": "Neutrino Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
             }
         ],
         "nickname": "Basic Text Blue",
@@ -26,8 +36,8 @@
                     "b2": "D",
                     "a1": "0",
                     "a2": "0"
-                    }
-                },
+                }
+            },
             "rgb": {
                 "values": {
                     "r": 27,
@@ -36,7 +46,7 @@
                 }
             },
             "hsl": {
-                "values":  {
+                "values": {
                     "h": 231,
                     "s": 66,
                     "l": 33

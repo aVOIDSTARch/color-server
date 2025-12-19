@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5727844",
+        "name": "Balsam Green",
+        "other-names": [
+            {
+                "name": "Balsam Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5606",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Brooklyn",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "7",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "6",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 87,
+                    "g": 102,
+                    "b": 100
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 172,
+                    "s": 8,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 0,
+                    "y": 2,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

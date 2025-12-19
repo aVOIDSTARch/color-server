@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8030607",
+        "name": "Lead",
+        "other-names": [
+            {
+                "name": "Lead",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4408",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Norwegian Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "A",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 122,
+                    "g": 137,
+                    "b": 143
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 9,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 4,
+                    "y": 0,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

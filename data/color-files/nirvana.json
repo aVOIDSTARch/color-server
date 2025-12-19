@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10654107",
+        "name": "Nirvana",
+        "other-names": [
+            {
+                "name": "Nirvana",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3808",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "2",
+                    "g1": "9",
+                    "g2": "1",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 162,
+                    "g": 145,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 325,
+                    "s": 8,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 4,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

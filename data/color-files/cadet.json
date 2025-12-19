@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6972280",
+        "name": "Cadet",
+        "other-names": [
+            {
+                "name": "Cadet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3812",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Promised Amethyst",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "A",
+                    "g1": "6",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 106,
+                    "g": 99,
+                    "b": 120
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 260,
+                    "s": 10,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 18,
+                    "y": 0,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

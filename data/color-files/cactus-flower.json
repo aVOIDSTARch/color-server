@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11026028",
+        "name": "Cactus Flower",
+        "other-names": [
+            {
+                "name": "Cactus Flower",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-2326",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Medium Ruby",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "8",
+                    "g1": "3",
+                    "g2": "E",
+                    "b1": "6",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 168,
+                    "g": 62,
+                    "b": 108
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 334,
+                    "s": 46,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 63,
+                    "y": 36,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm red-pink tones."
+    }
+]

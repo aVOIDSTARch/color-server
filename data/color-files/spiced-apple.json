@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7878967",
+        "name": "Spiced Apple",
+        "other-names": [
+            {
+                "name": "Spiced Apple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1325",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Red Velvet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "8",
+                    "g1": "3",
+                    "g2": "9",
+                    "b1": "3",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 120,
+                    "g": 57,
+                    "b": 55
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 2,
+                    "s": 37,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 53,
+                    "y": 54,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

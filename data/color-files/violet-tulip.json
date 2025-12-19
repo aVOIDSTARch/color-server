@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10392003",
+        "name": "Violet Tulip",
+        "other-names": [
+            {
+                "name": "Violet Tulip",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3823",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "E",
+                    "g1": "9",
+                    "g2": "1",
+                    "b1": "C",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 158,
+                    "g": 145,
+                    "b": 195
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 256,
+                    "s": 29,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 19,
+                    "m": 26,
+                    "y": 0,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, muted purple with cool blue-violet tones."
+    }
+]

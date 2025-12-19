@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5916483",
+        "name": "Shopping Bag",
+        "other-names": [
+            {
+                "name": "Shopping Bag",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1213",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "A",
+                    "g1": "4",
+                    "g2": "7",
+                    "b1": "4",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 90,
+                    "g": 71,
+                    "b": 67
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 10,
+                    "s": 15,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 21,
+                    "y": 26,
+                    "k": 65
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

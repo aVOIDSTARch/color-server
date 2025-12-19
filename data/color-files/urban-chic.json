@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4607565",
+        "name": "Urban Chic",
+        "other-names": [
+            {
+                "name": "Urban Chic",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-5004",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Moonless Sky",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "6",
+                    "g1": "4",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 70,
+                    "g": 78,
+                    "b": 77
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 172,
+                    "s": 5,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 1,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

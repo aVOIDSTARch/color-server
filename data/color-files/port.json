@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6697782",
+        "name": "Port",
+        "other-names": [
+            {
+                "name": "Port",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1525",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "City Roast",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "6",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "3",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 102,
+                    "g": 51,
+                    "b": 54
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 356,
+                    "s": 33,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 50,
+                    "y": 47,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A dark, moderately saturated brown with earthy warm red-pink tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5607313",
+        "name": "Bristol Blue",
+        "other-names": [
+            {
+                "name": "Bristol Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4818",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "5",
+                    "g1": "8",
+                    "g2": "F",
+                    "b1": "9",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 85,
+                    "g": 143,
+                    "b": 145
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 182,
+                    "s": 26,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 41,
+                    "m": 1,
+                    "y": 0,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

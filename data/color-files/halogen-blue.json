@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12437212",
+        "name": "Halogen Blue",
+        "other-names": [
+            {
+                "name": "Halogen Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-3920",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Objectivity",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "D",
+                    "g1": "C",
+                    "g2": "6",
+                    "b1": "D",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 189,
+                    "g": 198,
+                    "b": 220
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 223,
+                    "s": 31,
+                    "l": 80
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 10,
+                    "y": 0,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool blue-violet tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7352123",
+        "name": "Cordovan",
+        "other-names": [
+            {
+                "name": "Cordovan",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1726",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Red Wine Vinegar",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "0",
+                    "g1": "2",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 112,
+                    "g": 47,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 349,
+                    "s": 41,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 58,
+                    "y": 47,
+                    "k": 56
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated red with warm red-pink tones."
+    }
+]

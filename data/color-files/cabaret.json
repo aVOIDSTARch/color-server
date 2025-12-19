@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13316979",
+        "name": "Cabaret",
+        "other-names": [
+            {
+                "name": "Cabaret",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-2140",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Magentarama",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "B",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 203,
+                    "g": 51,
+                    "b": 115
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 335,
+                    "s": 60,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 75,
+                    "y": 43,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium, vibrant pink with warm red-pink tones."
+    }
+]

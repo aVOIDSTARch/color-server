@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16289624",
+        "name": "Tangerine",
+        "other-names": [
+            {
+                "name": "Tangerine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1247",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Umezome Pink",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "8",
+                    "g1": "8",
+                    "g2": "F",
+                    "b1": "5",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 248,
+                    "g": 143,
+                    "b": 88
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 21,
+                    "s": 92,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 42,
+                    "y": 65,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

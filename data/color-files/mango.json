@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12017217",
+        "name": "Mango",
+        "other-names": [
+            {
+                "name": "Mango",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1446",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sun-Kissed Brick",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "7",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 183,
+                    "g": 94,
+                    "b": 65
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 15,
+                    "s": 48,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 49,
+                    "y": 64,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm red tones."
+    }
+]

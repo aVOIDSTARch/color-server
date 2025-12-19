@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14900111",
+        "name": "Carmine Rose",
+        "other-names": [
+            {
+                "name": "Carmine Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-2230",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "3",
+                    "g1": "5",
+                    "g2": "B",
+                    "b1": "8",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 227,
+                    "g": 91,
+                    "b": 143
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 337,
+                    "s": 71,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 60,
+                    "y": 37,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated pink with warm red-pink tones."
+    }
+]

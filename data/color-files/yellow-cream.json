@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15719541",
+        "name": "Yellow Cream",
+        "other-names": [
+            {
+                "name": "Yellow Cream",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0738",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Delicate Lemon",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "F",
+                    "g1": "D",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 239,
+                    "g": 220,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 51,
+                    "s": 79,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 51,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

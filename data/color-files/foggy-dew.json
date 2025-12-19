@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13751760",
+        "name": "Foggy Dew",
+        "other-names": [
+            {
+                "name": "Foggy Dew",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-4305",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "1",
+                    "g1": "D",
+                    "g2": "5",
+                    "b1": "D",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 209,
+                    "g": 213,
+                    "b": 208
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 108,
+                    "s": 6,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 0,
+                    "y": 2,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

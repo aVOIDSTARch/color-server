@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15193005",
+        "name": "Banana Crepe",
+        "other-names": [
+            {
+                "name": "Banana Crepe",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0815",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "7",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "A",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 231,
+                    "g": 211,
+                    "b": 173
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 55,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 25,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm orange-yellow tones."
+    }
+]

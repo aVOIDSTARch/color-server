@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9707058",
+        "name": "Scooter",
+        "other-names": [
+            {
+                "name": "Scooter",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1863",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bacchic Burgundy",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "4",
+                    "g1": "1",
+                    "g2": "E",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 148,
+                    "g": 30,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 350,
+                    "s": 66,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 80,
+                    "y": 66,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant red with warm red-pink tones."
+    }
+]

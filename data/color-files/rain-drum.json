@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6245440",
+        "name": "Rain Drum",
+        "other-names": [
+            {
+                "name": "Rain Drum",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0916",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Roasted Nuts",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "F",
+                    "g1": "4",
+                    "g2": "C",
+                    "b1": "4",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 95,
+                    "g": 76,
+                    "b": 64
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 19,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 33,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

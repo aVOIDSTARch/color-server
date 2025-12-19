@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8020786",
+        "name": "Plantation",
+        "other-names": [
+            {
+                "name": "Plantation",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0832",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Twig Basket",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "A",
+                    "g1": "6",
+                    "g2": "3",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 122,
+                    "g": 99,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 41,
+                    "s": 42,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 19,
+                    "y": 59,
+                    "k": 52
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4750007",
+        "name": "Regatta",
+        "other-names": [
+            {
+                "name": "Regatta",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4039",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Parkwater",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "8",
+                    "g1": "7",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 72,
+                    "g": 122,
+                    "b": 183
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 213,
+                    "s": 44,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 61,
+                    "m": 33,
+                    "y": 0,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool blue-violet tones."
+    }
+]

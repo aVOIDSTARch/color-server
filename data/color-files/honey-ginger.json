@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11035159",
+        "name": "Honey Ginger",
+        "other-names": [
+            {
+                "name": "Honey Ginger",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1050",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Raw Umber",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "8",
+                    "g1": "6",
+                    "g2": "2",
+                    "b1": "1",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 168,
+                    "g": 98,
+                    "b": 23
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 31,
+                    "s": 76,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 42,
+                    "y": 86,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated orange with warm orange-yellow tones."
+    }
+]

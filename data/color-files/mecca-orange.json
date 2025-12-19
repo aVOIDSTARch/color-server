@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12408645",
+        "name": "Mecca Orange",
+        "other-names": [
+            {
+                "name": "Mecca Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1450",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "D",
+                    "g1": "5",
+                    "g2": "7",
+                    "b1": "4",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 189,
+                    "g": 87,
+                    "b": 69
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 9,
+                    "s": 48,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 54,
+                    "y": 63,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium, moderately saturated red with warm red tones."
+    }
+]

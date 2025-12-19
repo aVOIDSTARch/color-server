@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7811958",
+        "name": "Sparkling Grape",
+        "other-names": [
+            {
+                "name": "Sparkling Grape",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3336",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Veronica Purple",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "7",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 119,
+                    "g": 51,
+                    "b": 118
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 301,
+                    "s": 40,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 57,
+                    "y": 1,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

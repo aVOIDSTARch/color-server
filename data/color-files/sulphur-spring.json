@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14014231",
+        "name": "Sulphur Spring",
+        "other-names": [
+            {
+                "name": "Sulphur Spring",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0650",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "5",
+                    "g1": "D",
+                    "g2": "7",
+                    "b1": "1",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 213,
+                    "g": 215,
+                    "b": 23
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 61,
+                    "s": 81,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 89,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium, highly saturated yellow with yellow-green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16740193",
+        "name": "Living Coral",
+        "other-names": [
+            {
+                "name": "Living Coral",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1546",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Manila Sunset",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "6",
+                    "g2": "F",
+                    "b1": "6",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 111,
+                    "b": 97
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 5,
+                    "s": 100,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 56,
+                    "y": 62,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated red with warm red tones."
+    }
+]

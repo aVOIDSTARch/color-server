@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12237011",
+        "name": "Purple Heather",
+        "other-names": [
+            {
+                "name": "Purple Heather",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3911",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "A",
+                    "g1": "B",
+                    "g2": "8",
+                    "b1": "D",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 186,
+                    "g": 184,
+                    "b": 211
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 244,
+                    "s": 23,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 13,
+                    "y": 0,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, muted blue with cool blue-violet tones."
+    }
+]

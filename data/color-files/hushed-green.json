@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14215653",
+        "name": "Hushed Green",
+        "other-names": [
+            {
+                "name": "Hushed Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-5508",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Snowball Effect",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "8",
+                    "g1": "E",
+                    "g2": "9",
+                    "b1": "E",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 216,
+                    "g": 233,
+                    "b": 229
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 166,
+                    "s": 28,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 0,
+                    "y": 2,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A very light, muted blue with cool cyan-blue tones."
+    }
+]

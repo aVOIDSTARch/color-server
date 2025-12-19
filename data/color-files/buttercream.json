@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15720653",
+        "name": "Buttercream",
+        "other-names": [
+            {
+                "name": "Buttercream",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0110",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "F",
+                    "g1": "E",
+                    "g2": "0",
+                    "b1": "C",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 239,
+                    "g": 224,
+                    "b": 205
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 34,
+                    "s": 52,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 14,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A very light, vibrant orange with warm orange-yellow tones."
+    }
+]

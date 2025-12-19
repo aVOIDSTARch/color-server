@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3506306",
+        "name": "Green Blue Slate",
+        "other-names": [
+            {
+                "name": "Green Blue Slate",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-5117",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "5",
+                    "g1": "8",
+                    "g2": "0",
+                    "b1": "8",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 53,
+                    "g": 128,
+                    "b": 130
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 182,
+                    "s": 42,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 59,
+                    "m": 2,
+                    "y": 0,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool cyan-blue tones."
+    }
+]

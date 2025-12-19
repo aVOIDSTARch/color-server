@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8074553",
+        "name": "Red Pear",
+        "other-names": [
+            {
+                "name": "Red Pear",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1536",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Wild Currant",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "B",
+                    "g1": "3",
+                    "g2": "5",
+                    "b1": "3",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 123,
+                    "g": 53,
+                    "b": 57
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 357,
+                    "s": 40,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 57,
+                    "y": 54,
+                    "k": 52
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red-pink tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7575895",
+        "name": "Meadow Green",
+        "other-names": [
+            {
+                "name": "Meadow Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0233",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "3",
+                    "g1": "9",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 115,
+                    "g": 153,
+                    "b": 87
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 95,
+                    "s": 27,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 0,
+                    "y": 43,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted green with cool green tones."
+    }
+]

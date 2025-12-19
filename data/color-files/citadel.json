@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7637397",
+        "name": "Citadel",
+        "other-names": [
+            {
+                "name": "Citadel",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4111",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bluish Grey",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "9",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 116,
+                    "g": 137,
+                    "b": 149
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 202,
+                    "s": 13,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 22,
+                    "m": 8,
+                    "y": 0,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool cyan-blue tones."
+    }
+]

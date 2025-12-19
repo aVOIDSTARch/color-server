@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10245698",
+        "name": "Baked Clay",
+        "other-names": [
+            {
+                "name": "Baked Clay",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1441",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sōdenkaracha Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "C",
+                    "g1": "5",
+                    "g2": "6",
+                    "b1": "4",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 156,
+                    "g": 86,
+                    "b": 66
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 41,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 45,
+                    "y": 58,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

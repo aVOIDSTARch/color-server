@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14856273",
+        "name": "Yolk Yellow",
+        "other-names": [
+            {
+                "name": "Yolk Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0846",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 176,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 71,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 64,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6579030",
+        "name": "Dusty Olive",
+        "other-names": [
+            {
+                "name": "Dusty Olive",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0515",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Marble Garden",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "6",
+                    "g2": "3",
+                    "b1": "5",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 99,
+                    "b": 86
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 56,
+                    "s": 8,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 14,
+                    "k": 61
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

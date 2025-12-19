@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4687241",
+        "name": "Teal",
+        "other-names": [
+            {
+                "name": "Teal",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4919",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sea Caller",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "7",
+                    "g1": "8",
+                    "g2": "5",
+                    "b1": "8",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 71,
+                    "g": 133,
+                    "b": 137
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 184,
+                    "s": 32,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 48,
+                    "m": 3,
+                    "y": 0,
+                    "k": 46
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool cyan-blue tones."
+    }
+]

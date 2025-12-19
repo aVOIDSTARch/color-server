@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8690636",
+        "name": "Hydrangea",
+        "other-names": [
+            {
+                "name": "Hydrangea",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4030",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Purple Gentian",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "4",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "C",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 132,
+                    "g": 155,
+                    "b": 204
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 221,
+                    "s": 41,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 35,
+                    "m": 24,
+                    "y": 0,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

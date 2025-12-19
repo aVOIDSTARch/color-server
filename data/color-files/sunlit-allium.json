@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9930683",
+        "name": "Sunlit Allium",
+        "other-names": [
+            {
+                "name": "Sunlit Allium",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3735",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "7",
+                    "g1": "8",
+                    "g2": "7",
+                    "b1": "B",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 151,
+                    "g": 135,
+                    "b": 187
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 258,
+                    "s": 28,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 19,
+                    "m": 28,
+                    "y": 0,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, muted purple with cool blue-violet tones."
+    }
+]

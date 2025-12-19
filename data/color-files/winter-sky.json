@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11124939",
+        "name": "Winter Sky",
+        "other-names": [
+            {
+                "name": "Winter Sky",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4307",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "9",
+                    "g1": "C",
+                    "g2": "0",
+                    "b1": "C",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 169,
+                    "g": 192,
+                    "b": 203
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 199,
+                    "s": 25,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 5,
+                    "y": 0,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted blue with cool cyan-blue tones."
+    }
+]

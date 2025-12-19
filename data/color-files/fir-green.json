@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6773034",
+        "name": "Fir Green",
+        "other-names": [
+            {
+                "name": "Fir Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0627",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "7",
+                    "g1": "5",
+                    "g2": "9",
+                    "b1": "2",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 103,
+                    "g": 89,
+                    "b": 42
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 46,
+                    "s": 42,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 14,
+                    "y": 59,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A dark, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

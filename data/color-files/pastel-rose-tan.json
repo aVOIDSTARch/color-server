@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15323583",
+        "name": "Pastel Rose Tan",
+        "other-names": [
+            {
+                "name": "Pastel Rose Tan",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1007",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Cream of Mushroom",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "9",
+                    "g1": "D",
+                    "g2": "1",
+                    "b1": "B",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 233,
+                    "g": 209,
+                    "b": 191
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 49,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 18,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, moderately saturated orange with warm red tones."
+    }
+]

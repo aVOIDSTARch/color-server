@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13133619",
+        "name": "Burnt Orange",
+        "other-names": [
+            {
+                "name": "Burnt Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1448",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Burnt Copper",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "8",
+                    "g1": "6",
+                    "g2": "7",
+                    "b1": "3",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 200,
+                    "g": 103,
+                    "b": 51
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 21,
+                    "s": 59,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 49,
+                    "y": 75,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7508404",
+        "name": "Allure",
+        "other-names": [
+            {
+                "name": "Allure",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4021",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "2",
+                    "g1": "9",
+                    "g2": "1",
+                    "b1": "B",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 114,
+                    "g": 145,
+                    "b": 180
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 212,
+                    "s": 31,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 37,
+                    "m": 19,
+                    "y": 0,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6255445",
+        "name": "Vineyard Green",
+        "other-names": [
+            {
+                "name": "Vineyard Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0117",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "F",
+                    "g1": "7",
+                    "g2": "3",
+                    "b1": "5",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 95,
+                    "g": 115,
+                    "b": 85
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 100,
+                    "s": 15,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 0,
+                    "y": 26,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

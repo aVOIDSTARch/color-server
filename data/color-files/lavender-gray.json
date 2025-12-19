@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9998498",
+        "name": "Lavender Gray",
+        "other-names": [
+            {
+                "name": "Lavender Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3910",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Alienator Grey",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "0",
+                    "b1": "A",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 152,
+                    "g": 144,
+                    "b": 162
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 267,
+                    "s": 9,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 11,
+                    "y": 0,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

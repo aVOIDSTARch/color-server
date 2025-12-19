@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11111213",
+        "name": "Olive Oil",
+        "other-names": [
+            {
+                "name": "Olive Oil",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0847",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Reef Gold",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "9",
+                    "g1": "8",
+                    "g2": "B",
+                    "b1": "2",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 169,
+                    "g": 139,
+                    "b": 45
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 45,
+                    "s": 58,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 73,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant yellow with warm orange-yellow tones."
+    }
+]

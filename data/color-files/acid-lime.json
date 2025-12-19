@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12246832",
+        "name": "Acid Lime",
+        "other-names": [
+            {
+                "name": "Acid Lime",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0340",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "A",
+                    "g1": "D",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 186,
+                    "g": 223,
+                    "b": 48
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 73,
+                    "s": 73,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 0,
+                    "y": 78,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A medium, highly saturated green with yellow-green tones."
+    }
+]

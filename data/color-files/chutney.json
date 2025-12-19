@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9984331",
+        "name": "Chutney",
+        "other-names": [
+            {
+                "name": "Chutney",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1433",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Russet Leather",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "8",
+                    "g1": "5",
+                    "g2": "9",
+                    "b1": "4",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 152,
+                    "g": 89,
+                    "b": 75
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 11,
+                    "s": 34,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 41,
+                    "y": 51,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

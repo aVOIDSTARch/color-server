@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16048614",
+        "name": "Shrinking Violet",
+        "other-names": [
+            {
+                "name": "Shrinking Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-2511",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Candy Mix",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "E",
+                    "g2": "1",
+                    "b1": "E",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 225,
+                    "b": 230
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 344,
+                    "s": 46,
+                    "l": 92
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 6,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, moderately saturated pink with warm red-pink tones."
+    }
+]

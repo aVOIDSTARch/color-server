@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7976411",
+        "name": "Baltic Sea",
+        "other-names": [
+            {
+                "name": "Baltic Sea",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4320",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Coastal Waters",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "9",
+                    "g1": "B",
+                    "g2": "5",
+                    "b1": "D",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 121,
+                    "g": 181,
+                    "b": 219
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 203,
+                    "s": 58,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 45,
+                    "m": 17,
+                    "y": 0,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A medium-light, vibrant blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12164037",
+        "name": "Crocus Petal",
+        "other-names": [
+            {
+                "name": "Crocus Petal",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-3520",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "9",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "C",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 185,
+                    "g": 155,
+                    "b": 197
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 283,
+                    "s": 27,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 21,
+                    "y": 0,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-light, muted purple with warm purple-magenta tones."
+    }
+]

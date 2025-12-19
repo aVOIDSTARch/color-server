@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "34179",
+        "name": "Navigate",
+        "other-names": [
+            {
+                "name": "Navigate",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-5025",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Green Lapis",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "8",
+                    "g2": "5",
+                    "b1": "8",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 133,
+                    "b": 131
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 179,
+                    "s": 100,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 0,
+                    "y": 2,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6072014",
+        "name": "Ethereal Blue",
+        "other-names": [
+            {
+                "name": "Ethereal Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4323",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "C",
+                    "g1": "A",
+                    "g2": "6",
+                    "b1": "C",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 92,
+                    "g": 166,
+                    "b": 206
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 201,
+                    "s": 54,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 55,
+                    "m": 19,
+                    "y": 0,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, vibrant blue with cool cyan-blue tones."
+    }
+]

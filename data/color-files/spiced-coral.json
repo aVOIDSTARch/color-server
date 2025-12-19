@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14113885",
+        "name": "Spiced Coral",
+        "other-names": [
+            {
+                "name": "Spiced Coral",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1644",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Happy Hearts",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "7",
+                    "g1": "5",
+                    "g2": "C",
+                    "b1": "5",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 215,
+                    "g": 92,
+                    "b": 93
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 360,
+                    "s": 61,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 57,
+                    "y": 57,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium-light, vibrant red with warm red-pink tones."
+    }
+]

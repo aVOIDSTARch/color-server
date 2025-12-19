@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15716282",
+        "name": "Peach Puree",
+        "other-names": [
+            {
+                "name": "Peach Puree",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1011",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Aristocrat Peach",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "F",
+                    "g1": "C",
+                    "g2": "F",
+                    "b1": "B",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 239,
+                    "g": 207,
+                    "b": 186
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 62,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 22,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm red tones."
+    }
+]

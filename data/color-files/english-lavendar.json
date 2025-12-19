@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10320816",
+        "name": "English Lavendar",
+        "other-names": [
+            {
+                "name": "English Lavendar",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3617",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "English Lavender",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "D",
+                    "g1": "7",
+                    "g2": "B",
+                    "b1": "B",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 157,
+                    "g": 123,
+                    "b": 176
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 278,
+                    "s": 25,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 30,
+                    "y": 0,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted purple with warm purple-magenta tones."
+    }
+]

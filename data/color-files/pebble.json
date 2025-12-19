@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13285016",
+        "name": "Pebble",
+        "other-names": [
+            {
+                "name": "Pebble",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1112",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Desert Pebble",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "A",
+                    "g1": "B",
+                    "g2": "6",
+                    "b1": "9",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 202,
+                    "g": 182,
+                    "b": 152
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 32,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 25,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

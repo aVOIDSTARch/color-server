@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15583925",
+        "name": "Bisque",
+        "other-names": [
+            {
+                "name": "Bisque",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1109",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Desert Field",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "C",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 202,
+                    "b": 181
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 61,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 24,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm red tones."
+    }
+]

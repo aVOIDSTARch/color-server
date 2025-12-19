@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10581404",
+        "name": "Dusty Lavender",
+        "other-names": [
+            {
+                "name": "Dusty Lavender",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3313",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Long Forgotten Purple",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "1",
+                    "g1": "7",
+                    "g2": "5",
+                    "b1": "9",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 161,
+                    "g": 117,
+                    "b": 156
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 307,
+                    "s": 19,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 3,
+                    "k": 37
+                }
+            }
+        },
+        "description": "A medium, muted pink with warm purple-magenta tones."
+    }
+]

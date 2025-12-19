@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16757121",
+        "name": "Peach Cobbler",
+        "other-names": [
+            {
+                "name": "Peach Cobbler",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1231",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Peach",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "1",
+                    "b1": "8",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 177,
+                    "b": 129
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 100,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 49,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

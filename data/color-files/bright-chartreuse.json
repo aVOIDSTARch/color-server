@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11910992",
+        "name": "Bright Chartreuse",
+        "other-names": [
+            {
+                "name": "Bright Chartreuse",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0445",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sativa",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "B",
+                    "g2": "F",
+                    "b1": "5",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 191,
+                    "b": 80
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 65,
+                    "s": 46,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 58,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium, moderately saturated green with yellow-green tones."
+    }
+]

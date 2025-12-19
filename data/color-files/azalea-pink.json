@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15297175",
+        "name": "Azalea Pink",
+        "other-names": [
+            {
+                "name": "Azalea Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-2126",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Shadow Azalea Pink",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "9",
+                    "g1": "6",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 233,
+                    "g": 106,
+                    "b": 151
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 339,
+                    "s": 74,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 55,
+                    "y": 35,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated pink with warm red-pink tones."
+    }
+]

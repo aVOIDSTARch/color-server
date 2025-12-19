@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4613246",
+        "name": "Stellar",
+        "other-names": [
+            {
+                "name": "Stellar",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4026",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "6",
+                    "g1": "6",
+                    "g2": "4",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 70,
+                    "g": 100,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 208,
+                    "s": 29,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 44,
+                    "m": 21,
+                    "y": 0,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

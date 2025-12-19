@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16626347",
+        "name": "Peach Bud",
+        "other-names": [
+            {
+                "name": "Peach Bud",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1324",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "D",
+                    "g1": "B",
+                    "g2": "2",
+                    "b1": "A",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 253,
+                    "g": 178,
+                    "b": 171
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 5,
+                    "s": 95,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 30,
+                    "y": 32,
+                    "k": 1
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red tones."
+    }
+]

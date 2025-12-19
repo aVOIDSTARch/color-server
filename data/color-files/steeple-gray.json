@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8552060",
+        "name": "Steeple Gray",
+        "other-names": [
+            {
+                "name": "Steeple Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1500",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Steeple Grey",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "2",
+                    "g1": "7",
+                    "g2": "E",
+                    "b1": "7",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 130,
+                    "g": 126,
+                    "b": 124
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 20,
+                    "s": 2,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 5,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10849663",
+        "name": "Stucco",
+        "other-names": [
+            {
+                "name": "Stucco",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1412",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "5",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "7",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 165,
+                    "g": 141,
+                    "b": 127
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 17,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 23,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

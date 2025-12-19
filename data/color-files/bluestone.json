@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5730948",
+        "name": "Bluestone",
+        "other-names": [
+            {
+                "name": "Bluestone",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4217",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blue Stone",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "7",
+                    "g1": "7",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 87,
+                    "g": 114,
+                    "b": 132
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 204,
+                    "s": 21,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 34,
+                    "m": 14,
+                    "y": 0,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

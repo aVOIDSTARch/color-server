@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8951237",
+        "name": "Pale Iris",
+        "other-names": [
+            {
+                "name": "Pale Iris",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3929",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "5",
+                    "b1": "C",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 136,
+                    "g": 149,
+                    "b": 197
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 227,
+                    "s": 34,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 31,
+                    "m": 24,
+                    "y": 0,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

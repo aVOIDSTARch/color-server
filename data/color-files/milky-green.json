@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13622225",
+        "name": "Milky Green",
+        "other-names": [
+            {
+                "name": "Milky Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-6205",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Aruba Aqua",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "F",
+                    "g1": "D",
+                    "g2": "B",
+                    "b1": "D",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 207,
+                    "g": 219,
+                    "b": 209
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 130,
+                    "s": 14,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 5,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A light, muted green with cool green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4405064",
+        "name": "Nightshade",
+        "other-names": [
+            {
+                "name": "Nightshade",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3712",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Wineshade",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "3",
+                    "g1": "3",
+                    "g2": "7",
+                    "b1": "4",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 67,
+                    "g": 55,
+                    "b": 72
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 282,
+                    "s": 13,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 24,
+                    "y": 0,
+                    "k": 72
+                }
+            }
+        },
+        "description": "A dark, muted purple with warm purple-magenta tones."
+    }
+]

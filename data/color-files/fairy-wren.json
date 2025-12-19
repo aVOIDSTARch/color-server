@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9730479",
+        "name": "Fairy Wren",
+        "other-names": [
+            {
+                "name": "Fairy Wren",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3640",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Gentian",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "A",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 148,
+                    "g": 121,
+                    "b": 175
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 270,
+                    "s": 25,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 31,
+                    "y": 0,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted purple with warm purple-magenta tones."
+    }
+]

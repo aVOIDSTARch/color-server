@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11569051",
+        "name": "Orchid Haze",
+        "other-names": [
+            {
+                "name": "Orchid Haze",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-2107",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "0",
+                    "g1": "8",
+                    "g2": "7",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 176,
+                    "g": 135,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 331,
+                    "s": 21,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 12,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted pink with warm red-pink tones."
+    }
+]

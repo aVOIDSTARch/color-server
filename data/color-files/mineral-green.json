@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8035192",
+        "name": "Mineral Green",
+        "other-names": [
+            {
+                "name": "Mineral Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-6318",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Jade Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "A",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 122,
+                    "g": 155,
+                    "b": 120
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 117,
+                    "s": 15,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 0,
+                    "y": 23,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium, muted green with cool green tones."
+    }
+]

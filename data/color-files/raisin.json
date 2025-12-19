@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5390660",
+        "name": "Raisin",
+        "other-names": [
+            {
+                "name": "Raisin",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1606",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rich Bordeaux",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "2",
+                    "g1": "4",
+                    "g2": "1",
+                    "b1": "4",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 82,
+                    "g": 65,
+                    "b": 68
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 349,
+                    "s": 12,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 21,
+                    "y": 17,
+                    "k": 68
+                }
+            }
+        },
+        "description": "A dark, muted red with warm red-pink tones."
+    }
+]

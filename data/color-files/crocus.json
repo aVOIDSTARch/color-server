@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13008814",
+        "name": "Crocus",
+        "other-names": [
+            {
+                "name": "Crocus",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3115",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Ice Plant",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "6",
+                    "g1": "7",
+                    "g2": "F",
+                    "b1": "A",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 198,
+                    "g": 127,
+                    "b": 174
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 320,
+                    "s": 38,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 36,
+                    "y": 12,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated pink with warm purple-magenta tones."
+    }
+]

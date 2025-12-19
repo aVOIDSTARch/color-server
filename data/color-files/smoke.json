@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12568771",
+        "name": "Smoke",
+        "other-names": [
+            {
+                "name": "Smoke",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4505",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "F",
+                    "g1": "C",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 191,
+                    "g": 200,
+                    "b": 195
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 147,
+                    "s": 8,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 0,
+                    "y": 3,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

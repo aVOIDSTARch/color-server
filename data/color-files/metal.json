@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12238780",
+        "name": "Metal",
+        "other-names": [
+            {
+                "name": "Metal",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4503",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "A",
+                    "g1": "B",
+                    "g2": "F",
+                    "b1": "B",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 186,
+                    "g": 191,
+                    "b": 188
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 144,
+                    "s": 4,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 2,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

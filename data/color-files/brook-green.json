@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11525580",
+        "name": "Brook Green",
+        "other-names": [
+            {
+                "name": "Brook Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-6009",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "F",
+                    "g1": "D",
+                    "g2": "D",
+                    "b1": "C",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 175,
+                    "g": 221,
+                    "b": 204
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 158,
+                    "s": 40,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 0,
+                    "y": 8,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A light, moderately saturated green with cool cyan-blue tones."
+    }
+]

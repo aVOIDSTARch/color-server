@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10121602",
+        "name": "Dusky Orchid",
+        "other-names": [
+            {
+                "name": "Dusky Orchid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1610",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Meadow Flower",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "1",
+                    "b1": "8",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 154,
+                    "g": 113,
+                    "b": 130
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 335,
+                    "s": 17,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 16,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted pink with warm red-pink tones."
+    }
+]

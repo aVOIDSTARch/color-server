@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16705301",
+        "name": "Blazing Yellow",
+        "other-names": [
+            {
+                "name": "Blazing Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0643",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "E",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "1",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 254,
+                    "g": 231,
+                    "b": 21
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 54,
+                    "s": 99,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 92,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A medium, highly saturated yellow with warm orange-yellow tones."
+    }
+]

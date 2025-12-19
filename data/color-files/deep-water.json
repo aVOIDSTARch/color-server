@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2516625",
+        "name": "Deep Water",
+        "other-names": [
+            {
+                "name": "Deep Water",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4032",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Traditional Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "6",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "9",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 38,
+                    "g": 102,
+                    "b": 145
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 204,
+                    "s": 58,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 74,
+                    "m": 30,
+                    "y": 0,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant blue with cool cyan-blue tones."
+    }
+]

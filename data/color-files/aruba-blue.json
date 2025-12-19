@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8509395",
+        "name": "Aruba Blue",
+        "other-names": [
+            {
+                "name": "Aruba Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-5313",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Water Wonder",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "1",
+                    "g1": "D",
+                    "g2": "7",
+                    "b1": "D",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 129,
+                    "g": 215,
+                    "b": 211
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 177,
+                    "s": 52,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 40,
+                    "m": 0,
+                    "y": 2,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium-light, vibrant blue with cool cyan-blue tones."
+    }
+]

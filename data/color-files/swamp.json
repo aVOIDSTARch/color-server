@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11055511",
+        "name": "Swamp",
+        "other-names": [
+            {
+                "name": "Swamp",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-6310",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mow the Lawn",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "8",
+                    "g1": "B",
+                    "g2": "1",
+                    "b1": "9",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 168,
+                    "g": 177,
+                    "b": 151
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 81,
+                    "s": 14,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 15,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted green with yellow-green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15061169",
+        "name": "Lambs Wool",
+        "other-names": [
+            {
+                "name": "Lambs Wool",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0910",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blonde Wool",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "5",
+                    "g1": "D",
+                    "g2": "0",
+                    "b1": "B",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 229,
+                    "g": 208,
+                    "b": 177
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 50,
+                    "l": 80
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 23,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7629911",
+        "name": "Dusky Green",
+        "other-names": [
+            {
+                "name": "Dusky Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0517",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hip Waders",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "4",
+                    "g1": "6",
+                    "g2": "C",
+                    "b1": "5",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 116,
+                    "g": 108,
+                    "b": 87
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 14,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 25,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

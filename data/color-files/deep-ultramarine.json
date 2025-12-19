@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3688579",
+        "name": "Deep Ultramarine",
+        "other-names": [
+            {
+                "name": "Deep Ultramarine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3950",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blue Estate",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "8",
+                    "g1": "4",
+                    "g2": "8",
+                    "b1": "8",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 56,
+                    "g": 72,
+                    "b": 131
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 227,
+                    "s": 40,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 57,
+                    "m": 45,
+                    "y": 0,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

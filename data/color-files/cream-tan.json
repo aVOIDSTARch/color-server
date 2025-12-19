@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14993336",
+        "name": "Cream Tan",
+        "other-names": [
+            {
+                "name": "Cream Tan",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1108",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "4",
+                    "g1": "C",
+                    "g2": "7",
+                    "b1": "B",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 228,
+                    "g": 199,
+                    "b": 184
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 20,
+                    "s": 45,
+                    "l": 81
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 19,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A light, moderately saturated orange with warm red tones."
+    }
+]

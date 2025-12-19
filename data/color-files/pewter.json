@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6710628",
+        "name": "Pewter",
+        "other-names": [
+            {
+                "name": "Pewter",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5203",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hard Coal",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "6",
+                    "g1": "6",
+                    "g2": "5",
+                    "b1": "6",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 102,
+                    "g": 101,
+                    "b": 100
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 1,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 2,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

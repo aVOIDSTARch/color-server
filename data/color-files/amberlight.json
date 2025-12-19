@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14859938",
+        "name": "Amberlight",
+        "other-names": [
+            {
+                "name": "Amberlight",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1217",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tiny Calf",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "B",
+                    "g2": "E",
+                    "b1": "A",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 190,
+                    "b": 162
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 52,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 28,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12819306",
+        "name": "Taffy",
+        "other-names": [
+            {
+                "name": "Taffy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0940",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "3",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "6",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 195,
+                    "g": 155,
+                    "b": 106
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 33,
+                    "s": 43,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 21,
+                    "y": 46,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

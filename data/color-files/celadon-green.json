@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11911589",
+        "name": "Celadon Green",
+        "other-names": [
+            {
+                "name": "Celadon Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0114",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Creamy Spinach",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "1",
+                    "b1": "A",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 193,
+                    "b": 165
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 86,
+                    "s": 18,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 0,
+                    "y": 15,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, muted green with yellow-green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6839887",
+        "name": "Stone Gray",
+        "other-names": [
+            {
+                "name": "Stone Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0615",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Spooky Graveyard",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "8",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 104,
+                    "g": 94,
+                    "b": 79
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 14,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 24,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

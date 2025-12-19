@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6368821",
+        "name": "Chocolate Truffle",
+        "other-names": [
+            {
+                "name": "Chocolate Truffle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1526",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "1",
+                    "g1": "2",
+                    "g2": "E",
+                    "b1": "3",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 97,
+                    "g": 46,
+                    "b": 53
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 36,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 53,
+                    "y": 45,
+                    "k": 62
+                }
+            }
+        },
+        "description": "A dark, moderately saturated brown with earthy warm red-pink tones."
+    }
+]

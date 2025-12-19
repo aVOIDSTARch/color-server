@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13812381",
+        "name": "Soybean",
+        "other-names": [
+            {
+                "name": "Soybean",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0919",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Champagne Beige",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "2",
+                    "b1": "9",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 194,
+                    "b": 157
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 42,
+                    "s": 37,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 25,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

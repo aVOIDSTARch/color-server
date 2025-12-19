@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11844485",
+        "name": "Nile",
+        "other-names": [
+            {
+                "name": "Nile",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0223",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "4",
+                    "g1": "B",
+                    "g2": "B",
+                    "b1": "8",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 180,
+                    "g": 187,
+                    "b": 133
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 68,
+                    "s": 28,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 0,
+                    "y": 29,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, muted green with yellow-green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16747924",
+        "name": "Salmon Rose",
+        "other-names": [
+            {
+                "name": "Salmon Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1626",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tulip",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "9",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 141,
+                    "b": 148
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 356,
+                    "s": 100,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 45,
+                    "y": 42,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red-pink tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10129798",
+        "name": "Vintage Khaki",
+        "other-names": [
+            {
+                "name": "Vintage Khaki",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0205",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Elephant Ear",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "A",
+                    "g1": "9",
+                    "g2": "1",
+                    "b1": "8",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 154,
+                    "g": 145,
+                    "b": 134
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 33,
+                    "s": 9,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 13,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

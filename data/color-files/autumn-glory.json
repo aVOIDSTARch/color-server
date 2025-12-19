@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16746514",
+        "name": "Autumn Glory",
+        "other-names": [
+            {
+                "name": "Autumn Glory",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1263",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "8",
+                    "g2": "8",
+                    "b1": "1",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 136,
+                    "b": 18
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 100,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 47,
+                    "y": 93,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A medium, highly saturated orange with warm orange-yellow tones."
+    }
+]

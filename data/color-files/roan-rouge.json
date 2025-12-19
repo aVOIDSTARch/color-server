@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8933719",
+        "name": "Roan Rouge",
+        "other-names": [
+            {
+                "name": "Roan Rouge",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1616",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "8",
+                    "g1": "5",
+                    "g2": "1",
+                    "b1": "5",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 136,
+                    "g": 81,
+                    "b": 87
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 353,
+                    "s": 25,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 40,
+                    "y": 36,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red-pink tones."
+    }
+]

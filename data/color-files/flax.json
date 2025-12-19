@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16763005",
+        "name": "Flax",
+        "other-names": [
+            {
+                "name": "Flax",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0935",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Beige Topaz",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "C",
+                    "g2": "8",
+                    "b1": "7",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 200,
+                    "b": 125
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 100,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 51,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm orange-yellow tones."
+    }
+]

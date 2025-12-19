@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16347762",
+        "name": "Georgia Peach",
+        "other-names": [
+            {
+                "name": "Georgia Peach",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1641",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "9",
+                    "g1": "7",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 249,
+                    "g": 114,
+                    "b": 114
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 92,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 54,
+                    "y": 54,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red tones."
+    }
+]

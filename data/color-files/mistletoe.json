@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9085570",
+        "name": "Mistletoe",
+        "other-names": [
+            {
+                "name": "Mistletoe",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0220",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "A",
+                    "g1": "A",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 138,
+                    "g": 162,
+                    "b": 130
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 105,
+                    "s": 15,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 0,
+                    "y": 20,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

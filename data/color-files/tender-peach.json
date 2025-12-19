@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16307640",
+        "name": "Tender Peach",
+        "other-names": [
+            {
+                "name": "Tender Peach",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0912",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "8",
+                    "g1": "D",
+                    "g2": "5",
+                    "b1": "B",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 248,
+                    "g": 213,
+                    "b": 184
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 27,
+                    "s": 82,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 14,
+                    "y": 26,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

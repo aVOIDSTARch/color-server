@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5649709",
+        "name": "Chocolate Fondant",
+        "other-names": [
+            {
+                "name": "Chocolate Fondant",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1432",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Indian Fig",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "6",
+                    "g1": "3",
+                    "g2": "5",
+                    "b1": "2",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 86,
+                    "g": 53,
+                    "b": 45
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 12,
+                    "s": 31,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 48,
+                    "k": 66
+                }
+            }
+        },
+        "description": "A dark, moderately saturated brown with earthy warm red tones."
+    }
+]

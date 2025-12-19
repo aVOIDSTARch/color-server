@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16436638",
+        "name": "Apricot Sherbet",
+        "other-names": [
+            {
+                "name": "Apricot Sherbet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1031",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "A",
+                    "g1": "C",
+                    "g2": "D",
+                    "b1": "9",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 250,
+                    "g": 205,
+                    "b": 158
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 31,
+                    "s": 90,
+                    "l": 80
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 37,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm orange-yellow tones."
+    }
+]

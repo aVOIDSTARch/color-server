@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15439495",
+        "name": "Blooming Dahlia",
+        "other-names": [
+            {
+                "name": "Blooming Dahlia",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1520",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Guava Jelly",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "B",
+                    "g1": "9",
+                    "g2": "6",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 235,
+                    "g": 150,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 9,
+                    "s": 71,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 36,
+                    "y": 43,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red tones."
+    }
+]

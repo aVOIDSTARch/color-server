@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3954795",
+        "name": "Indian Teal",
+        "other-names": [
+            {
+                "name": "Indian Teal",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4227",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "C",
+                    "g1": "5",
+                    "g2": "8",
+                    "b1": "6",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 60,
+                    "g": 88,
+                    "b": 107
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 204,
+                    "s": 28,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 44,
+                    "m": 18,
+                    "y": 0,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

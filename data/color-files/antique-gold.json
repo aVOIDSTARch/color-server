@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11902559",
+        "name": "Antique Gold",
+        "other-names": [
+            {
+                "name": "Antique Gold",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0730",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "9",
+                    "g2": "E",
+                    "b1": "5",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 158,
+                    "b": 95
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 44,
+                    "s": 37,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 48,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm orange-yellow tones."
+    }
+]

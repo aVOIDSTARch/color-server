@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14013843",
+        "name": "Mellow Green",
+        "other-names": [
+            {
+                "name": "Mellow Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0426",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "5",
+                    "g1": "D",
+                    "g2": "5",
+                    "b1": "9",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 213,
+                    "g": 213,
+                    "b": 147
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 60,
+                    "s": 44,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 0,
+                    "y": 31,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, moderately saturated yellow with yellow-green tones."
+    }
+]

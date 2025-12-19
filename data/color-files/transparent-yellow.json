@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16051394",
+        "name": "Transparent Yellow",
+        "other-names": [
+            {
+                "name": "Transparent Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0617",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Transparent Beige",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "E",
+                    "g2": "C",
+                    "b1": "C",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 236,
+                    "b": 194
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 50,
+                    "s": 69,
+                    "l": 86
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 20,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, vibrant yellow with warm orange-yellow tones."
+    }
+]

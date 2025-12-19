@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11719901",
+        "name": "Blue Glow",
+        "other-names": [
+            {
+                "name": "Blue Glow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-4409",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "2",
+                    "g1": "D",
+                    "g2": "4",
+                    "b1": "D",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 178,
+                    "g": 212,
+                    "b": 221
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 193,
+                    "s": 39,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 19,
+                    "m": 4,
+                    "y": 0,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

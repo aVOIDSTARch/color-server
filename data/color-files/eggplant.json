@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6373196",
+        "name": "Eggplant",
+        "other-names": [
+            {
+                "name": "Eggplant",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2311",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Chocolate Praline",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "1",
+                    "g1": "3",
+                    "g2": "F",
+                    "b1": "4",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 97,
+                    "g": 63,
+                    "b": 76
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 337,
+                    "s": 21,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 35,
+                    "y": 22,
+                    "k": 62
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm red-pink tones."
+    }
+]

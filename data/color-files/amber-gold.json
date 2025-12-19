@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12686674",
+        "name": "Amber Gold",
+        "other-names": [
+            {
+                "name": "Amber Gold",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1139",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "5",
+                    "b1": "5",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 193,
+                    "g": 149,
+                    "b": 82
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 47,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 58,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm orange-yellow tones."
+    }
+]

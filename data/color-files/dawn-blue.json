@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13290699",
+        "name": "Dawn Blue",
+        "other-names": [
+            {
+                "name": "Dawn Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-4303",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "A",
+                    "g1": "C",
+                    "g2": "C",
+                    "b1": "C",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 202,
+                    "g": 204,
+                    "b": 203
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 150,
+                    "s": 2,
+                    "l": 80
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 0,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

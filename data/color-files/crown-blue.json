@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4606821",
+        "name": "Crown Blue",
+        "other-names": [
+            {
+                "name": "Crown Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3926",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "6",
+                    "g1": "4",
+                    "g2": "B",
+                    "b1": "6",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 70,
+                    "g": 75,
+                    "b": 101
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 230,
+                    "s": 18,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 31,
+                    "m": 26,
+                    "y": 0,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool blue-violet tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16505033",
+        "name": "Scallop Shell",
+        "other-names": [
+            {
+                "name": "Scallop Shell",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1010",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "B",
+                    "g1": "D",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 251,
+                    "g": 216,
+                    "b": 201
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 18,
+                    "s": 86,
+                    "l": 89
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 14,
+                    "y": 20,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A very light, highly saturated orange with warm red tones."
+    }
+]

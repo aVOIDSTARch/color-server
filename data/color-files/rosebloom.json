@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14848178",
+        "name": "Rosebloom",
+        "other-names": [
+            {
+                "name": "Rosebloom",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-2214",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "9",
+                    "g2": "0",
+                    "b1": "B",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 144,
+                    "b": 178
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 335,
+                    "s": 59,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 36,
+                    "y": 21,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A light, vibrant pink with warm red-pink tones."
+    }
+]

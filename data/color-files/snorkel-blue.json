@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "216964",
+        "name": "Snorkel Blue",
+        "other-names": [
+            {
+                "name": "Snorkel Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4049",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "3",
+                    "g1": "4",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 3,
+                    "g": 79,
+                    "b": 132
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 205,
+                    "s": 96,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 98,
+                    "m": 40,
+                    "y": 0,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

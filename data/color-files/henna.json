@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8143420",
+        "name": "Henna",
+        "other-names": [
+            {
+                "name": "Henna",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1334",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Raw Cinnabar",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "C",
+                    "g1": "4",
+                    "g2": "2",
+                    "b1": "3",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 124,
+                    "g": 66,
+                    "b": 60
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 6,
+                    "s": 35,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 47,
+                    "y": 52,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3093569",
+        "name": "Outer Space",
+        "other-names": [
+            {
+                "name": "Outer Space",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4009",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Total Eclipse",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "F",
+                    "g1": "3",
+                    "g2": "4",
+                    "b1": "4",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 47,
+                    "g": 52,
+                    "b": 65
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 223,
+                    "s": 16,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 28,
+                    "m": 20,
+                    "y": 0,
+                    "k": 75
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool blue-violet tones."
+    }
+]

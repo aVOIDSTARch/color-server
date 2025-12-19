@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14854185",
+        "name": "Golden Rod",
+        "other-names": [
+            {
+                "name": "Golden Rod",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0951",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dried Goldenrod",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "A",
+                    "g2": "8",
+                    "b1": "2",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 168,
+                    "b": 41
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 41,
+                    "s": 76,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 26,
+                    "y": 82,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A medium, highly saturated orange with warm orange-yellow tones."
+    }
+]

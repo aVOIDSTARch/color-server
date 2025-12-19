@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15510137",
+        "name": "Apricot Nectar",
+        "other-names": [
+            {
+                "name": "Apricot Nectar",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1133",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "C",
+                    "g1": "A",
+                    "g2": "A",
+                    "b1": "7",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 236,
+                    "g": 170,
+                    "b": 121
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 75,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 28,
+                    "y": 49,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

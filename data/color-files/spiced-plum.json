@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7161715",
+        "name": "Spiced Plum",
+        "other-names": [
+            {
+                "name": "Spiced Plum",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3425",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hyssop",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "D",
+                    "g1": "4",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 109,
+                    "g": 71,
+                    "b": 115
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 292,
+                    "s": 24,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 38,
+                    "y": 0,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8485477",
+        "name": "Mermaid",
+        "other-names": [
+            {
+                "name": "Mermaid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0618",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "1",
+                    "g1": "7",
+                    "g2": "A",
+                    "b1": "6",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 129,
+                    "g": 122,
+                    "b": 101
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 45,
+                    "s": 12,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 22,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

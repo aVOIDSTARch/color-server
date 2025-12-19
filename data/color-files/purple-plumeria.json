@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4667476",
+        "name": "Purple Plumeria",
+        "other-names": [
+            {
+                "name": "Purple Plumeria",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3716",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "7",
+                    "g1": "3",
+                    "g2": "8",
+                    "b1": "5",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 71,
+                    "g": 56,
+                    "b": 84
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 272,
+                    "s": 20,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 33,
+                    "y": 0,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A dark, muted purple with warm purple-magenta tones."
+    }
+]

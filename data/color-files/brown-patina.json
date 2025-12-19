@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8605501",
+        "name": "Brown Patina",
+        "other-names": [
+            {
+                "name": "Brown Patina",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1242",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Antler Moth",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "3",
+                    "g1": "4",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 131,
+                    "g": 79,
+                    "b": 61
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 15,
+                    "s": 36,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 40,
+                    "y": 53,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

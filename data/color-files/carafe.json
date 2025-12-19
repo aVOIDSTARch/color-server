@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6113082",
+        "name": "Carafe",
+        "other-names": [
+            {
+                "name": "Carafe",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1116",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "D",
+                    "g1": "4",
+                    "g2": "7",
+                    "b1": "3",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 93,
+                    "g": 71,
+                    "b": 58
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 23,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 38,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

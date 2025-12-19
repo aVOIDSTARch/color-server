@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13535135",
+        "name": "Cashmere Rose",
+        "other-names": [
+            {
+                "name": "Cashmere Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-2215",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Orchid Smoke",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "8",
+                    "g2": "7",
+                    "b1": "9",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 206,
+                    "g": 135,
+                    "b": 159
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 340,
+                    "s": 42,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 34,
+                    "y": 23,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated pink with warm red-pink tones."
+    }
+]

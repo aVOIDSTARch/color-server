@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13480613",
+        "name": "Rose Dust",
+        "other-names": [
+            {
+                "name": "Rose Dust",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1307",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "D",
+                    "g1": "B",
+                    "g2": "2",
+                    "b1": "A",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 205,
+                    "g": 178,
+                    "b": 165
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 19,
+                    "s": 29,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 20,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted orange with warm red tones."
+    }
+]

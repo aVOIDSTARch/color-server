@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10592165",
+        "name": "Silver Sconce",
+        "other-names": [
+            {
+                "name": "Silver Sconce",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3850",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "A",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 161,
+                    "g": 159,
+                    "b": 165
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 260,
+                    "s": 3,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 4,
+                    "y": 0,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

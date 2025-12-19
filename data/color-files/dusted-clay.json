@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13398871",
+        "name": "Dusted Clay",
+        "other-names": [
+            {
+                "name": "Dusted Clay",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1429",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "C",
+                    "g1": "7",
+                    "g2": "3",
+                    "b1": "5",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 204,
+                    "g": 115,
+                    "b": 87
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 14,
+                    "s": 53,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 44,
+                    "y": 57,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8200231",
+        "name": "Red Dahlia",
+        "other-names": [
+            {
+                "name": "Red Dahlia",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1555",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Deep Dairei Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "D",
+                    "g1": "2",
+                    "g2": "0",
+                    "b1": "2",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 125,
+                    "g": 32,
+                    "b": 39
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 59,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 74,
+                    "y": 69,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant red with warm red-pink tones."
+    }
+]

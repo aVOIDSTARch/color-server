@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2699342",
+        "name": "Medieval Blue",
+        "other-names": [
+            {
+                "name": "Medieval Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3933",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blue Lobelia",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "9",
+                    "g1": "3",
+                    "g2": "0",
+                    "b1": "4",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 41,
+                    "g": 48,
+                    "b": 78
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 229,
+                    "s": 31,
+                    "l": 23
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 47,
+                    "m": 38,
+                    "y": 0,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

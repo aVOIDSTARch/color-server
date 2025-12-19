@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9533336",
+        "name": "Orchid Mist",
+        "other-names": [
+            {
+                "name": "Orchid Mist",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3612",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sweet Potato Peel",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "1",
+                    "g1": "7",
+                    "g2": "7",
+                    "b1": "9",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 145,
+                    "g": 119,
+                    "b": 152
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 287,
+                    "s": 14,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 22,
+                    "y": 0,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted purple with warm purple-magenta tones."
+    }
+]

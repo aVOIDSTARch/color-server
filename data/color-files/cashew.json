@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10776905",
+        "name": "Cashew",
+        "other-names": [
+            {
+                "name": "Cashew",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1137",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "1",
+                    "b1": "4",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 164,
+                    "g": 113,
+                    "b": 73
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 38,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 55,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, moderately saturated brown with earthy warm red tones."
+    }
+]

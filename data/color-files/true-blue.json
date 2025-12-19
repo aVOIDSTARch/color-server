@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "1983607",
+        "name": "True Blue",
+        "other-names": [
+            {
+                "name": "True Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4057",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Assault",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "E",
+                    "g1": "4",
+                    "g2": "4",
+                    "b1": "7",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 30,
+                    "g": 68,
+                    "b": 119
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 214,
+                    "s": 60,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 75,
+                    "m": 43,
+                    "y": 0,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A dark, vibrant blue with cool blue-violet tones."
+    }
+]

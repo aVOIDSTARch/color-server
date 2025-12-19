@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15591853",
+        "name": "Wax Yellow",
+        "other-names": [
+            {
+                "name": "Wax Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0618",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Yellow Jasmine",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "E",
+                    "g2": "9",
+                    "b1": "A",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 233,
+                    "b": 173
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 56,
+                    "s": 64,
+                    "l": 80
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 27,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, vibrant yellow with warm orange-yellow tones."
+    }
+]

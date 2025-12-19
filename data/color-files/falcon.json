@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7168603",
+        "name": "Falcon",
+        "other-names": [
+            {
+                "name": "Falcon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1304",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Velvet Umber",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "D",
+                    "g1": "6",
+                    "g2": "2",
+                    "b1": "5",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 109,
+                    "g": 98,
+                    "b": 91
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 9,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 17,
+                    "k": 57
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

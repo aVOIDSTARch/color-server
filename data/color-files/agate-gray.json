@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11645087",
+        "name": "Agate Gray",
+        "other-names": [
+            {
+                "name": "Agate Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-6307",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Melmac Silver",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "1",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 177,
+                    "g": 176,
+                    "b": 159
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 57,
+                    "s": 10,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 10,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

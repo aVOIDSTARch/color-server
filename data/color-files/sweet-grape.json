@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4930383",
+        "name": "Sweet Grape",
+        "other-names": [
+            {
+                "name": "Sweet Grape",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3619",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "B",
+                    "g1": "3",
+                    "g2": "B",
+                    "b1": "4",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 75,
+                    "g": 59,
+                    "b": 79
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 288,
+                    "s": 14,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 25,
+                    "y": 0,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A dark, muted purple with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16305815",
+        "name": "Impala",
+        "other-names": [
+            {
+                "name": "Impala",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1025",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Warm Cocoon",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "8",
+                    "g1": "C",
+                    "g2": "E",
+                    "b1": "9",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 248,
+                    "g": 206,
+                    "b": 151
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 34,
+                    "s": 87,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 17,
+                    "y": 39,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10866645",
+        "name": "Plume",
+        "other-names": [
+            {
+                "name": "Plume",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-4809",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "F",
+                    "b1": "D",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 165,
+                    "g": 207,
+                    "b": 213
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 188,
+                    "s": 36,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 23,
+                    "m": 3,
+                    "y": 0,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

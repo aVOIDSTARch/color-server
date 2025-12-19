@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12157841",
+        "name": "Foxglove",
+        "other-names": [
+            {
+                "name": "Foxglove",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1710",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Berry Blush",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "9",
+                    "g1": "8",
+                    "g2": "3",
+                    "b1": "9",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 185,
+                    "g": 131,
+                    "b": 145
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 344,
+                    "s": 28,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 29,
+                    "y": 22,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, muted pink with warm red-pink tones."
+    }
+]

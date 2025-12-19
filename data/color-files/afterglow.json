@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15984329",
+        "name": "Afterglow",
+        "other-names": [
+            {
+                "name": "Afterglow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0510",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Jefferson Cream",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "3",
+                    "g1": "E",
+                    "g2": "6",
+                    "b1": "C",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 243,
+                    "g": 230,
+                    "b": 201
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 41,
+                    "s": 64,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 17,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, vibrant orange with warm orange-yellow tones."
+    }
+]

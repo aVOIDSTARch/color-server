@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16562515",
+        "name": "Banana",
+        "other-names": [
+            {
+                "name": "Banana",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0947",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Honey Crusted Chicken",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "C",
+                    "g1": "B",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 252,
+                    "g": 185,
+                    "b": 83
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 97,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 67,
+                    "k": 1
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm orange-yellow tones."
+    }
+]

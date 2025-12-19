@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11850674",
+        "name": "Pastel Green",
+        "other-names": [
+            {
+                "name": "Pastel Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0116",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Flower Stem",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "4",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "B",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 180,
+                    "g": 211,
+                    "b": 178
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 116,
+                    "s": 27,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 0,
+                    "y": 16,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, muted green with cool green tones."
+    }
+]

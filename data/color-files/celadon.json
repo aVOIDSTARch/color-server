@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12111034",
+        "name": "Celadon",
+        "other-names": [
+            {
+                "name": "Celadon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-6108",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pond’s Edge",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "8",
+                    "g1": "C",
+                    "g2": "C",
+                    "b1": "B",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 184,
+                    "g": 204,
+                    "b": 186
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 126,
+                    "s": 16,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 9,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted green with cool green tones."
+    }
+]

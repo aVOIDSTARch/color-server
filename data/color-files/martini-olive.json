@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7432781",
+        "name": "Martini Olive",
+        "other-names": [
+            {
+                "name": "Martini Olive",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0625",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Olive Grove",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "1",
+                    "g1": "6",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 113,
+                    "g": 106,
+                    "b": 77
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 48,
+                    "s": 19,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 32,
+                    "k": 56
+                }
+            }
+        },
+        "description": "A medium-dark, muted yellow with warm orange-yellow tones."
+    }
+]

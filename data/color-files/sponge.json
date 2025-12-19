@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10786677",
+        "name": "Sponge",
+        "other-names": [
+            {
+                "name": "Sponge",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1118",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Caraway",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "4",
+                    "g1": "9",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 164,
+                    "g": 151,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 21,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 29,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm orange-yellow tones."
+    }
+]

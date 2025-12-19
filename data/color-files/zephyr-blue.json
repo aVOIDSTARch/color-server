@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13883857",
+        "name": "Zephyr Blue",
+        "other-names": [
+            {
+                "name": "Zephyr Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-5603",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Light Cipollino",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "3",
+                    "g1": "D",
+                    "g2": "9",
+                    "b1": "D",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 211,
+                    "g": 217,
+                    "b": 209
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 105,
+                    "s": 10,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 4,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

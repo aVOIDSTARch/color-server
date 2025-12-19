@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7638121",
+        "name": "Watercress",
+        "other-names": [
+            {
+                "name": "Watercress",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0220",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Watercress Spice",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "6",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 116,
+                    "g": 140,
+                    "b": 105
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 101,
+                    "s": 14,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 0,
+                    "y": 25,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, muted green with cool green tones."
+    }
+]

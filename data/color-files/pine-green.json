@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3832158",
+        "name": "Pine Green",
+        "other-names": [
+            {
+                "name": "Pine Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-5923",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Liquid Green Stuff",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 58,
+                    "g": 121,
+                    "b": 94
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 154,
+                    "s": 35,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 52,
+                    "m": 0,
+                    "y": 22,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated green with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11914975",
+        "name": "Omphalodes",
+        "other-names": [
+            {
+                "name": "Omphalodes",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-4200",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "E",
+                    "b1": "D",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 206,
+                    "b": 223
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 204,
+                    "s": 40,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 19,
+                    "m": 8,
+                    "y": 0,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

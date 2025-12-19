@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15913916",
+        "name": "Nude",
+        "other-names": [
+            {
+                "name": "Nude",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0911",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Budding Peach",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "B",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 211,
+                    "b": 188
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 67,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 22,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm red tones."
+    }
+]

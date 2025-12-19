@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11373429",
+        "name": "Praline",
+        "other-names": [
+            {
+                "name": "Praline",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1223",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "D",
+                    "g1": "8",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 173,
+                    "g": 139,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 25,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 32,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

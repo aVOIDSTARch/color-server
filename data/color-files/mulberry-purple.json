@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4799586",
+        "name": "Mulberry Purple",
+        "other-names": [
+            {
+                "name": "Mulberry Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3722",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "9",
+                    "g1": "3",
+                    "g2": "C",
+                    "b1": "6",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 73,
+                    "g": 60,
+                    "b": 98
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 261,
+                    "s": 24,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 26,
+                    "m": 39,
+                    "y": 0,
+                    "k": 62
+                }
+            }
+        },
+        "description": "A medium-dark, muted purple with cool blue-violet tones."
+    }
+]

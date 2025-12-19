@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3551281",
+        "name": "Espresso",
+        "other-names": [
+            {
+                "name": "Espresso",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1103",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Night Rider",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "6",
+                    "g1": "3",
+                    "g2": "0",
+                    "b1": "3",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 54,
+                    "g": 48,
+                    "b": 49
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 350,
+                    "s": 6,
+                    "l": 20
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 9,
+                    "k": 79
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

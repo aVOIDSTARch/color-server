@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3693965",
+        "name": "Bright Cobalt",
+        "other-names": [
+            {
+                "name": "Bright Cobalt",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4037",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Antilles Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "8",
+                    "g1": "5",
+                    "g2": "D",
+                    "b1": "8",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 56,
+                    "g": 93,
+                    "b": 141
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 214,
+                    "s": 43,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 60,
+                    "m": 34,
+                    "y": 0,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

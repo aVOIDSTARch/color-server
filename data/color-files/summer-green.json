@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8311679",
+        "name": "Summer Green",
+        "other-names": [
+            {
+                "name": "Summer Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0156",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Electric Lettuce",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "E",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 126,
+                    "g": 211,
+                    "b": 127
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 121,
+                    "s": 49,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 40,
+                    "m": 0,
+                    "y": 40,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool green tones."
+    }
+]

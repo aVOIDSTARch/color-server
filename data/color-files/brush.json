@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12163460",
+        "name": "Brush",
+        "other-names": [
+            {
+                "name": "Brush",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1317",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Stone Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "9",
+                    "g1": "9",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 185,
+                    "g": 153,
+                    "b": 132
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 27,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 17,
+                    "y": 29,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

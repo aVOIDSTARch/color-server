@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9726370",
+        "name": "Bellflower",
+        "other-names": [
+            {
+                "name": "Bellflower",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3628",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Figue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "4",
+                    "g1": "6",
+                    "g2": "9",
+                    "b1": "A",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 148,
+                    "g": 105,
+                    "b": 162
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 285,
+                    "s": 23,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 35,
+                    "y": 0,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, muted purple with warm purple-magenta tones."
+    }
+]

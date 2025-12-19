@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7222828",
+        "name": "Smoked Paprika",
+        "other-names": [
+            {
+                "name": "Smoked Paprika",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1429",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Strong Mocha",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "E",
+                    "g1": "3",
+                    "g2": "6",
+                    "b1": "2",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 110,
+                    "g": 54,
+                    "b": 44
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 9,
+                    "s": 43,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 51,
+                    "y": 60,
+                    "k": 57
+                }
+            }
+        },
+        "description": "A dark, moderately saturated brown with earthy warm red tones."
+    }
+]

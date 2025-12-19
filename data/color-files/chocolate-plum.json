@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3943726",
+        "name": "Chocolate Plum",
+        "other-names": [
+            {
+                "name": "Chocolate Plum",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1110",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Havana",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "C",
+                    "g1": "2",
+                    "g2": "D",
+                    "b1": "2",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 60,
+                    "g": 45,
+                    "b": 46
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 356,
+                    "s": 14,
+                    "l": 21
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 25,
+                    "y": 23,
+                    "k": 76
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red-pink tones."
+    }
+]

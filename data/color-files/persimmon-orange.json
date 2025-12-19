@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16020263",
+        "name": "Persimmon Orange",
+        "other-names": [
+            {
+                "name": "Persimmon Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1356",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "3",
+                    "b1": "2",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 115,
+                    "b": 39
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 90,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 53,
+                    "y": 84,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A medium, highly saturated orange with warm red tones."
+    }
+]

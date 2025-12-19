@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13946010",
+        "name": "Dusty Yellow",
+        "other-names": [
+            {
+                "name": "Dusty Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0619",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tahuna Sands",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "4",
+                    "g1": "C",
+                    "g2": "C",
+                    "b1": "9",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 212,
+                    "g": 204,
+                    "b": 154
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 52,
+                    "s": 40,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 27,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

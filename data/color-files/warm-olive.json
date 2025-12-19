@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13088316",
+        "name": "Warm Olive",
+        "other-names": [
+            {
+                "name": "Warm Olive",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0646",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "7",
+                    "g1": "B",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 199,
+                    "g": 182,
+                    "b": 60
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 53,
+                    "s": 55,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 70,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, vibrant yellow with warm orange-yellow tones."
+    }
+]

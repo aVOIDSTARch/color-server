@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3057541",
+        "name": "Gumdrop Green",
+        "other-names": [
+            {
+                "name": "Gumdrop Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5825",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "E",
+                    "g1": "A",
+                    "g2": "7",
+                    "b1": "8",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 46,
+                    "g": 167,
+                    "b": 133
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 163,
+                    "s": 57,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 72,
+                    "m": 0,
+                    "y": 20,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant green with cool cyan-blue tones."
+    }
+]

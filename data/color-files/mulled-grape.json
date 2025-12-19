@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6773364",
+        "name": "Mulled Grape",
+        "other-names": [
+            {
+                "name": "Mulled Grape",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3714",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "7",
+                    "g1": "5",
+                    "g2": "A",
+                    "b1": "7",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 103,
+                    "g": 90,
+                    "b": 116
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 270,
+                    "s": 13,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 22,
+                    "y": 0,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, muted purple with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6506616",
+        "name": "Picasso Lily",
+        "other-names": [
+            {
+                "name": "Picasso Lily",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3635",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "3",
+                    "g1": "4",
+                    "g2": "8",
+                    "b1": "7",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 99,
+                    "g": 72,
+                    "b": 120
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 274,
+                    "s": 25,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 18,
+                    "m": 40,
+                    "y": 0,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, muted purple with warm purple-magenta tones."
+    }
+]

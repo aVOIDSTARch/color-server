@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5204824",
+        "name": "Myrtle",
+        "other-names": [
+            {
+                "name": "Myrtle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-6114",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Kale Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "F",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "5",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 79,
+                    "g": 107,
+                    "b": 88
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 139,
+                    "s": 15,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 26,
+                    "m": 0,
+                    "y": 18,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

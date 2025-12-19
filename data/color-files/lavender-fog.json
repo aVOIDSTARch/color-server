@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13812950",
+        "name": "Lavender Fog",
+        "other-names": [
+            {
+                "name": "Lavender Fog",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-3820",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Modesty",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "4",
+                    "b1": "D",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 196,
+                    "b": 214
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 287,
+                    "s": 18,
+                    "l": 80
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 8,
+                    "y": 0,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, muted purple with warm purple-magenta tones."
+    }
+]

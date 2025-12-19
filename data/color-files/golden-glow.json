@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14260536",
+        "name": "Golden Glow",
+        "other-names": [
+            {
+                "name": "Golden Glow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1050",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Trinket",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "9",
+                    "g1": "9",
+                    "g2": "9",
+                    "b1": "3",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 217,
+                    "g": 153,
+                    "b": 56
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 68,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 29,
+                    "y": 74,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm orange-yellow tones."
+    }
+]

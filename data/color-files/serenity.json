@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9545936",
+        "name": "Serenity",
+        "other-names": [
+            {
+                "name": "Serenity",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-3919",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "1",
+                    "g1": "A",
+                    "g2": "8",
+                    "b1": "D",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 145,
+                    "g": 168,
+                    "b": 208
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 218,
+                    "s": 40,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 30,
+                    "m": 19,
+                    "y": 0,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

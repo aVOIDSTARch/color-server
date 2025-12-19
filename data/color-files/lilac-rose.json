@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12403317",
+        "name": "Lilac Rose",
+        "other-names": [
+            {
+                "name": "Lilac Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-2227",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "D",
+                    "g1": "4",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 189,
+                    "g": 66,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 335,
+                    "s": 48,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 65,
+                    "y": 38,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium, moderately saturated pink with warm red-pink tones."
+    }
+]

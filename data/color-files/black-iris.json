@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2830402",
+        "name": "Black Iris",
+        "other-names": [
+            {
+                "name": "Black Iris",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3921",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "B",
+                    "g1": "3",
+                    "g2": "0",
+                    "b1": "4",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 43,
+                    "g": 48,
+                    "b": 66
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 227,
+                    "s": 21,
+                    "l": 21
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 35,
+                    "m": 27,
+                    "y": 0,
+                    "k": 74
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool blue-violet tones."
+    }
+]

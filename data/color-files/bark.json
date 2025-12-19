@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11113874",
+        "name": "Bark",
+        "other-names": [
+            {
+                "name": "Bark",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1506",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Cortex",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "9",
+                    "g1": "9",
+                    "g2": "5",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 169,
+                    "g": 149,
+                    "b": 146
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 8,
+                    "s": 12,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 14,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium-light, muted red with warm red tones."
+    }
+]

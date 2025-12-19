@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4662331",
+        "name": "Winter Bloom",
+        "other-names": [
+            {
+                "name": "Winter Bloom",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2620",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Juice Violet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "7",
+                    "g1": "2",
+                    "g2": "4",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 71,
+                    "g": 36,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 321,
+                    "s": 33,
+                    "l": 21
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 49,
+                    "y": 17,
+                    "k": 72
+                }
+            }
+        },
+        "description": "A dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

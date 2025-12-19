@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10864089",
+        "name": "Cool Blue",
+        "other-names": [
+            {
+                "name": "Cool Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4317",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Frozen Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "5",
+                    "b1": "D",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 165,
+                    "g": 197,
+                    "b": 217
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 203,
+                    "s": 41,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 24,
+                    "m": 9,
+                    "y": 0,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5916521",
+        "name": "Loganberry",
+        "other-names": [
+            {
+                "name": "Loganberry",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3622",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Woad Purple",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "A",
+                    "g1": "4",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 90,
+                    "g": 71,
+                    "b": 105
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 274,
+                    "s": 19,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 32,
+                    "y": 0,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, muted purple with warm purple-magenta tones."
+    }
+]

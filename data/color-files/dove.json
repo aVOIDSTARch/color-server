@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11775399",
+        "name": "Dove",
+        "other-names": [
+            {
+                "name": "Dove",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0000",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "3",
+                    "g1": "A",
+                    "g2": "D",
+                    "b1": "A",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 179,
+                    "g": 173,
+                    "b": 167
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 7,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 7,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

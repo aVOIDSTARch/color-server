@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10201546",
+        "name": "Brunnera Blue",
+        "other-names": [
+            {
+                "name": "Brunnera Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3922",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "B",
+                    "g1": "A",
+                    "g2": "9",
+                    "b1": "C",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 155,
+                    "g": 169,
+                    "b": 202
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 222,
+                    "s": 31,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 23,
+                    "m": 16,
+                    "y": 0,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "32096",
+        "name": "Pepper Green",
+        "other-names": [
+            {
+                "name": "Pepper Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5841",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Turquoise Cyan",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "7",
+                    "g2": "D",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 125,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 166,
+                    "s": 100,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 0,
+                    "y": 23,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5621417",
+        "name": "Biscay Green",
+        "other-names": [
+            {
+                "name": "Biscay Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-5718",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "6",
+                    "b1": "A",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 85,
+                    "g": 198,
+                    "b": 169
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 165,
+                    "s": 50,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 57,
+                    "m": 0,
+                    "y": 15,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "24995",
+        "name": "Directoire Blue",
+        "other-names": [
+            {
+                "name": "Directoire Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4244",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "6",
+                    "g2": "1",
+                    "b1": "A",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 97,
+                    "b": 163
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 204,
+                    "s": 100,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 40,
+                    "y": 0,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

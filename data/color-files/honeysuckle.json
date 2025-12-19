@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14241648",
+        "name": "Honeysuckle",
+        "other-names": [
+            {
+                "name": "Honeysuckle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-2120",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rosy Cheeks",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "9",
+                    "g1": "4",
+                    "g2": "F",
+                    "b1": "7",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 217,
+                    "g": 79,
+                    "b": 112
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 346,
+                    "s": 64,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 64,
+                    "y": 48,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium-light, vibrant red with warm red-pink tones."
+    }
+]

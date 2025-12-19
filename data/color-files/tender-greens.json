@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12963766",
+        "name": "Tender Greens",
+        "other-names": [
+            {
+                "name": "Tender Greens",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0212",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "F",
+                    "b1": "B",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 197,
+                    "g": 207,
+                    "b": 182
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 84,
+                    "s": 21,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 12,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A light, muted green with yellow-green tones."
+    }
+]

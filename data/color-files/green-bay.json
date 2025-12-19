@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8295045",
+        "name": "Green Bay",
+        "other-names": [
+            {
+                "name": "Green Bay",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5810",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "E",
+                    "g1": "9",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 126,
+                    "g": 146,
+                    "b": 133
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 141,
+                    "s": 8,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 0,
+                    "y": 9,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

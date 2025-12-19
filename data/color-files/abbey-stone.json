@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11249560",
+        "name": "Abbey Stone",
+        "other-names": [
+            {
+                "name": "Abbey Stone",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-6408",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "B",
+                    "g1": "A",
+                    "g2": "7",
+                    "b1": "9",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 171,
+                    "g": 167,
+                    "b": 152
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 47,
+                    "s": 10,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 11,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

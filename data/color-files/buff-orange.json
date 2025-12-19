@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16759676",
+        "name": "Buff Orange",
+        "other-names": [
+            {
+                "name": "Buff Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1128",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 187,
+                    "b": 124
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 29,
+                    "s": 100,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 51,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

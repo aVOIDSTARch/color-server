@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14261116",
+        "name": "Peach Bloom",
+        "other-names": [
+            {
+                "name": "Peach Bloom",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1327",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dazzle and Delight",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "9",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 217,
+                    "g": 155,
+                    "b": 124
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 20,
+                    "s": 55,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 29,
+                    "y": 43,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm red tones."
+    }
+]

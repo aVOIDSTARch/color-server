@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15504222",
+        "name": "Muskmelon",
+        "other-names": [
+            {
+                "name": "Muskmelon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1242",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Big Foot Feet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "C",
+                    "g1": "9",
+                    "g2": "3",
+                    "b1": "5",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 236,
+                    "g": 147,
+                    "b": 94
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 79,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 60,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

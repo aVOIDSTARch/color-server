@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16762034",
+        "name": "Tropical Peach",
+        "other-names": [
+            {
+                "name": "Tropical Peach",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1318",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "C",
+                    "g2": "4",
+                    "b1": "B",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 196,
+                    "b": 178
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 14,
+                    "s": 100,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 30,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

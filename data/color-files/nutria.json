@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7693886",
+        "name": "Nutria",
+        "other-names": [
+            {
+                "name": "Nutria",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0825",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "5",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 117,
+                    "g": 102,
+                    "b": 62
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 44,
+                    "s": 31,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 47,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm orange-yellow tones."
+    }
+]

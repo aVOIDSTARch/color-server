@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11575242",
+        "name": "Purple Rose",
+        "other-names": [
+            {
+                "name": "Purple Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-3716",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "0",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "C",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 176,
+                    "g": 159,
+                    "b": 202
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 264,
+                    "s": 29,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 13,
+                    "m": 21,
+                    "y": 0,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A light, muted purple with cool blue-violet tones."
+    }
+]

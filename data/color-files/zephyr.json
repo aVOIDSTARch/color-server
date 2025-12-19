@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13148069",
+        "name": "Zephyr",
+        "other-names": [
+            {
+                "name": "Zephyr",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1906",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Primula",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "A",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 200,
+                    "g": 159,
+                    "b": 165
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 27,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 21,
+                    "y": 17,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-light, muted red with warm red-pink tones."
+    }
+]

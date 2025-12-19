@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16767529",
+        "name": "Vibrant Yellow",
+        "other-names": [
+            {
+                "name": "Vibrant Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0858",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "D",
+                    "g2": "A",
+                    "b1": "2",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 218,
+                    "b": 41
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 50,
+                    "s": 100,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 84,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

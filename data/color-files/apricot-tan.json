@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14522208",
+        "name": "Apricot Tan",
+        "other-names": [
+            {
+                "name": "Apricot Tan",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1237",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Amiable Orange",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "D",
+                    "g1": "9",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 221,
+                    "g": 151,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 65,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 32,
+                    "y": 57,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm red tones."
+    }
+]

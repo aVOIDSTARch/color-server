@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5465692",
+        "name": "Duck Green",
+        "other-names": [
+            {
+                "name": "Duck Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-6011",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "3",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "5",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 83,
+                    "g": 102,
+                    "b": 92
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 148,
+                    "s": 10,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 19,
+                    "m": 0,
+                    "y": 10,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

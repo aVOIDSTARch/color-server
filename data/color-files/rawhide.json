@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8805961",
+        "name": "Rawhide",
+        "other-names": [
+            {
+                "name": "Rawhide",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1137",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "6",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 134,
+                    "g": 94,
+                    "b": 73
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 21,
+                    "s": 29,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 30,
+                    "y": 46,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

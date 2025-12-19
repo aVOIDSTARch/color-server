@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6594989",
+        "name": "Aqua",
+        "other-names": [
+            {
+                "name": "Aqua",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4717",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Seaside",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "A",
+                    "g2": "1",
+                    "b1": "A",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 161,
+                    "b": 173
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 190,
+                    "s": 31,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 42,
+                    "m": 7,
+                    "y": 0,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

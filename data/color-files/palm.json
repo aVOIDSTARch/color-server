@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11513694",
+        "name": "Palm",
+        "other-names": [
+            {
+                "name": "Palm",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0535",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "F",
+                    "g1": "A",
+                    "g2": "F",
+                    "b1": "5",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 175,
+                    "g": 175,
+                    "b": 94
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 60,
+                    "s": 34,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 0,
+                    "y": 46,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium, moderately saturated yellow with yellow-green tones."
+    }
+]

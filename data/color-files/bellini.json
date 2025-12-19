@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16042417",
+        "name": "Bellini",
+        "other-names": [
+            {
+                "name": "Bellini",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1114",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "C",
+                    "g2": "9",
+                    "b1": "B",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 201,
+                    "b": 177
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 21,
+                    "s": 75,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 27,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

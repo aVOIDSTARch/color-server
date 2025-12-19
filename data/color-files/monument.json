@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8685964",
+        "name": "Monument",
+        "other-names": [
+            {
+                "name": "Monument",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4405",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 132,
+                    "g": 137,
+                    "b": 140
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 203,
+                    "s": 3,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 2,
+                    "y": 0,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

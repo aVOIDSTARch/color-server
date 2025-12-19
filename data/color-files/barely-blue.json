@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14541023",
+        "name": "Barely Blue",
+        "other-names": [
+            {
+                "name": "Barely Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-4306",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "D",
+                    "g1": "E",
+                    "g2": "0",
+                    "b1": "D",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 221,
+                    "g": 224,
+                    "b": 223
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 160,
+                    "s": 5,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 0,
+                    "k": 12
+                }
+            }
+        },
+        "description": "A very light, neutral grey."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6710411",
+        "name": "Twilight Purple",
+        "other-names": [
+            {
+                "name": "Twilight Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3820",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "6",
+                    "g1": "6",
+                    "g2": "4",
+                    "b1": "8",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 102,
+                    "g": 100,
+                    "b": 139
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 243,
+                    "s": 16,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 27,
+                    "m": 28,
+                    "y": 0,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16114658",
+        "name": "Delicacy",
+        "other-names": [
+            {
+                "name": "Delicacy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-2409",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "5",
+                    "g1": "E",
+                    "g2": "3",
+                    "b1": "E",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 245,
+                    "g": 227,
+                    "b": 226
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 3,
+                    "s": 49,
+                    "l": 92
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 8,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, moderately saturated red with warm red tones."
+    }
+]

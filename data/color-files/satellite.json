@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10456457",
+        "name": "Satellite",
+        "other-names": [
+            {
+                "name": "Satellite",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3800",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "F",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "8",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 159,
+                    "g": 141,
+                    "b": 137
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 11,
+                    "s": 10,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 14,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

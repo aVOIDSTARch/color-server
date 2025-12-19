@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15523262",
+        "name": "Rutabaga",
+        "other-names": [
+            {
+                "name": "Rutabaga",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0806",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Golden Haystack",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "C",
+                    "g1": "D",
+                    "g2": "D",
+                    "b1": "B",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 236,
+                    "g": 221,
+                    "b": 190
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 40,
+                    "s": 55,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 19,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm orange-yellow tones."
+    }
+]

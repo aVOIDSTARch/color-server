@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4666434",
+        "name": "Plum Perfect",
+        "other-names": [
+            {
+                "name": "Plum Perfect",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3316",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Red Onion",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "7",
+                    "g1": "3",
+                    "g2": "4",
+                    "b1": "4",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 71,
+                    "g": 52,
+                    "b": 66
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 316,
+                    "s": 15,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 7,
+                    "k": 72
+                }
+            }
+        },
+        "description": "A dark, muted pink with warm purple-magenta tones."
+    }
+]

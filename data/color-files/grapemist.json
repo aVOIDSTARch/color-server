@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8624330",
+        "name": "Grapemist",
+        "other-names": [
+            {
+                "name": "Grapemist",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3929",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Purple Gentian",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "3",
+                    "g1": "9",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 131,
+                    "g": 152,
+                    "b": 202
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 222,
+                    "s": 40,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 35,
+                    "m": 25,
+                    "y": 0,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12339305",
+        "name": "Carmine",
+        "other-names": [
+            {
+                "name": "Carmine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1831",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mauve It",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "C",
+                    "g1": "4",
+                    "g2": "8",
+                    "b1": "6",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 188,
+                    "g": 72,
+                    "b": 105
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 343,
+                    "s": 46,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 62,
+                    "y": 44,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium, moderately saturated pink with warm red-pink tones."
+    }
+]

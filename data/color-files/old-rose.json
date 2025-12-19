@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11828087",
+        "name": "Old Rose",
+        "other-names": [
+            {
+                "name": "Old Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1518",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Wild Party",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 180,
+                    "g": 123,
+                    "b": 119
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 4,
+                    "s": 29,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 32,
+                    "y": 34,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, muted red with warm red tones."
+    }
+]

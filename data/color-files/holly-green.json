@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "1023350",
+        "name": "Holly Green",
+        "other-names": [
+            {
+                "name": "Holly Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5932",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "D",
+                    "b1": "7",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 15,
+                    "g": 157,
+                    "b": 118
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 164,
+                    "s": 83,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 90,
+                    "m": 0,
+                    "y": 25,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated green with cool cyan-blue tones."
+    }
+]

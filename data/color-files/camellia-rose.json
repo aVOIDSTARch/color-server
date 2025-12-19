@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15425665",
+        "name": "Camellia Rose",
+        "other-names": [
+            {
+                "name": "Camellia Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1930",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Coral Paradise",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "B",
+                    "g1": "6",
+                    "g2": "0",
+                    "b1": "8",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 235,
+                    "g": 96,
+                    "b": 129
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 346,
+                    "s": 78,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 59,
+                    "y": 45,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated red with warm red-pink tones."
+    }
+]

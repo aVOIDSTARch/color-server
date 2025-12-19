@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13523832",
+        "name": "Fruit Dove",
+        "other-names": [
+            {
+                "name": "Fruit Dove",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1926",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Peppermint Swirl",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 206,
+                    "g": 91,
+                    "b": 120
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 345,
+                    "s": 54,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 56,
+                    "y": 42,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, vibrant red with warm red-pink tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13359058",
+        "name": "Sprout Green",
+        "other-names": [
+            {
+                "name": "Sprout Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-5303",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "B",
+                    "g1": "D",
+                    "g2": "7",
+                    "b1": "D",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 203,
+                    "g": 215,
+                    "b": 210
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 155,
+                    "s": 13,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 0,
+                    "y": 2,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, muted green with cool cyan-blue tones."
+    }
+]

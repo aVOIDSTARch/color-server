@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15305086",
+        "name": "Burnt Coral",
+        "other-names": [
+            {
+                "name": "Burnt Coral",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1529",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Cultured Rose",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "9",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 233,
+                    "g": 137,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 6,
+                    "s": 71,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 41,
+                    "y": 46,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated red with warm red tones."
+    }
+]

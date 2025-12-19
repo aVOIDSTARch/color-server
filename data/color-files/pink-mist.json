@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15121613",
+        "name": "Pink Mist",
+        "other-names": [
+            {
+                "name": "Pink Mist",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-2805",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "6",
+                    "g1": "B",
+                    "g2": "C",
+                    "b1": "C",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 230,
+                    "g": 188,
+                    "b": 205
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 336,
+                    "s": 46,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 11,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A light, moderately saturated pink with warm red-pink tones."
+    }
+]

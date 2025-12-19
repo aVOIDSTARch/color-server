@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "37512",
+        "name": "Columbia",
+        "other-names": [
+            {
+                "name": "Columbia",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-5130",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Nifty Turquoise",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "9",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 146,
+                    "b": 136
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 176,
+                    "s": 100,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 0,
+                    "y": 7,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

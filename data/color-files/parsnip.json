@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14075546",
+        "name": "Parsnip",
+        "other-names": [
+            {
+                "name": "Parsnip",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0925",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "6",
+                    "g1": "C",
+                    "g2": "6",
+                    "b1": "9",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 214,
+                    "g": 198,
+                    "b": 154
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 44,
+                    "s": 42,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 28,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

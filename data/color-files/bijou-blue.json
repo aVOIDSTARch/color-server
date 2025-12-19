@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5135999",
+        "name": "Bijou Blue",
+        "other-names": [
+            {
+                "name": "Bijou Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3921",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "7",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 78,
+                    "g": 94,
+                    "b": 127
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 220,
+                    "s": 24,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 39,
+                    "m": 26,
+                    "y": 0,
+                    "k": 50
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool blue-violet tones."
+    }
+]

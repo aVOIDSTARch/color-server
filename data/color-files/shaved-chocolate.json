@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5520181",
+        "name": "Shaved Chocolate",
+        "other-names": [
+            {
+                "name": "Shaved Chocolate",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1215",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Vixen",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "4",
+                    "g1": "3",
+                    "g2": "B",
+                    "b1": "3",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 84,
+                    "g": 59,
+                    "b": 53
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 12,
+                    "s": 23,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 30,
+                    "y": 37,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

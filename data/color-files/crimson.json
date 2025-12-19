@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11406902",
+        "name": "Crimson",
+        "other-names": [
+            {
+                "name": "Crimson",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1762",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Melancholic Macaw",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "E",
+                    "g1": "0",
+                    "g2": "E",
+                    "b1": "3",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 174,
+                    "g": 14,
+                    "b": 54
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 345,
+                    "s": 85,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 92,
+                    "y": 69,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated red with warm red-pink tones."
+    }
+]

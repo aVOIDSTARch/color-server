@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4870965",
+        "name": "Chive",
+        "other-names": [
+            {
+                "name": "Chive",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0323",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "A",
+                    "g1": "5",
+                    "g2": "3",
+                    "b1": "3",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 74,
+                    "g": 83,
+                    "b": 53
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 78,
+                    "s": 22,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 0,
+                    "y": 36,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A dark, muted green with yellow-green tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11914171",
+        "name": "Subtle Green",
+        "other-names": [
+            {
+                "name": "Subtle Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-6008",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "B",
+                    "b1": "B",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 203,
+                    "b": 187
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 136,
+                    "s": 17,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 0,
+                    "y": 8,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted green with cool green tones."
+    }
+]

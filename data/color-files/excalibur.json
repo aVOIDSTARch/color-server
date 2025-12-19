@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6775144",
+        "name": "Excalibur",
+        "other-names": [
+            {
+                "name": "Excalibur",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3905",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "7",
+                    "g1": "6",
+                    "g2": "1",
+                    "b1": "6",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 103,
+                    "g": 97,
+                    "b": 104
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 291,
+                    "s": 3,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 7,
+                    "y": 0,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

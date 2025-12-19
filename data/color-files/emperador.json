@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6834226",
+        "name": "Emperador",
+        "other-names": [
+            {
+                "name": "Emperador",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1028",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Buckeye",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "8",
+                    "g1": "4",
+                    "g2": "8",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 104,
+                    "g": 72,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 35,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 52,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A dark, moderately saturated brown with earthy warm red tones."
+    }
+]

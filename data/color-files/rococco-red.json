@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12269119",
+        "name": "Rococco Red",
+        "other-names": [
+            {
+                "name": "Rococco Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1652",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rockin Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "B",
+                    "g1": "3",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 187,
+                    "g": 54,
+                    "b": 63
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 356,
+                    "s": 55,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 71,
+                    "y": 66,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium, vibrant red with warm red-pink tones."
+    }
+]

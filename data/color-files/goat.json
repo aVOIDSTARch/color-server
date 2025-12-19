@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11049617",
+        "name": "Goat",
+        "other-names": [
+            {
+                "name": "Goat",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0806",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 168,
+                    "g": 154,
+                    "b": 145
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 12,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 14,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

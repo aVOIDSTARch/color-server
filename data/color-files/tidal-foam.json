@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12564899",
+        "name": "Tidal Foam",
+        "other-names": [
+            {
+                "name": "Tidal Foam",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0210",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "9",
+                    "b1": "A",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 191,
+                    "g": 185,
+                    "b": 163
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 47,
+                    "s": 18,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 15,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-light, muted yellow with warm orange-yellow tones."
+    }
+]

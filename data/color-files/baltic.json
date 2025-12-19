@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2596255",
+        "name": "Baltic",
+        "other-names": [
+            {
+                "name": "Baltic",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5123",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "7",
+                    "g1": "9",
+                    "g2": "D",
+                    "b1": "9",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 39,
+                    "g": 157,
+                    "b": 159
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 181,
+                    "s": 61,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 75,
+                    "m": 1,
+                    "y": 0,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant blue with cool cyan-blue tones."
+    }
+]

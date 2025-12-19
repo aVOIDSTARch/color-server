@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16310503",
+        "name": "Rose Water",
+        "other-names": [
+            {
+                "name": "Rose Water",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-2907",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pork Belly",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "8",
+                    "g1": "E",
+                    "g2": "0",
+                    "b1": "E",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 248,
+                    "g": 224,
+                    "b": 231
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 343,
+                    "s": 63,
+                    "l": 93
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 7,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A very light, vibrant pink with warm red-pink tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7893878",
+        "name": "Storm Front",
+        "other-names": [
+            {
+                "name": "Storm Front",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1503",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Steel Armour",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "8",
+                    "g1": "7",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 120,
+                    "g": 115,
+                    "b": 118
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 324,
+                    "s": 2,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 2,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

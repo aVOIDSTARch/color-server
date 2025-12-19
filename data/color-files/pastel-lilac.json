@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12431568",
+        "name": "Pastel Lilac",
+        "other-names": [
+            {
+                "name": "Pastel Lilac",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3812",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "D",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "D",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 189,
+                    "g": 176,
+                    "b": 208
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 264,
+                    "s": 25,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 15,
+                    "y": 0,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A light, muted purple with cool blue-violet tones."
+    }
+]

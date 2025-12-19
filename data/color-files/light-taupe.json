@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11640205",
+        "name": "Light Taupe",
+        "other-names": [
+            {
+                "name": "Light Taupe",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1210",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "D",
+                    "b1": "8",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 177,
+                    "g": 157,
+                    "b": 141
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 27,
+                    "s": 19,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 20,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

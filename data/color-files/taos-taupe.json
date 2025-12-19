@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12560255",
+        "name": "Taos Taupe",
+        "other-names": [
+            {
+                "name": "Taos Taupe",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1119",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "F",
+                    "g1": "A",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 191,
+                    "g": 167,
+                    "b": 127
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 38,
+                    "s": 33,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 34,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

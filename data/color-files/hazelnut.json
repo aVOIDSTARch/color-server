@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13611157",
+        "name": "Hazelnut",
+        "other-names": [
+            {
+                "name": "Hazelnut",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1315",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Beige Ganesh",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 207,
+                    "g": 176,
+                    "b": 149
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 38,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 28,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10402967",
+        "name": "Quiet Green",
+        "other-names": [
+            {
+                "name": "Quiet Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-6317",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "E",
+                    "g1": "B",
+                    "g2": "C",
+                    "b1": "9",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 158,
+                    "g": 188,
+                    "b": 151
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 109,
+                    "s": 22,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 16,
+                    "m": 0,
+                    "y": 20,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

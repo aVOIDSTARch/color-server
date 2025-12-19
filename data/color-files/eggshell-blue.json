@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10734793",
+        "name": "Eggshell Blue",
+        "other-names": [
+            {
+                "name": "Eggshell Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4809",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "3",
+                    "g1": "C",
+                    "g2": "C",
+                    "b1": "C",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 163,
+                    "g": 204,
+                    "b": 201
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 176,
+                    "s": 29,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 20,
+                    "m": 0,
+                    "y": 1,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted blue with cool cyan-blue tones."
+    }
+]

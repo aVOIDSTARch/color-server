@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12737084",
+        "name": "Orange Rust",
+        "other-names": [
+            {
+                "name": "Orange Rust",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1447",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tartare",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "2",
+                    "g1": "5",
+                    "g2": "A",
+                    "b1": "3",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 194,
+                    "g": 90,
+                    "b": 60
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 53,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 54,
+                    "y": 69,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm red tones."
+    }
+]

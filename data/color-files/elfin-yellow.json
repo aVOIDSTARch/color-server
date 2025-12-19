@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15657623",
+        "name": "Elfin Yellow",
+        "other-names": [
+            {
+                "name": "Elfin Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0620",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pitapat",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "E",
+                    "g1": "E",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 238,
+                    "g": 234,
+                    "b": 151
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 57,
+                    "s": 72,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 37,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

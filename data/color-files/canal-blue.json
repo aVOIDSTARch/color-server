@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10273477",
+        "name": "Canal Blue",
+        "other-names": [
+            {
+                "name": "Canal Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4810",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "C",
+                    "g1": "C",
+                    "g2": "2",
+                    "b1": "C",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 156,
+                    "g": 194,
+                    "b": 197
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 184,
+                    "s": 26,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 2,
+                    "y": 0,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3553336",
+        "name": "Pirate Black",
+        "other-names": [
+            {
+                "name": "Pirate Black",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4305",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "6",
+                    "g1": "3",
+                    "g2": "8",
+                    "b1": "3",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 54,
+                    "g": 56,
+                    "b": 56
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 180,
+                    "s": 2,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 0,
+                    "y": 0,
+                    "k": 78
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

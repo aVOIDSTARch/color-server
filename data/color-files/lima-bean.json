@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14800272",
+        "name": "Lima Bean",
+        "other-names": [
+            {
+                "name": "Lima Bean",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0333",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "1",
+                    "g1": "D",
+                    "g2": "5",
+                    "b1": "9",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 225,
+                    "g": 213,
+                    "b": 144
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 51,
+                    "s": 57,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 36,
+                    "k": 12
+                }
+            }
+        },
+        "description": "A light, vibrant yellow with warm orange-yellow tones."
+    }
+]

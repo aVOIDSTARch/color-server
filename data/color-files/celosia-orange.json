@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15233082",
+        "name": "Celosia Orange",
+        "other-names": [
+            {
+                "name": "Celosia Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1360",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Lava Lamp",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "8",
+                    "g1": "7",
+                    "g2": "0",
+                    "b1": "3",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 232,
+                    "g": 112,
+                    "b": 58
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 19,
+                    "s": 79,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 52,
+                    "y": 75,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

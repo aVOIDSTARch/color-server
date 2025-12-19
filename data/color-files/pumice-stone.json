@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13288121",
+        "name": "Pumice Stone",
+        "other-names": [
+            {
+                "name": "Pumice Stone",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0002",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "A",
+                    "g1": "C",
+                    "g2": "2",
+                    "b1": "B",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 202,
+                    "g": 194,
+                    "b": 185
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 32,
+                    "s": 14,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 8,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A light, muted orange with warm orange-yellow tones."
+    }
+]

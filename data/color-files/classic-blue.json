@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "1002625",
+        "name": "Classic Blue",
+        "other-names": [
+            {
+                "name": "Classic Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4052",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dance Studio",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "F",
+                    "g1": "4",
+                    "g2": "C",
+                    "b1": "8",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 15,
+                    "g": 76,
+                    "b": 129
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 208,
+                    "s": 79,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 88,
+                    "m": 41,
+                    "y": 0,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

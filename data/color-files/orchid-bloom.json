@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12955343",
+        "name": "Orchid Bloom",
+        "other-names": [
+            {
+                "name": "Orchid Bloom",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3612",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "5",
+                    "g1": "A",
+                    "g2": "E",
+                    "b1": "C",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 197,
+                    "g": 174,
+                    "b": 207
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 282,
+                    "s": 26,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 16,
+                    "y": 0,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A light, muted purple with warm purple-magenta tones."
+    }
+]

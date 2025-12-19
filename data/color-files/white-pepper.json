@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11970707",
+        "name": "White Pepper",
+        "other-names": [
+            {
+                "name": "White Pepper",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1307",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Safari Chic",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "6",
+                    "g1": "A",
+                    "g2": "8",
+                    "b1": "9",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 182,
+                    "g": 168,
+                    "b": 147
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 19,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 19,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm orange-yellow tones."
+    }
+]

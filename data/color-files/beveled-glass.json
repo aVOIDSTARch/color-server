@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8047800",
+        "name": "Beveled Glass",
+        "other-names": [
+            {
+                "name": "Beveled Glass",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-5714",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bevelled Glass",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "A",
+                    "g1": "C",
+                    "g2": "C",
+                    "b1": "B",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 122,
+                    "g": 204,
+                    "b": 184
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 165,
+                    "s": 45,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 40,
+                    "m": 0,
+                    "y": 10,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

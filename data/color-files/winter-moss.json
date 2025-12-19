@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5986881",
+        "name": "Winter Moss",
+        "other-names": [
+            {
+                "name": "Winter Moss",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0523",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Devlan Mud",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "B",
+                    "g1": "5",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 91,
+                    "g": 90,
+                    "b": 65
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 58,
+                    "s": 17,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 29,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A medium-dark, muted yellow with warm orange-yellow tones."
+    }
+]

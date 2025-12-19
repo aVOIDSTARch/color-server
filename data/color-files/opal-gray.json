@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10788510",
+        "name": "Opal Gray",
+        "other-names": [
+            {
+                "name": "Opal Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3801",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Equilibrium",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "4",
+                    "g1": "9",
+                    "g2": "E",
+                    "b1": "9",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 164,
+                    "g": 158,
+                    "b": 158
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 3,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 4,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

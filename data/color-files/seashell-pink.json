@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16238786",
+        "name": "Seashell Pink",
+        "other-names": [
+            {
+                "name": "Seashell Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1409",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "7",
+                    "g1": "C",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 247,
+                    "g": 200,
+                    "b": 194
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 7,
+                    "s": 77,
+                    "l": 86
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 19,
+                    "y": 21,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A very light, highly saturated red with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16758171",
+        "name": "Peach Nectar",
+        "other-names": [
+            {
+                "name": "Peach Nectar",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1228",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Island Girl",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "5",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 181,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 16,
+                    "s": 100,
+                    "l": 80
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 29,
+                    "y": 39,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

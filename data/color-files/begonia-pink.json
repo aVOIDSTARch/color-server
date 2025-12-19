@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15506110",
+        "name": "Begonia Pink",
+        "other-names": [
+            {
+                "name": "Begonia Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-2215",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Shocking",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "C",
+                    "g1": "9",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 236,
+                    "g": 154,
+                    "b": 190
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 334,
+                    "s": 68,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 35,
+                    "y": 19,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, vibrant pink with warm red-pink tones."
+    }
+]

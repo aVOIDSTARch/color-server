@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3418410",
+        "name": "Ganache",
+        "other-names": [
+            {
+                "name": "Ganache",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1018",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "4",
+                    "g1": "2",
+                    "g2": "9",
+                    "b1": "2",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 52,
+                    "g": 41,
+                    "b": 42
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 12,
+                    "l": 18
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 21,
+                    "y": 19,
+                    "k": 80
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red-pink tones."
+    }
+]

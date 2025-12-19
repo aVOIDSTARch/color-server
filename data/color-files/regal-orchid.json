@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11111343",
+        "name": "Regal Orchid",
+        "other-names": [
+            {
+                "name": "Regal Orchid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3525",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Violet Eclipse",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "9",
+                    "g1": "8",
+                    "g2": "B",
+                    "b1": "A",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 169,
+                    "g": 139,
+                    "b": 175
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 290,
+                    "s": 18,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 21,
+                    "y": 0,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted pink with warm purple-magenta tones."
+    }
+]

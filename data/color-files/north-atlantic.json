@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5467504",
+        "name": "North Atlantic",
+        "other-names": [
+            {
+                "name": "North Atlantic",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4612",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Juniper Berries",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "3",
+                    "g1": "6",
+                    "g2": "D",
+                    "b1": "7",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 83,
+                    "g": 109,
+                    "b": 112
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 186,
+                    "s": 15,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 26,
+                    "m": 3,
+                    "y": 0,
+                    "k": 56
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

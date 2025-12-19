@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6772311",
+        "name": "Plum Truffle",
+        "other-names": [
+            {
+                "name": "Plum Truffle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1506",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "7",
+                    "g1": "5",
+                    "g2": "6",
+                    "b1": "5",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 103,
+                    "g": 86,
+                    "b": 87
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 356,
+                    "s": 9,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 17,
+                    "y": 16,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

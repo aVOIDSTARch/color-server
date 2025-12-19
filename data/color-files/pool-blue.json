@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6798515",
+        "name": "Pool Blue",
+        "other-names": [
+            {
+                "name": "Pool Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-5218",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "7",
+                    "g1": "B",
+                    "g2": "C",
+                    "b1": "B",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 103,
+                    "g": 188,
+                    "b": 179
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 174,
+                    "s": 39,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 45,
+                    "m": 0,
+                    "y": 5,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

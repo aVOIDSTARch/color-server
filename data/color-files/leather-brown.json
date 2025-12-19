@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9918251",
+        "name": "Leather Brown",
+        "other-names": [
+            {
+                "name": "Leather Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1142",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Ethiopian Wolf",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "7",
+                    "g1": "5",
+                    "g2": "7",
+                    "b1": "2",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 151,
+                    "g": 87,
+                    "b": 43
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 56,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 42,
+                    "y": 72,
+                    "k": 41
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant orange with warm red tones."
+    }
+]

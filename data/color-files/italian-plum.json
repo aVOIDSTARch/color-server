@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5452102",
+        "name": "Italian Plum",
+        "other-names": [
+            {
+                "name": "Italian Plum",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2514",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "3",
+                    "g1": "3",
+                    "g2": "1",
+                    "b1": "4",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 83,
+                    "g": 49,
+                    "b": 70
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 323,
+                    "s": 26,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 41,
+                    "y": 16,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A dark, muted pink with warm purple-magenta tones."
+    }
+]

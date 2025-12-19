@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13527972",
+        "name": "Super Pink",
+        "other-names": [
+            {
+                "name": "Super Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-2625",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "A",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 206,
+                    "g": 107,
+                    "b": 164
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 325,
+                    "s": 50,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 48,
+                    "y": 20,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated pink with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6967611",
+        "name": "Coffee Liqueur",
+        "other-names": [
+            {
+                "name": "Coffee Liqueur",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0930",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "A",
+                    "g1": "5",
+                    "g2": "1",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 106,
+                    "g": 81,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 28,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 44,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

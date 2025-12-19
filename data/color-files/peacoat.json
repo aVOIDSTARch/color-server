@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2829891",
+        "name": "Peacoat",
+        "other-names": [
+            {
+                "name": "Peacoat",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3920",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sea Going",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "B",
+                    "g1": "2",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 43,
+                    "g": 46,
+                    "b": 67
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 233,
+                    "s": 22,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 36,
+                    "m": 31,
+                    "y": 0,
+                    "k": 74
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool blue-violet tones."
+    }
+]

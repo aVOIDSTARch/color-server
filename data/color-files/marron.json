@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7228491",
+        "name": "Marron",
+        "other-names": [
+            {
+                "name": "Marron",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1415",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "E",
+                    "g1": "4",
+                    "g2": "C",
+                    "b1": "4",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 110,
+                    "g": 76,
+                    "b": 75
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 2,
+                    "s": 19,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 32,
+                    "k": 57
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

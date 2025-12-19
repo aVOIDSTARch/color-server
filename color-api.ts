@@ -1,7 +1,7 @@
 // Access to the JSON Color API through TypeScript interfaces and types
 
-import { Color, ColorCollection, ColorFormatCollection, } from './color-types';
-import { COLOR_CODE_FORMAT_STRING, COLOR_CODE_SYSTEM_NAME, COLOR_FAMILIES }  from './color-enums';
+import { Color, ColorCollection, ColorFormatCollection, } from './typescript-color-types/color-types';
+import { COLOR_CODE_FORMAT_STRING, COLOR_CODE_SYSTEM_NAME, COLOR_FAMILY } from './typescript-color-types/color-enums';
 
 
 export interface ColorAPIResponse {
@@ -11,7 +11,7 @@ export interface ColorAPIResponse {
 
 export interface ColorQueryParams {
     format?: COLOR_CODE_FORMAT_STRING
-    family?: COLOR_FAMILIES;
+    family?: COLOR_FAMILY;
     codeSystem?: COLOR_CODE_SYSTEM_NAME;
     name?: string;
 }

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4734777",
+        "name": "Turkish Coffee",
+        "other-names": [
+            {
+                "name": "Turkish Coffee",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0812",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "8",
+                    "g1": "3",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 72,
+                    "g": 63,
+                    "b": 57
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 12,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 21,
+                    "k": 72
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "30788",
+        "name": "Jolly Green",
+        "other-names": [
+            {
+                "name": "Jolly Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-6030",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Gale of the Wind",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "7",
+                    "g2": "8",
+                    "b1": "4",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 120,
+                    "b": 68
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 154,
+                    "s": 100,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 0,
+                    "y": 43,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A dark, highly saturated green with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6587785",
+        "name": "Arctic",
+        "other-names": [
+            {
+                "name": "Arctic",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4911",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "5",
+                    "b1": "8",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 133,
+                    "b": 137
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 186,
+                    "s": 16,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 27,
+                    "m": 3,
+                    "y": 0,
+                    "k": 46
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool cyan-blue tones."
+    }
+]

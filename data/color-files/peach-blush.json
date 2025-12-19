@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14994630",
+        "name": "Peach Blush",
+        "other-names": [
+            {
+                "name": "Peach Blush",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1504",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rose Beige",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "4",
+                    "g1": "C",
+                    "g2": "C",
+                    "b1": "C",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 228,
+                    "g": 204,
+                    "b": 198
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 12,
+                    "s": 36,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 13,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A light, moderately saturated orange with warm red tones."
+    }
+]

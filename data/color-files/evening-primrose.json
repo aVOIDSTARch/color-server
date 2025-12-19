@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13425438",
+        "name": "Evening Primrose",
+        "other-names": [
+            {
+                "name": "Evening Primrose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0651",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Octarine",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "C",
+                    "g1": "D",
+                    "g2": "B",
+                    "b1": "1",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 204,
+                    "g": 219,
+                    "b": 30
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 65,
+                    "s": 76,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 0,
+                    "y": 86,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A medium, highly saturated green with yellow-green tones."
+    }
+]

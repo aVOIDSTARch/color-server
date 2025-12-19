@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7753602",
+        "name": "Meadow Violet",
+        "other-names": [
+            {
+                "name": "Meadow Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3526",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "6",
+                    "g1": "4",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 118,
+                    "g": 79,
+                    "b": 130
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 286,
+                    "s": 24,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 39,
+                    "y": 0,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, muted purple with warm purple-magenta tones."
+    }
+]

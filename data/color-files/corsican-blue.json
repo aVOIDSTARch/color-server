@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6578323",
+        "name": "Corsican Blue",
+        "other-names": [
+            {
+                "name": "Corsican Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3828",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "6",
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 96,
+                    "b": 147
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 245,
+                    "s": 21,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 32,
+                    "m": 35,
+                    "y": 0,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

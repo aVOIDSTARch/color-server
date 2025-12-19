@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5023175",
+        "name": "Norse Blue",
+        "other-names": [
+            {
+                "name": "Norse Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4427",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Oasis Spring",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "C",
+                    "g1": "A",
+                    "g2": "5",
+                    "b1": "C",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 76,
+                    "g": 165,
+                    "b": 199
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 52,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 62,
+                    "m": 17,
+                    "y": 0,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, vibrant blue with cool cyan-blue tones."
+    }
+]

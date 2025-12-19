@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7499632",
+        "name": "Steel Gray",
+        "other-names": [
+            {
+                "name": "Steel Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4005",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Smoked Pearl",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "2",
+                    "g1": "6",
+                    "g2": "F",
+                    "b1": "7",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 114,
+                    "g": 111,
+                    "b": 112
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 340,
+                    "s": 1,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 2,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

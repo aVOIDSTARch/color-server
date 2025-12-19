@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5996221",
+        "name": "Ultramarine",
+        "other-names": [
+            {
+                "name": "Ultramarine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4037",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blue Iolite",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "B",
+                    "g1": "7",
+                    "g2": "E",
+                    "b1": "B",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 91,
+                    "g": 126,
+                    "b": 189
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 219,
+                    "s": 43,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 52,
+                    "m": 33,
+                    "y": 0,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool blue-violet tones."
+    }
+]

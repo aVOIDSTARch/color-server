@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6568524",
+        "name": "Crushed Violets",
+        "other-names": [
+            {
+                "name": "Crushed Violets",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2312",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Liqueur Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "3",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 58,
+                    "b": 76
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 334,
+                    "s": 27,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 42,
+                    "y": 24,
+                    "k": 61
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm red-pink tones."
+    }
+]

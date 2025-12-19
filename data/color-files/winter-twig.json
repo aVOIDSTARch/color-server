@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9734778",
+        "name": "Winter Twig",
+        "other-names": [
+            {
+                "name": "Winter Twig",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1108",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Laminated Wood",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "A",
+                    "b1": "7",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 148,
+                    "g": 138,
+                    "b": 122
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 37,
+                    "s": 11,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 18,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm orange-yellow tones."
+    }
+]

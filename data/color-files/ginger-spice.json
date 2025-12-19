@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11951432",
+        "name": "Ginger Spice",
+        "other-names": [
+            {
+                "name": "Ginger Spice",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1535",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "6",
+                    "g1": "5",
+                    "g2": "D",
+                    "b1": "4",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 182,
+                    "g": 93,
+                    "b": 72
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 11,
+                    "s": 43,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 49,
+                    "y": 60,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm red tones."
+    }
+]

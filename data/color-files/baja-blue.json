@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6254000",
+        "name": "Baja Blue",
+        "other-names": [
+            {
+                "name": "Baja Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3946",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Loch Ness",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "F",
+                    "g1": "6",
+                    "g2": "D",
+                    "b1": "B",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 95,
+                    "g": 109,
+                    "b": 176
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 230,
+                    "s": 34,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 46,
+                    "m": 38,
+                    "y": 0,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool blue-violet tones."
+    }
+]

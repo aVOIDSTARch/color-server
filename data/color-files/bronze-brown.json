@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8543791",
+        "name": "Bronze Brown",
+        "other-names": [
+            {
+                "name": "Bronze Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0937",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "2",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "2",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 130,
+                    "g": 94,
+                    "b": 47
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 34,
+                    "s": 47,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 28,
+                    "y": 64,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm orange-yellow tones."
+    }
+]

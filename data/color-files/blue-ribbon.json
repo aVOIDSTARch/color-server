@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3815775",
+        "name": "Blue Ribbon",
+        "other-names": [
+            {
+                "name": "Blue Ribbon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3839",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Storm Is Coming",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "A",
+                    "g1": "3",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 58,
+                    "g": 57,
+                    "b": 95
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 242,
+                    "s": 25,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 39,
+                    "m": 40,
+                    "y": 0,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool blue-violet tones."
+    }
+]

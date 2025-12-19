@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8902590",
+        "name": "Cabbage",
+        "other-names": [
+            {
+                "name": "Cabbage",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-5714",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "7",
+                    "g1": "D",
+                    "g2": "7",
+                    "b1": "B",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 135,
+                    "g": 215,
+                    "b": 190
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 161,
+                    "s": 50,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 37,
+                    "m": 0,
+                    "y": 12,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool cyan-blue tones."
+    }
+]

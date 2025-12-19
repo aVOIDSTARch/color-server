@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13802371",
+        "name": "Dusty Coral",
+        "other-names": [
+            {
+                "name": "Dusty Coral",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1322",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "8",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 155,
+                    "b": 131
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 18,
+                    "s": 47,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 26,
+                    "y": 38,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm red tones."
+    }
+]

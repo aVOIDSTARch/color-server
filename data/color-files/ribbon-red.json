@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12133942",
+        "name": "Ribbon Red",
+        "other-names": [
+            {
+                "name": "Ribbon Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1663",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Demonic",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "9",
+                    "g1": "2",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 185,
+                    "g": 38,
+                    "b": 54
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 353,
+                    "s": 66,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 79,
+                    "y": 71,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant red with warm red-pink tones."
+    }
+]

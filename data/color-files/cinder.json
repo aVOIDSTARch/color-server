@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9076344",
+        "name": "Cinder",
+        "other-names": [
+            {
+                "name": "Cinder",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1506",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hurricane",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "E",
+                    "b1": "7",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 138,
+                    "g": 126,
+                    "b": 120
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 20,
+                    "s": 7,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 13,
+                    "k": 46
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

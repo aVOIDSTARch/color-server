@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12923718",
+        "name": "Tomato Puree",
+        "other-names": [
+            {
+                "name": "Tomato Puree",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1661",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rococco Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "5",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "4",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 197,
+                    "g": 51,
+                    "b": 70
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 59,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 74,
+                    "y": 64,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium, vibrant red with warm red-pink tones."
+    }
+]

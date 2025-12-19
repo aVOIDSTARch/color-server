@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5857076",
+        "name": "Pesto",
+        "other-names": [
+            {
+                "name": "Pesto",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0228",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Saratoga",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "9",
+                    "g1": "5",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 89,
+                    "g": 95,
+                    "b": 52
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 68,
+                    "s": 29,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 0,
+                    "y": 45,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A dark, muted green with yellow-green tones."
+    }
+]

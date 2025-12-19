@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12259895",
+        "name": "Ski Patrol",
+        "other-names": [
+            {
+                "name": "Ski Patrol",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1761",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hot Cuba",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "B",
+                    "g1": "1",
+                    "g2": "2",
+                    "b1": "3",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 187,
+                    "g": 18,
+                    "b": 55
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 347,
+                    "s": 82,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 90,
+                    "y": 71,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated red with warm red-pink tones."
+    }
+]

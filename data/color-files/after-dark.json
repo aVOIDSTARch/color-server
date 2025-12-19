@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3945781",
+        "name": "After Dark",
+        "other-names": [
+            {
+                "name": "After Dark",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1101",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "C",
+                    "g1": "3",
+                    "g2": "5",
+                    "b1": "3",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 60,
+                    "g": 53,
+                    "b": 53
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 6,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 12,
+                    "k": 76
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

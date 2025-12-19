@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11633455",
+        "name": "Chai Tea",
+        "other-names": [
+            {
+                "name": "Chai Tea",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0949",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Brass Yellow",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "1",
+                    "g1": "8",
+                    "g2": "3",
+                    "b1": "2",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 177,
+                    "g": 131,
+                    "b": 47
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 58,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 26,
+                    "y": 73,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant orange with warm orange-yellow tones."
+    }
+]

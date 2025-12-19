@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3382366",
+        "name": "Kelly Green",
+        "other-names": [
+            {
+                "name": "Kelly Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-6138",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "3",
+                    "g1": "9",
+                    "g2": "C",
+                    "b1": "5",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 51,
+                    "g": 156,
+                    "b": 94
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 145,
+                    "s": 51,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 67,
+                    "m": 0,
+                    "y": 40,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant green with cool green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3306159",
+        "name": "Campanula",
+        "other-names": [
+            {
+                "name": "Campanula",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4141",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Flat Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "2",
+                    "g1": "7",
+                    "g2": "2",
+                    "b1": "A",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 50,
+                    "g": 114,
+                    "b": 175
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 209,
+                    "s": 56,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 71,
+                    "m": 35,
+                    "y": 0,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant blue with cool cyan-blue tones."
+    }
+]

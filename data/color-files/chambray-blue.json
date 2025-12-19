@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10400979",
+        "name": "Chambray Blue",
+        "other-names": [
+            {
+                "name": "Chambray Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4030",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mont Blanc",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "E",
+                    "g1": "B",
+                    "g2": "4",
+                    "b1": "D",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 158,
+                    "g": 180,
+                    "b": 211
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 215,
+                    "s": 38,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 15,
+                    "y": 0,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool blue-violet tones."
+    }
+]

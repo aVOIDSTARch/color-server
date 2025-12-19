@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10632230",
+        "name": "Rooibos Tea",
+        "other-names": [
+            {
+                "name": "Rooibos Tea",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1355",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Brick",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "2",
+                    "g1": "3",
+                    "g2": "C",
+                    "b1": "2",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 162,
+                    "g": 60,
+                    "b": 38
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 11,
+                    "s": 62,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 63,
+                    "y": 77,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant orange with warm red tones."
+    }
+]

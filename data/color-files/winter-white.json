@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16116946",
+        "name": "Winter White",
+        "other-names": [
+            {
+                "name": "Winter White",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0507",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "5",
+                    "g1": "E",
+                    "g2": "C",
+                    "b1": "D",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 245,
+                    "g": 236,
+                    "b": 210
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 45,
+                    "s": 64,
+                    "l": 89
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 14,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, vibrant yellow with warm orange-yellow tones."
+    }
+]

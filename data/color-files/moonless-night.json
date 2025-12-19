@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3091760",
+        "name": "Moonless Night",
+        "other-names": [
+            {
+                "name": "Moonless Night",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4203",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dark Onyx",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "F",
+                    "g1": "2",
+                    "g2": "D",
+                    "b1": "3",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 47,
+                    "g": 45,
+                    "b": 48
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 280,
+                    "s": 3,
+                    "l": 18
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 6,
+                    "y": 0,
+                    "k": 81
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

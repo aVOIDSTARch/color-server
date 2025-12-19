@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15719619",
+        "name": "Navajo",
+        "other-names": [
+            {
+                "name": "Navajo",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0710",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "F",
+                    "g1": "D",
+                    "g2": "C",
+                    "b1": "C",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 239,
+                    "g": 220,
+                    "b": 195
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 34,
+                    "s": 58,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 18,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm orange-yellow tones."
+    }
+]

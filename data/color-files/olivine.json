@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6712148",
+        "name": "Olivine",
+        "other-names": [
+            {
+                "name": "Olivine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0316",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bijoux Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "6",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "5",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 102,
+                    "g": 107,
+                    "b": 84
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 73,
+                    "s": 12,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 21,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with yellow-green tones."
+    }
+]

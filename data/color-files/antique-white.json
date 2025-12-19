@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15590354",
+        "name": "Antique White",
+        "other-names": [
+            {
+                "name": "Antique White",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0105",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Stone Pillar",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "E",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 227,
+                    "b": 210
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 38,
+                    "s": 43,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 11,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A very light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

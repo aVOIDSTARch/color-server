@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15365005",
+        "name": "Bubblegum",
+        "other-names": [
+            {
+                "name": "Bubblegum",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1928",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Loveland",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "3",
+                    "b1": "8",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 234,
+                    "g": 115,
+                    "b": 141
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 347,
+                    "s": 74,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 51,
+                    "y": 40,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated red with warm red-pink tones."
+    }
+]

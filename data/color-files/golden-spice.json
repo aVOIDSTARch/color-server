@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13014847",
+        "name": "Golden Spice",
+        "other-names": [
+            {
+                "name": "Golden Spice",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0948",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "6",
+                    "g1": "9",
+                    "g2": "7",
+                    "b1": "3",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 198,
+                    "g": 151,
+                    "b": 63
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 54,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 68,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm orange-yellow tones."
+    }
+]

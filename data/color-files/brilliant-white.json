@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15593982",
+        "name": "Brilliant White",
+        "other-names": [
+            {
+                "name": "Brilliant White",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-4001",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "White Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "F",
+                    "g2": "1",
+                    "b1": "F",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 241,
+                    "b": 254
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 226,
+                    "s": 89,
+                    "l": 96
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 5,
+                    "y": 0,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A soft white with cool blue-violet undertones."
+    }
+]

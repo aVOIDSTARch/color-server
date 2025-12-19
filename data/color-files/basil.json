@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8888196",
+        "name": "Basil",
+        "other-names": [
+            {
+                "name": "Basil",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-6216",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "7",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 135,
+                    "g": 159,
+                    "b": 132
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 113,
+                    "s": 12,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 0,
+                    "y": 17,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

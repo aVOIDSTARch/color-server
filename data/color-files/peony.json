@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15572136",
+        "name": "Peony",
+        "other-names": [
+            {
+                "name": "Peony",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1816",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Candy Coated",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "9",
+                    "g2": "C",
+                    "b1": "A",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 156,
+                    "b": 168
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 69,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 34,
+                    "y": 29,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, vibrant red with warm red-pink tones."
+    }
+]

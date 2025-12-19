@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9476940",
+        "name": "Spinach Green",
+        "other-names": [
+            {
+                "name": "Spinach Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0439",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "0",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "4",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 144,
+                    "g": 155,
+                    "b": 76
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 68,
+                    "s": 34,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 0,
+                    "y": 51,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated green with yellow-green tones."
+    }
+]

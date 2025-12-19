@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14832940",
+        "name": "Orangeade",
+        "other-names": [
+            {
+                "name": "Orangeade",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1461",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Untamed Orange",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "5",
+                    "g2": "5",
+                    "b1": "2",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 85,
+                    "b": 44
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 14,
+                    "s": 76,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 62,
+                    "y": 81,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A medium, highly saturated orange with warm red tones."
+    }
+]

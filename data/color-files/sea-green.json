@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "1350792",
+        "name": "Sea Green",
+        "other-names": [
+            {
+                "name": "Sea Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5421",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Flamboyant Teal",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "4",
+                    "g1": "9",
+                    "g2": "C",
+                    "b1": "8",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 20,
+                    "g": 156,
+                    "b": 136
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 171,
+                    "s": 77,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 87,
+                    "m": 0,
+                    "y": 13,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

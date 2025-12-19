@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6054301",
+        "name": "Violet Storm",
+        "other-names": [
+            {
+                "name": "Violet Storm",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3944",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "C",
+                    "g1": "6",
+                    "g2": "1",
+                    "b1": "9",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 92,
+                    "g": 97,
+                    "b": 157
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 235,
+                    "s": 26,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 41,
+                    "m": 38,
+                    "y": 0,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

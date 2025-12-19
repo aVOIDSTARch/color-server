@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12830408",
+        "name": "Oyster Mushroom",
+        "other-names": [
+            {
+                "name": "Oyster Mushroom",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-4201",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Galactic Tint",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "3",
+                    "g1": "C",
+                    "g2": "6",
+                    "b1": "C",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 195,
+                    "g": 198,
+                    "b": 200
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 204,
+                    "s": 4,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 1,
+                    "y": 0,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

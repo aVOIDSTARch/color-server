@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4276810",
+        "name": "Ebony",
+        "other-names": [
+            {
+                "name": "Ebony",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4104",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Napoleon",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "1",
+                    "g1": "4",
+                    "g2": "2",
+                    "b1": "4",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 65,
+                    "g": 66,
+                    "b": 74
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 233,
+                    "s": 6,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 11,
+                    "y": 0,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

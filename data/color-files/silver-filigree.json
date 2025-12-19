@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8354945",
+        "name": "Silver Filigree",
+        "other-names": [
+            {
+                "name": "Silver Filigree",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3911",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "F",
+                    "g1": "7",
+                    "g2": "C",
+                    "b1": "8",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 127,
+                    "g": 124,
+                    "b": 129
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 276,
+                    "s": 2,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 4,
+                    "y": 0,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12639034",
+        "name": "Lime Popsicle",
+        "other-names": [
+            {
+                "name": "Lime Popsicle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0443",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "0",
+                    "g1": "D",
+                    "g2": "B",
+                    "b1": "3",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 192,
+                    "g": 219,
+                    "b": 58
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 70,
+                    "s": 69,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 0,
+                    "y": 74,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A medium, vibrant green with yellow-green tones."
+    }
+]

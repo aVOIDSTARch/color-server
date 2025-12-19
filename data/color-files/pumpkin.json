@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16097903",
+        "name": "Pumpkin",
+        "other-names": [
+            {
+                "name": "Pumpkin",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1139",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Copper River",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "5",
+                    "g1": "A",
+                    "g2": "2",
+                    "b1": "6",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 245,
+                    "g": 162,
+                    "b": 111
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 87,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 34,
+                    "y": 55,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

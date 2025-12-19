@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16237676",
+        "name": "Sunset Gold",
+        "other-names": [
+            {
+                "name": "Sunset Gold",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0940",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hawker’s Gold",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "7",
+                    "g1": "C",
+                    "g2": "4",
+                    "b1": "6",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 247,
+                    "g": 196,
+                    "b": 108
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 38,
+                    "s": 90,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 21,
+                    "y": 56,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm orange-yellow tones."
+    }
+]

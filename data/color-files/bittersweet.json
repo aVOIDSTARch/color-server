@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14235460",
+        "name": "Bittersweet",
+        "other-names": [
+            {
+                "name": "Bittersweet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1663",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Cruel Ruby",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "9",
+                    "g1": "3",
+                    "g2": "7",
+                    "b1": "4",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 217,
+                    "g": 55,
+                    "b": 68
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 68,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 75,
+                    "y": 69,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium, vibrant red with warm red-pink tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15959380",
+        "name": "Autumn Sunset",
+        "other-names": [
+            {
+                "name": "Autumn Sunset",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1343",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "3",
+                    "g1": "8",
+                    "g2": "5",
+                    "b1": "5",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 243,
+                    "g": 133,
+                    "b": 84
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 18,
+                    "s": 87,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 45,
+                    "y": 65,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

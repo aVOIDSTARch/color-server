@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5453181",
+        "name": "Prism Violet",
+        "other-names": [
+            {
+                "name": "Prism Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3748",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "3",
+                    "g1": "3",
+                    "g2": "5",
+                    "b1": "7",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 83,
+                    "g": 53,
+                    "b": 125
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 265,
+                    "s": 40,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 34,
+                    "m": 58,
+                    "y": 0,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated purple with cool blue-violet tones."
+    }
+]

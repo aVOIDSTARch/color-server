@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7292270",
+        "name": "Sunset Purple",
+        "other-names": [
+            {
+                "name": "Sunset Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3424",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "F",
+                    "g1": "4",
+                    "g2": "5",
+                    "b1": "6",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 111,
+                    "g": 69,
+                    "b": 110
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 301,
+                    "s": 23,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 1,
+                    "k": 56
+                }
+            }
+        },
+        "description": "A medium-dark, muted pink with warm purple-magenta tones."
+    }
+]

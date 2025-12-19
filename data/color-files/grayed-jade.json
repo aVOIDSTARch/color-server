@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10206889",
+        "name": "Grayed Jade",
+        "other-names": [
+            {
+                "name": "Grayed Jade",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-6011",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Spring Reflection",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "B",
+                    "g1": "B",
+                    "g2": "E",
+                    "b1": "A",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 155,
+                    "g": 190,
+                    "b": 169
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 144,
+                    "s": 21,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 18,
+                    "m": 0,
+                    "y": 11,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

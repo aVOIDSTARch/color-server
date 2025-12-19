@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3747115",
+        "name": "Mole",
+        "other-names": [
+            {
+                "name": "Mole",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1106",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "9",
+                    "g1": "2",
+                    "g2": "D",
+                    "b1": "2",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 57,
+                    "g": 45,
+                    "b": 43
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 9,
+                    "s": 14,
+                    "l": 20
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 21,
+                    "y": 25,
+                    "k": 78
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

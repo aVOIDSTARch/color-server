@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16759710",
+        "name": "Prairie Sunset",
+        "other-names": [
+            {
+                "name": "Prairie Sunset",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1021",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pallid Orange",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "B",
+                    "b1": "9",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 187,
+                    "b": 158
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 18,
+                    "s": 100,
+                    "l": 81
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 38,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

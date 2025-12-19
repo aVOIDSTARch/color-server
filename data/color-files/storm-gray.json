@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11909814",
+        "name": "Storm Gray",
+        "other-names": [
+            {
+                "name": "Storm Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4003",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Quiet Time",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "B",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 186,
+                    "b": 182
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 132,
+                    "s": 3,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 2,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

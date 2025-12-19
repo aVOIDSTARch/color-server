@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16101565",
+        "name": "Candy Pink",
+        "other-names": [
+            {
+                "name": "Candy Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1911",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Silly Puddy",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "5",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "B",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 245,
+                    "g": 176,
+                    "b": 189
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 349,
+                    "s": 78,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 28,
+                    "y": 23,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red-pink tones."
+    }
+]

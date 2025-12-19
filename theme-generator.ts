@@ -21,6 +21,7 @@ export enum ThemeExportFormat {
     SOLID = "solid",
     STYLED_COMPONENTS = "styled-components",
     TAILWIND = "tailwind",
+    DAISYUI = "daisyui",
     EMOTION = "emotion",
     VANILLA = "vanilla",
     JSON = "json",

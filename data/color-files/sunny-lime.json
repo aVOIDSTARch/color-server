@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14675847",
+        "name": "Sunny Lime",
+        "other-names": [
+            {
+                "name": "Sunny Lime",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0741",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "F",
+                    "g1": "E",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 223,
+                    "g": 239,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 69,
+                    "s": 76,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 0,
+                    "y": 44,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A light, highly saturated green with yellow-green tones."
+    }
+]

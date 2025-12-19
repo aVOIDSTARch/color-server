@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5528126",
+        "name": "Cypress",
+        "other-names": [
+            {
+                "name": "Cypress",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0322",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blue Black Crayfish",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "4",
+                    "g1": "5",
+                    "g2": "A",
+                    "b1": "3",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 84,
+                    "g": 90,
+                    "b": 62
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 73,
+                    "s": 18,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 0,
+                    "y": 31,
+                    "k": 65
+                }
+            }
+        },
+        "description": "A dark, muted green with yellow-green tones."
+    }
+]

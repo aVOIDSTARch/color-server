@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6044237",
+        "name": "Prune Purple",
+        "other-names": [
+            {
+                "name": "Prune Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1608",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dulcet Violet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "C",
+                    "g1": "3",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 92,
+                    "g": 58,
+                    "b": 77
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 326,
+                    "s": 23,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 37,
+                    "y": 16,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A dark, muted pink with warm purple-magenta tones."
+    }
+]

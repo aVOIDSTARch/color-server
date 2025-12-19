@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6498912",
+        "name": "Charisma",
+        "other-names": [
+            {
+                "name": "Charisma",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3340",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "3",
+                    "g1": "2",
+                    "g2": "A",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 99,
+                    "g": 42,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 303,
+                    "s": 40,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 58,
+                    "y": 3,
+                    "k": 61
+                }
+            }
+        },
+        "description": "A dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6249292",
+        "name": "Kalamata",
+        "other-names": [
+            {
+                "name": "Kalamata",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0510",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hidden Trail",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "F",
+                    "g1": "5",
+                    "g2": "B",
+                    "b1": "4",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 95,
+                    "g": 91,
+                    "b": 76
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 47,
+                    "s": 11,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 20,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A medium-dark, muted yellow with warm orange-yellow tones."
+    }
+]

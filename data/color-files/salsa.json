@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11147307",
+        "name": "Salsa",
+        "other-names": [
+            {
+                "name": "Salsa",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1657",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Haute Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "A",
+                    "g1": "1",
+                    "g2": "8",
+                    "b1": "2",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 170,
+                    "g": 24,
+                    "b": 43
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 75,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 86,
+                    "y": 75,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated red with warm red-pink tones."
+    }
+]

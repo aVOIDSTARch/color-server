@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10327730",
+        "name": "Heirloom Lilac",
+        "other-names": [
+            {
+                "name": "Heirloom Lilac",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3812",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "D",
+                    "g1": "9",
+                    "g2": "6",
+                    "b1": "B",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 157,
+                    "g": 150,
+                    "b": 178
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 255,
+                    "s": 15,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 16,
+                    "y": 0,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium-light, muted purple with cool blue-violet tones."
+    }
+]

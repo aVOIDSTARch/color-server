@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10728870",
+        "name": "Frosty Green",
+        "other-names": [
+            {
+                "name": "Frosty Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-5706",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "3",
+                    "g1": "B",
+                    "g2": "5",
+                    "b1": "A",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 163,
+                    "g": 181,
+                    "b": 166
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 130,
+                    "s": 11,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 8,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

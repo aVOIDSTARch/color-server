@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9542601",
+        "name": "Easter Egg",
+        "other-names": [
+            {
+                "name": "Easter Egg",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3925",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hair Ribbon",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "C",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 145,
+                    "g": 155,
+                    "b": 201
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 229,
+                    "s": 34,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 28,
+                    "m": 23,
+                    "y": 0,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

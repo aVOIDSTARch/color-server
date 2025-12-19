@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6343091",
+        "name": "Bermuda",
+        "other-names": [
+            {
+                "name": "Bermuda",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-5416",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Cockatoo",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "0",
+                    "g1": "C",
+                    "g2": "9",
+                    "b1": "B",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 96,
+                    "g": 201,
+                    "b": 179
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 167,
+                    "s": 49,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 52,
+                    "m": 0,
+                    "y": 11,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

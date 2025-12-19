@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6982024",
+        "name": "Trellis",
+        "other-names": [
+            {
+                "name": "Trellis",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-5110",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Overgrown Trellis",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "A",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 106,
+                    "g": 137,
+                    "b": 136
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 178,
+                    "s": 13,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 23,
+                    "m": 0,
+                    "y": 1,
+                    "k": 46
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool cyan-blue tones."
+    }
+]

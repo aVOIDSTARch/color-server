@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16690853",
+        "name": "Apricot Blush",
+        "other-names": [
+            {
+                "name": "Apricot Blush",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1420",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "E",
+                    "g1": "A",
+                    "g2": "E",
+                    "b1": "A",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 254,
+                    "g": 174,
+                    "b": 165
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 6,
+                    "s": 98,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 35,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red tones."
+    }
+]

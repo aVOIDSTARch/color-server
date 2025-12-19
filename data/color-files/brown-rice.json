@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13089700",
+        "name": "Brown Rice",
+        "other-names": [
+            {
+                "name": "Brown Rice",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1105",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Another One Bites the Dust",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "7",
+                    "g1": "B",
+                    "g2": "B",
+                    "b1": "A",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 199,
+                    "g": 187,
+                    "b": 164
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 24,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 18,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A light, muted orange with warm orange-yellow tones."
+    }
+]

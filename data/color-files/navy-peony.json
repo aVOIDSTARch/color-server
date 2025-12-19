@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2243166",
+        "name": "Navy Peony",
+        "other-names": [
+            {
+                "name": "Navy Peony",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4029",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "2",
+                    "g1": "3",
+                    "g2": "A",
+                    "b1": "5",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 34,
+                    "g": 58,
+                    "b": 94
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 216,
+                    "s": 47,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 64,
+                    "m": 38,
+                    "y": 0,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

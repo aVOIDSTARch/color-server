@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9189182",
+        "name": "Brick Red",
+        "other-names": [
+            {
+                "name": "Brick Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1543",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bindi Dot",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "C",
+                    "g1": "3",
+                    "g2": "7",
+                    "b1": "3",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 140,
+                    "g": 55,
+                    "b": 62
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 44,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 61,
+                    "y": 56,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red-pink tones."
+    }
+]

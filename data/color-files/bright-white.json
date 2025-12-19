@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16053744",
+        "name": "Bright White",
+        "other-names": [
+            {
+                "name": "Bright White",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0601",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Laundry White",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "White Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "F",
+                    "g2": "5",
+                    "b1": "F",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 245,
+                    "b": 240
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 72,
+                    "s": 20,
+                    "l": 95
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 0,
+                    "y": 2,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A soft white with yellow-green undertones."
+    }
+]

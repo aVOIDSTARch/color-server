@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6008003",
+        "name": "Blue Mist",
+        "other-names": [
+            {
+                "name": "Blue Mist",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4421",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "B",
+                    "g1": "A",
+                    "g2": "C",
+                    "b1": "C",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 91,
+                    "g": 172,
+                    "b": 195
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 193,
+                    "s": 46,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 53,
+                    "m": 12,
+                    "y": 0,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

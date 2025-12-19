@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12955313",
+        "name": "Burnished Lilac",
+        "other-names": [
+            {
+                "name": "Burnished Lilac",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1905",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "5",
+                    "g1": "A",
+                    "g2": "E",
+                    "b1": "B",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 197,
+                    "g": 174,
+                    "b": 177
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 17,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 10,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A light, muted red with warm red-pink tones."
+    }
+]

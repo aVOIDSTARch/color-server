@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9925959",
+        "name": "Medal Bronze",
+        "other-names": [
+            {
+                "name": "Medal Bronze",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0942",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rococo Gold",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "7",
+                    "g1": "7",
+                    "g2": "5",
+                    "b1": "4",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 151,
+                    "g": 117,
+                    "b": 71
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 36,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 53,
+                    "k": 41
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm orange-yellow tones."
+    }
+]

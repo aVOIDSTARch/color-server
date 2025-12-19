@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15842697",
+        "name": "Apricot Cream",
+        "other-names": [
+            {
+                "name": "Apricot Cream",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1027",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "1",
+                    "g1": "B",
+                    "g2": "D",
+                    "b1": "8",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 241,
+                    "g": 189,
+                    "b": 137
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 79,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 43,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm orange-yellow tones."
+    }
+]

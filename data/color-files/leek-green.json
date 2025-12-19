@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12038522",
+        "name": "Leek Green",
+        "other-names": [
+            {
+                "name": "Leek Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0628",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Leek Powder",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "7",
+                    "g1": "B",
+                    "g2": "1",
+                    "b1": "7",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 183,
+                    "g": 177,
+                    "b": 122
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 54,
+                    "s": 30,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 33,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium-light, muted yellow with warm orange-yellow tones."
+    }
+]

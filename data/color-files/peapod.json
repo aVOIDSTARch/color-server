@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8565125",
+        "name": "Peapod",
+        "other-names": [
+            {
+                "name": "Peapod",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-6324",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "2",
+                    "g1": "B",
+                    "g2": "1",
+                    "b1": "8",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 130,
+                    "g": 177,
+                    "b": 133
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 124,
+                    "s": 23,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 27,
+                    "m": 0,
+                    "y": 25,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15190474",
+        "name": "Potpourri",
+        "other-names": [
+            {
+                "name": "Potpourri",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-2004",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pink Spinel",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "7",
+                    "g1": "C",
+                    "g2": "9",
+                    "b1": "C",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 231,
+                    "g": 201,
+                    "b": 202
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 358,
+                    "s": 38,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 13,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, moderately saturated red with warm red-pink tones."
+    }
+]

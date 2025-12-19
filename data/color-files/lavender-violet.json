@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7764901",
+        "name": "Lavender Violet",
+        "other-names": [
+            {
+                "name": "Lavender Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3924",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "6",
+                    "g1": "7",
+                    "g2": "B",
+                    "b1": "A",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 118,
+                    "g": 123,
+                    "b": 165
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 234,
+                    "s": 21,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 28,
+                    "m": 25,
+                    "y": 0,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15373685",
+        "name": "Shell Coral",
+        "other-names": [
+            {
+                "name": "Shell Coral",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1334",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pochard Duck Head",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "A",
+                    "g1": "9",
+                    "g2": "5",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 234,
+                    "g": 149,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 16,
+                    "s": 74,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 36,
+                    "y": 50,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm red tones."
+    }
+]

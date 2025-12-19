@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11506324",
+        "name": "Deauville Mauve",
+        "other-names": [
+            {
+                "name": "Deauville Mauve",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1707",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "2",
+                    "b1": "9",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 175,
+                    "g": 146,
+                    "b": 148
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 356,
+                    "s": 15,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 17,
+                    "y": 15,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted red with warm red-pink tones."
+    }
+]

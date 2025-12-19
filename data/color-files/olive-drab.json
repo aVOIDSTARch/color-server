@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7695687",
+        "name": "Olive Drab",
+        "other-names": [
+            {
+                "name": "Olive Drab",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0622",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Trim",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "5",
+                    "g1": "6",
+                    "g2": "D",
+                    "b1": "4",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 117,
+                    "g": 109,
+                    "b": 71
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 50,
+                    "s": 24,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 39,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A medium-dark, muted yellow with warm orange-yellow tones."
+    }
+]

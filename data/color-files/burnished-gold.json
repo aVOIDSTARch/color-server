@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11180117",
+        "name": "Burnished Gold",
+        "other-names": [
+            {
+                "name": "Burnished Gold",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0737",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "A",
+                    "g1": "9",
+                    "g2": "8",
+                    "b1": "5",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 170,
+                    "g": 152,
+                    "b": 85
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 47,
+                    "s": 33,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 50,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A medium, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

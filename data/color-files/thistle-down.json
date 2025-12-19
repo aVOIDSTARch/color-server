@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9738683",
+        "name": "Thistle Down",
+        "other-names": [
+            {
+                "name": "Thistle Down",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3930",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "4",
+                    "g1": "9",
+                    "g2": "9",
+                    "b1": "B",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 148,
+                    "g": 153,
+                    "b": 187
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 232,
+                    "s": 22,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 18,
+                    "y": 0,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool blue-violet tones."
+    }
+]

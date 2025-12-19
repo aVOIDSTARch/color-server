@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4416139",
+        "name": "Federal Blue",
+        "other-names": [
+            {
+                "name": "Federal Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4029",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "3",
+                    "g1": "6",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 67,
+                    "g": 98,
+                    "b": 139
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 214,
+                    "s": 35,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 52,
+                    "m": 29,
+                    "y": 0,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

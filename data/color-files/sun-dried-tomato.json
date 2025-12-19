@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7676713",
+        "name": "Sun Dried Tomato",
+        "other-names": [
+            {
+                "name": "Sun Dried Tomato",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1531",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Biking Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "5",
+                    "g1": "2",
+                    "g2": "3",
+                    "b1": "2",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 117,
+                    "g": 35,
+                    "b": 41
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 356,
+                    "s": 54,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 70,
+                    "y": 65,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A dark, vibrant red with warm red-pink tones."
+    }
+]

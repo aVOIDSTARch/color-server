@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5862030",
+        "name": "Coronet Blue",
+        "other-names": [
+            {
+                "name": "Coronet Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3922",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "9",
+                    "g1": "7",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 89,
+                    "g": 114,
+                    "b": 142
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 212,
+                    "s": 23,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 37,
+                    "m": 20,
+                    "y": 0,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool blue-violet tones."
+    }
+]

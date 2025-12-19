@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16374744",
+        "name": "Pearl",
+        "other-names": [
+            {
+                "name": "Pearl",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1304",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pink Lotus",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "9",
+                    "g1": "D",
+                    "g2": "B",
+                    "b1": "D",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 249,
+                    "g": 219,
+                    "b": 216
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 5,
+                    "s": 73,
+                    "l": 91
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 13,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A very light, highly saturated red with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6183776",
+        "name": "Tornado",
+        "other-names": [
+            {
+                "name": "Tornado",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3907",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tornado Cloud",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "B",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 94,
+                    "g": 91,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 276,
+                    "s": 3,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 5,
+                    "y": 0,
+                    "k": 62
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

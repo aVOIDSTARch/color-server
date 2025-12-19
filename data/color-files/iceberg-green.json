@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9215122",
+        "name": "Iceberg Green",
+        "other-names": [
+            {
+                "name": "Iceberg Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5808",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "C",
+                    "g1": "9",
+                    "g2": "C",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 140,
+                    "g": 156,
+                    "b": 146
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 142,
+                    "s": 7,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 6,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

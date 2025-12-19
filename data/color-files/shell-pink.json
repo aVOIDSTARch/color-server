@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16286080",
+        "name": "Shell Pink",
+        "other-names": [
+            {
+                "name": "Shell Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1632",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "8",
+                    "g1": "8",
+                    "g2": "1",
+                    "b1": "8",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 248,
+                    "g": 129,
+                    "b": 128
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 90,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 48,
+                    "y": 48,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red tones."
+    }
+]

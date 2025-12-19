@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7953716",
+        "name": "Breen",
+        "other-names": [
+            {
+                "name": "Breen",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1034",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "9",
+                    "g1": "5",
+                    "g2": "D",
+                    "b1": "3",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 121,
+                    "g": 93,
+                    "b": 52
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 40,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 57,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm orange-yellow tones."
+    }
+]

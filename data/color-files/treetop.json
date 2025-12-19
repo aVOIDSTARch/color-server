@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4680240",
+        "name": "Treetop",
+        "other-names": [
+            {
+                "name": "Treetop",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0135",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tree Shade",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "7",
+                    "g1": "6",
+                    "g2": "A",
+                    "b1": "3",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 71,
+                    "g": 106,
+                    "b": 48
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 96,
+                    "s": 38,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 33,
+                    "m": 0,
+                    "y": 55,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A dark, moderately saturated green with cool green tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4865857",
+        "name": "Shale",
+        "other-names": [
+            {
+                "name": "Shale",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3903",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "A",
+                    "g1": "3",
+                    "g2": "F",
+                    "b1": "4",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 74,
+                    "g": 63,
+                    "b": 65
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 349,
+                    "s": 8,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 12,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

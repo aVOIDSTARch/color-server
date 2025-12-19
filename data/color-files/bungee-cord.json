@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6906198",
+        "name": "Bungee Cord",
+        "other-names": [
+            {
+                "name": "Bungee Cord",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0513",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "9",
+                    "g1": "6",
+                    "g2": "1",
+                    "b1": "5",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 105,
+                    "g": 97,
+                    "b": 86
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 10,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 18,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

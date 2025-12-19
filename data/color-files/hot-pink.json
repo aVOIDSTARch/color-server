@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15030658",
+        "name": "Hot Pink",
+        "other-names": [
+            {
+                "name": "Hot Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1937",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Heather Berry",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "5",
+                    "g1": "5",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 229,
+                    "g": 89,
+                    "b": 130
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 342,
+                    "s": 73,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 61,
+                    "y": 43,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated pink with warm red-pink tones."
+    }
+]

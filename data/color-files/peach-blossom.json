@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14582406",
+        "name": "Peach Blossom",
+        "other-names": [
+            {
+                "name": "Peach Blossom",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1626",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pulp",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "E",
+                    "g1": "8",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 222,
+                    "g": 130,
+                    "b": 134
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 357,
+                    "s": 58,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 41,
+                    "y": 40,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A medium-light, vibrant red with warm red-pink tones."
+    }
+]

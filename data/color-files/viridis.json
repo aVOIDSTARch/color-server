@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "33899",
+        "name": "Viridis",
+        "other-names": [
+            {
+                "name": "Viridis",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-5734",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "8",
+                    "g2": "4",
+                    "b1": "6",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 132,
+                    "b": 107
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 169,
+                    "s": 100,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 0,
+                    "y": 19,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

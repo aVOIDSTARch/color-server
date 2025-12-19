@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5919560",
+        "name": "Tarmac",
+        "other-names": [
+            {
+                "name": "Tarmac",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0822",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "A",
+                    "g1": "5",
+                    "g2": "3",
+                    "b1": "4",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 90,
+                    "g": 83,
+                    "b": 72
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 37,
+                    "s": 11,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 20,
+                    "k": 65
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

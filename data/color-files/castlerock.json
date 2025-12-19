@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6250082",
+        "name": "Castlerock",
+        "other-names": [
+            {
+                "name": "Castlerock",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0201",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "F",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "6",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 95,
+                    "g": 94,
+                    "b": 98
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 255,
+                    "s": 2,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 4,
+                    "y": 0,
+                    "k": 62
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

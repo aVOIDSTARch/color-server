@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10733715",
+        "name": "Arcadian Green",
+        "other-names": [
+            {
+                "name": "Arcadian Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0123",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "3",
+                    "g1": "C",
+                    "g2": "8",
+                    "b1": "9",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 163,
+                    "g": 200,
+                    "b": 147
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 102,
+                    "s": 33,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 19,
+                    "m": 0,
+                    "y": 27,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool green tones."
+    }
+]

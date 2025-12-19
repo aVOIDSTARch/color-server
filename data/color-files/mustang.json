@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6835008",
+        "name": "Mustang",
+        "other-names": [
+            {
+                "name": "Mustang",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1217",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Spanish Mustang",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "8",
+                    "g1": "4",
+                    "g2": "B",
+                    "b1": "4",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 104,
+                    "g": 75,
+                    "b": 64
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 17,
+                    "s": 24,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 28,
+                    "y": 38,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

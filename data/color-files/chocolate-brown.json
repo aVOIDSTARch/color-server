@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5128251",
+        "name": "Chocolate Brown",
+        "other-names": [
+            {
+                "name": "Chocolate Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0912",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Brown Pepper",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "E",
+                    "g1": "4",
+                    "g2": "0",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 78,
+                    "g": 64,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 16,
+                    "s": 14,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 24,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

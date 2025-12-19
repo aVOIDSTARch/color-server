@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5597538",
+        "name": "Dark Forest",
+        "other-names": [
+            {
+                "name": "Dark Forest",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5611",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "5",
+                    "g1": "6",
+                    "g2": "9",
+                    "b1": "6",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 85,
+                    "g": 105,
+                    "b": 98
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 159,
+                    "s": 11,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 19,
+                    "m": 0,
+                    "y": 7,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool cyan-blue tones."
+    }
+]

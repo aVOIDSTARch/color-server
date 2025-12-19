@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5781053",
+        "name": "Vineyard Wine",
+        "other-names": [
+            {
+                "name": "Vineyard Wine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1623",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sassafras",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "8",
+                    "g1": "3",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 88,
+                    "g": 54,
+                    "b": 61
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 348,
+                    "s": 24,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 39,
+                    "y": 31,
+                    "k": 65
+                }
+            }
+        },
+        "description": "A dark, muted red with warm red-pink tones."
+    }
+]

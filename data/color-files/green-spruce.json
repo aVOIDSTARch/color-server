@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5807998",
+        "name": "Green Spruce",
+        "other-names": [
+            {
+                "name": "Green Spruce",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5820",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 88,
+                    "g": 159,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 152,
+                    "s": 29,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 45,
+                    "m": 0,
+                    "y": 21,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium, muted green with cool cyan-blue tones."
+    }
+]

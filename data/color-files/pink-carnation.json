@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15563422",
+        "name": "Pink Carnation",
+        "other-names": [
+            {
+                "name": "Pink Carnation",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-2124",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "7",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 122,
+                    "b": 158
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 341,
+                    "s": 76,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 49,
+                    "y": 33,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated pink with warm red-pink tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5984059",
+        "name": "Beech",
+        "other-names": [
+            {
+                "name": "Beech",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0618",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "B",
+                    "g1": "4",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 91,
+                    "g": 79,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 38,
+                    "s": 21,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 35,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

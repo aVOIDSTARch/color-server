@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5721397",
+        "name": "Dark Olive",
+        "other-names": [
+            {
+                "name": "Dark Olive",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0516",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tǔ Hēi Black",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "7",
+                    "g1": "4",
+                    "g2": "D",
+                    "b1": "3",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 87,
+                    "g": 77,
+                    "b": 53
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 42,
+                    "s": 24,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 39,
+                    "k": 66
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

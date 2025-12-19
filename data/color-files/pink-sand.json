@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14659995",
+        "name": "Pink Sand",
+        "other-names": [
+            {
+                "name": "Pink Sand",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1318",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "1",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 223,
+                    "g": 177,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 19,
+                    "s": 52,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 21,
+                    "y": 30,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm red tones."
+    }
+]

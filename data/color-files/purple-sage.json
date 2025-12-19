@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7694718",
+        "name": "Purple Sage",
+        "other-names": [
+            {
+                "name": "Purple Sage",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3712",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "5",
+                    "g1": "6",
+                    "g2": "9",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 117,
+                    "g": 105,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 274,
+                    "s": 9,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 17,
+                    "y": 0,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

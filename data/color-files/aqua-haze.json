@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8894908",
+        "name": "Aqua Haze",
+        "other-names": [
+            {
+                "name": "Aqua Haze",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-5209",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Lorian",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "7",
+                    "g1": "B",
+                    "g2": "9",
+                    "b1": "B",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 135,
+                    "g": 185,
+                    "b": 188
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 183,
+                    "s": 28,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 28,
+                    "m": 2,
+                    "y": 0,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool cyan-blue tones."
+    }
+]

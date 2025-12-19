@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8160188",
+        "name": "Deep Periwinkle",
+        "other-names": [
+            {
+                "name": "Deep Periwinkle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3932",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "C",
+                    "g1": "8",
+                    "g2": "3",
+                    "b1": "B",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 124,
+                    "g": 131,
+                    "b": 188
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 233,
+                    "s": 32,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 34,
+                    "m": 30,
+                    "y": 0,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

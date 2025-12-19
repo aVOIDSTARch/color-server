@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15984505",
+        "name": "Lemon Verbena",
+        "other-names": [
+            {
+                "name": "Lemon Verbena",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0742",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Canola Oil",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "3",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 243,
+                    "g": 231,
+                    "b": 121
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 54,
+                    "s": 84,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 50,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

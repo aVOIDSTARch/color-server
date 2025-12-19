@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12884948",
+        "name": "Mauve Mist",
+        "other-names": [
+            {
+                "name": "Mauve Mist",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-3207",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "4",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "D",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 196,
+                    "g": 155,
+                    "b": 212
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 283,
+                    "s": 40,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 8,
+                    "m": 27,
+                    "y": 0,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, moderately saturated purple with warm purple-magenta tones."
+    }
+]

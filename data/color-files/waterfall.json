@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3846306",
+        "name": "Waterfall",
+        "other-names": [
+            {
+                "name": "Waterfall",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-5516",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "A",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "A",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 58,
+                    "g": 176,
+                    "b": 162
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 173,
+                    "s": 50,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 67,
+                    "m": 0,
+                    "y": 8,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

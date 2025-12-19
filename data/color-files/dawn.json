@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15454903",
+        "name": "Dawn",
+        "other-names": [
+            {
+                "name": "Dawn",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0811",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Creamery",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "B",
+                    "g1": "D",
+                    "g2": "2",
+                    "b1": "B",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 235,
+                    "g": 210,
+                    "b": 183
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 31,
+                    "s": 57,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 22,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm orange-yellow tones."
+    }
+]

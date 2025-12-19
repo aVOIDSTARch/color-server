@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14334309",
+        "name": "Misted Yellow",
+        "other-names": [
+            {
+                "name": "Misted Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0837",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "A",
+                    "g1": "B",
+                    "g2": "9",
+                    "b1": "6",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 218,
+                    "g": 185,
+                    "b": 101
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 61,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 54,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm orange-yellow tones."
+    }
+]

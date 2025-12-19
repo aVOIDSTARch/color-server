@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "1591877",
+        "name": "Forest Biome",
+        "other-names": [
+            {
+                "name": "Forest Biome",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-5230",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Nighthawks",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "8",
+                    "g1": "4",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 24,
+                    "g": 74,
+                    "b": 69
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 174,
+                    "s": 51,
+                    "l": 19
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 68,
+                    "m": 0,
+                    "y": 7,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, vibrant blue with cool cyan-blue tones."
+    }
+]

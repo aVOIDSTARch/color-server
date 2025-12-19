@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16178136",
+        "name": "Rosewater",
+        "other-names": [
+            {
+                "name": "Rosewater",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-1408",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "6",
+                    "g1": "D",
+                    "g2": "B",
+                    "b1": "D",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 246,
+                    "g": 219,
+                    "b": 216
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 6,
+                    "s": 63,
+                    "l": 91
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 12,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, vibrant red with warm red tones."
+    }
+]

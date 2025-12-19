@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12220797",
+        "name": "Dusty Rose",
+        "other-names": [
+            {
+                "name": "Dusty Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1718",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Chick Flick",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "7",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 186,
+                    "g": 121,
+                    "b": 125
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 356,
+                    "s": 32,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 35,
+                    "y": 33,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated red with warm red-pink tones."
+    }
+]

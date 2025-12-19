@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3244960",
+        "name": "Navagio Bay",
+        "other-names": [
+            {
+                "name": "Navagio Bay",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4429",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dirty Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "1",
+                    "g1": "8",
+                    "g2": "3",
+                    "b1": "A",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 49,
+                    "g": 131,
+                    "b": 160
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 196,
+                    "s": 53,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 69,
+                    "m": 18,
+                    "y": 0,
+                    "k": 37
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant blue with cool cyan-blue tones."
+    }
+]

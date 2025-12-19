@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7807278",
+        "name": "Biking Red",
+        "other-names": [
+            {
+                "name": "Biking Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1650",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Amaranth Blossom",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "7",
+                    "g1": "2",
+                    "g2": "1",
+                    "b1": "2",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 119,
+                    "g": 33,
+                    "b": 46
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 57,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 72,
+                    "y": 61,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A dark, vibrant red with warm red-pink tones."
+    }
+]

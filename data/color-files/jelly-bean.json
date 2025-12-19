@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "34392",
+        "name": "Jelly Bean",
+        "other-names": [
+            {
+                "name": "Jelly Bean",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-6030",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Vital Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "8",
+                    "g2": "6",
+                    "b1": "5",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 134,
+                    "b": 88
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 159,
+                    "s": 100,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 0,
+                    "y": 34,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A dark, highly saturated green with cool cyan-blue tones."
+    }
+]

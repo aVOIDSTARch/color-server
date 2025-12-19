@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "36281",
+        "name": "Hawaiian Ocean",
+        "other-names": [
+            {
+                "name": "Hawaiian Ocean",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4540",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "B",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 141,
+                    "b": 185
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 194,
+                    "s": 100,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 24,
+                    "y": 0,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

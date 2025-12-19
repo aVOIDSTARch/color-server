@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7048531",
+        "name": "Forest Green",
+        "other-names": [
+            {
+                "name": "Forest Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0230",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Irish Charm",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "B",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "5",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 107,
+                    "g": 141,
+                    "b": 83
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 95,
+                    "s": 26,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 24,
+                    "m": 0,
+                    "y": 41,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

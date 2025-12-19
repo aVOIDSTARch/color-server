@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11766641",
+        "name": "Macaroon",
+        "other-names": [
+            {
+                "name": "Macaroon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1323",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "3",
+                    "g1": "8",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 179,
+                    "g": 139,
+                    "b": 113
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 30,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 37,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

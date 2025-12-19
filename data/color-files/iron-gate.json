@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5132373",
+        "name": "Iron Gate",
+        "other-names": [
+            {
+                "name": "Iron Gate",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3910",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Water Ouzel",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "0",
+                    "b1": "5",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 78,
+                    "g": 80,
+                    "b": 85
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 223,
+                    "s": 4,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 8,
+                    "m": 6,
+                    "y": 0,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8493761",
+        "name": "Bel Air Blue",
+        "other-names": [
+            {
+                "name": "Bel Air Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-3932",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "A",
+                    "b1": "C",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 129,
+                    "g": 154,
+                    "b": 193
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 217,
+                    "s": 34,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 33,
+                    "m": 20,
+                    "y": 0,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

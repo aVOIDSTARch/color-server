@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4897749",
+        "name": "Bachelor Button",
+        "other-names": [
+            {
+                "name": "Bachelor Button",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4522",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "A",
+                    "g1": "B",
+                    "g2": "B",
+                    "b1": "D",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 74,
+                    "g": 187,
+                    "b": 213
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 191,
+                    "s": 62,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 65,
+                    "m": 12,
+                    "y": 0,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium-light, vibrant blue with cool cyan-blue tones."
+    }
+]

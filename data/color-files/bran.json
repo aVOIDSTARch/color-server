@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10907210",
+        "name": "Bran",
+        "other-names": [
+            {
+                "name": "Bran",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1336",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Slick Mud",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "6",
+                    "g1": "6",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 166,
+                    "g": 110,
+                    "b": 74
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 38,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 34,
+                    "y": 55,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium, moderately saturated brown with earthy warm red tones."
+    }
+]

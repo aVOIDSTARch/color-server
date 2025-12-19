@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5873561",
+        "name": "Agate Green",
+        "other-names": [
+            {
+                "name": "Agate Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5412",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Caulerpa Lentillifera",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "9",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "9",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 89,
+                    "g": 159,
+                    "b": 153
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 175,
+                    "s": 28,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 44,
+                    "m": 0,
+                    "y": 4,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool cyan-blue tones."
+    }
+]

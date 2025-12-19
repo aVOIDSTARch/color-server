@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16430938",
+        "name": "Amber Yellow",
+        "other-names": [
+            {
+                "name": "Amber Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0942",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "A",
+                    "g1": "B",
+                    "g2": "7",
+                    "b1": "5",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 250,
+                    "g": 183,
+                    "b": 90
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 94,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 64,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated orange with warm orange-yellow tones."
+    }
+]

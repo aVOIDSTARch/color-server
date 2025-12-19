@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11440295",
+        "name": "Lavender Mist",
+        "other-names": [
+            {
+                "name": "Lavender Mist",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3307",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Palisade Orchid",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "E",
+                    "g1": "9",
+                    "g2": "0",
+                    "b1": "A",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 174,
+                    "g": 144,
+                    "b": 167
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 314,
+                    "s": 16,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 17,
+                    "y": 4,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium-light, muted pink with warm purple-magenta tones."
+    }
+]

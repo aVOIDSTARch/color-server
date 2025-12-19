@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13799344",
+        "name": "Moonlite Mauve",
+        "other-names": [
+            {
+                "name": "Moonlite Mauve",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-2614",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Moonlit Mauve",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "8",
+                    "g2": "F",
+                    "b1": "B",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 143,
+                    "b": 176
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 330,
+                    "s": 43,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 32,
+                    "y": 16,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated pink with warm red-pink tones."
+    }
+]

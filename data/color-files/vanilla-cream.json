@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16046278",
+        "name": "Vanilla Cream",
+        "other-names": [
+            {
+                "name": "Vanilla Cream",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1009",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Resort Sunrise",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "D",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 216,
+                    "b": 198
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 68,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 19,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, vibrant orange with warm red tones."
+    }
+]

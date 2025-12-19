@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10778494",
+        "name": "Nostalgia Rose",
+        "other-names": [
+            {
+                "name": "Nostalgia Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1512",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 164,
+                    "g": 119,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 20,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 23,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, muted red with warm red-pink tones."
+    }
+]

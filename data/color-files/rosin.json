@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3552813",
+        "name": "Rosin",
+        "other-names": [
+            {
+                "name": "Rosin",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0509",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Black Powder",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "6",
+                    "g1": "3",
+                    "g2": "6",
+                    "b1": "2",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 54,
+                    "g": 54,
+                    "b": 45
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 60,
+                    "s": 9,
+                    "l": 19
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 0,
+                    "y": 17,
+                    "k": 79
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

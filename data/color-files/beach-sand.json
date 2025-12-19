@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16497045",
+        "name": "Beach Sand",
+        "other-names": [
+            {
+                "name": "Beach Sand",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1225",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Carotene",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "B",
+                    "g1": "B",
+                    "g2": "9",
+                    "b1": "9",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 251,
+                    "g": 185,
+                    "b": 149
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 21,
+                    "s": 93,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 26,
+                    "y": 41,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

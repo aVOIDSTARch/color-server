@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13549907",
+        "name": "Celery",
+        "other-names": [
+            {
+                "name": "Celery",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0647",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sulphur Yellow",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "C",
+                    "g2": "1",
+                    "b1": "5",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 206,
+                    "g": 193,
+                    "b": 83
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 54,
+                    "s": 56,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 60,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, vibrant yellow with warm orange-yellow tones."
+    }
+]

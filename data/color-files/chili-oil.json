@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9321526",
+        "name": "Chili Oil",
+        "other-names": [
+            {
+                "name": "Chili Oil",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1440",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Red Blooded",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "E",
+                    "g1": "3",
+                    "g2": "C",
+                    "b1": "3",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 142,
+                    "g": 60,
+                    "b": 54
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 4,
+                    "s": 45,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 58,
+                    "y": 62,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

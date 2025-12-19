@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12362955",
+        "name": "Lavendula",
+        "other-names": [
+            {
+                "name": "Lavendula",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-3620",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "C",
+                    "g1": "A",
+                    "g2": "4",
+                    "b1": "C",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 188,
+                    "g": 164,
+                    "b": 203
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 277,
+                    "s": 27,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 19,
+                    "y": 0,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted purple with warm purple-magenta tones."
+    }
+]

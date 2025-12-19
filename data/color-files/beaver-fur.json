@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10057831",
+        "name": "Beaver Fur",
+        "other-names": [
+            {
+                "name": "Beaver Fur",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1417",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "9",
+                    "g1": "7",
+                    "g2": "8",
+                    "b1": "6",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 153,
+                    "g": 120,
+                    "b": 103
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 20,
+                    "s": 20,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 33,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted brown with earthy warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13467213",
+        "name": "Apricot Buff",
+        "other-names": [
+            {
+                "name": "Apricot Buff",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1443",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "D",
+                    "g1": "7",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 205,
+                    "g": 126,
+                    "b": 77
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 56,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 39,
+                    "y": 62,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm red tones."
+    }
+]

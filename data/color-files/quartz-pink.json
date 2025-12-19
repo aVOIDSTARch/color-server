@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15705770",
+        "name": "Quartz Pink",
+        "other-names": [
+            {
+                "name": "Quartz Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1714",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hibiscus Petal",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "F",
+                    "g1": "A",
+                    "g2": "6",
+                    "b1": "A",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 239,
+                    "g": 166,
+                    "b": 170
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 357,
+                    "s": 70,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 29,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A light, vibrant red with warm red-pink tones."
+    }
+]

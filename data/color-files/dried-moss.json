@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13416830",
+        "name": "Dried Moss",
+        "other-names": [
+            {
+                "name": "Dried Moss",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0626",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Yuma",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "C",
+                    "g1": "B",
+                    "g2": "9",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 204,
+                    "g": 185,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 45,
+                    "s": 43,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 38,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

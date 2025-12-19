@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4598106",
+        "name": "Acai",
+        "other-names": [
+            {
+                "name": "Acai",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3628",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "6",
+                    "g1": "2",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 70,
+                    "g": 41,
+                    "b": 90
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 276,
+                    "s": 37,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 22,
+                    "m": 54,
+                    "y": 0,
+                    "k": 65
+                }
+            }
+        },
+        "description": "A dark, moderately saturated purple with warm purple-magenta tones."
+    }
+]

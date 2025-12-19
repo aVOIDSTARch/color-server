@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14274130",
+        "name": "Green Sheen",
+        "other-names": [
+            {
+                "name": "Green Sheen",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0648",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Advertisement Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "9",
+                    "g1": "C",
+                    "g2": "E",
+                    "b1": "5",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 217,
+                    "g": 206,
+                    "b": 82
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 55,
+                    "s": 64,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 62,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium-light, vibrant yellow with warm orange-yellow tones."
+    }
+]

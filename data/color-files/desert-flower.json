@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16750215",
+        "name": "Desert Flower",
+        "other-names": [
+            {
+                "name": "Desert Flower",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1435",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mona Lisa",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "6",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 150,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 8,
+                    "s": 100,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 41,
+                    "y": 47,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red tones."
+    }
+]

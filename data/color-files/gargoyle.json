@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6842215",
+        "name": "Gargoyle",
+        "other-names": [
+            {
+                "name": "Gargoyle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0503",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Shadow Gargoyle",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "8",
+                    "g1": "6",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 104,
+                    "g": 103,
+                    "b": 103
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 0,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 1,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14252450",
+        "name": "Wild Orchid",
+        "other-names": [
+            {
+                "name": "Wild Orchid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-2120",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "9",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "A",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 217,
+                    "g": 121,
+                    "b": 162
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 334,
+                    "s": 56,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 44,
+                    "y": 25,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium-light, vibrant pink with warm red-pink tones."
+    }
+]

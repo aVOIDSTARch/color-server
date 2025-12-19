@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6838862",
+        "name": "Chocolate Chip",
+        "other-names": [
+            {
+                "name": "Chocolate Chip",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0809",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mink Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "8",
+                    "g1": "5",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 104,
+                    "g": 90,
+                    "b": 78
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 14,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 25,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm red tones."
+    }
+]

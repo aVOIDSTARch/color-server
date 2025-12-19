@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13536907",
+        "name": "Rosette",
+        "other-names": [
+            {
+                "name": "Rosette",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1518",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "8",
+                    "g2": "E",
+                    "b1": "8",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 206,
+                    "g": 142,
+                    "b": 139
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 3,
+                    "s": 41,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 33,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated red with warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9538686",
+        "name": "Laurel Oak",
+        "other-names": [
+            {
+                "name": "Laurel Oak",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0610",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "1",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 145,
+                    "g": 140,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 44,
+                    "s": 8,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 13,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

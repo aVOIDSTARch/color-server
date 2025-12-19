@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12230553",
+        "name": "Adobe Rose",
+        "other-names": [
+            {
+                "name": "Adobe Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1508",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "A",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "9",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 186,
+                    "g": 159,
+                    "b": 153
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 11,
+                    "s": 19,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 18,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10905158",
+        "name": "Amber Brown",
+        "other-names": [
+            {
+                "name": "Amber Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1147",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Amazonian",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "6",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "4",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 166,
+                    "g": 102,
+                    "b": 70
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 20,
+                    "s": 41,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 39,
+                    "y": 58,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm red tones."
+    }
+]

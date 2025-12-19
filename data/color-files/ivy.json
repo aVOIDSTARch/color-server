@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2255971",
+        "name": "Ivy",
+        "other-names": [
+            {
+                "name": "Ivy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5620",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Galapagos Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "2",
+                    "g1": "6",
+                    "g2": "C",
+                    "b1": "6",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 34,
+                    "g": 108,
+                    "b": 99
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 173,
+                    "s": 52,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 69,
+                    "m": 0,
+                    "y": 8,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A dark, vibrant blue with cool cyan-blue tones."
+    }
+]

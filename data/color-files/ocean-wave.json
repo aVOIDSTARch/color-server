@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9356726",
+        "name": "Ocean Wave",
+        "other-names": [
+            {
+                "name": "Ocean Wave",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-5711",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Catarina Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "E",
+                    "g1": "C",
+                    "g2": "5",
+                    "b1": "B",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 142,
+                    "g": 197,
+                    "b": 182
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 164,
+                    "s": 32,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 28,
+                    "m": 0,
+                    "y": 8,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool cyan-blue tones."
+    }
+]

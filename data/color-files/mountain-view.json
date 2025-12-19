@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3030320",
+        "name": "Mountain View",
+        "other-names": [
+            {
+                "name": "Mountain View",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-5918",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Timber Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "E",
+                    "g1": "3",
+                    "g2": "D",
+                    "b1": "3",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 46,
+                    "g": 61,
+                    "b": 48
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 128,
+                    "s": 14,
+                    "l": 21
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 0,
+                    "y": 21,
+                    "k": 76
+                }
+            }
+        },
+        "description": "A dark, muted green with cool green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13577585",
+        "name": "Beetroot Purple",
+        "other-names": [
+            {
+                "name": "Beetroot Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-2143",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pink Peacock",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "F",
+                    "g1": "2",
+                    "g2": "D",
+                    "b1": "7",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 207,
+                    "g": 45,
+                    "b": 113
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 335,
+                    "s": 64,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 78,
+                    "y": 45,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium, vibrant pink with warm red-pink tones."
+    }
+]

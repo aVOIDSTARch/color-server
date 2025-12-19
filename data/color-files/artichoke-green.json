@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4943169",
+        "name": "Artichoke Green",
+        "other-names": [
+            {
+                "name": "Artichoke Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0125",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pine Scent",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "B",
+                    "g1": "6",
+                    "g2": "D",
+                    "b1": "4",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 75,
+                    "g": 109,
+                    "b": 65
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 106,
+                    "s": 25,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 31,
+                    "m": 0,
+                    "y": 40,
+                    "k": 57
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

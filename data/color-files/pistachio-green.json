@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11129758",
+        "name": "Pistachio Green",
+        "other-names": [
+            {
+                "name": "Pistachio Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0221",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "9",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "9",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 169,
+                    "g": 211,
+                    "b": 158
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 108,
+                    "s": 38,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 20,
+                    "m": 0,
+                    "y": 25,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, moderately saturated green with cool green tones."
+    }
+]

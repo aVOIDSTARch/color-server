@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10651510",
+        "name": "Chanterelle",
+        "other-names": [
+            {
+                "name": "Chanterelle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1414",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Chanterelle Sauce",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "2",
+                    "g1": "8",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 162,
+                    "g": 135,
+                    "b": 118
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 19,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 17,
+                    "y": 27,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm red tones."
+    }
+]

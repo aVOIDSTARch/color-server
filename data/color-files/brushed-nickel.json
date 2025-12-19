@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7565423",
+        "name": "Brushed Nickel",
+        "other-names": [
+            {
+                "name": "Brushed Nickel",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5102",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dull",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "3",
+                    "g1": "7",
+                    "g2": "0",
+                    "b1": "6",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 115,
+                    "g": 112,
+                    "b": 111
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 15,
+                    "s": 2,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 3,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

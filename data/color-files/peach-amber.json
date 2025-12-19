@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16490387",
+        "name": "Peach Amber",
+        "other-names": [
+            {
+                "name": "Peach Amber",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1423",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "B",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "9",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 251,
+                    "g": 159,
+                    "b": 147
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 7,
+                    "s": 93,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 37,
+                    "y": 41,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red tones."
+    }
+]

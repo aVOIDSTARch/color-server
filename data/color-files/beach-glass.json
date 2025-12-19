@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9887694",
+        "name": "Beach Glass",
+        "other-names": [
+            {
+                "name": "Beach Glass",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-5412",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "6",
+                    "g1": "D",
+                    "g2": "F",
+                    "b1": "C",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 150,
+                    "g": 223,
+                    "b": 206
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 166,
+                    "s": 53,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 33,
+                    "m": 0,
+                    "y": 8,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A light, vibrant blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15638694",
+        "name": "Pink Icing",
+        "other-names": [
+            {
+                "name": "Pink Icing",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1717",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "E",
+                    "g1": "A",
+                    "g2": "0",
+                    "b1": "A",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 238,
+                    "g": 160,
+                    "b": 166
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 70,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 33,
+                    "y": 30,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, vibrant red with warm red-pink tones."
+    }
+]

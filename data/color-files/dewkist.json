@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12898754",
+        "name": "Dewkist",
+        "other-names": [
+            {
+                "name": "Dewkist",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0107",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "4",
+                    "g1": "D",
+                    "g2": "1",
+                    "b1": "C",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 196,
+                    "g": 209,
+                    "b": 194
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 112,
+                    "s": 14,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 0,
+                    "y": 7,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A light, muted green with cool green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5398344",
+        "name": "Bronze Green",
+        "other-names": [
+            {
+                "name": "Bronze Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0317",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mossy Bronze",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "2",
+                    "g1": "5",
+                    "g2": "F",
+                    "b1": "4",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 82,
+                    "g": 95,
+                    "b": 72
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 94,
+                    "s": 14,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 0,
+                    "y": 24,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

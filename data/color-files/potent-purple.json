@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4597305",
+        "name": "Potent Purple",
+        "other-names": [
+            {
+                "name": "Potent Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2520",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Juice Violet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "6",
+                    "g1": "2",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 70,
+                    "g": 38,
+                    "b": 57
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 324,
+                    "s": 30,
+                    "l": 21
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 46,
+                    "y": 19,
+                    "k": 73
+                }
+            }
+        },
+        "description": "A dark, muted pink with warm purple-magenta tones."
+    }
+]

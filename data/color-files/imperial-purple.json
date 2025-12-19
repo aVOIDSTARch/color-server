@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5516381",
+        "name": "Imperial Purple",
+        "other-names": [
+            {
+                "name": "Imperial Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3528",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Kuwanomi Purple",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "4",
+                    "g1": "2",
+                    "g2": "C",
+                    "b1": "5",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 84,
+                    "g": 44,
+                    "b": 93
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 289,
+                    "s": 36,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 53,
+                    "y": 0,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A dark, moderately saturated purple with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7699022",
+        "name": "Calliste Green",
+        "other-names": [
+            {
+                "name": "Calliste Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0324",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Verdant Views",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "5",
+                    "g1": "7",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 117,
+                    "g": 122,
+                    "b": 78
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 67,
+                    "s": 22,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 0,
+                    "y": 36,
+                    "k": 52
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with yellow-green tones."
+    }
+]

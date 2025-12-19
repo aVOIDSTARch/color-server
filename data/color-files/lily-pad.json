@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8490884",
+        "name": "Lily Pad",
+        "other-names": [
+            {
+                "name": "Lily Pad",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5807",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Lily Pad Pond",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "1",
+                    "g1": "8",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 129,
+                    "g": 143,
+                    "b": 132
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 133,
+                    "s": 6,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 8,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

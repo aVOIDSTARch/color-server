@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11585893",
+        "name": "Green Glow",
+        "other-names": [
+            {
+                "name": "Green Glow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0442",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "0",
+                    "g1": "C",
+                    "g2": "9",
+                    "b1": "6",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 176,
+                    "g": 201,
+                    "b": 101
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 75,
+                    "s": 48,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 0,
+                    "y": 50,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with yellow-green tones."
+    }
+]

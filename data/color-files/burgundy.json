@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6566206",
+        "name": "Burgundy",
+        "other-names": [
+            {
+                "name": "Burgundy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1617",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Windsor Wine",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "3",
+                    "g2": "1",
+                    "b1": "3",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 49,
+                    "b": 62
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 345,
+                    "s": 34,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 51,
+                    "y": 38,
+                    "k": 61
+                }
+            }
+        },
+        "description": "A dark, moderately saturated red with warm red-pink tones."
+    }
+]

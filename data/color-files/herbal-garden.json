@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10268000",
+        "name": "Herbal Garden",
+        "other-names": [
+            {
+                "name": "Herbal Garden",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0336",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "C",
+                    "g1": "A",
+                    "g2": "D",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 156,
+                    "g": 173,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 73,
+                    "s": 32,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 45,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium, moderately saturated green with yellow-green tones."
+    }
+]

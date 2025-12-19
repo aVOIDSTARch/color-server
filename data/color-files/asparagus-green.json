@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13815220",
+        "name": "Asparagus Green",
+        "other-names": [
+            {
+                "name": "Asparagus Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0311",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Steamboat Geyser",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "D",
+                    "b1": "B",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 205,
+                    "b": 180
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 50,
+                    "s": 25,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 14,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A light, muted yellow with warm orange-yellow tones."
+    }
+]

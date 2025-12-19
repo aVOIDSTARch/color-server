@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5266814",
+        "name": "Coastal Fjord",
+        "other-names": [
+            {
+                "name": "Coastal Fjord",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3920",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "0",
+                    "g1": "5",
+                    "g2": "D",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 80,
+                    "g": 93,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 223,
+                    "s": 22,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 37,
+                    "m": 26,
+                    "y": 0,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool blue-violet tones."
+    }
+]

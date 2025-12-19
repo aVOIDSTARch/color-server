@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7624071",
+        "name": "Purple Heart",
+        "other-names": [
+            {
+                "name": "Purple Heart",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3520",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Gutsy Grape",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "4",
+                    "g1": "5",
+                    "g2": "5",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 116,
+                    "g": 85,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 277,
+                    "s": 23,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 37,
+                    "y": 0,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, muted purple with warm purple-magenta tones."
+    }
+]

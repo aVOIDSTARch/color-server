@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11357580",
+        "name": "Purple Orchid",
+        "other-names": [
+            {
+                "name": "Purple Orchid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3027",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "D",
+                    "g1": "4",
+                    "g2": "D",
+                    "b1": "8",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 173,
+                    "g": 77,
+                    "b": 140
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 321,
+                    "s": 38,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 55,
+                    "y": 19,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium, moderately saturated pink with warm purple-magenta tones."
+    }
+]

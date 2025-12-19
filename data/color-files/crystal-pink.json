@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15585486",
+        "name": "Crystal Pink",
+        "other-names": [
+            {
+                "name": "Crystal Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1605",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Marshmallow Magic",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "D",
+                    "g2": "0",
+                    "b1": "C",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 208,
+                    "b": 206
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 4,
+                    "s": 46,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 13,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A very light, moderately saturated red with warm red tones."
+    }
+]

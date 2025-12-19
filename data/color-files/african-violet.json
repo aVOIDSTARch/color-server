@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11568567",
+        "name": "African Violet",
+        "other-names": [
+            {
+                "name": "African Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3520",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "0",
+                    "g1": "8",
+                    "g2": "5",
+                    "b1": "B",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 176,
+                    "g": 133,
+                    "b": 183
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 292,
+                    "s": 26,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 27,
+                    "y": 0,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium-light, muted pink with warm purple-magenta tones."
+    }
+]

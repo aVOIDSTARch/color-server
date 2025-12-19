@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15198923",
+        "name": "Sylvan Green",
+        "other-names": [
+            {
+                "name": "Sylvan Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0410",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "7",
+                    "g1": "E",
+                    "g2": "A",
+                    "b1": "C",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 231,
+                    "g": 234,
+                    "b": 203
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 66,
+                    "s": 42,
+                    "l": 86
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 13,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A very light, moderately saturated green with yellow-green tones."
+    }
+]

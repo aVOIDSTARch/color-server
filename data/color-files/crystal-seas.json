@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6139854",
+        "name": "Crystal Seas",
+        "other-names": [
+            {
+                "name": "Crystal Seas",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4428",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "D",
+                    "g1": "A",
+                    "g2": "F",
+                    "b1": "C",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 93,
+                    "g": 175,
+                    "b": 206
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 196,
+                    "s": 54,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 55,
+                    "m": 15,
+                    "y": 0,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, vibrant blue with cool cyan-blue tones."
+    }
+]

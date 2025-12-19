@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11895165",
+        "name": "Ash Rose",
+        "other-names": [
+            {
+                "name": "Ash Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1514",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "8",
+                    "g2": "1",
+                    "b1": "7",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 129,
+                    "b": 125
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 4,
+                    "s": 27,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 29,
+                    "y": 31,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, muted red with warm red tones."
+    }
+]

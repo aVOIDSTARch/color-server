@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7976037",
+        "name": "Bud Green",
+        "other-names": [
+            {
+                "name": "Bud Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-6442",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "9",
+                    "g1": "B",
+                    "g2": "4",
+                    "b1": "6",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 121,
+                    "g": 180,
+                    "b": 101
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 105,
+                    "s": 34,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 33,
+                    "m": 0,
+                    "y": 44,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium, moderately saturated green with cool green tones."
+    }
+]

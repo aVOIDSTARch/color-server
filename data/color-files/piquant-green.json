@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7770968",
+        "name": "Piquant Green",
+        "other-names": [
+            {
+                "name": "Piquant Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0235",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "6",
+                    "g1": "9",
+                    "g2": "3",
+                    "b1": "5",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 118,
+                    "g": 147,
+                    "b": 88
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 89,
+                    "s": 25,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 20,
+                    "m": 0,
+                    "y": 40,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium, muted green with yellow-green tones."
+    }
+]

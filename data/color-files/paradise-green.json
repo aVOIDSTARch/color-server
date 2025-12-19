@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11724703",
+        "name": "Paradise Green",
+        "other-names": [
+            {
+                "name": "Paradise Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0220",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Grape Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "2",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "9",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 178,
+                    "g": 231,
+                    "b": 159
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 104,
+                    "s": 60,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 23,
+                    "m": 0,
+                    "y": 31,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, vibrant green with cool green tones."
+    }
+]

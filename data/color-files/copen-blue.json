@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5335940",
+        "name": "Copen Blue",
+        "other-names": [
+            {
+                "name": "Copen Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4025",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Wedgewood",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "1",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "8",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 81,
+                    "g": 107,
+                    "b": 132
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 209,
+                    "s": 24,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 39,
+                    "m": 19,
+                    "y": 0,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

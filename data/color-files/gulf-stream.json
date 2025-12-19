@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8963024",
+        "name": "Gulf Stream",
+        "other-names": [
+            {
+                "name": "Gulf Stream",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4511",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "After the Rain",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "8",
+                    "g1": "C",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 136,
+                    "g": 195,
+                    "b": 208
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 191,
+                    "s": 43,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 35,
+                    "m": 6,
+                    "y": 0,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

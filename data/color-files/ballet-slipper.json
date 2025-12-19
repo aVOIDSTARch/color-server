@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15453909",
+        "name": "Ballet Slipper",
+        "other-names": [
+            {
+                "name": "Ballet Slipper",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-2808",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pink Pail",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "B",
+                    "g1": "C",
+                    "g2": "E",
+                    "b1": "D",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 235,
+                    "g": 206,
+                    "b": 213
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 346,
+                    "s": 42,
+                    "l": 86
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 9,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A very light, moderately saturated red with warm red-pink tones."
+    }
+]

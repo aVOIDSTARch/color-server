@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14263969",
+        "name": "Mellow Rose",
+        "other-names": [
+            {
+                "name": "Mellow Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1515",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "9",
+                    "g1": "A",
+                    "g2": "6",
+                    "b1": "A",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 217,
+                    "g": 166,
+                    "b": 161
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 5,
+                    "s": 42,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 26,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A light, moderately saturated red with warm red tones."
+    }
+]

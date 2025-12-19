@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16117206",
+        "name": "Papyrus",
+        "other-names": [
+            {
+                "name": "Papyrus",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0107",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Papyrus Paper",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "5",
+                    "g1": "E",
+                    "g2": "D",
+                    "b1": "D",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 245,
+                    "g": 237,
+                    "b": 214
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 45,
+                    "s": 61,
+                    "l": 90
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 13,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, vibrant yellow with warm orange-yellow tones."
+    }
+]

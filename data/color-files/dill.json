@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7305045",
+        "name": "Dill",
+        "other-names": [
+            {
+                "name": "Dill",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0108",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "F",
+                    "g1": "7",
+                    "g2": "7",
+                    "b1": "5",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 111,
+                    "g": 119,
+                    "b": 85
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 74,
+                    "s": 17,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 0,
+                    "y": 29,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with yellow-green tones."
+    }
+]

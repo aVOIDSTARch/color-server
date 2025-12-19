@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4404017",
+        "name": "Java",
+        "other-names": [
+            {
+                "name": "Java",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1016",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rebel",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "3",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "3",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 67,
+                    "g": 51,
+                    "b": 49
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 7,
+                    "s": 16,
+                    "l": 23
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 27,
+                    "k": 74
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

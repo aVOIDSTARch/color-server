@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12617576",
+        "name": "Toasted Nut",
+        "other-names": [
+            {
+                "name": "Toasted Nut",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1327",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "0",
+                    "g1": "8",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 192,
+                    "g": 135,
+                    "b": 104
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 21,
+                    "s": 41,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 30,
+                    "y": 46,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm red tones."
+    }
+]

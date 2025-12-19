@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10859468",
+        "name": "Kentucky Blue",
+        "other-names": [
+            {
+                "name": "Kentucky Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-3915",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "5",
+                    "g1": "B",
+                    "g2": "3",
+                    "b1": "C",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 165,
+                    "g": 179,
+                    "b": 204
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 218,
+                    "s": 28,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 19,
+                    "m": 12,
+                    "y": 0,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted blue with cool blue-violet tones."
+    }
+]

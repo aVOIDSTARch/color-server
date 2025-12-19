@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13623453",
+        "name": "Shadow Lime",
+        "other-names": [
+            {
+                "name": "Shadow Lime",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0319",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pear Perfume",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "F",
+                    "g1": "E",
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 207,
+                    "g": 224,
+                    "b": 157
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 75,
+                    "s": 52,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 8,
+                    "m": 0,
+                    "y": 30,
+                    "k": 12
+                }
+            }
+        },
+        "description": "A light, vibrant green with yellow-green tones."
+    }
+]

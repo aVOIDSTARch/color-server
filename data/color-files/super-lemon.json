@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14991173",
+        "name": "Super Lemon",
+        "other-names": [
+            {
+                "name": "Super Lemon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0754",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "New Yellow",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "4",
+                    "g1": "B",
+                    "g2": "F",
+                    "b1": "4",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 228,
+                    "g": 191,
+                    "b": 69
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 46,
+                    "s": 75,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 70,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

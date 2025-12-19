@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14851476",
+        "name": "Coral Almond",
+        "other-names": [
+            {
+                "name": "Coral Almond",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1434",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "9",
+                    "g2": "D",
+                    "b1": "9",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 157,
+                    "b": 148
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 7,
+                    "s": 57,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 35,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A light, vibrant red with warm red tones."
+    }
+]

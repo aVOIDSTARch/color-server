@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13012837",
+        "name": "Butterum",
+        "other-names": [
+            {
+                "name": "Butterum",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1341",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "6",
+                    "g1": "8",
+                    "g2": "F",
+                    "b1": "6",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 198,
+                    "g": 143,
+                    "b": 101
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 46,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 28,
+                    "y": 49,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm red tones."
+    }
+]

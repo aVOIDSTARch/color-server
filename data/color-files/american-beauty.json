@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10957632",
+        "name": "American Beauty",
+        "other-names": [
+            {
+                "name": "American Beauty",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1759",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "7",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "4",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 167,
+                    "g": 51,
+                    "b": 64
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 353,
+                    "s": 53,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 69,
+                    "y": 62,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant red with warm red-pink tones."
+    }
+]

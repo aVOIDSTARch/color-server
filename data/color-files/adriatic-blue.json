@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6064539",
+        "name": "Adriatic Blue",
+        "other-names": [
+            {
+                "name": "Adriatic Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4320",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "C",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "9",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 92,
+                    "g": 137,
+                    "b": 155
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 26,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 41,
+                    "m": 12,
+                    "y": 0,
+                    "k": 39
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool cyan-blue tones."
+    }
+]

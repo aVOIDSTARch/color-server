@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15982806",
+        "name": "Powder Puff",
+        "other-names": [
+            {
+                "name": "Powder Puff",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-1404",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Marshmallow Cream",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "3",
+                    "g1": "E",
+                    "g2": "0",
+                    "b1": "D",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 243,
+                    "g": 224,
+                    "b": 214
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 21,
+                    "s": 55,
+                    "l": 90
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 12,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, vibrant orange with warm red tones."
+    }
+]

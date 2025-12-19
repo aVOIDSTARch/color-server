@@ -1,0 +1,289 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Website Theme Schema",
+    "description": "Schema for website color theme definitions",
+    "type": "object",
+    "required": ["theme-name", "colors"],
+    "properties": {
+        "theme-name": {
+            "type": "string",
+            "description": "Name identifier for the theme"
+        },
+        "theme-description": {
+            "type": "string",
+            "description": "Brief description of the theme's style and purpose"
+        },
+        "colors": {
+            "type": "object",
+            "description": "Color definitions organized by semantic purpose",
+            "required": ["primary", "background", "text"],
+            "properties": {
+                "primary": {
+                    "type": "object",
+                    "description": "Main brand color used for primary buttons, active navigation, key UI elements, and brand identity",
+                    "required": ["main"],
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "main": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "light": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "dark": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "contrast": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "secondary": {
+                    "type": "object",
+                    "description": "Supporting brand color for secondary buttons, less prominent actions, and complementary UI elements",
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "main": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "light": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "dark": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "contrast": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "accent": {
+                    "type": "object",
+                    "description": "Highlight color for drawing attention to specific elements like badges, tags, notifications, and call-to-action items",
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "main": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "light": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "dark": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "contrast": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "background": {
+                    "type": "object",
+                    "description": "Page and container backgrounds",
+                    "required": ["default"],
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "default": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "paper": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "elevated": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "surface": {
+                    "type": "object",
+                    "description": "Component surfaces like cards, modals, dropdowns, and panels",
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "default": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "variant": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "inverse": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "text": {
+                    "type": "object",
+                    "description": "Typography colors for headings, body text, labels, and placeholders",
+                    "required": ["primary"],
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "primary": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "secondary": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "disabled": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "hint": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "inverse": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "border": {
+                    "type": "object",
+                    "description": "Borders for inputs, cards, dividers, and separators",
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "default": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "light": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "focus": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "status": {
+                    "type": "object",
+                    "description": "Semantic colors for alerts, toasts, form validation, and status indicators",
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "success": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "success-light": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "warning": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "warning-light": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "error": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "error-light": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "info": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "info-light": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "interaction": {
+                    "type": "object",
+                    "description": "State colors for interactive elements like buttons, links, and form controls",
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "hover": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "active": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "selected": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "disabled": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "focus-ring": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "link": {
+                    "type": "object",
+                    "description": "Anchor and navigation link colors across different states",
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "default": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "visited": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "hover": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "active": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "shadow": {
+                    "type": "object",
+                    "description": "Box shadow colors for depth and elevation effects",
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "light": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "medium": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "dark": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                },
+                "overlay": {
+                    "type": "object",
+                    "description": "Semi-transparent backgrounds for modals, drawers, and backdrop layers",
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "light": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "medium": {
+                            "$ref": "#/$defs/colorValue"
+                        },
+                        "dark": {
+                            "$ref": "#/$defs/colorValue"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "$defs": {
+        "colorValue": {
+            "type": "string",
+            "description": "Color value in hex format (#RRGGBB or #RRGGBBAA), rgb(), rgba(), hsl(), or hsla()",
+            "pattern": "^(#[0-9A-Fa-f]{6}|#[0-9A-Fa-f]{8}|rgb\\(\\s*\\d{1,3}\\s*,\\s*\\d{1,3}\\s*,\\s*\\d{1,3}\\s*\\)|rgba\\(\\s*\\d{1,3}\\s*,\\s*\\d{1,3}\\s*,\\s*\\d{1,3}\\s*,\\s*[0-9.]+\\s*\\)|hsl\\(\\s*\\d{1,3}\\s*,\\s*\\d{1,3}%\\s*,\\s*\\d{1,3}%\\s*\\)|hsla\\(\\s*\\d{1,3}\\s*,\\s*\\d{1,3}%\\s*,\\s*\\d{1,3}%\\s*,\\s*[0-9.]+\\s*\\))$"
+        }
+    }
+}

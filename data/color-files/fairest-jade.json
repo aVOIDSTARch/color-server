@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14214103",
+        "name": "Fairest Jade",
+        "other-names": [
+            {
+                "name": "Fairest Jade",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-6206",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Green Mirror",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "8",
+                    "g1": "E",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 216,
+                    "g": 227,
+                    "b": 215
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 115,
+                    "s": 18,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 5,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A very light, muted green with cool green tones."
+    }
+]

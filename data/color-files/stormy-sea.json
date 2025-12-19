@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7241858",
+        "name": "Stormy Sea",
+        "other-names": [
+            {
+                "name": "Stormy Sea",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4711",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "E",
+                    "g1": "8",
+                    "g2": "0",
+                    "b1": "8",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 110,
+                    "g": 128,
+                    "b": 130
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 186,
+                    "s": 8,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 2,
+                    "y": 0,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

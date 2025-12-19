@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8662088",
+        "name": "Anemone",
+        "other-names": [
+            {
+                "name": "Anemone",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2033",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "4",
+                    "g1": "2",
+                    "g2": "C",
+                    "b1": "4",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 132,
+                    "g": 44,
+                    "b": 72
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 341,
+                    "s": 50,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 67,
+                    "y": 45,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm red-pink tones."
+    }
+]

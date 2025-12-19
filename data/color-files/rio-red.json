@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9052722",
+        "name": "Rio Red",
+        "other-names": [
+            {
+                "name": "Rio Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1656",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Shiraz",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "A",
+                    "g1": "2",
+                    "g2": "2",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 138,
+                    "g": 34,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 60,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 75,
+                    "y": 64,
+                    "k": 46
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant red with warm red-pink tones."
+    }
+]

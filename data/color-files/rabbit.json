@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6248284",
+        "name": "Rabbit",
+        "other-names": [
+            {
+                "name": "Rabbit",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3905",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "F",
+                    "g1": "5",
+                    "g2": "7",
+                    "b1": "5",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 95,
+                    "g": 87,
+                    "b": 92
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 323,
+                    "s": 4,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 3,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

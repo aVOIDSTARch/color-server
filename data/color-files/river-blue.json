@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3715021",
+        "name": "River Blue",
+        "other-names": [
+            {
+                "name": "River Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4720",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "8",
+                    "g1": "A",
+                    "g2": "F",
+                    "b1": "C",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 56,
+                    "g": 175,
+                    "b": 205
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 192,
+                    "s": 60,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 73,
+                    "m": 15,
+                    "y": 0,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium, vibrant blue with cool cyan-blue tones."
+    }
+]

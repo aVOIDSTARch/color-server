@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15237542",
+        "name": "Aurora Pink",
+        "other-names": [
+            {
+                "name": "Aurora Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-2217",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "8",
+                    "g1": "8",
+                    "g2": "1",
+                    "b1": "A",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 232,
+                    "g": 129,
+                    "b": 166
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 338,
+                    "s": 69,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 44,
+                    "y": 28,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, vibrant pink with warm red-pink tones."
+    }
+]

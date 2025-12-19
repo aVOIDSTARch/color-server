@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15789796",
+        "name": "Marshmallow",
+        "other-names": [
+            {
+                "name": "Marshmallow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-4300",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "0",
+                    "g1": "E",
+                    "g2": "E",
+                    "b1": "E",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 240,
+                    "g": 238,
+                    "b": 228
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 50,
+                    "s": 29,
+                    "l": 92
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 5,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A very light, muted yellow with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9546880",
+        "name": "Forest Shade",
+        "other-names": [
+            {
+                "name": "Forest Shade",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-6423",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "1",
+                    "g1": "A",
+                    "g2": "C",
+                    "b1": "8",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 145,
+                    "g": 172,
+                    "b": 128
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 97,
+                    "s": 21,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 16,
+                    "m": 0,
+                    "y": 26,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

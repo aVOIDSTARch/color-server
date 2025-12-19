@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12888966",
+        "name": "Croissant",
+        "other-names": [
+            {
+                "name": "Croissant",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0924",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "4",
+                    "g1": "A",
+                    "g2": "B",
+                    "b1": "8",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 196,
+                    "g": 171,
+                    "b": 134
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 34,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 13,
+                    "y": 32,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

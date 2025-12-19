@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10000036",
+        "name": "Lilac Gray",
+        "other-names": [
+            {
+                "name": "Lilac Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3905",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Ash Violet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "6",
+                    "b1": "A",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 152,
+                    "g": 150,
+                    "b": 164
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 249,
+                    "s": 7,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 7,
+                    "m": 9,
+                    "y": 0,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

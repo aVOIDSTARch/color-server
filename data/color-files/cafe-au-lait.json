@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11437940",
+        "name": "Cafe Au Lait",
+        "other-names": [
+            {
+                "name": "Cafe Au Lait",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1227",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Café Renversé",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "E",
+                    "g1": "8",
+                    "g2": "7",
+                    "b1": "7",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 174,
+                    "g": 135,
+                    "b": 116
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 20,
+                    "s": 26,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 33,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium-light, muted orange with warm red tones."
+    }
+]

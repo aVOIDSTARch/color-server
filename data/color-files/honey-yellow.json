@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13276246",
+        "name": "Honey Yellow",
+        "other-names": [
+            {
+                "name": "Honey Yellow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1143",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "A",
+                    "g1": "9",
+                    "g2": "4",
+                    "b1": "5",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 202,
+                    "g": 148,
+                    "b": 86
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 32,
+                    "s": 52,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 57,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium-light, vibrant orange with warm orange-yellow tones."
+    }
+]

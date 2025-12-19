@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15853278",
+        "name": "Sea Salt",
+        "other-names": [
+            {
+                "name": "Sea Salt",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-1302",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Soft Feather",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "1",
+                    "g1": "E",
+                    "g2": "6",
+                    "b1": "D",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 241,
+                    "g": 230,
+                    "b": 222
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 25,
+                    "s": 40,
+                    "l": 91
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 8,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, moderately saturated orange with warm red tones."
+    }
+]

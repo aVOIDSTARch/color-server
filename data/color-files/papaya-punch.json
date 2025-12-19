@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16556681",
+        "name": "Papaya Punch",
+        "other-names": [
+            {
+                "name": "Papaya Punch",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1433",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tangerine Cream",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "C",
+                    "g1": "A",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 252,
+                    "g": 162,
+                    "b": 137
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 95,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 36,
+                    "y": 46,
+                    "k": 1
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

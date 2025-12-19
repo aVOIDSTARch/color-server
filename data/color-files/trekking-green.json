@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3493960",
+        "name": "Trekking Green",
+        "other-names": [
+            {
+                "name": "Trekking Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-5411",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Sharknado",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "5",
+                    "g1": "5",
+                    "g2": "0",
+                    "b1": "4",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 53,
+                    "g": 80,
+                    "b": 72
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 162,
+                    "s": 20,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 34,
+                    "m": 0,
+                    "y": 10,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A dark, muted green with cool cyan-blue tones."
+    }
+]

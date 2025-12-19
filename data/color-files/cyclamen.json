@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14059450",
+        "name": "Cyclamen",
+        "other-names": [
+            {
+                "name": "Cyclamen",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3118",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "6",
+                    "g1": "8",
+                    "g2": "7",
+                    "b1": "B",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 214,
+                    "g": 135,
+                    "b": 186
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 321,
+                    "s": 49,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 37,
+                    "y": 13,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated pink with warm purple-magenta tones."
+    }
+]

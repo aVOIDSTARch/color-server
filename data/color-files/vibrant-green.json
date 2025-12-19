@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5613664",
+        "name": "Vibrant Green",
+        "other-names": [
+            {
+                "name": "Vibrant Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-6339",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Exploration Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "5",
+                    "g1": "A",
+                    "g2": "8",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 85,
+                    "g": 168,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 128,
+                    "s": 33,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 49,
+                    "m": 0,
+                    "y": 43,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium, moderately saturated green with cool green tones."
+    }
+]

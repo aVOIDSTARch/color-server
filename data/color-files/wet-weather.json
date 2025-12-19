@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9605264",
+        "name": "Wet Weather",
+        "other-names": [
+            {
+                "name": "Wet Weather",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5101",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "2",
+                    "g1": "9",
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 146,
+                    "g": 144,
+                    "b": 144
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 1,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 1,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

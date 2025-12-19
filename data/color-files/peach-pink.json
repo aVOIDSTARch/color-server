@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16423557",
+        "name": "Peach Pink",
+        "other-names": [
+            {
+                "name": "Peach Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1530",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Shān Hú Hóng Coral",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "A",
+                    "g1": "9",
+                    "g2": "A",
+                    "b1": "8",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 250,
+                    "g": 154,
+                    "b": 133
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 11,
+                    "s": 92,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 47,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

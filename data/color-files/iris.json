@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12234684",
+        "name": "Iris",
+        "other-names": [
+            {
+                "name": "Iris",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3805",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Exclusive Violet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "A",
+                    "g1": "A",
+                    "g2": "F",
+                    "b1": "B",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 186,
+                    "g": 175,
+                    "b": 188
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 291,
+                    "s": 9,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 7,
+                    "y": 0,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4797240",
+        "name": "Fudge",
+        "other-names": [
+            {
+                "name": "Fudge",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1619",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Jube",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "9",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "3",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 73,
+                    "g": 51,
+                    "b": 56
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 346,
+                    "s": 18,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 30,
+                    "y": 23,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, muted red with warm red-pink tones."
+    }
+]

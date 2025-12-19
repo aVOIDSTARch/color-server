@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10643046",
+        "name": "Withered Rose",
+        "other-names": [
+            {
+                "name": "Withered Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1435",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "2",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "6",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 162,
+                    "g": 102,
+                    "b": 102
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 24,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 37,
+                    "y": 37,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, muted red with warm red tones."
+    }
+]

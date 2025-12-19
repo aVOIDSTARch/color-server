@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9661080",
+        "name": "Lavender Crystal",
+        "other-names": [
+            {
+                "name": "Lavender Crystal",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3530",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "3",
+                    "g1": "6",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 147,
+                    "g": 106,
+                    "b": 152
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 293,
+                    "s": 18,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 30,
+                    "y": 0,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted pink with warm purple-magenta tones."
+    }
+]

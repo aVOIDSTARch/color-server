@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6396078",
+        "name": "Delphinium Blue",
+        "other-names": [
+            {
+                "name": "Delphinium Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4519",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "8",
+                    "b1": "A",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 97,
+                    "g": 152,
+                    "b": 174
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 32,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 44,
+                    "m": 13,
+                    "y": 0,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

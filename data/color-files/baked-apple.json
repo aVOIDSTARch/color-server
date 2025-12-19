@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11748934",
+        "name": "Baked Apple",
+        "other-names": [
+            {
+                "name": "Baked Apple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1648",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "3",
+                    "g1": "4",
+                    "g2": "6",
+                    "b1": "4",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 179,
+                    "g": 70,
+                    "b": 70
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 44,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 61,
+                    "y": 61,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium, moderately saturated red with warm red tones."
+    }
+]

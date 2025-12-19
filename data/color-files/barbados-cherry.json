@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11143719",
+        "name": "Barbados Cherry",
+        "other-names": [
+            {
+                "name": "Barbados Cherry",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1757",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Hong Kong Taxi",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "A",
+                    "g1": "0",
+                    "g2": "A",
+                    "b1": "2",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 170,
+                    "g": 10,
+                    "b": 39
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 349,
+                    "s": 89,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 94,
+                    "y": 77,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated red with warm red-pink tones."
+    }
+]

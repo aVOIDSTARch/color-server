@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9559272",
+        "name": "Tanager Turquoise",
+        "other-names": [
+            {
+                "name": "Tanager Turquoise",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-4720",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Quiet Pond",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "1",
+                    "g1": "D",
+                    "g2": "C",
+                    "b1": "E",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 145,
+                    "g": 220,
+                    "b": 232
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 188,
+                    "s": 65,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 38,
+                    "m": 5,
+                    "y": 0,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, vibrant blue with cool cyan-blue tones."
+    }
+]

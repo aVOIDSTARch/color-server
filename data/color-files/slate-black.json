@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4930867",
+        "name": "Slate Black",
+        "other-names": [
+            {
+                "name": "Slate Black",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0814",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "B",
+                    "g1": "3",
+                    "g2": "D",
+                    "b1": "3",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 75,
+                    "g": 61,
+                    "b": 51
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 25,
+                    "s": 19,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 19,
+                    "y": 32,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

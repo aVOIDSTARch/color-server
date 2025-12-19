@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6655430",
+        "name": "Provence",
+        "other-names": [
+            {
+                "name": "Provence",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4032",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "5",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "C",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 101,
+                    "g": 141,
+                    "b": 198
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 215,
+                    "s": 46,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 49,
+                    "m": 29,
+                    "y": 0,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

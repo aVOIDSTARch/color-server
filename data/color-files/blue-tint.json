@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10475991",
+        "name": "Blue Tint",
+        "other-names": [
+            {
+                "name": "Blue Tint",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-4910",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "F",
+                    "g1": "D",
+                    "g2": "9",
+                    "b1": "D",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 159,
+                    "g": 217,
+                    "b": 215
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 178,
+                    "s": 43,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 27,
+                    "m": 0,
+                    "y": 1,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

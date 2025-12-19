@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6380640",
+        "name": "Volcanic Glass",
+        "other-names": [
+            {
+                "name": "Volcanic Glass",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3908",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "1",
+                    "g1": "5",
+                    "g2": "C",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 97,
+                    "g": 92,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 312,
+                    "s": 3,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 1,
+                    "k": 62
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

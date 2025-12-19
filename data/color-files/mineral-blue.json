@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7180690",
+        "name": "Mineral Blue",
+        "other-names": [
+            {
+                "name": "Mineral Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4712",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "D",
+                    "g1": "9",
+                    "g2": "1",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 109,
+                    "g": 145,
+                    "b": 146
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 182,
+                    "s": 15,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 1,
+                    "y": 0,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7912916",
+        "name": "Blue Topaz",
+        "other-names": [
+            {
+                "name": "Blue Topaz",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4310",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blue Brocade",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "8",
+                    "g1": "B",
+                    "g2": "D",
+                    "b1": "D",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 120,
+                    "g": 189,
+                    "b": 212
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 195,
+                    "s": 52,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 43,
+                    "m": 11,
+                    "y": 0,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A medium-light, vibrant blue with cool cyan-blue tones."
+    }
+]

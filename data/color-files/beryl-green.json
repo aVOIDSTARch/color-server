@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6394247",
+        "name": "Beryl Green",
+        "other-names": [
+            {
+                "name": "Beryl Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5515",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Chlorite",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "1",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 97,
+                    "g": 145,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 168,
+                    "s": 20,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 33,
+                    "m": 0,
+                    "y": 7,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool cyan-blue tones."
+    }
+]

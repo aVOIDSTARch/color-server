@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14448954",
+        "name": "Orange Ochre",
+        "other-names": [
+            {
+                "name": "Orange Ochre",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1253",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Carrot Stick",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "C",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "3",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 220,
+                    "g": 121,
+                    "b": 58
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 70,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 45,
+                    "y": 74,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11580500",
+        "name": "Green Oasis",
+        "other-names": [
+            {
+                "name": "Green Oasis",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0538",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "0",
+                    "g1": "B",
+                    "g2": "4",
+                    "b1": "5",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 176,
+                    "g": 180,
+                    "b": 84
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 63,
+                    "s": 39,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 2,
+                    "m": 0,
+                    "y": 53,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium, moderately saturated yellow with yellow-green tones."
+    }
+]

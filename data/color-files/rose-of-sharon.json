@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14441314",
+        "name": "Rose Of Sharon",
+        "other-names": [
+            {
+                "name": "Rose Of Sharon",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1635",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Aphrodisiac",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "C",
+                    "g1": "5",
+                    "g2": "B",
+                    "b1": "6",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 220,
+                    "g": 91,
+                    "b": 98
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 357,
+                    "s": 65,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 59,
+                    "y": 55,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A medium-light, vibrant red with warm red-pink tones."
+    }
+]

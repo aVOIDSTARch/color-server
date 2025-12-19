@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12333612",
+        "name": "Valiant Poppy",
+        "other-names": [
+            {
+                "name": "Valiant Poppy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1549",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Ginshu",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "C",
+                    "g1": "3",
+                    "g2": "2",
+                    "b1": "2",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 188,
+                    "g": 50,
+                    "b": 44
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 3,
+                    "s": 62,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 73,
+                    "y": 77,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant red with warm red tones."
+    }
+]

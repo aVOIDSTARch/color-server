@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11847580",
+        "name": "Foam Green",
+        "other-names": [
+            {
+                "name": "Foam Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0115",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Wasabi Peanut",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "4",
+                    "g1": "C",
+                    "g2": "7",
+                    "b1": "9",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 180,
+                    "g": 199,
+                    "b": 156
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 87,
+                    "s": 28,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 22,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-light, muted green with yellow-green tones."
+    }
+]

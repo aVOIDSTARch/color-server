@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5013126",
+        "name": "Brittany Blue",
+        "other-names": [
+            {
+                "name": "Brittany Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5610",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "C",
+                    "g1": "7",
+                    "g2": "E",
+                    "b1": "8",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 76,
+                    "g": 126,
+                    "b": 134
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 188,
+                    "s": 28,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 43,
+                    "m": 6,
+                    "y": 0,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

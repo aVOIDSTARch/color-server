@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9188723",
+        "name": "Purple Wine",
+        "other-names": [
+            {
+                "name": "Purple Wine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-2929",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Magenta Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "C",
+                    "g1": "3",
+                    "g2": "5",
+                    "b1": "7",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 140,
+                    "g": 53,
+                    "b": 115
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 317,
+                    "s": 45,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 62,
+                    "y": 18,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

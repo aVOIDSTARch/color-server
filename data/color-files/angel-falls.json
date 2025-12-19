@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10730963",
+        "name": "Angel Falls",
+        "other-names": [
+            {
+                "name": "Angel Falls",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4105",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "3",
+                    "g1": "B",
+                    "g2": "D",
+                    "b1": "D",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 163,
+                    "g": 189,
+                    "b": 211
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 207,
+                    "s": 35,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 23,
+                    "m": 10,
+                    "y": 0,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

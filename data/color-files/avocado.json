@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6775346",
+        "name": "Avocado",
+        "other-names": [
+            {
+                "name": "Avocado",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0430",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Saguaro",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "7",
+                    "g1": "6",
+                    "g2": "2",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 103,
+                    "g": 98,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 54,
+                    "s": 35,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 51,
+                    "k": 60
+                }
+            }
+        },
+        "description": "A dark, moderately saturated yellow with warm orange-yellow tones."
+    }
+]

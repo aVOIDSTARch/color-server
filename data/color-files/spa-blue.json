@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13885151",
+        "name": "Spa Blue",
+        "other-names": [
+            {
+                "name": "Spa Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-4305",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "3",
+                    "g1": "D",
+                    "g2": "E",
+                    "b1": "D",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 211,
+                    "g": 222,
+                    "b": 223
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 185,
+                    "s": 16,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 0,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A light, muted blue with cool cyan-blue tones."
+    }
+]

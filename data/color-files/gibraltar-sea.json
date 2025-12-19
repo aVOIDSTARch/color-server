@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "1194064",
+        "name": "Gibraltar Sea",
+        "other-names": [
+            {
+                "name": "Gibraltar Sea",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4038",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "2",
+                    "g1": "3",
+                    "g2": "8",
+                    "b1": "5",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 18,
+                    "g": 56,
+                    "b": 80
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 203,
+                    "s": 63,
+                    "l": 19
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 78,
+                    "m": 30,
+                    "y": 0,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A dark, vibrant blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3878959",
+        "name": "Black Coffee",
+        "other-names": [
+            {
+                "name": "Black Coffee",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1111",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Oil Grey",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "B",
+                    "g1": "3",
+                    "g2": "0",
+                    "b1": "2",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 59,
+                    "g": 48,
+                    "b": 47
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 5,
+                    "s": 11,
+                    "l": 21
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 19,
+                    "y": 20,
+                    "k": 77
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

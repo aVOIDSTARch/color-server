@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12959952",
+        "name": "Lavender Blue",
+        "other-names": [
+            {
+                "name": "Lavender Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3905",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Lavender Bouquet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "0",
+                    "b1": "D",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 197,
+                    "g": 192,
+                    "b": 208
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 259,
+                    "s": 15,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 8,
+                    "y": 0,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A light, muted purple with cool blue-violet tones."
+    }
+]

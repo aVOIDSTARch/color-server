@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6332579",
+        "name": "Meadowbrook",
+        "other-names": [
+            {
+                "name": "Meadowbrook",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5121",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "0",
+                    "g1": "A",
+                    "g2": "0",
+                    "b1": "A",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 96,
+                    "g": 160,
+                    "b": 163
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 183,
+                    "s": 27,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 41,
+                    "m": 2,
+                    "y": 0,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool cyan-blue tones."
+    }
+]

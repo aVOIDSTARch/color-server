@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10626130",
+        "name": "Cherries Jubilee",
+        "other-names": [
+            {
+                "name": "Cherries Jubilee",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2041",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "2",
+                    "g1": "2",
+                    "g2": "4",
+                    "b1": "5",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 162,
+                    "g": 36,
+                    "b": 82
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 338,
+                    "s": 64,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 78,
+                    "y": 49,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant pink with warm red-pink tones."
+    }
+]

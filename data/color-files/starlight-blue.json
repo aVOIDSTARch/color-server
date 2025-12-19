@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11914964",
+        "name": "Starlight Blue",
+        "other-names": [
+            {
+                "name": "Starlight Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-4609",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "E",
+                    "b1": "D",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 181,
+                    "g": 206,
+                    "b": 212
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 192,
+                    "s": 26,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 3,
+                    "y": 0,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, muted blue with cool cyan-blue tones."
+    }
+]

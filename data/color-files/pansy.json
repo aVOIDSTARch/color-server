@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6634876",
+        "name": "Pansy",
+        "other-names": [
+            {
+                "name": "Pansy",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3542",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dark Pansy",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "5",
+                    "g1": "3",
+                    "g2": "D",
+                    "b1": "7",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 101,
+                    "g": 61,
+                    "b": 124
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 278,
+                    "s": 34,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 19,
+                    "m": 51,
+                    "y": 0,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated purple with warm purple-magenta tones."
+    }
+]

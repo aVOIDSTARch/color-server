@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9406850",
+        "name": "Elephant Skin",
+        "other-names": [
+            {
+                "name": "Elephant Skin",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0205",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Dovetail",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "F",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 143,
+                    "g": 137,
+                    "b": 130
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 32,
+                    "s": 5,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 9,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

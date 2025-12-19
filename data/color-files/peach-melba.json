@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16498095",
+        "name": "Peach Melba",
+        "other-names": [
+            {
+                "name": "Peach Melba",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1418",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "B",
+                    "g1": "B",
+                    "g2": "D",
+                    "b1": "A",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 251,
+                    "g": 189,
+                    "b": 175
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 11,
+                    "s": 90,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 25,
+                    "y": 30,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

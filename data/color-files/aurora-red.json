@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12139058",
+        "name": "Aurora Red",
+        "other-names": [
+            {
+                "name": "Aurora Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1550",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Scarlet Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "9",
+                    "g1": "3",
+                    "g2": "A",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 185,
+                    "g": 58,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 4,
+                    "s": 57,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 69,
+                    "y": 73,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium, vibrant red with warm red tones."
+    }
+]

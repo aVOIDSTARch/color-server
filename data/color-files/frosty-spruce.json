@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5735024",
+        "name": "Frosty Spruce",
+        "other-names": [
+            {
+                "name": "Frosty Spruce",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5622",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "7",
+                    "g1": "8",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 87,
+                    "g": 130,
+                    "b": 112
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 155,
+                    "s": 20,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 33,
+                    "m": 0,
+                    "y": 14,
+                    "k": 49
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15068131",
+        "name": "Summer Shower",
+        "other-names": [
+            {
+                "name": "Summer Shower",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-4802",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "5",
+                    "g1": "E",
+                    "g2": "B",
+                    "b1": "E",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 229,
+                    "g": 235,
+                    "b": 227
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 105,
+                    "s": 17,
+                    "l": 91
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 3,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A very light, muted green with cool green tones."
+    }
+]

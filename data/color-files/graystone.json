@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5065051",
+        "name": "Graystone",
+        "other-names": [
+            {
+                "name": "Graystone",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3915",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "House Stark Grey",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "D",
+                    "g1": "4",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 77,
+                    "g": 73,
+                    "b": 91
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 253,
+                    "s": 11,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 20,
+                    "y": 0,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool blue-violet tones."
+    }
+]

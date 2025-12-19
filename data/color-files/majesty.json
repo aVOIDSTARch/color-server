@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5846881",
+        "name": "Majesty",
+        "other-names": [
+            {
+                "name": "Majesty",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3514",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Passion Razz",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "9",
+                    "g1": "3",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 89,
+                    "g": 55,
+                    "b": 97
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 289,
+                    "s": 28,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 8,
+                    "m": 43,
+                    "y": 0,
+                    "k": 62
+                }
+            }
+        },
+        "description": "A dark, muted purple with warm purple-magenta tones."
+    }
+]

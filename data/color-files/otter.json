@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8349519",
+        "name": "Otter",
+        "other-names": [
+            {
+                "name": "Otter",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1018",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "F",
+                    "g1": "6",
+                    "g2": "7",
+                    "b1": "4",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 127,
+                    "g": 103,
+                    "b": 79
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 23,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 19,
+                    "y": 38,
+                    "k": 50
+                }
+            }
+        },
+        "description": "A medium-dark, muted brown with earthy warm orange-yellow tones."
+    }
+]

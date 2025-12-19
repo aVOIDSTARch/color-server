@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3745874",
+        "name": "Parachute Purple",
+        "other-names": [
+            {
+                "name": "Parachute Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3731",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "9",
+                    "g1": "2",
+                    "g2": "8",
+                    "b1": "5",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 57,
+                    "g": 40,
+                    "b": 82
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 264,
+                    "s": 34,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 30,
+                    "m": 51,
+                    "y": 0,
+                    "k": 68
+                }
+            }
+        },
+        "description": "A dark, moderately saturated purple with cool blue-violet tones."
+    }
+]

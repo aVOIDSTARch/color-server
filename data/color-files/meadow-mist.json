@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13885124",
+        "name": "Meadow Mist",
+        "other-names": [
+            {
+                "name": "Meadow Mist",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0106",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Balance",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "3",
+                    "g1": "D",
+                    "g2": "E",
+                    "b1": "C",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 211,
+                    "g": 222,
+                    "b": 196
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 85,
+                    "s": 28,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 12,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A light, muted green with yellow-green tones."
+    }
+]

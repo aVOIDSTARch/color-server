@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5593164",
+        "name": "Beetle",
+        "other-names": [
+            {
+                "name": "Beetle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0312",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "5",
+                    "g1": "5",
+                    "g2": "8",
+                    "b1": "4",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 85,
+                    "g": 88,
+                    "b": 76
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 75,
+                    "s": 7,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 14,
+                    "k": 65
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9215405",
+        "name": "Dusty Blue",
+        "other-names": [
+            {
+                "name": "Dusty Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4010",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blank Stare",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "C",
+                    "g1": "9",
+                    "g2": "D",
+                    "b1": "A",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 140,
+                    "g": 157,
+                    "b": 173
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 209,
+                    "s": 17,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 19,
+                    "m": 9,
+                    "y": 0,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool cyan-blue tones."
+    }
+]

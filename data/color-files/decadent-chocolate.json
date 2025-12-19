@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5321269",
+        "name": "Decadent Chocolate",
+        "other-names": [
+            {
+                "name": "Decadent Chocolate",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1625",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "1",
+                    "g1": "3",
+                    "g2": "2",
+                    "b1": "3",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 81,
+                    "g": 50,
+                    "b": 53
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 354,
+                    "s": 24,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 35,
+                    "k": 68
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red-pink tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6057340",
+        "name": "Blue Mirage",
+        "other-names": [
+            {
+                "name": "Blue Mirage",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4215",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "C",
+                    "g1": "6",
+                    "g2": "D",
+                    "b1": "7",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 92,
+                    "g": 109,
+                    "b": 124
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 208,
+                    "s": 15,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 26,
+                    "m": 12,
+                    "y": 0,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

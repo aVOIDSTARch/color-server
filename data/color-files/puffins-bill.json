@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15293472",
+        "name": "Puffins Bill",
+        "other-names": [
+            {
+                "name": "Puffins Bill",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1363",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "9",
+                    "g1": "5",
+                    "g2": "C",
+                    "b1": "2",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 233,
+                    "g": 92,
+                    "b": 32
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 18,
+                    "s": 82,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 61,
+                    "y": 86,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A medium, highly saturated orange with warm red tones."
+    }
+]

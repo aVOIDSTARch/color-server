@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11638372",
+        "name": "Antelope",
+        "other-names": [
+            {
+                "name": "Antelope",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1126",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "6",
+                    "b1": "6",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 177,
+                    "g": 150,
+                    "b": 100
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 33,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 44,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium, moderately saturated orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13736133",
+        "name": "Orchid",
+        "other-names": [
+            {
+                "name": "Orchid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-3214",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Carnation Rose",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "1",
+                    "g1": "9",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 209,
+                    "g": 152,
+                    "b": 197
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 313,
+                    "s": 38,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 6,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A light, moderately saturated pink with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15909329",
+        "name": "Fairy Tale",
+        "other-names": [
+            {
+                "name": "Fairy Tale",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-2802",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pink Chintz",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "1",
+                    "b1": "D",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 193,
+                    "b": 209
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 340,
+                    "s": 65,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 14,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A light, vibrant pink with warm red-pink tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8420719",
+        "name": "Vetiver",
+        "other-names": [
+            {
+                "name": "Vetiver",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0613",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "0",
+                    "g1": "7",
+                    "g2": "D",
+                    "b1": "6",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 128,
+                    "g": 125,
+                    "b": 111
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 49,
+                    "s": 7,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 13,
+                    "k": 50
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

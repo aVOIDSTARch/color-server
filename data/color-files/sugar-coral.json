@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16084083",
+        "name": "Sugar Coral",
+        "other-names": [
+            {
+                "name": "Sugar Coral",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1640",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "5",
+                    "g1": "6",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 245,
+                    "g": 108,
+                    "b": 115
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 357,
+                    "s": 87,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 56,
+                    "y": 53,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated red with warm red-pink tones."
+    }
+]

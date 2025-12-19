@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6580805",
+        "name": "Olive Branch",
+        "other-names": [
+            {
+                "name": "Olive Branch",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0527",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "6",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 106,
+                    "b": 69
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 70,
+                    "s": 21,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 0,
+                    "y": 35,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with yellow-green tones."
+    }
+]

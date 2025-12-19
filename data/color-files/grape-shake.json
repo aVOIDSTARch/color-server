@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8939889",
+        "name": "Grape Shake",
+        "other-names": [
+            {
+                "name": "Grape Shake",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-2109",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "8",
+                    "g1": "6",
+                    "g2": "9",
+                    "b1": "7",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 136,
+                    "g": 105,
+                    "b": 113
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 345,
+                    "s": 13,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 17,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium, muted red with warm red-pink tones."
+    }
+]

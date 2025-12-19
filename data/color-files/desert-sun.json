@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13137449",
+        "name": "Desert Sun",
+        "other-names": [
+            {
+                "name": "Desert Sun",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1149",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Brownish Orange",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "8",
+                    "g1": "7",
+                    "g2": "6",
+                    "b1": "2",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 200,
+                    "g": 118,
+                    "b": 41
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 29,
+                    "s": 66,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 41,
+                    "y": 80,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm red tones."
+    }
+]

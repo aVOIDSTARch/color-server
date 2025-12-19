@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16498329",
+        "name": "Apricot Ice",
+        "other-names": [
+            {
+                "name": "Apricot Ice",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1020",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Apricot Iced Tea",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "B",
+                    "g1": "B",
+                    "g2": "E",
+                    "b1": "9",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 251,
+                    "g": 190,
+                    "b": 153
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 92,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 39,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5065551",
+        "name": "Magnet",
+        "other-names": [
+            {
+                "name": "Magnet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3901",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Perle Noir",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "D",
+                    "g1": "4",
+                    "g2": "B",
+                    "b1": "4",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 77,
+                    "g": 75,
+                    "b": 79
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 270,
+                    "s": 3,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 5,
+                    "y": 0,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

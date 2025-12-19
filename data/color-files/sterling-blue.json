@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10664386",
+        "name": "Sterling Blue",
+        "other-names": [
+            {
+                "name": "Sterling Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4309",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "2",
+                    "g1": "B",
+                    "g2": "9",
+                    "b1": "C",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 162,
+                    "g": 185,
+                    "b": 194
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 21,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 16,
+                    "m": 5,
+                    "y": 0,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool cyan-blue tones."
+    }
+]

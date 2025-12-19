@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4667729",
+        "name": "Gothic Grape",
+        "other-names": [
+            {
+                "name": "Gothic Grape",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3720",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "7",
+                    "g1": "3",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 71,
+                    "g": 57,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 275,
+                    "s": 17,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 30,
+                    "y": 0,
+                    "k": 68
+                }
+            }
+        },
+        "description": "A dark, muted purple with warm purple-magenta tones."
+    }
+]

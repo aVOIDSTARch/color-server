@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13058933",
+        "name": "Fuchsia Rose",
+        "other-names": [
+            {
+                "name": "Fuchsia Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-2031",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "7",
+                    "g1": "4",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 199,
+                    "g": 67,
+                    "b": 117
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 337,
+                    "s": 54,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 66,
+                    "y": 41,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, vibrant pink with warm red-pink tones."
+    }
+]

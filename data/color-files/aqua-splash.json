@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8769233",
+        "name": "Aqua Splash",
+        "other-names": [
+            {
+                "name": "Aqua Splash",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-4812",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "5",
+                    "g1": "C",
+                    "g2": "E",
+                    "b1": "D",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 133,
+                    "g": 206,
+                    "b": 209
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 182,
+                    "s": 45,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 36,
+                    "m": 1,
+                    "y": 0,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

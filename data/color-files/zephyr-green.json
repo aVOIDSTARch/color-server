@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8171651",
+        "name": "Zephyr Green",
+        "other-names": [
+            {
+                "name": "Zephyr Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-6327",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Irish Hedge",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "C",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "8",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 124,
+                    "g": 176,
+                    "b": 131
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 128,
+                    "s": 25,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 30,
+                    "m": 0,
+                    "y": 26,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

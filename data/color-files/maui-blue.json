@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5415604",
+        "name": "Maui Blue",
+        "other-names": [
+            {
+                "name": "Maui Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4525",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "2",
+                    "g1": "A",
+                    "g2": "2",
+                    "b1": "B",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 82,
+                    "g": 162,
+                    "b": 180
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 191,
+                    "s": 40,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 54,
+                    "m": 10,
+                    "y": 0,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

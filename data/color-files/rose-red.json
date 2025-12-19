@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13181777",
+        "name": "Rose Red",
+        "other-names": [
+            {
+                "name": "Rose Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1852",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "9",
+                    "g1": "2",
+                    "g2": "3",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 201,
+                    "g": 35,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 343,
+                    "s": 70,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 83,
+                    "y": 60,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium, vibrant pink with warm red-pink tones."
+    }
+]

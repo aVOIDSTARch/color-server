@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8173198",
+        "name": "Light Grass Green",
+        "other-names": [
+            {
+                "name": "Light Grass Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-6322",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Green Eggs and Ham",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "C",
+                    "g1": "B",
+                    "g2": "6",
+                    "b1": "8",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 124,
+                    "g": 182,
+                    "b": 142
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 139,
+                    "s": 28,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 32,
+                    "m": 0,
+                    "y": 22,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

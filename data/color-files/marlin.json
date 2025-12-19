@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5331847",
+        "name": "Marlin",
+        "other-names": [
+            {
+                "name": "Marlin",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3932",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "1",
+                    "g1": "5",
+                    "g2": "B",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 81,
+                    "g": 91,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 229,
+                    "s": 25,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 40,
+                    "m": 33,
+                    "y": 0,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool blue-violet tones."
+    }
+]

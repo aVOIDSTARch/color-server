@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9613192",
+        "name": "Fair Green",
+        "other-names": [
+            {
+                "name": "Fair Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-6316",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "2",
+                    "g1": "A",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 146,
+                    "g": 175,
+                    "b": 136
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 105,
+                    "s": 20,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 0,
+                    "y": 22,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

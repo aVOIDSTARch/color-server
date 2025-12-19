@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9727092",
+        "name": "Wistful Mauve",
+        "other-names": [
+            {
+                "name": "Wistful Mauve",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1511",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "4",
+                    "g1": "6",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 148,
+                    "g": 108,
+                    "b": 116
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 348,
+                    "s": 16,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 22,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium, muted red with warm red-pink tones."
+    }
+]

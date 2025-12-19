@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5599368",
+        "name": "Captains Blue",
+        "other-names": [
+            {
+                "name": "Captains Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4020",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "5",
+                    "g1": "7",
+                    "g2": "0",
+                    "b1": "8",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 85,
+                    "g": 112,
+                    "b": 136
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 208,
+                    "s": 23,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 38,
+                    "m": 18,
+                    "y": 0,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

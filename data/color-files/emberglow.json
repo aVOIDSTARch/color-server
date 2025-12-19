@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15361881",
+        "name": "Emberglow",
+        "other-names": [
+            {
+                "name": "Emberglow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1547",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "A",
+                    "g1": "6",
+                    "g2": "7",
+                    "b1": "5",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 234,
+                    "g": 103,
+                    "b": 89
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 6,
+                    "s": 78,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 56,
+                    "y": 62,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated red with warm red tones."
+    }
+]

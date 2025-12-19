@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14829158",
+        "name": "Rouge Red",
+        "other-names": [
+            {
+                "name": "Rouge Red",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1755",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "4",
+                    "g2": "6",
+                    "b1": "6",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 70,
+                    "b": 102
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 348,
+                    "s": 73,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 69,
+                    "y": 55,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A medium-light, highly saturated red with warm red-pink tones."
+    }
+]

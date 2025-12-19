@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16368333",
+        "name": "Rose Shadow",
+        "other-names": [
+            {
+                "name": "Rose Shadow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1906",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "9",
+                    "g1": "C",
+                    "g2": "2",
+                    "b1": "C",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 249,
+                    "g": 194,
+                    "b": 205
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 348,
+                    "s": 82,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 18,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A very light, highly saturated red with warm red-pink tones."
+    }
+]

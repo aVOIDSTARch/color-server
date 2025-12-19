@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3293761",
+        "name": "Green Gables",
+        "other-names": [
+            {
+                "name": "Green Gables",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4906",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Darkest Spruce",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "2",
+                    "g1": "4",
+                    "g2": "2",
+                    "b1": "4",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 50,
+                    "g": 66,
+                    "b": 65
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 176,
+                    "s": 14,
+                    "l": 23
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 24,
+                    "m": 0,
+                    "y": 2,
+                    "k": 74
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool cyan-blue tones."
+    }
+]

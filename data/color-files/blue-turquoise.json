@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5484718",
+        "name": "Blue Turquoise",
+        "other-names": [
+            {
+                "name": "Blue Turquoise",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-5217",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Crystalsong Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "3",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "A",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 83,
+                    "g": 176,
+                    "b": 174
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 179,
+                    "s": 37,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 53,
+                    "m": 0,
+                    "y": 1,
+                    "k": 31
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

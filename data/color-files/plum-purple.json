@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5320782",
+        "name": "Plum Purple",
+        "other-names": [
+            {
+                "name": "Plum Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3218",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Plum Skin",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "1",
+                    "g1": "3",
+                    "g2": "0",
+                    "b1": "4",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 81,
+                    "g": 48,
+                    "b": 78
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 305,
+                    "s": 26,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 41,
+                    "y": 4,
+                    "k": 68
+                }
+            }
+        },
+        "description": "A dark, muted pink with warm purple-magenta tones."
+    }
+]

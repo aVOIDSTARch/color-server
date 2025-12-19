@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5007721",
+        "name": "Sea Pine",
+        "other-names": [
+            {
+                "name": "Sea Pine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5112",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "C",
+                    "g1": "6",
+                    "g2": "9",
+                    "b1": "6",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 76,
+                    "g": 105,
+                    "b": 105
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 180,
+                    "s": 16,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 28,
+                    "m": 0,
+                    "y": 0,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

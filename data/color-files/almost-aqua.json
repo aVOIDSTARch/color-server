@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13292481",
+        "name": "Almost Aqua",
+        "other-names": [
+            {
+                "name": "Almost Aqua",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-6006",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Tomatillo Peel",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "A",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "C",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 202,
+                    "g": 211,
+                    "b": 193
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 90,
+                    "s": 17,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 0,
+                    "y": 9,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A light, muted green with cool green tones."
+    }
+]

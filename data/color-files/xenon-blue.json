@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12042455",
+        "name": "Xenon Blue",
+        "other-names": [
+            {
+                "name": "Xenon Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3949",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "7",
+                    "g1": "C",
+                    "g2": "0",
+                    "b1": "D",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 183,
+                    "g": 192,
+                    "b": 215
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 223,
+                    "s": 29,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 11,
+                    "y": 0,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, muted blue with cool blue-violet tones."
+    }
+]

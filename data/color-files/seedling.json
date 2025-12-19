@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12635041",
+        "name": "Seedling",
+        "other-names": [
+            {
+                "name": "Seedling",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0217",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "0",
+                    "g1": "C",
+                    "g2": "B",
+                    "b1": "A",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 192,
+                    "g": 203,
+                    "b": 161
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 76,
+                    "s": 29,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 21,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted green with yellow-green tones."
+    }
+]

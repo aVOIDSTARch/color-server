@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15853791",
+        "name": "Gardenia",
+        "other-names": [
+            {
+                "name": "Gardenia",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0604",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "1",
+                    "g1": "E",
+                    "g2": "8",
+                    "b1": "D",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 241,
+                    "g": 232,
+                    "b": 223
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 39,
+                    "l": 91
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 7,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, moderately saturated orange with warm orange-yellow tones."
+    }
+]

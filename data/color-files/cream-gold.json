@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14598239",
+        "name": "Cream Gold",
+        "other-names": [
+            {
+                "name": "Cream Gold",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0739",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Candelabra",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "E",
+                    "g1": "C",
+                    "g2": "0",
+                    "b1": "5",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 222,
+                    "g": 192,
+                    "b": 95
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 46,
+                    "s": 66,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 14,
+                    "y": 57,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A medium-light, vibrant yellow with warm orange-yellow tones."
+    }
+]

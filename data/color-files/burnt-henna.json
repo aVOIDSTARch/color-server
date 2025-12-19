@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8272175",
+        "name": "Burnt Henna",
+        "other-names": [
+            {
+                "name": "Burnt Henna",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1540",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Smoked Paprika",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "E",
+                    "g1": "3",
+                    "g2": "9",
+                    "b1": "2",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 126,
+                    "g": 57,
+                    "b": 47
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 8,
+                    "s": 46,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 55,
+                    "y": 63,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8093490",
+        "name": "Woodbine",
+        "other-names": [
+            {
+                "name": "Woodbine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0538",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Majorca Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "B",
+                    "g1": "7",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 123,
+                    "g": 127,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 63,
+                    "s": 44,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 61,
+                    "k": 50
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated yellow with yellow-green tones."
+    }
+]

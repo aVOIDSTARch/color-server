@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9128291",
+        "name": "Violet Quartz",
+        "other-names": [
+            {
+                "name": "Violet Quartz",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1720",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "B",
+                    "g1": "4",
+                    "g2": "9",
+                    "b1": "6",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 139,
+                    "g": 73,
+                    "b": 99
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 336,
+                    "s": 31,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 47,
+                    "y": 29,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm red-pink tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12827327",
+        "name": "Lilac Marble",
+        "other-names": [
+            {
+                "name": "Lilac Marble",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3903",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "3",
+                    "g1": "B",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 195,
+                    "g": 186,
+                    "b": 191
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 327,
+                    "s": 7,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 2,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A light, neutral grey."
+    }
+]

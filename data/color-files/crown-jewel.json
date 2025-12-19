@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4730196",
+        "name": "Crown Jewel",
+        "other-names": [
+            {
+                "name": "Crown Jewel",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3640",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Scarlet Gum",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "8",
+                    "g1": "2",
+                    "g2": "D",
+                    "b1": "5",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 72,
+                    "g": 45,
+                    "b": 84
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 282,
+                    "s": 30,
+                    "l": 25
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 46,
+                    "y": 0,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A dark, muted purple with warm purple-magenta tones."
+    }
+]

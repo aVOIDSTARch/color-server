@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16040607",
+        "name": "Almond Cream",
+        "other-names": [
+            {
+                "name": "Almond Cream",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1017",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "C",
+                    "g2": "2",
+                    "b1": "9",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 194,
+                    "b": 159
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 25,
+                    "s": 79,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 35,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm red tones."
+    }
+]

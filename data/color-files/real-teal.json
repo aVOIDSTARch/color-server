@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4218227",
+        "name": "Real Teal",
+        "other-names": [
+            {
+                "name": "Real Teal",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4018",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Eclipse Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "0",
+                    "g1": "5",
+                    "g2": "D",
+                    "b1": "7",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 64,
+                    "g": 93,
+                    "b": 115
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 206,
+                    "s": 28,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 44,
+                    "m": 19,
+                    "y": 0,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, muted blue with cool cyan-blue tones."
+    }
+]

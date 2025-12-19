@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "1595244",
+        "name": "Corsair",
+        "other-names": [
+            {
+                "name": "Corsair",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4329",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "8",
+                    "g1": "5",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 24,
+                    "g": 87,
+                    "b": 108
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 195,
+                    "s": 64,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 78,
+                    "m": 19,
+                    "y": 0,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A dark, vibrant blue with cool cyan-blue tones."
+    }
+]

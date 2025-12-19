@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15454089",
+        "name": "Sundress",
+        "other-names": [
+            {
+                "name": "Sundress",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0729",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "B",
+                    "g1": "C",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 235,
+                    "g": 207,
+                    "b": 137
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 71,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 42,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm orange-yellow tones."
+    }
+]

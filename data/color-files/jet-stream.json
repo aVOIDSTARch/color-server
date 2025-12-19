@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15591134",
+        "name": "Jet Stream",
+        "other-names": [
+            {
+                "name": "Jet Stream",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0605",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Severe Seal",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "E",
+                    "g2": "6",
+                    "b1": "D",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 230,
+                    "b": 222
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 32,
+                    "s": 29,
+                    "l": 90
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 6,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A very light, muted orange with warm orange-yellow tones."
+    }
+]

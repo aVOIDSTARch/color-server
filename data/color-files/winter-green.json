@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5217921",
+        "name": "Winter Green",
+        "other-names": [
+            {
+                "name": "Winter Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-5924",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Wintergreen Shadow",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "E",
+                    "b1": "8",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 79,
+                    "g": 158,
+                    "b": 129
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 158,
+                    "s": 33,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 50,
+                    "m": 0,
+                    "y": 18,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium, moderately saturated green with cool cyan-blue tones."
+    }
+]

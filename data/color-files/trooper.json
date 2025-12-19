@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6912638",
+        "name": "Trooper",
+        "other-names": [
+            {
+                "name": "Trooper",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4510",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Night Rendezvous",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "9",
+                    "g1": "7",
+                    "g2": "A",
+                    "b1": "7",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 105,
+                    "g": 122,
+                    "b": 126
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 191,
+                    "s": 9,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 3,
+                    "y": 0,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

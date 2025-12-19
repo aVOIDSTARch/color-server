@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "1196092",
+        "name": "Botanical Garden",
+        "other-names": [
+            {
+                "name": "Botanical Garden",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-5220",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Botanical Night",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "2",
+                    "g1": "4",
+                    "g2": "0",
+                    "b1": "3",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 18,
+                    "g": 64,
+                    "b": 60
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 175,
+                    "s": 56,
+                    "l": 16
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 72,
+                    "m": 0,
+                    "y": 6,
+                    "k": 75
+                }
+            }
+        },
+        "description": "A dark, vibrant blue with cool cyan-blue tones."
+    }
+]

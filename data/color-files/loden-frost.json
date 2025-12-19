@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7901044",
+        "name": "Loden Frost",
+        "other-names": [
+            {
+                "name": "Loden Frost",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0210",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "8",
+                    "g1": "8",
+                    "g2": "F",
+                    "b1": "7",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 120,
+                    "g": 143,
+                    "b": 116
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 111,
+                    "s": 11,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 16,
+                    "m": 0,
+                    "y": 19,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium, muted green with cool green tones."
+    }
+]

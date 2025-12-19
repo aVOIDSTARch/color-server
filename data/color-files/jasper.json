@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3365209",
+        "name": "Jasper",
+        "other-names": [
+            {
+                "name": "Jasper",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-5413",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Depth Charge",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "3",
+                    "g1": "5",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 51,
+                    "g": 89,
+                    "b": 89
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 180,
+                    "s": 27,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 43,
+                    "m": 0,
+                    "y": 0,
+                    "k": 65
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16294813",
+        "name": "Candlelight Peach",
+        "other-names": [
+            {
+                "name": "Candlelight Peach",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-1621",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "8",
+                    "g1": "A",
+                    "g2": "3",
+                    "b1": "9",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 248,
+                    "g": 163,
+                    "b": 157
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 4,
+                    "s": 87,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 34,
+                    "y": 37,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red tones."
+    }
+]

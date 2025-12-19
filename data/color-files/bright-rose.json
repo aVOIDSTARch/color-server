@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12917081",
+        "name": "Bright Rose",
+        "other-names": [
+            {
+                "name": "Bright Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1945",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "5",
+                    "g1": "1",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 197,
+                    "g": 25,
+                    "b": 89
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 338,
+                    "s": 77,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 87,
+                    "y": 55,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated pink with warm red-pink tones."
+    }
+]

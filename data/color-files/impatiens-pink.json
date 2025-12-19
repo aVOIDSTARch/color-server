@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16762044",
+        "name": "Impatiens Pink",
+        "other-names": [
+            {
+                "name": "Impatiens Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1510",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "C",
+                    "g2": "4",
+                    "b1": "B",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 196,
+                    "b": 188
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 7,
+                    "s": 100,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 26,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A very light, highly saturated red with warm red tones."
+    }
+]

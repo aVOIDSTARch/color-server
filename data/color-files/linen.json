@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15585984",
+        "name": "Linen",
+        "other-names": [
+            {
+                "name": "Linen",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1008",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Cream of Mushroom",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "D",
+                    "g1": "D",
+                    "g2": "2",
+                    "b1": "C",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 237,
+                    "g": 210,
+                    "b": 192
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 56,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 19,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm red tones."
+    }
+]

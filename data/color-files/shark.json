@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7168875",
+        "name": "Shark",
+        "other-names": [
+            {
+                "name": "Shark",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1703",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Vibrant Vision",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "D",
+                    "g1": "6",
+                    "g2": "3",
+                    "b1": "6",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 109,
+                    "g": 99,
+                    "b": 107
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 312,
+                    "s": 5,
+                    "l": 41
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 2,
+                    "k": 57
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

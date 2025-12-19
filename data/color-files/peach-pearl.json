@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16757413",
+        "name": "Peach Pearl",
+        "other-names": [
+            {
+                "name": "Peach Pearl",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-1419",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "2",
+                    "b1": "A",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 178,
+                    "b": 165
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 9,
+                    "s": 100,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 30,
+                    "y": 35,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A light, highly saturated red with warm red tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5479628",
+        "name": "Bonnie Blue",
+        "other-names": [
+            {
+                "name": "Bonnie Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4134",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blue Iguana",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "3",
+                    "g1": "9",
+                    "g2": "C",
+                    "b1": "C",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 83,
+                    "g": 156,
+                    "b": 204
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 204,
+                    "s": 54,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 59,
+                    "m": 24,
+                    "y": 0,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium-light, vibrant blue with cool cyan-blue tones."
+    }
+]

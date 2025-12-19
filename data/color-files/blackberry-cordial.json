@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4139591",
+        "name": "Blackberry Cordial",
+        "other-names": [
+            {
+                "name": "Blackberry Cordial",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3520",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Aubergine Mauve",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "F",
+                    "g1": "2",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 63,
+                    "g": 42,
+                    "b": 71
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 283,
+                    "s": 26,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 41,
+                    "y": 0,
+                    "k": 72
+                }
+            }
+        },
+        "description": "A dark, muted purple with warm purple-magenta tones."
+    }
+]

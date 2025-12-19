@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2509384",
+        "name": "June Bug",
+        "other-names": [
+            {
+                "name": "June Bug",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-5414",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "6",
+                    "g1": "4",
+                    "g2": "A",
+                    "b1": "4",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 38,
+                    "g": 74,
+                    "b": 72
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 177,
+                    "s": 32,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 49,
+                    "m": 0,
+                    "y": 3,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, moderately saturated blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14199479",
+        "name": "Pink Nectar",
+        "other-names": [
+            {
+                "name": "Pink Nectar",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-2305",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "8",
+                    "g1": "A",
+                    "g2": "A",
+                    "b1": "B",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 216,
+                    "g": 170,
+                    "b": 183
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 343,
+                    "s": 37,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 21,
+                    "y": 15,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A light, moderately saturated pink with warm red-pink tones."
+    }
+]

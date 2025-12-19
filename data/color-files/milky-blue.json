@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7514298",
+        "name": "Milky Blue",
+        "other-names": [
+            {
+                "name": "Milky Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-4415",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "2",
+                    "g1": "A",
+                    "g2": "8",
+                    "b1": "B",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 114,
+                    "g": 168,
+                    "b": 186
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 195,
+                    "s": 34,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 39,
+                    "m": 10,
+                    "y": 0,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

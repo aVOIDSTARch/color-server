@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "14913156",
+        "name": "Coral Haze",
+        "other-names": [
+            {
+                "name": "Coral Haze",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1329",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "3",
+                    "g1": "8",
+                    "g2": "E",
+                    "b1": "8",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 227,
+                    "g": 142,
+                    "b": 132
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 6,
+                    "s": 63,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 37,
+                    "y": 42,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A medium-light, vibrant red with warm red tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6602660",
+        "name": "Spearmint",
+        "other-names": [
+            {
+                "name": "Spearmint",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-5819",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "B",
+                    "g2": "F",
+                    "b1": "A",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 191,
+                    "b": 164
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 162,
+                    "s": 42,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 48,
+                    "m": 0,
+                    "y": 14,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool cyan-blue tones."
+    }
+]

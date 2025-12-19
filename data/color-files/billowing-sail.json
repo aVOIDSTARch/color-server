@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14215143",
+        "name": "Billowing Sail",
+        "other-names": [
+            {
+                "name": "Billowing Sail",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-4604",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Interdimensional Portal",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "8",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "E",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 216,
+                    "g": 231,
+                    "b": 231
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 180,
+                    "s": 24,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 0,
+                    "y": 0,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A very light, muted blue with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6128059",
+        "name": "Granada Sky",
+        "other-names": [
+            {
+                "name": "Granada Sky",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4033",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "D",
+                    "g1": "8",
+                    "g2": "1",
+                    "b1": "B",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 93,
+                    "g": 129,
+                    "b": 187
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 217,
+                    "s": 41,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 50,
+                    "m": 31,
+                    "y": 0,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool blue-violet tones."
+    }
+]

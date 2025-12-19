@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9206881",
+        "name": "Elmwood",
+        "other-names": [
+            {
+                "name": "Elmwood",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1019",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "C",
+                    "g1": "7",
+                    "g2": "C",
+                    "b1": "6",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 140,
+                    "g": 124,
+                    "b": 97
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 38,
+                    "s": 18,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 31,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, muted brown with earthy warm orange-yellow tones."
+    }
+]

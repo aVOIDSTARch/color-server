@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15067024",
+        "name": "Charlock",
+        "other-names": [
+            {
+                "name": "Charlock",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0530",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Lime Juice Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "5",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "9",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 144
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 61,
+                    "s": 64,
+                    "l": 74
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 38,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, vibrant yellow with yellow-green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2829360",
+        "name": "Stretch Limo",
+        "other-names": [
+            {
+                "name": "Stretch Limo",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4005",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Caviar",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "B",
+                    "g1": "2",
+                    "g2": "C",
+                    "b1": "3",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 43,
+                    "g": 44,
+                    "b": 48
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 228,
+                    "s": 5,
+                    "l": 18
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 8,
+                    "y": 0,
+                    "k": 81
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

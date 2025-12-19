@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13358513",
+        "name": "Seafoam Green",
+        "other-names": [
+            {
+                "name": "Seafoam Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0313",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mint Soap",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "B",
+                    "g1": "D",
+                    "g2": "5",
+                    "b1": "B",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 203,
+                    "g": 213,
+                    "b": 177
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 77,
+                    "s": 30,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 17,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, muted green with yellow-green tones."
+    }
+]

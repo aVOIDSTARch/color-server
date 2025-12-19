@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "27817",
+        "name": "Indigo Bunting",
+        "other-names": [
+            {
+                "name": "Indigo Bunting",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4250",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "6",
+                    "g2": "C",
+                    "b1": "A",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 108,
+                    "b": 169
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 202,
+                    "s": 100,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 36,
+                    "y": 0,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

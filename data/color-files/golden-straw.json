@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15121807",
+        "name": "Golden Straw",
+        "other-names": [
+            {
+                "name": "Golden Straw",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0921",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Gold Plate",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "6",
+                    "g1": "B",
+                    "g2": "D",
+                    "b1": "8",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 230,
+                    "g": 189,
+                    "b": 143
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 32,
+                    "s": 64,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 18,
+                    "y": 38,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm orange-yellow tones."
+    }
+]

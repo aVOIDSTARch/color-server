@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3817522",
+        "name": "Kombu Green",
+        "other-names": [
+            {
+                "name": "Kombu Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0417",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "A",
+                    "g1": "4",
+                    "g2": "0",
+                    "b1": "3",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 58,
+                    "g": 64,
+                    "b": 50
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 86,
+                    "s": 12,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 0,
+                    "y": 22,
+                    "k": 75
+                }
+            }
+        },
+        "description": "A dark, muted green with yellow-green tones."
+    }
+]

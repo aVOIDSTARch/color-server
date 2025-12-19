@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "6313626",
+        "name": "Purple Opulence",
+        "other-names": [
+            {
+                "name": "Purple Opulence",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3840",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "0",
+                    "g1": "5",
+                    "g2": "6",
+                    "b1": "9",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 96,
+                    "g": 86,
+                    "b": 154
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 249,
+                    "s": 28,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 38,
+                    "m": 44,
+                    "y": 0,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool blue-violet tones."
+    }
+]

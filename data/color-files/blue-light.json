@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11329501",
+        "name": "Blue Light",
+        "other-names": [
+            {
+                "name": "Blue Light",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-4909",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "C",
+                    "g1": "D",
+                    "g2": "F",
+                    "b1": "D",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 172,
+                    "g": 223,
+                    "b": 221
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 178,
+                    "s": 44,
+                    "l": 77
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 23,
+                    "m": 0,
+                    "y": 1,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

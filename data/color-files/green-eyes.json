@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8230253",
+        "name": "Green Eyes",
+        "other-names": [
+            {
+                "name": "Green Eyes",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0224",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "D",
+                    "g1": "9",
+                    "g2": "5",
+                    "b1": "6",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 125,
+                    "g": 149,
+                    "b": 109
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 96,
+                    "s": 16,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 16,
+                    "m": 0,
+                    "y": 27,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium, muted green with cool green tones."
+    }
+]

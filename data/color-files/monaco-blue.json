@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2573172",
+        "name": "Monaco Blue",
+        "other-names": [
+            {
+                "name": "Monaco Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3964",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "7",
+                    "g1": "4",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 39,
+                    "g": 67,
+                    "b": 116
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 218,
+                    "s": 50,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 66,
+                    "m": 42,
+                    "y": 0,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

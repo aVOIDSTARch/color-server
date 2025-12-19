@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13821898",
+        "name": "Ambrosia",
+        "other-names": [
+            {
+                "name": "Ambrosia",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0109",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Butter Lettuce",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "C",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 231,
+                    "b": 202
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 103,
+                    "s": 38,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 0,
+                    "y": 13,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A light, moderately saturated green with cool green tones."
+    }
+]

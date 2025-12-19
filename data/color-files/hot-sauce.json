@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11226945",
+        "name": "Hot Sauce",
+        "other-names": [
+            {
+                "name": "Hot Sauce",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1536",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "B",
+                    "g1": "4",
+                    "g2": "F",
+                    "b1": "4",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 171,
+                    "g": 79,
+                    "b": 65
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 8,
+                    "s": 45,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 54,
+                    "y": 62,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A medium, moderately saturated red with warm red tones."
+    }
+]

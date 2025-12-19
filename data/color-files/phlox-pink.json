@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13524634",
+        "name": "Phlox Pink",
+        "other-names": [
+            {
+                "name": "Phlox Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-2627",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "E",
+                    "b1": "9",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 206,
+                    "g": 94,
+                    "b": 154
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 328,
+                    "s": 53,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 54,
+                    "y": 25,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A medium-light, vibrant pink with warm purple-magenta tones."
+    }
+]

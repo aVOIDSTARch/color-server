@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15062670",
+        "name": "Custard",
+        "other-names": [
+            {
+                "name": "Custard",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-0720",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Copacabana Sand",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "5",
+                    "g1": "D",
+                    "g2": "6",
+                    "b1": "8",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 229,
+                    "g": 214,
+                    "b": 142
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 50,
+                    "s": 63,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 7,
+                    "y": 38,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A light, vibrant yellow with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16052161",
+        "name": "Almond Oil",
+        "other-names": [
+            {
+                "name": "Almond Oil",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0713",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "E",
+                    "g2": "F",
+                    "b1": "C",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 239,
+                    "b": 193
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 54,
+                    "s": 70,
+                    "l": 86
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 21,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, vibrant yellow with warm orange-yellow tones."
+    }
+]

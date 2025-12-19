@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14342345",
+        "name": "Light Gray",
+        "other-names": [
+            {
+                "name": "Light Gray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0404",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Veil of Dusk",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "A",
+                    "g1": "D",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 218,
+                    "g": 216,
+                    "b": 201
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 53,
+                    "s": 19,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 8,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A light, muted yellow with warm orange-yellow tones."
+    }
+]

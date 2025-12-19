@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "11233305",
+        "name": "Thai Curry",
+        "other-names": [
+            {
+                "name": "Thai Curry",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1049",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Ancient Brandy",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "B",
+                    "g1": "6",
+                    "g2": "8",
+                    "b1": "1",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 171,
+                    "g": 104,
+                    "b": 25
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 32,
+                    "s": 74,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 39,
+                    "y": 85,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated orange with warm orange-yellow tones."
+    }
+]

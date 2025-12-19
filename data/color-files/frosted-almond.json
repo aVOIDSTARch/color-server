@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13812396",
+        "name": "Frosted Almond",
+        "other-names": [
+            {
+                "name": "Frosted Almond",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-1012",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "2",
+                    "b1": "A",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 194,
+                    "b": 172
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 30,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 18,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A light, muted orange with warm orange-yellow tones."
+    }
+]

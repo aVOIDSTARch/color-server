@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6562862",
+        "name": "Cabernet",
+        "other-names": [
+            {
+                "name": "Cabernet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1724",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blackberry Pie",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "4",
+                    "g1": "2",
+                    "g2": "4",
+                    "b1": "2",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 100,
+                    "g": 36,
+                    "b": 46
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 47,
+                    "l": 27
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 64,
+                    "y": 54,
+                    "k": 61
+                }
+            }
+        },
+        "description": "A dark, moderately saturated brown with earthy warm red-pink tones."
+    }
+]

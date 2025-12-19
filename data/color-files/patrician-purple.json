@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7097977",
+        "name": "Patrician Purple",
+        "other-names": [
+            {
+                "name": "Patrician Purple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-3518",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Exotic Purple",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "C",
+                    "g1": "4",
+                    "g2": "E",
+                    "b1": "7",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 108,
+                    "g": 78,
+                    "b": 121
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 282,
+                    "s": 22,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 36,
+                    "y": 0,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, muted purple with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16742675",
+        "name": "Orange Popsicle",
+        "other-names": [
+            {
+                "name": "Orange Popsicle",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1350",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "1",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 121,
+                    "b": 19
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 100,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 53,
+                    "y": 93,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A medium, highly saturated orange with warm red tones."
+    }
+]

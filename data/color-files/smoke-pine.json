@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4088407",
+        "name": "Smoke Pine",
+        "other-names": [
+            {
+                "name": "Smoke Pine",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-5718",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Stromboli",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "E",
+                    "g1": "6",
+                    "g2": "2",
+                    "b1": "5",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 62,
+                    "g": 98,
+                    "b": 87
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 162,
+                    "s": 23,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 37,
+                    "m": 0,
+                    "y": 11,
+                    "k": 62
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool cyan-blue tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9729892",
+        "name": "Burro",
+        "other-names": [
+            {
+                "name": "Burro",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1322",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "7",
+                    "b1": "6",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 148,
+                    "g": 119,
+                    "b": 100
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 24,
+                    "s": 19,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 20,
+                    "y": 32,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A medium, muted brown with earthy warm red tones."
+    }
+]

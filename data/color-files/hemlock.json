@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9945505",
+        "name": "Hemlock",
+        "other-names": [
+            {
+                "name": "Hemlock",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-6114",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mini Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "7",
+                    "g1": "C",
+                    "g2": "1",
+                    "b1": "A",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 151,
+                    "g": 193,
+                    "b": 161
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 134,
+                    "s": 25,
+                    "l": 67
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 22,
+                    "m": 0,
+                    "y": 17,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium-light, muted green with cool green tones."
+    }
+]

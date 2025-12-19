@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15787933",
+        "name": "Lemonade",
+        "other-names": [
+            {
+                "name": "Lemonade",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0721",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "0",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "9",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 240,
+                    "g": 231,
+                    "b": 157
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 53,
+                    "s": 73,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 35,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A light, highly saturated yellow with warm orange-yellow tones."
+    }
+]

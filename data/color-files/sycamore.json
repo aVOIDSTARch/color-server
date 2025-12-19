@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3491389",
+        "name": "Sycamore",
+        "other-names": [
+            {
+                "name": "Sycamore",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-5917",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Exclusive Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "5",
+                    "g1": "4",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 53,
+                    "g": 70,
+                    "b": 61
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 148,
+                    "s": 14,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 24,
+                    "m": 0,
+                    "y": 13,
+                    "k": 73
+                }
+            }
+        },
+        "description": "A dark, muted green with cool green tones."
+    }
+]

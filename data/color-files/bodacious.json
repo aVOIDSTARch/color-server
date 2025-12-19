@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12020643",
+        "name": "Bodacious",
+        "other-names": [
+            {
+                "name": "Bodacious",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3240",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pearly Purple",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "7",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "A",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 183,
+                    "g": 107,
+                    "b": 163
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 316,
+                    "s": 35,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 42,
+                    "y": 11,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated pink with warm purple-magenta tones."
+    }
+]

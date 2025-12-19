@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4606012",
+        "name": "Deep Depths",
+        "other-names": [
+            {
+                "name": "Deep Depths",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-0413",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Treasure Island",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "6",
+                    "g1": "4",
+                    "g2": "8",
+                    "b1": "3",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 70,
+                    "g": 72,
+                    "b": 60
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 70,
+                    "s": 9,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 17,
+                    "k": 72
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

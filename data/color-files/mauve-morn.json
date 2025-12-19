@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15521494",
+        "name": "Mauve Morn",
+        "other-names": [
+            {
+                "name": "Mauve Morn",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-2102",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Beloved Pink",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "C",
+                    "g1": "D",
+                    "g2": "6",
+                    "b1": "D",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 236,
+                    "g": 214,
+                    "b": 214
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 37,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 9,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A very light, moderately saturated red with warm red tones."
+    }
+]

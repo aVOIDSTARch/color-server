@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10732925",
+        "name": "Opaline Green",
+        "other-names": [
+            {
+                "name": "Opaline Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0226",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "3",
+                    "g1": "C",
+                    "g2": "5",
+                    "b1": "7",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 163,
+                    "g": 197,
+                    "b": 125
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 88,
+                    "s": 38,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 17,
+                    "m": 0,
+                    "y": 37,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with yellow-green tones."
+    }
+]

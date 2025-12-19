@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "1736590",
+        "name": "Pagoda Blue",
+        "other-names": [
+            {
+                "name": "Pagoda Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-4724",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bermuda",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "F",
+                    "b1": "8",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 26,
+                    "g": 127,
+                    "b": 142
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 188,
+                    "s": 69,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 82,
+                    "m": 11,
+                    "y": 0,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant blue with cool cyan-blue tones."
+    }
+]

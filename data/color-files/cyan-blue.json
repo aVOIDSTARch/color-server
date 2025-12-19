@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "1352647",
+        "name": "Cyan Blue",
+        "other-names": [
+            {
+                "name": "Cyan Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4529",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "4",
+                    "g1": "A",
+                    "g2": "3",
+                    "b1": "C",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 20,
+                    "g": 163,
+                    "b": 199
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 192,
+                    "s": 82,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 90,
+                    "m": 18,
+                    "y": 0,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

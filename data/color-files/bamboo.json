@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13807692",
+        "name": "Bamboo",
+        "other-names": [
+            {
+                "name": "Bamboo",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0740",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Haystack",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "B",
+                    "g2": "0",
+                    "b1": "4",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 176,
+                    "b": 76
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 45,
+                    "s": 60,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 64,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium-light, vibrant yellow with warm orange-yellow tones."
+    }
+]

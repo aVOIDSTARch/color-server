@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2054492",
+        "name": "Pacific",
+        "other-names": [
+            {
+                "name": "Pacific",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4916",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bayberry",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "F",
+                    "g1": "5",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 31,
+                    "g": 89,
+                    "b": 92
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 183,
+                    "s": 50,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 66,
+                    "m": 3,
+                    "y": 0,
+                    "k": 64
+                }
+            }
+        },
+        "description": "A dark, moderately saturated blue with cool cyan-blue tones."
+    }
+]

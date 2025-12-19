@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2702157",
+        "name": "Moonlit Ocean",
+        "other-names": [
+            {
+                "name": "Moonlit Ocean",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4122",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Harpoon",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "9",
+                    "g1": "3",
+                    "g2": "B",
+                    "b1": "4",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 41,
+                    "g": 59,
+                    "b": 77
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 210,
+                    "s": 31,
+                    "l": 23
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 47,
+                    "m": 23,
+                    "y": 0,
+                    "k": 70
+                }
+            }
+        },
+        "description": "A dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

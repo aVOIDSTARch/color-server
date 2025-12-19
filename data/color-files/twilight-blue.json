@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3226980",
+        "name": "Twilight Blue",
+        "other-names": [
+            {
+                "name": "Twilight Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3938",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bay of Many",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "1",
+                    "g1": "3",
+                    "g2": "D",
+                    "b1": "6",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 49,
+                    "g": 61,
+                    "b": 100
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 226,
+                    "s": 34,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 51,
+                    "m": 39,
+                    "y": 0,
+                    "k": 61
+                }
+            }
+        },
+        "description": "A dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

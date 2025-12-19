@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12093845",
+        "name": "Lilas",
+        "other-names": [
+            {
+                "name": "Lilas",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1708",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Punched Pink",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "8",
+                    "g1": "8",
+                    "g2": "9",
+                    "b1": "9",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 184,
+                    "g": 137,
+                    "b": 149
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 345,
+                    "s": 25,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 26,
+                    "y": 19,
+                    "k": 28
+                }
+            }
+        },
+        "description": "A medium-light, muted red with warm red-pink tones."
+    }
+]

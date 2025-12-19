@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "11240815",
+        "name": "Tawny Brown",
+        "other-names": [
+            {
+                "name": "Tawny Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1226",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "B",
+                    "g1": "8",
+                    "g2": "5",
+                    "b1": "6",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 171,
+                    "g": 133,
+                    "b": 111
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 22,
+                    "s": 26,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 35,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm red tones."
+    }
+]

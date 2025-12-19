@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13271217",
+        "name": "Opera Mauve",
+        "other-names": [
+            {
+                "name": "Opera Mauve",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-3116",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Peruvian Lily",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "A",
+                    "g1": "8",
+                    "g2": "0",
+                    "b1": "B",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 202,
+                    "g": 128,
+                    "b": 177
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 320,
+                    "s": 41,
+                    "l": 65
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 37,
+                    "y": 12,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated pink with warm purple-magenta tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2375532",
+        "name": "Limoges",
+        "other-names": [
+            {
+                "name": "Limoges",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4044",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "4",
+                    "g1": "3",
+                    "g2": "F",
+                    "b1": "6",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 36,
+                    "g": 63,
+                    "b": 108
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 218,
+                    "s": 50,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 67,
+                    "m": 42,
+                    "y": 0,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

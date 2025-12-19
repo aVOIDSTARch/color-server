@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10456444",
+        "name": "Silver Mink",
+        "other-names": [
+            {
+                "name": "Silver Mink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1312",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "F",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "7",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 159,
+                    "g": 141,
+                    "b": 124
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 29,
+                    "s": 15,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 22,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium, muted orange with warm red tones."
+    }
+]

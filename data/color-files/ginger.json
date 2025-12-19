@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13198673",
+        "name": "Ginger",
+        "other-names": [
+            {
+                "name": "Ginger",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1444",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Southwestern Clay",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "9",
+                    "g1": "6",
+                    "g2": "5",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 201,
+                    "g": 101,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 10,
+                    "s": 53,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 50,
+                    "y": 60,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm red tones."
+    }
+]

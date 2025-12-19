@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15915213",
+        "name": "Soft Pink",
+        "other-names": [
+            {
+                "name": "Soft Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1209",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pink Zest",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "D",
+                    "g2": "8",
+                    "b1": "C",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 216,
+                    "b": 205
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 18,
+                    "s": 59,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 15,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, vibrant orange with warm red tones."
+    }
+]

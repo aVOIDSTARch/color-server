@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12417908",
+        "name": "Desert Sand",
+        "other-names": [
+            {
+                "name": "Desert Sand",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1524",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Antique Pink",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "D",
+                    "g1": "7",
+                    "g2": "B",
+                    "b1": "7",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 189,
+                    "g": 123,
+                    "b": 116
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 6,
+                    "s": 36,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 35,
+                    "y": 39,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated red with warm red tones."
+    }
+]

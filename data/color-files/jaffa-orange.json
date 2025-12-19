@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14183737",
+        "name": "Jaffa Orange",
+        "other-names": [
+            {
+                "name": "Jaffa Orange",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1454",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Field Poppy",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "8",
+                    "g1": "6",
+                    "g2": "D",
+                    "b1": "3",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 216,
+                    "g": 109,
+                    "b": 57
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 20,
+                    "s": 67,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 50,
+                    "y": 74,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm red tones."
+    }
+]

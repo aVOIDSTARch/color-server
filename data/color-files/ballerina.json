@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15912924",
+        "name": "Ballerina",
+        "other-names": [
+            {
+                "name": "Ballerina",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "13-2807",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "F",
+                    "b1": "D",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 207,
+                    "b": 220
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 338,
+                    "s": 57,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 14,
+                    "y": 9,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, vibrant pink with warm red-pink tones."
+    }
+]

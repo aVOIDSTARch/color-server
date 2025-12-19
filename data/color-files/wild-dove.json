@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9145481",
+        "name": "Wild Dove",
+        "other-names": [
+            {
+                "name": "Wild Dove",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1501",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "B",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "8",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 139,
+                    "g": 140,
+                    "b": 137
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 80,
+                    "s": 1,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 2,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

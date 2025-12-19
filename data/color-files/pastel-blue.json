@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12374997",
+        "name": "Pastel Blue",
+        "other-names": [
+            {
+                "name": "Pastel Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-4607",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Wind Speed",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "C",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 188,
+                    "g": 211,
+                    "b": 213
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 185,
+                    "s": 23,
+                    "l": 79
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 12,
+                    "m": 1,
+                    "y": 0,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A light, muted blue with cool cyan-blue tones."
+    }
+]

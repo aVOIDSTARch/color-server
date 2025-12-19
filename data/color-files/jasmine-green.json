@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8308805",
+        "name": "Jasmine Green",
+        "other-names": [
+            {
+                "name": "Jasmine Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-0545",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "E",
+                    "g1": "C",
+                    "g2": "8",
+                    "b1": "4",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 126,
+                    "g": 200,
+                    "b": 69
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 94,
+                    "s": 54,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 37,
+                    "m": 0,
+                    "y": 66,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A medium, vibrant green with cool green tones."
+    }
+]

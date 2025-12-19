@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4681808",
+        "name": "Fairway",
+        "other-names": [
+            {
+                "name": "Fairway",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-6320",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "7",
+                    "g1": "7",
+                    "g2": "0",
+                    "b1": "5",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 71,
+                    "g": 112,
+                    "b": 80
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 133,
+                    "s": 22,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 37,
+                    "m": 0,
+                    "y": 29,
+                    "k": 56
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

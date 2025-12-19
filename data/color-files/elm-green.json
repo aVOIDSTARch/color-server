@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5533779",
+        "name": "Elm Green",
+        "other-names": [
+            {
+                "name": "Elm Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0121",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Daylight Jungle",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "4",
+                    "g1": "7",
+                    "g2": "0",
+                    "b1": "5",
+                    "b2": "3",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 84,
+                    "g": 112,
+                    "b": 83
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 118,
+                    "s": 15,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 0,
+                    "y": 26,
+                    "k": 56
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

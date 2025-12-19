@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5994849",
+        "name": "Comfrey",
+        "other-names": [
+            {
+                "name": "Comfrey",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-6216",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Swanndri",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "B",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "6",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 91,
+                    "g": 121,
+                    "b": 97
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 132,
+                    "s": 14,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 0,
+                    "y": 20,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

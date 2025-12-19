@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15652057",
+        "name": "Primrose Pink",
+        "other-names": [
+            {
+                "name": "Primrose Pink",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-2904",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pale Rose",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "E",
+                    "g1": "D",
+                    "g2": "4",
+                    "b1": "D",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 238,
+                    "g": 212,
+                    "b": 217
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 348,
+                    "s": 43,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 9,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A very light, moderately saturated red with warm red-pink tones."
+    }
+]

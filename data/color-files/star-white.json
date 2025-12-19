@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "15724520",
+        "name": "Star White",
+        "other-names": [
+            {
+                "name": "Star White",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-4202",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "F",
+                    "g1": "E",
+                    "g2": "F",
+                    "b1": "E",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 239,
+                    "g": 239,
+                    "b": 232
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 60,
+                    "s": 18,
+                    "l": 92
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 0,
+                    "y": 3,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A very light, muted yellow with yellow-green tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12758193",
+        "name": "Violet Ice",
+        "other-names": [
+            {
+                "name": "Violet Ice",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "15-2706",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pale Lychee",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "2",
+                    "g1": "A",
+                    "g2": "C",
+                    "b1": "B",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 194,
+                    "g": 172,
+                    "b": 177
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 346,
+                    "s": 15,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 9,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A light, muted red with warm red-pink tones."
+    }
+]

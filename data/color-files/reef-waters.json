@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7315369",
+        "name": "Reef Waters",
+        "other-names": [
+            {
+                "name": "Reef Waters",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4612",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "A",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 111,
+                    "g": 159,
+                    "b": 169
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 190,
+                    "s": 25,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 34,
+                    "m": 6,
+                    "y": 0,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A medium, muted blue with cool cyan-blue tones."
+    }
+]

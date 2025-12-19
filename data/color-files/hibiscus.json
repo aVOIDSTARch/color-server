@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14497864",
+        "name": "Hibiscus",
+        "other-names": [
+            {
+                "name": "Hibiscus",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1762",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Poppy Red",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "D",
+                    "g1": "3",
+                    "g2": "8",
+                    "b1": "4",
+                    "b2": "8",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 221,
+                    "g": 56,
+                    "b": 72
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 354,
+                    "s": 71,
+                    "l": 54
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 75,
+                    "y": 67,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A medium, highly saturated red with warm red-pink tones."
+    }
+]

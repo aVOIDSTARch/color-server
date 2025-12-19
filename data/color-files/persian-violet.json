@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "9211570",
+        "name": "Persian Violet",
+        "other-names": [
+            {
+                "name": "Persian Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3925",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "C",
+                    "g1": "8",
+                    "g2": "E",
+                    "b1": "B",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 140,
+                    "g": 142,
+                    "b": 178
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 237,
+                    "s": 20,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 20,
+                    "y": 0,
+                    "k": 30
+                }
+            }
+        },
+        "description": "A medium-light, muted blue with cool blue-violet tones."
+    }
+]

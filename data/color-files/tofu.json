@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15262681",
+        "name": "Tofu",
+        "other-names": [
+            {
+                "name": "Tofu",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-4801",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Moon Shell",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "8",
+                    "g1": "E",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 232,
+                    "g": 227,
+                    "b": 217
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 40,
+                    "s": 25,
+                    "l": 88
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 6,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A very light, muted orange with warm orange-yellow tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2697773",
+        "name": "Caviar",
+        "other-names": [
+            {
+                "name": "Caviar",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4006",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "9",
+                    "g1": "2",
+                    "g2": "A",
+                    "b1": "2",
+                    "b2": "D",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 41,
+                    "g": 42,
+                    "b": 45
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 225,
+                    "s": 5,
+                    "l": 17
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 7,
+                    "y": 0,
+                    "k": 82
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

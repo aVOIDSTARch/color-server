@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16043717",
+        "name": "Pearl Blush",
+        "other-names": [
+            {
+                "name": "Pearl Blush",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1207",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "C",
+                    "g2": "E",
+                    "b1": "C",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 206,
+                    "b": 197
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 11,
+                    "s": 68,
+                    "l": 86
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 19,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A very light, vibrant orange with warm red tones."
+    }
+]

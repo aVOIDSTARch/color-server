@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10971042",
+        "name": "Iris Orchid",
+        "other-names": [
+            {
+                "name": "Iris Orchid",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3323",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "7",
+                    "g1": "6",
+                    "g2": "7",
+                    "b1": "A",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 167,
+                    "g": 103,
+                    "b": 162
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 305,
+                    "s": 27,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 3,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A medium, muted pink with warm purple-magenta tones."
+    }
+]

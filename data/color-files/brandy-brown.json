@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "7550506",
+        "name": "Brandy Brown",
+        "other-names": [
+            {
+                "name": "Brandy Brown",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1541",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "3",
+                    "g1": "3",
+                    "g2": "6",
+                    "b1": "2",
+                    "b2": "A",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 115,
+                    "g": 54,
+                    "b": 42
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 10,
+                    "s": 46,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 53,
+                    "y": 63,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+    }
+]

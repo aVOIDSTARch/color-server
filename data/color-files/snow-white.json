@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15921387",
+        "name": "Snow White",
+        "other-names": [
+            {
+                "name": "Snow White",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "11-0602",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Nano White",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "F",
+                    "g2": "0",
+                    "b1": "E",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 240,
+                    "b": 235
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 21,
+                    "l": 94
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 1,
+                    "y": 3,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A very light, muted orange with warm orange-yellow tones."
+    }
+]

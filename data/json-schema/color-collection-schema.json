@@ -1,0 +1,60 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Color Collection Schema",
+    "description": "Schema for a collection of color files",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "required": ["file-name", "schema-file", "description", "color-files"],
+        "properties": {
+            "file-name": {
+                "type": "string",
+                "description": "The name identifier for this collection"
+            },
+            "schema-file": {
+                "type": "string",
+                "description": "Reference to the schema file used for individual color files"
+            },
+            "description": {
+                "type": "string",
+                "description": "A brief description of the color collection"
+            },
+            "color-files": {
+                "type": "array",
+                "description": "Array of color file references",
+                "items": {
+                    "type": "object",
+                    "required": ["file-path", "color-family"],
+                    "properties": {
+                        "file-path": {
+                            "type": "string",
+                            "description": "Relative path to the color file"
+                        },
+                        "color-family": {
+                            "type": "string",
+                            "description": "The color family category",
+                            "enum": [
+                                "Red Shades",
+                                "Orange Shades",
+                                "Yellow Shades",
+                                "Green Shades",
+                                "Blue Shades",
+                                "Purple Shades",
+                                "Pink Shades",
+                                "Brown Shades",
+                                "Grey Shades",
+                                "White Shades",
+                                "Black Shades",
+                                "Other"
+                            ]
+                        }
+                    },
+                    "additionalProperties": {
+                        "type": "string",
+                        "description": "Dynamic color name key mapping to filename"
+                    }
+                }
+            }
+        }
+    }
+}

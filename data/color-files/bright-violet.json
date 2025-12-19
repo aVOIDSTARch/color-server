@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7881604",
+        "name": "Bright Violet",
+        "other-names": [
+            {
+                "name": "Bright Violet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3438",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Nightly Violet",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "8",
+                    "g1": "4",
+                    "g2": "3",
+                    "b1": "8",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 120,
+                    "g": 67,
+                    "b": 132
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 289,
+                    "s": 33,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 49,
+                    "y": 0,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated purple with warm purple-magenta tones."
+    }
+]

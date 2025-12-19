@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7437935",
+        "name": "Sea Spray",
+        "other-names": [
+            {
+                "name": "Sea Spray",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-6212",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Devon Rex",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "1",
+                    "g1": "7",
+                    "g2": "E",
+                    "b1": "6",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 113,
+                    "g": 126,
+                    "b": 111
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 112,
+                    "s": 6,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 12,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

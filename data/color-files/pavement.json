@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "5393744",
+        "name": "Pavement",
+        "other-names": [
+            {
+                "name": "Pavement",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3900",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "2",
+                    "g1": "4",
+                    "g2": "D",
+                    "b1": "5",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 82,
+                    "g": 77,
+                    "b": 80
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 324,
+                    "s": 3,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 2,
+                    "k": 68
+                }
+            }
+        },
+        "description": "A medium-dark, neutral grey."
+    }
+]

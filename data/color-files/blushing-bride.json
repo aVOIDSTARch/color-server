@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16503769",
+        "name": "Blushing Bride",
+        "other-names": [
+            {
+                "name": "Blushing Bride",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1310",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Pink Fluorite",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "B",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 251,
+                    "g": 211,
+                    "b": 217
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 83,
+                    "l": 91
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 16,
+                    "y": 14,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A very light, highly saturated red with warm red-pink tones."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "5137196",
+        "name": "Twist Of Lime",
+        "other-names": [
+            {
+                "name": "Twist Of Lime",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0330",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Gemstone Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "E",
+                    "g1": "6",
+                    "g2": "3",
+                    "b1": "2",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 78,
+                    "g": 99,
+                    "b": 44
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 83,
+                    "s": 38,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 0,
+                    "y": 56,
+                    "k": 61
+                }
+            }
+        },
+        "description": "A dark, moderately saturated green with yellow-green tones."
+    }
+]

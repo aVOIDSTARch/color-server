@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9538694",
+        "name": "Rock Ridge",
+        "other-names": [
+            {
+                "name": "Rock Ridge",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0207",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rocky Ridge",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "1",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "8",
+                    "b2": "6",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 145,
+                    "g": 140,
+                    "b": 134
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 33,
+                    "s": 5,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 8,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

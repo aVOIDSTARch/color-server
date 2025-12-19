@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "7371700",
+        "name": "Iolite",
+        "other-names": [
+            {
+                "name": "Iolite",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3940",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Magic Moment",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "0",
+                    "g1": "7",
+                    "g2": "B",
+                    "b1": "B",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 112,
+                    "g": 123,
+                    "b": 180
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 230,
+                    "s": 31,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 38,
+                    "m": 32,
+                    "y": 0,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated blue with cool blue-violet tones."
+    }
+]

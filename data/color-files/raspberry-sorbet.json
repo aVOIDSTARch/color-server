@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13777004",
+        "name": "Raspberry Sorbet",
+        "other-names": [
+            {
+                "name": "Raspberry Sorbet",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-2043",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "2",
+                    "g1": "3",
+                    "g2": "8",
+                    "b1": "6",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 210,
+                    "g": 56,
+                    "b": 108
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 340,
+                    "s": 63,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 73,
+                    "y": 49,
+                    "k": 18
+                }
+            }
+        },
+        "description": "A medium, vibrant pink with warm red-pink tones."
+    }
+]

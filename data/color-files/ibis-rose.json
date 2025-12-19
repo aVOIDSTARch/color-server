@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13263503",
+        "name": "Ibis Rose",
+        "other-names": [
+            {
+                "name": "Ibis Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-2520",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "A",
+                    "g1": "6",
+                    "g2": "2",
+                    "b1": "8",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 202,
+                    "g": 98,
+                    "b": 143
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 334,
+                    "s": 50,
+                    "l": 59
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 51,
+                    "y": 29,
+                    "k": 21
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated pink with warm red-pink tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2828075",
+        "name": "Black Onyx",
+        "other-names": [
+            {
+                "name": "Black Onyx",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-4003",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "B",
+                    "g1": "2",
+                    "g2": "7",
+                    "b1": "2",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 43,
+                    "g": 39,
+                    "b": 43
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 300,
+                    "s": 5,
+                    "l": 16
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 0,
+                    "k": 83
+                }
+            }
+        },
+        "description": "A dark, neutral grey."
+    }
+]

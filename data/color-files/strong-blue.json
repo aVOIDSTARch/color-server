@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "2055584",
+        "name": "Strong Blue",
+        "other-names": [
+            {
+                "name": "Strong Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4051",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Drakenhof Nightshade",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "F",
+                    "g1": "5",
+                    "g2": "D",
+                    "b1": "A",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 31,
+                    "g": 93,
+                    "b": 160
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 211,
+                    "s": 68,
+                    "l": 37
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 81,
+                    "m": 42,
+                    "y": 0,
+                    "k": 37
+                }
+            }
+        },
+        "description": "A medium-dark, vibrant blue with cool blue-violet tones."
+    }
+]

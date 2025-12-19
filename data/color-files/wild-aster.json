@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "9580911",
+        "name": "Wild Aster",
+        "other-names": [
+            {
+                "name": "Wild Aster",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-2630",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Beetiful Magenta",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "2",
+                    "g1": "3",
+                    "g2": "1",
+                    "b1": "6",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 146,
+                    "g": 49,
+                    "b": 111
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 322,
+                    "s": 50,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 66,
+                    "y": 24,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated pink with warm purple-magenta tones."
+    }
+]

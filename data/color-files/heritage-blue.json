@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6133436",
+        "name": "Heritage Blue",
+        "other-names": [
+            {
+                "name": "Heritage Blue",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-4127",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Empire Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "D",
+                    "g1": "9",
+                    "g2": "6",
+                    "b1": "B",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 93,
+                    "g": 150,
+                    "b": 188
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 204,
+                    "s": 41,
+                    "l": 55
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 51,
+                    "m": 20,
+                    "y": 0,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium, moderately saturated blue with cool cyan-blue tones."
+    }
+]

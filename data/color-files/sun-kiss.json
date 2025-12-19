@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "15454651",
+        "name": "Sun Kiss",
+        "other-names": [
+            {
+                "name": "Sun Kiss",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0807",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "English Scone",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "B",
+                    "g1": "D",
+                    "g2": "1",
+                    "b1": "B",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 235,
+                    "g": 209,
+                    "b": 187
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 55,
+                    "l": 83
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 11,
+                    "y": 20,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A light, vibrant orange with warm red tones."
+    }
+]

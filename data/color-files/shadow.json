@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8949122",
+        "name": "Shadow",
+        "other-names": [
+            {
+                "name": "Shadow",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-6206",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Peaceful Glade",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "8",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "8",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 136,
+                    "g": 141,
+                    "b": 130
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 87,
+                    "s": 5,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 0,
+                    "y": 8,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

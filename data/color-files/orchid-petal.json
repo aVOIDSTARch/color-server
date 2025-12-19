@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12563659",
+        "name": "Orchid Petal",
+        "other-names": [
+            {
+                "name": "Orchid Petal",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-3710",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "4",
+                    "b1": "C",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 191,
+                    "g": 180,
+                    "b": 203
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 269,
+                    "s": 18,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 11,
+                    "y": 0,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A light, muted purple with cool blue-violet tones."
+    }
+]

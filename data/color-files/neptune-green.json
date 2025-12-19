@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8371102",
+        "name": "Neptune Green",
+        "other-names": [
+            {
+                "name": "Neptune Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-6017",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "B",
+                    "b1": "9",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 127,
+                    "g": 187,
+                    "b": 158
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 151,
+                    "s": 31,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 32,
+                    "m": 0,
+                    "y": 16,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium-light, moderately saturated green with cool cyan-blue tones."
+    }
+]

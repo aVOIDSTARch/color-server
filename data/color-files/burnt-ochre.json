@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12275509",
+        "name": "Burnt Ochre",
+        "other-names": [
+            {
+                "name": "Burnt Ochre",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-1354",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "B",
+                    "g1": "4",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 187,
+                    "g": 79,
+                    "b": 53
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 12,
+                    "s": 56,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 58,
+                    "y": 72,
+                    "k": 27
+                }
+            }
+        },
+        "description": "A medium, vibrant orange with warm red tones."
+    }
+]

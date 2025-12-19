@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8687969",
+        "name": "Epsom",
+        "other-names": [
+            {
+                "name": "Epsom",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-0324",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "4",
+                    "g1": "9",
+                    "g2": "1",
+                    "b1": "6",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 132,
+                    "g": 145,
+                    "b": 97
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 76,
+                    "s": 20,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 9,
+                    "m": 0,
+                    "y": 33,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium, muted green with yellow-green tones."
+    }
+]

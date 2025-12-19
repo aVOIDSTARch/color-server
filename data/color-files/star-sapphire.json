@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "3694994",
+        "name": "Star Sapphire",
+        "other-names": [
+            {
+                "name": "Star Sapphire",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4041",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Blue Regatta",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "8",
+                    "g1": "6",
+                    "g2": "1",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 56,
+                    "g": 97,
+                    "b": 146
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 213,
+                    "s": 45,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 62,
+                    "m": 34,
+                    "y": 0,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated blue with cool blue-violet tones."
+    }
+]

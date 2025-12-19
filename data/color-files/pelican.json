@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "12696748",
+        "name": "Pelican",
+        "other-names": [
+            {
+                "name": "Pelican",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-6305",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "1",
+                    "g1": "B",
+                    "g2": "C",
+                    "b1": "A",
+                    "b2": "C",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 193,
+                    "g": 188,
+                    "b": 172
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 46,
+                    "s": 14,
+                    "l": 72
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 11,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A light, muted yellow with warm orange-yellow tones."
+    }
+]

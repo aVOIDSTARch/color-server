@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "10460313",
+        "name": "Paloma",
+        "other-names": [
+            {
+                "name": "Paloma",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0000",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "C",
+                    "b1": "9",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 159,
+                    "g": 156,
+                    "b": 153
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 3,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 4,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A medium-light, neutral grey."
+    }
+]

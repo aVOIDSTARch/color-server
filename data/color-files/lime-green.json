@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "10469681",
+        "name": "Lime Green",
+        "other-names": [
+            {
+                "name": "Lime Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "14-0452",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Android Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "F",
+                    "g1": "C",
+                    "g2": "1",
+                    "b1": "3",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 159,
+                    "g": 193,
+                    "b": 49
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 74,
+                    "s": 60,
+                    "l": 47
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 18,
+                    "m": 0,
+                    "y": 75,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A medium, vibrant green with yellow-green tones."
+    }
+]

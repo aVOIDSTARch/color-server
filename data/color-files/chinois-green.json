@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "8162439",
+        "name": "Chinois Green",
+        "other-names": [
+            {
+                "name": "Chinois Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-5107",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "C",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 124,
+                    "g": 140,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 161,
+                    "s": 7,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 0,
+                    "y": 4,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

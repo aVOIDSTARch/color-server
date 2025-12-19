@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "13317185",
+        "name": "Poinsettia",
+        "other-names": [
+            {
+                "name": "Poinsettia",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1654",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Red Icon",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "B",
+                    "g1": "3",
+                    "g2": "4",
+                    "b1": "4",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 203,
+                    "g": 52,
+                    "b": 65
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 59,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 74,
+                    "y": 68,
+                    "k": 20
+                }
+            }
+        },
+        "description": "A medium, vibrant red with warm red-pink tones."
+    }
+]

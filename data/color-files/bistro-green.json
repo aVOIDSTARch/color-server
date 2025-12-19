@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "3757393",
+        "name": "Bistro Green",
+        "other-names": [
+            {
+                "name": "Bistro Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-5408",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "9",
+                    "g1": "5",
+                    "g2": "5",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 57,
+                    "g": 85,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 171,
+                    "s": 20,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 33,
+                    "m": 0,
+                    "y": 5,
+                    "k": 67
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool cyan-blue tones."
+    }
+]

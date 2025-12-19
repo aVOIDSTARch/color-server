@@ -1,0 +1,60 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Color Code Formats Schema",
+    "description": "Schema for color code format definitions",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "required": ["color-code-formats"],
+        "properties": {
+            "color-code-formats": {
+                "type": "object",
+                "description": "Collection of color code format definitions",
+                "properties": {
+                    "hex3": {
+                        "$ref": "#/$defs/colorCodeFormat"
+                    },
+                    "hex6": {
+                        "$ref": "#/$defs/colorCodeFormat"
+                    },
+                    "hex8": {
+                        "$ref": "#/$defs/colorCodeFormat"
+                    },
+                    "rgb": {
+                        "$ref": "#/$defs/colorCodeFormat"
+                    },
+                    "hsl": {
+                        "$ref": "#/$defs/colorCodeFormat"
+                    },
+                    "cmyk": {
+                        "$ref": "#/$defs/colorCodeFormat"
+                    }
+                },
+                "additionalProperties": {
+                    "$ref": "#/$defs/colorCodeFormat"
+                }
+            }
+        }
+    },
+    "$defs": {
+        "colorCodeFormat": {
+            "type": "object",
+            "description": "A single color code format definition",
+            "required": ["format-string", "description", "example"],
+            "properties": {
+                "format-string": {
+                    "type": "string",
+                    "description": "Template string with placeholders for color components (e.g., ${r1}, ${R}, ${H})"
+                },
+                "description": {
+                    "type": "string",
+                    "description": "Human-readable description of the color code format"
+                },
+                "example": {
+                    "type": "string",
+                    "description": "Example of a valid color code in this format"
+                }
+            }
+        }
+    }
+}

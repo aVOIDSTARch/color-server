@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4863022",
+        "name": "Chicory Coffee",
+        "other-names": [
+            {
+                "name": "Chicory Coffee",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-1419",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Brown Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "A",
+                    "g1": "3",
+                    "g2": "4",
+                    "b1": "2",
+                    "b2": "E",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 74,
+                    "g": 52,
+                    "b": 46
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 13,
+                    "s": 23,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 30,
+                    "y": 38,
+                    "k": 71
+                }
+            }
+        },
+        "description": "A dark, muted brown with earthy warm red tones."
+    }
+]

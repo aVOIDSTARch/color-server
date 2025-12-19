@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14122608",
+        "name": "Crabapple",
+        "other-names": [
+            {
+                "name": "Crabapple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-1532",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Golgfag Brown",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "7",
+                    "g1": "7",
+                    "g2": "E",
+                    "b1": "7",
+                    "b2": "0",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 215,
+                    "g": 126,
+                    "b": 112
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 8,
+                    "s": 56,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 41,
+                    "y": 48,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A medium-light, vibrant red with warm red tones."
+    }
+]

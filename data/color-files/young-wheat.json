@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "14803881",
+        "name": "Young Wheat",
+        "other-names": [
+            {
+                "name": "Young Wheat",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0521",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Bit of Lime",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "1",
+                    "g1": "E",
+                    "g2": "3",
+                    "b1": "A",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 225,
+                    "g": 227,
+                    "b": 169
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 62,
+                    "s": 51,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 26,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A light, vibrant yellow with yellow-green tones."
+    }
+]

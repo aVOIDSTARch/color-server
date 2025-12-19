@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "8619143",
+        "name": "Sharkskin",
+        "other-names": [
+            {
+                "name": "Sharkskin",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-3914",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Mission Control",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "3",
+                    "g1": "8",
+                    "g2": "4",
+                    "b1": "8",
+                    "b2": "7",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 131,
+                    "g": 132,
+                    "b": 135
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 225,
+                    "s": 2,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 2,
+                    "y": 0,
+                    "k": 47
+                }
+            }
+        },
+        "description": "A medium, neutral grey."
+    }
+]

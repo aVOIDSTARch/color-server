@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "6975284",
+        "name": "Calla Green",
+        "other-names": [
+            {
+                "name": "Calla Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-0435",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Aged Mustard Green",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "A",
+                    "g1": "6",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 106,
+                    "g": 111,
+                    "b": 52
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 65,
+                    "s": 36,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 53,
+                    "k": 56
+                }
+            }
+        },
+        "description": "A medium-dark, moderately saturated green with yellow-green tones."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "13100511",
+        "name": "Moonlight Jade",
+        "other-names": [
+            {
+                "name": "Moonlight Jade",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-5408",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "7",
+                    "g1": "E",
+                    "g2": "5",
+                    "b1": "D",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 199,
+                    "g": 229,
+                    "b": 223
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 168,
+                    "s": 37,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 13,
+                    "m": 0,
+                    "y": 3,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A light, moderately saturated blue with cool cyan-blue tones."
+    }
+]

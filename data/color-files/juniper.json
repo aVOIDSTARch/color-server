@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "4026949",
+        "name": "Juniper",
+        "other-names": [
+            {
+                "name": "Juniper",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-6330",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Grasslands",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "D",
+                    "g1": "7",
+                    "g2": "2",
+                    "b1": "4",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 61,
+                    "g": 114,
+                    "b": 69
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 129,
+                    "s": 30,
+                    "l": 34
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 46,
+                    "m": 0,
+                    "y": 39,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

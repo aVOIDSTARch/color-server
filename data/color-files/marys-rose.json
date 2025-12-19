@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "16241108",
+        "name": "Marys Rose",
+        "other-names": [
+            {
+                "name": "Marys Rose",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-1813",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Rose Milk",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "7",
+                    "g1": "D",
+                    "g2": "1",
+                    "b1": "D",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 247,
+                    "g": 209,
+                    "b": 212
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 70,
+                    "l": 89
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 14,
+                    "k": 3
+                }
+            }
+        },
+        "description": "A very light, vibrant red with warm red-pink tones."
+    }
+]

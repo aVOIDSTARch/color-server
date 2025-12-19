@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "4750665",
+        "name": "Mint Green",
+        "other-names": [
+            {
+                "name": "Mint Green",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-6333",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "8",
+                    "g1": "7",
+                    "g2": "D",
+                    "b1": "4",
+                    "b2": "9",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 72,
+                    "g": 125,
+                    "b": 73
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 121,
+                    "s": 27,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 42,
+                    "m": 0,
+                    "y": 42,
+                    "k": 51
+                }
+            }
+        },
+        "description": "A medium-dark, muted green with cool green tones."
+    }
+]

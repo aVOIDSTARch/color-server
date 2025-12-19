@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "2500916",
+        "name": "Sky Captain",
+        "other-names": [
+            {
+                "name": "Sky Captain",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "19-3922",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "6",
+                    "g1": "2",
+                    "g2": "9",
+                    "b1": "3",
+                    "b2": "4",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 38,
+                    "g": 41,
+                    "b": 52
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 227,
+                    "s": 16,
+                    "l": 18
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 27,
+                    "m": 21,
+                    "y": 0,
+                    "k": 80
+                }
+            }
+        },
+        "description": "A dark, muted blue with cool blue-violet tones."
+    }
+]

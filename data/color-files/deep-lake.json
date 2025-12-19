@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "25963",
+        "name": "Deep Lake",
+        "other-names": [
+            {
+                "name": "Deep Lake",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "18-4834",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Trouser Blue",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "0",
+                    "g1": "6",
+                    "g2": "5",
+                    "b1": "6",
+                    "b2": "B",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 0,
+                    "g": 101,
+                    "b": 107
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 183,
+                    "s": 100,
+                    "l": 21
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 100,
+                    "m": 6,
+                    "y": 0,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A dark, highly saturated blue with cool cyan-blue tones."
+    }
+]

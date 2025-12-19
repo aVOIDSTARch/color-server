@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12356895",
+        "name": "Arrowwood",
+        "other-names": [
+            {
+                "name": "Arrowwood",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "16-0954",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Old Trail",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "C",
+                    "g1": "8",
+                    "g2": "D",
+                    "b1": "1",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 188,
+                    "g": 141,
+                    "b": 31
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 42,
+                    "s": 72,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 25,
+                    "y": 84,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated orange with warm orange-yellow tones."
+    }
+]

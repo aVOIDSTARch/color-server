@@ -1,0 +1,62 @@
+[
+    {
+        "unique-color-id": "16111535",
+        "name": "Apricot Gelato",
+        "other-names": [
+            {
+                "name": "Apricot Gelato",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "12-0817",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "5",
+                    "g1": "D",
+                    "g2": "7",
+                    "b1": "A",
+                    "b2": "F",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 245,
+                    "g": 215,
+                    "b": 175
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 34,
+                    "s": 78,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 12,
+                    "y": 29,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A light, highly saturated orange with warm orange-yellow tones."
+    }
+]

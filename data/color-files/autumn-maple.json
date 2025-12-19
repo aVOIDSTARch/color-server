@@ -1,0 +1,69 @@
+[
+    {
+        "unique-color-id": "12870165",
+        "name": "Autumn Maple",
+        "other-names": [
+            {
+                "name": "Autumn Maple",
+                "source": {
+                    "name": "Pantone",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "17-1145",
+                "source": {
+                    "name": "pantone-number",
+                    "url": "http://www.pantone.com"
+                }
+            },
+            {
+                "name": "Alloy Orange",
+                "source": {
+                    "name": "color.pizza",
+                    "url": "https://github.com/meodai/color-names"
+                }
+            }
+        ],
+        "naming-source": "Pantone",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "4",
+                    "g1": "6",
+                    "g2": "2",
+                    "b1": "1",
+                    "b2": "5",
+                    "a1": "0",
+                    "a2": "0"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 196,
+                    "g": 98,
+                    "b": 21
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 81,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 50,
+                    "y": 89,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A medium-dark, highly saturated orange with warm red tones."
+    }
+]
