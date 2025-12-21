@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "4276810",
+        "unique-color-id": "VDJWBEAA",
         "name": "Ebony",
         "other-names": [
             {
                 "name": "Ebony",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "19-4104",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Napoleon",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Grey Shades",
+        "color-family": "Green Shades",
         "color-codes": {
             "hex": {
                 "values": {
                     "r1": "4",
                     "r2": "1",
                     "g1": "4",
-                    "g2": "2",
-                    "b1": "4",
-                    "b2": "A",
-                    "a1": "0",
-                    "a2": "0"
+                    "g2": "8",
+                    "b1": "3",
+                    "b2": "3",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
                     "r": 65,
-                    "g": 66,
-                    "b": 74
+                    "g": 72,
+                    "b": 51
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 233,
-                    "s": 6,
-                    "l": 27
+                    "h": 80,
+                    "s": 17,
+                    "l": 24
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 12,
-                    "m": 11,
-                    "y": 0,
-                    "k": 71
+                    "c": 10,
+                    "m": 0,
+                    "y": 29,
+                    "k": 72
                 }
             }
         },
-        "description": "A dark, neutral grey."
+        "description": "A green color from the Warm Neutral Tones palette."
     }
 ]

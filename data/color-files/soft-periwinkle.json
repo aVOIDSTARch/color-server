@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "857HQJAA",
+        "name": "Soft Periwinkle",
+        "other-names": [
+            {
+                "name": "Soft Periwinkle",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Purple Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "E",
+                    "g1": "7",
+                    "g2": "D",
+                    "b1": "B",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 142,
+                    "g": 125,
+                    "b": 190
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 256,
+                    "s": 33,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 25,
+                    "m": 34,
+                    "y": 0,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A purple color from the Pastel Harmony palette."
+    }
+]

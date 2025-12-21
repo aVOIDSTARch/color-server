@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "7HCG4PAA",
+        "name": "Blush Rose",
+        "other-names": [
+            {
+                "name": "Blush Rose",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "A",
+                    "g1": "6",
+                    "g2": "2",
+                    "b1": "7",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 218,
+                    "g": 98,
+                    "b": 125
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 347,
+                    "s": 62,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 55,
+                    "y": 43,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A red color from the Bold Berry palette."
+    }
+]

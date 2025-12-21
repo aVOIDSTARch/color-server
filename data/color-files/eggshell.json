@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "27MQSRAA",
+        "name": "Eggshell",
+        "other-names": [
+            {
+                "name": "Eggshell",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "0",
+                    "g1": "E",
+                    "g2": "B",
+                    "b1": "D",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 240,
+                    "g": 235,
+                    "b": 216
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 47,
+                    "s": 44,
+                    "l": 89
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 10,
+                    "k": 6
+                }
+            }
+        },
+        "description": "A yellow color from the Deep Sea palette."
+    }
+]

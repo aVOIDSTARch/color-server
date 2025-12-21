@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "N2373KAA",
+        "name": "Light Green",
+        "other-names": [
+            {
+                "name": "Light Green",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "9",
+                    "g1": "D",
+                    "g2": "9",
+                    "b1": "8",
+                    "b2": "C",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 153,
+                    "g": 217,
+                    "b": 140
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 110,
+                    "s": 50,
+                    "l": 70
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 29,
+                    "m": 0,
+                    "y": 35,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A green color from the Meadow Green palette."
+    }
+]

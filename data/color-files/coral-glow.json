@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "TX9Z9RAA",
+        "name": "Coral Glow",
+        "other-names": [
+            {
+                "name": "Coral Glow",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "7",
+                    "g2": "F",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 127,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 16,
+                    "s": 100,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 50,
+                    "y": 68,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A orange color from the Red Sunburst palette."
+    }
+]

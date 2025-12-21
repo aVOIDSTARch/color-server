@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "C6F4BGAA",
+        "name": "Steel Blue",
+        "other-names": [
+            {
+                "name": "Steel Blue",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "1",
+                    "g1": "A",
+                    "g2": "5",
+                    "b1": "C",
+                    "b2": "2",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 97,
+                    "g": 165,
+                    "b": 194
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 198,
+                    "s": 44,
+                    "l": 57
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 50,
+                    "m": 15,
+                    "y": 0,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A blue color from the Coastal Blues palette."
+    }
+]

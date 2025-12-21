@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "JCJCYPAA",
+        "name": "Flag Red",
+        "other-names": [
+            {
+                "name": "Flag Red",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "6",
+                    "g1": "2",
+                    "g2": "8",
+                    "b1": "2",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 214,
+                    "g": 40,
+                    "b": 40
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 69,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 81,
+                    "y": 81,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A red color from the Warm Autumn Glow palette."
+    }
+]

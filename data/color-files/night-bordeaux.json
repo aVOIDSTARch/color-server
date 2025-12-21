@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "MAASREAA",
+        "name": "Night Bordeaux",
+        "other-names": [
+            {
+                "name": "Night Bordeaux",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "F",
+                    "g1": "0",
+                    "g2": "0",
+                    "b1": "0",
+                    "b2": "B",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 79,
+                    "g": 0,
+                    "b": 11
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 352,
+                    "s": 100,
+                    "l": 15
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 100,
+                    "y": 86,
+                    "k": 69
+                }
+            }
+        },
+        "description": "A red color from the Red Sunburst palette."
+    }
+]

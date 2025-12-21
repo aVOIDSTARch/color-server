@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "Q4XPNNAA",
+        "name": "Tea Green",
+        "other-names": [
+            {
+                "name": "Tea Green",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "C",
+                    "g1": "D",
+                    "g2": "5",
+                    "b1": "A",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 204,
+                    "g": 213,
+                    "b": 174
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 74,
+                    "s": 32,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 0,
+                    "y": 18,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A green color from the Soft Forest palette."
+    }
+]

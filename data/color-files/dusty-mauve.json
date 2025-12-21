@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "NJAJGLAA",
+        "name": "Dusty Mauve",
+        "other-names": [
+            {
+                "name": "Dusty Mauve",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "6",
+                    "g1": "8",
+                    "g2": "0",
+                    "b1": "8",
+                    "b2": "C",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 166,
+                    "g": 128,
+                    "b": 140
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 341,
+                    "s": 18,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 16,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A red color from the Mauve Serenity palette."
+    }
+]

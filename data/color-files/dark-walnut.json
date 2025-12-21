@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "QSRC2FAA",
+        "name": "Dark Walnut",
+        "other-names": [
+            {
+                "name": "Dark Walnut",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "8",
+                    "g1": "2",
+                    "g2": "F",
+                    "b1": "0",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 88,
+                    "g": 47,
+                    "b": 14
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 27,
+                    "s": 73,
+                    "l": 20
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 47,
+                    "y": 84,
+                    "k": 65
+                }
+            }
+        },
+        "description": "A orange color from the Warm Neutral Tones palette."
+    }
+]

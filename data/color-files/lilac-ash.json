@@ -1,62 +1,55 @@
 [
     {
-        "unique-color-id": "14142925",
+        "unique-color-id": "2KNJ4KAA",
         "name": "Lilac Ash",
         "other-names": [
             {
                 "name": "Lilac Ash",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "13-3803",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Red Shades",
+        "color-family": "Grey Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "D",
-                    "r2": "7",
-                    "g1": "C",
-                    "g2": "D",
-                    "b1": "C",
-                    "b2": "D",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "9",
+                    "r2": "A",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "9",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 215,
-                    "g": 205,
-                    "b": 205
+                    "r": 154,
+                    "g": 140,
+                    "b": 152
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 0,
-                    "s": 11,
-                    "l": 82
+                    "h": 309,
+                    "s": 6,
+                    "l": 58
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 5,
-                    "y": 5,
-                    "k": 16
+                    "m": 9,
+                    "y": 1,
+                    "k": 40
                 }
             }
         },
-        "description": "A light, muted red with warm red tones."
+        "description": "A grey color from the Soft Lavender palette."
     }
 ]

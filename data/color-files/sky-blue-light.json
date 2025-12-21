@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "3PC6KJAA",
+        "name": "Sky Blue (Light)",
+        "other-names": [
+            {
+                "name": "Sky Blue (Light)",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "9",
+                    "g1": "C",
+                    "g2": "2",
+                    "b1": "D",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 137,
+                    "g": 194,
+                    "b": 217
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 51,
+                    "l": 69
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 37,
+                    "m": 11,
+                    "y": 0,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A blue color from the Coastal Blues palette."
+    }
+]

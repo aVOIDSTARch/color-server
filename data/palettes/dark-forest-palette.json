@@ -1,0 +1,36 @@
+{
+    "palette-name": "Dark Forest",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "dark-forest-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Dark Forest palette",
+        "color-files": [
+            {
+                "file-path": "color-files/vanilla-cream.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/tea-green.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/muted-olive.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/faded-copper.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/ash-brown.json",
+                "color-family": "Orange Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Dark Forest"
+}

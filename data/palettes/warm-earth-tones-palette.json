@@ -1,0 +1,36 @@
+{
+    "palette-name": "Warm Earth Tones",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "warm-earth-tones-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Warm Earth Tones palette",
+        "color-files": [
+            {
+                "file-path": "color-files/blood-red.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/blushed-brick.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/almond-cream.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/dusty-taupe.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/mauve-bark.json",
+                "color-family": "Red Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Warm Earth Tones"
+}

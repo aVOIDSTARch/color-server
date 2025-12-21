@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "14668222",
+        "unique-color-id": "SRURYRAA",
         "name": "Parchment",
         "other-names": [
             {
                 "name": "Parchment",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "13-0908",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Malt",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Orange Shades",
+        "color-family": "White Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "D",
-                    "r2": "F",
-                    "g1": "D",
-                    "g2": "1",
-                    "b1": "B",
-                    "b2": "E",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "F",
+                    "r2": "6",
+                    "g1": "F",
+                    "g2": "2",
+                    "b1": "F",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 223,
-                    "g": 209,
-                    "b": 190
+                    "r": 246,
+                    "g": 242,
+                    "b": 240
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 35,
-                    "s": 34,
-                    "l": 81
+                    "h": 20,
+                    "s": 25,
+                    "l": 95
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 6,
-                    "y": 15,
-                    "k": 13
+                    "m": 2,
+                    "y": 2,
+                    "k": 4
                 }
             }
         },
-        "description": "A light, moderately saturated orange with warm orange-yellow tones."
+        "description": "A white color from the Whispering Ivory Shore palette."
     }
 ]

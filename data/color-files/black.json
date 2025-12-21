@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "JSKALAAA",
+        "name": "Black",
+        "other-names": [
+            {
+                "name": "Black",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Black Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "A",
+                    "g1": "0",
+                    "g2": "9",
+                    "b1": "0",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 10,
+                    "g": 9,
+                    "b": 8
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 11,
+                    "l": 4
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 20,
+                    "k": 96
+                }
+            }
+        },
+        "description": "A black color from the Neutral Earth Tones palette."
+    }
+]

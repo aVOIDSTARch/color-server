@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "10658465",
+        "unique-color-id": "8M8MQNAA",
         "name": "Silver",
         "other-names": [
             {
                 "name": "Silver",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "14-5002",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Charmed Chalice",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Grey Shades",
+        "color-family": "Red Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "A",
-                    "r2": "2",
-                    "g1": "A",
-                    "g2": "2",
-                    "b1": "A",
-                    "b2": "1",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "B",
+                    "g2": "E",
+                    "b1": "B",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 162,
-                    "g": 162,
-                    "b": 161
+                    "r": 206,
+                    "g": 190,
+                    "b": 190
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 60,
-                    "s": 1,
-                    "l": 63
+                    "h": 0,
+                    "s": 14,
+                    "l": 78
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 0,
-                    "y": 1,
-                    "k": 36
+                    "m": 8,
+                    "y": 8,
+                    "k": 19
                 }
             }
         },
-        "description": "A medium-light, neutral grey."
+        "description": "A red color from the Vintage Romance palette."
     }
 ]

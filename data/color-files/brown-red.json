@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "MCLC8KAA",
+        "name": "Brown Red",
+        "other-names": [
+            {
+                "name": "Brown Red",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "E",
+                    "g1": "2",
+                    "g2": "A",
+                    "b1": "2",
+                    "b2": "B",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 158,
+                    "g": 42,
+                    "b": 43
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 359,
+                    "s": 58,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 73,
+                    "y": 73,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A red color from the Dark Sunset palette."
+    }
+]

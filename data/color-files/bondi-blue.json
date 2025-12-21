@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "PLLJYBAA",
+        "name": "Bondi Blue",
+        "other-names": [
+            {
+                "name": "Bondi Blue",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "6",
+                    "g1": "8",
+                    "g2": "A",
+                    "b1": "A",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 22,
+                    "g": 138,
+                    "b": 173
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 194,
+                    "s": 77,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 87,
+                    "m": 20,
+                    "y": 0,
+                    "k": 32
+                }
+            }
+        },
+        "description": "A blue color from the Meadow Green palette."
+    }
+]

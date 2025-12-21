@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "M2H2ZHAA",
+        "name": "Slate Grey",
+        "other-names": [
+            {
+                "name": "Slate Grey",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "7",
+                    "g1": "8",
+                    "g2": "7",
+                    "b1": "8",
+                    "b2": "B",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 119,
+                    "g": 135,
+                    "b": 139
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 192,
+                    "s": 8,
+                    "l": 51
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 3,
+                    "y": 0,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A grey color from the Misty Forest palette."
+    }
+]

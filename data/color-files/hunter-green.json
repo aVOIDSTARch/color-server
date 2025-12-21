@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "3364681",
+        "unique-color-id": "NUZXTDAA",
         "name": "Hunter Green",
         "other-names": [
             {
                 "name": "Hunter Green",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "19-5511",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Hypnotism",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Green Shades",
         "color-codes": {
             "hex": {
                 "values": {
                     "r1": "3",
-                    "r2": "3",
+                    "r2": "1",
                     "g1": "5",
                     "g2": "7",
-                    "b1": "4",
-                    "b2": "9",
-                    "a1": "0",
-                    "a2": "0"
+                    "b1": "2",
+                    "b2": "C",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 51,
+                    "r": 49,
                     "g": 87,
-                    "b": 73
+                    "b": 44
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 157,
-                    "s": 26,
-                    "l": 27
+                    "h": 113,
+                    "s": 33,
+                    "l": 26
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 41,
+                    "c": 44,
                     "m": 0,
-                    "y": 16,
+                    "y": 49,
                     "k": 66
                 }
             }
         },
-        "description": "A dark, muted green with cool cyan-blue tones."
+        "description": "A green color from the Leafy Green Garden palette."
     }
 ]

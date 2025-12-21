@@ -1,0 +1,36 @@
+{
+    "palette-name": "Soft Sands",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "soft-sands-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Soft Sands palette",
+        "color-files": [
+            {
+                "file-path": "color-files/parchment.json",
+                "color-family": "White Shades"
+            },
+            {
+                "file-path": "color-files/dust-grey.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/linen.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/powder-petal.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/almond-silk.json",
+                "color-family": "Orange Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Soft Sands"
+}

@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "2960431",
+        "unique-color-id": "5VVDCCAA",
         "name": "Jet Black",
         "other-names": [
             {
                 "name": "Jet Black",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "19-0303",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Dark Onyx",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Grey Shades",
+        "color-family": "Blue Shades",
         "color-codes": {
             "hex": {
                 "values": {
                     "r1": "2",
-                    "r2": "D",
-                    "g1": "2",
-                    "g2": "C",
-                    "b1": "2",
-                    "b2": "F",
-                    "a1": "0",
-                    "a2": "0"
+                    "r2": "2",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 45,
-                    "g": 44,
-                    "b": 47
+                    "r": 34,
+                    "g": 51,
+                    "b": 59
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 260,
-                    "s": 3,
+                    "h": 199,
+                    "s": 27,
                     "l": 18
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 4,
-                    "m": 6,
+                    "c": 42,
+                    "m": 14,
                     "y": 0,
-                    "k": 82
+                    "k": 77
                 }
             }
         },
-        "description": "A dark, neutral grey."
+        "description": "A blue color from the Neutral Earth Tones palette."
     }
 ]

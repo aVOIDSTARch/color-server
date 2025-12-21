@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "AWRS9FAA",
+        "name": "Crimson Violet",
+        "other-names": [
+            {
+                "name": "Crimson Violet",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Pink Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "F",
+                    "g1": "0",
+                    "g2": "F",
+                    "b1": "4",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 95,
+                    "g": 15,
+                    "b": 64
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 323,
+                    "s": 73,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 84,
+                    "y": 33,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A pink color from the Fiery Palette palette."
+    }
+]

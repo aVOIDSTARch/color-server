@@ -1,0 +1,52 @@
+{
+    "palette-name": "Fresh Greens",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "fresh-greens-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Fresh Greens palette",
+        "color-files": [
+            {
+                "file-path": "color-files/frosted-mint.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/celadon.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/celadon.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/mint-leaf.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/mint-leaf.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/sea-green.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/dark-emerald.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/pine-teal.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/evergreen.json",
+                "color-family": "Green Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Fresh Greens"
+}

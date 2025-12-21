@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "MLNJWHAA",
+        "name": "Dusty Denim",
+        "other-names": [
+            {
+                "name": "Dusty Denim",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "4",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "A",
+                    "b2": "B",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 116,
+                    "g": 140,
+                    "b": 171
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 214,
+                    "s": 25,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 32,
+                    "m": 18,
+                    "y": 0,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A blue color from the Deep Sea palette."
+    }
+]

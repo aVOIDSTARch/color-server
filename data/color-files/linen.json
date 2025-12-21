@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "15585984",
+        "unique-color-id": "77H8TRAA",
         "name": "Linen",
         "other-names": [
             {
                 "name": "Linen",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "12-1008",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Cream of Mushroom",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Orange Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "E",
-                    "r2": "D",
-                    "g1": "D",
-                    "g2": "2",
-                    "b1": "C",
-                    "b2": "0",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "F",
+                    "r2": "1",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "D",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 237,
-                    "g": 210,
-                    "b": 192
+                    "r": 241,
+                    "g": 231,
+                    "b": 221
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 24,
-                    "s": 56,
-                    "l": 84
+                    "h": 30,
+                    "s": 42,
+                    "l": 91
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 11,
-                    "y": 19,
-                    "k": 7
+                    "m": 4,
+                    "y": 8,
+                    "k": 5
                 }
             }
         },
-        "description": "A light, vibrant orange with warm red tones."
+        "description": "A orange color from the Whispering Ivory Shore palette."
     }
 ]

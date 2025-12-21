@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "HGCGEJAA",
+        "name": "Smoky Rose",
+        "other-names": [
+            {
+                "name": "Smoky Rose",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "4",
+                    "g1": "6",
+                    "g2": "2",
+                    "b1": "6",
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 132,
+                    "g": 98,
+                    "b": 103
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 15,
+                    "l": 45
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 26,
+                    "y": 22,
+                    "k": 48
+                }
+            }
+        },
+        "description": "A red color from the Whimsy Chic palette."
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "XXKLSKAA",
+        "name": "Palm Leaf",
+        "other-names": [
+            {
+                "name": "Palm Leaf",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "0",
+                    "g1": "A",
+                    "g2": "9",
+                    "b1": "5",
+                    "b2": "5",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 144,
+                    "g": 169,
+                    "b": 85
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 78,
+                    "s": 33,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 15,
+                    "m": 0,
+                    "y": 50,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A green color from the Leafy Green Garden palette."
+    }
+]

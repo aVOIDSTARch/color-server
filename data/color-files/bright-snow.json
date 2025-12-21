@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "493R2RAA",
+        "name": "Bright Snow",
+        "other-names": [
+            {
+                "name": "Bright Snow",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "White Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "8",
+                    "g1": "F",
+                    "g2": "9",
+                    "b1": "F",
+                    "b2": "A",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 248,
+                    "g": 249,
+                    "b": 250
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 210,
+                    "s": 17,
+                    "l": 98
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 0,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A white color from the Light Steel palette."
+    }
+]

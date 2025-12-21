@@ -1,0 +1,36 @@
+{
+    "palette-name": "Deep Sea",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "deep-sea-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Deep Sea palette",
+        "color-files": [
+            {
+                "file-path": "color-files/ink-black.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/deep-space-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/blue-slate.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/dusty-denim.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/eggshell.json",
+                "color-family": "Yellow Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Deep Sea"
+}

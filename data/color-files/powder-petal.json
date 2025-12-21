@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "L6X7DQAA",
+        "name": "Powder Petal",
+        "other-names": [
+            {
+                "name": "Powder Petal",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "3",
+                    "g1": "D",
+                    "g2": "5",
+                    "b1": "C",
+                    "b2": "A",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 227,
+                    "g": 213,
+                    "b": 202
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 31,
+                    "l": 84
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 6,
+                    "y": 11,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A orange color from the Soft Sands palette."
+    }
+]

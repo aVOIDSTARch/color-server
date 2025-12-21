@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "ZHGGSHAA",
+        "name": "Dim Grey",
+        "other-names": [
+            {
+                "name": "Dim Grey",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "0",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "7",
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 112,
+                    "g": 102,
+                    "b": 119
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 275,
+                    "s": 8,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 6,
+                    "m": 14,
+                    "y": 0,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A grey color from the Mauve Serenity palette."
+    }
+]

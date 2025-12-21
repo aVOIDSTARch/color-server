@@ -1,0 +1,36 @@
+{
+    "palette-name": "Golden Summer Fields",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "golden-summer-fields-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Golden Summer Fields palette",
+        "color-files": [
+            {
+                "file-path": "color-files/tea-green.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/beige.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/cornsilk.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/papaya-whip.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/light-bronze.json",
+                "color-family": "Orange Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Golden Summer Fields"
+}

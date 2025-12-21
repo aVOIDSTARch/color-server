@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "XVMY9RAA",
+        "name": "Atomic Tangerine",
+        "other-names": [
+            {
+                "name": "Atomic Tangerine",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "6",
+                    "g2": "B",
+                    "b1": "3",
+                    "b2": "5",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 107,
+                    "b": 53
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 16,
+                    "s": 100,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 58,
+                    "y": 79,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A orange color from the Summer Sunset palette."
+    }
+]

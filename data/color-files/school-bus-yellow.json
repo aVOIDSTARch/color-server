@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "ASF67RAA",
+        "name": "School Bus Yellow",
+        "other-names": [
+            {
+                "name": "School Bus Yellow",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "D",
+                    "g1": "C",
+                    "g2": "5",
+                    "b1": "0",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 253,
+                    "g": 197,
+                    "b": 0
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 47,
+                    "s": 100,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 100,
+                    "k": 1
+                }
+            }
+        },
+        "description": "A yellow color from the Midnight Sky palette."
+    }
+]

@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "6053211",
+        "unique-color-id": "AE8VZDAA",
         "name": "Gunmetal",
         "other-names": [
             {
                 "name": "Gunmetal",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "18-0306",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Zinc Dust",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Grey Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "5",
-                    "r2": "C",
-                    "g1": "5",
-                    "g2": "D",
-                    "b1": "5",
-                    "b2": "B",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "3",
+                    "r2": "7",
+                    "g1": "3",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 92,
-                    "g": 93,
-                    "b": 91
+                    "r": 55,
+                    "g": 62,
+                    "b": 64
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 90,
-                    "s": 1,
-                    "l": 36
+                    "h": 193,
+                    "s": 8,
+                    "l": 23
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 1,
-                    "m": 0,
-                    "y": 2,
-                    "k": 64
+                    "c": 14,
+                    "m": 3,
+                    "y": 0,
+                    "k": 75
                 }
             }
         },
-        "description": "A medium-dark, neutral grey."
+        "description": "A grey color from the Misty Forest palette."
     }
 ]

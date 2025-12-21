@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "YH6F8DAA",
+        "name": "Blue Slate",
+        "other-names": [
+            {
+                "name": "Blue Slate",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "C",
+                    "b1": "7",
+                    "b2": "6",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 62,
+                    "g": 92,
+                    "b": 118
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 208,
+                    "s": 31,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 47,
+                    "m": 22,
+                    "y": 0,
+                    "k": 54
+                }
+            }
+        },
+        "description": "A blue color from the Deep Sea palette."
+    }
+]

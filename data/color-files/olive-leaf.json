@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "2DNGAGAA",
+        "name": "Olive Leaf",
+        "other-names": [
+            {
+                "name": "Olive Leaf",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "0",
+                    "g1": "6",
+                    "g2": "C",
+                    "b1": "3",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 96,
+                    "g": 108,
+                    "b": 56
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 74,
+                    "s": 32,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 0,
+                    "y": 48,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A green color from the Olive Garden Feast palette."
+    }
+]

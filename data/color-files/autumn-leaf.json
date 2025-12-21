@@ -1,62 +1,55 @@
 [
     {
-        "unique-color-id": "11889228",
+        "unique-color-id": "WBEYDQAA",
         "name": "Autumn Leaf",
         "other-names": [
             {
                 "name": "Autumn Leaf",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "17-1347",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Orange Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "B",
-                    "r2": "5",
+                    "r1": "E",
+                    "r2": "3",
                     "g1": "6",
-                    "g2": "A",
-                    "b1": "4",
-                    "b2": "C",
-                    "a1": "0",
-                    "a2": "0"
+                    "g2": "4",
+                    "b1": "1",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 181,
-                    "g": 106,
-                    "b": 76
+                    "r": 227,
+                    "g": 100,
+                    "b": 20
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 17,
-                    "s": 42,
-                    "l": 50
+                    "h": 23,
+                    "s": 84,
+                    "l": 48
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 41,
-                    "y": 58,
-                    "k": 29
+                    "m": 56,
+                    "y": 91,
+                    "k": 11
                 }
             }
         },
-        "description": "A medium, moderately saturated orange with warm red tones."
+        "description": "A orange color from the Fiery Palette palette."
     }
 ]

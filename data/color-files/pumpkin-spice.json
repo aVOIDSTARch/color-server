@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "10509335",
+        "unique-color-id": "BU3H4RAA",
         "name": "Pumpkin Spice",
         "other-names": [
             {
                 "name": "Pumpkin Spice",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "18-1163",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Sepia Wash",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Orange Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "A",
-                    "r2": "0",
-                    "g1": "5",
-                    "g2": "C",
-                    "b1": "1",
-                    "b2": "7",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "F",
+                    "r2": "A",
+                    "g1": "7",
+                    "g2": "9",
+                    "b1": "2",
+                    "b2": "1",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 160,
-                    "g": 92,
-                    "b": 23
+                    "r": 250,
+                    "g": 121,
+                    "b": 33
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 30,
-                    "s": 75,
-                    "l": 36
+                    "h": 24,
+                    "s": 96,
+                    "l": 55
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 42,
-                    "y": 86,
-                    "k": 37
+                    "m": 52,
+                    "y": 87,
+                    "k": 2
                 }
             }
         },
-        "description": "A medium-dark, highly saturated orange with warm orange-yellow tones."
+        "description": "A orange color from the No Matter What Palette 1.txt palette."
     }
 ]

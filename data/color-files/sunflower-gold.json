@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "KW9M6RAA",
+        "name": "Sunflower Gold",
+        "other-names": [
+            {
+                "name": "Sunflower Gold",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "C",
+                    "g1": "B",
+                    "g2": "F",
+                    "b1": "4",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 252,
+                    "g": 191,
+                    "b": 73
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 40,
+                    "s": 97,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 71,
+                    "k": 1
+                }
+            }
+        },
+        "description": "A orange color from the Warm Autumn Glow palette."
+    }
+]

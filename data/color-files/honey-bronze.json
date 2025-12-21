@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "8V9KAQAA",
+        "name": "Honey Bronze",
+        "other-names": [
+            {
+                "name": "Honey Bronze",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "0",
+                    "g1": "9",
+                    "g2": "F",
+                    "b1": "3",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 224,
+                    "g": 159,
+                    "b": 62
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 36,
+                    "s": 72,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 29,
+                    "y": 72,
+                    "k": 12
+                }
+            }
+        },
+        "description": "A orange color from the Dark Sunset palette."
+    }
+]

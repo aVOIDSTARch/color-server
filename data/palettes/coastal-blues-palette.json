@@ -1,0 +1,56 @@
+{
+    "palette-name": "Coastal Blues",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "coastal-blues-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Coastal Blues palette",
+        "color-files": [
+            {
+                "file-path": "color-files/deep-space-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/yale-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/yale-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/yale-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/rich-cerulean.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/cerulean.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/air-force-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/steel-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/sky-blue-light.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/light-blue.json",
+                "color-family": "Blue Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Coastal Blues"
+}

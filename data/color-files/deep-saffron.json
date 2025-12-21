@@ -1,20 +1,13 @@
 [
     {
-        "unique-color-id": "16685344",
+        "unique-color-id": "AU3K8RAA",
         "name": "Deep Saffron",
         "other-names": [
             {
                 "name": "Deep Saffron",
                 "source": {
                     "name": "Coolors",
-                    "url": "https://coolors.co/"
-                }
-            },
-            {
-                "name": "Dragon Ball",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "url": "https://coolors.co"
                 }
             }
         ],
@@ -30,8 +23,8 @@
                     "g2": "9",
                     "b1": "2",
                     "b2": "0",
-                    "a1": "0",
-                    "a2": "0"
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
@@ -57,6 +50,6 @@
                 }
             }
         },
-        "description": "A rich golden-orange inspired by saffron spice."
+        "description": "A orange color from the No Matter What Palette 1.txt palette."
     }
 ]

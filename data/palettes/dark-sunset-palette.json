@@ -1,0 +1,36 @@
+{
+    "palette-name": "Dark Sunset",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "dark-sunset-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Dark Sunset palette",
+        "color-files": [
+            {
+                "file-path": "color-files/dark-slate-grey.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/vanilla-custard.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/honey-bronze.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/brown-red.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/night-bordeaux.json",
+                "color-family": "Red Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Dark Sunset"
+}

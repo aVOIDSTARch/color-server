@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "KLSPURAA",
+        "name": "Soft Apricot",
+        "other-names": [
+            {
+                "name": "Soft Apricot",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "2",
+                    "g1": "D",
+                    "g2": "0",
+                    "b1": "A",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 242,
+                    "g": 208,
+                    "b": 169
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 32,
+                    "s": 74,
+                    "l": 81
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 14,
+                    "y": 30,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A orange color from the Pastel Harmony palette."
+    }
+]

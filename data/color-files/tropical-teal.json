@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "ELALWDAA",
+        "name": "Tropical Teal",
+        "other-names": [
+            {
+                "name": "Tropical Teal",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "4",
+                    "g1": "A",
+                    "g2": "0",
+                    "b1": "A",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 52,
+                    "g": 160,
+                    "b": 164
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 182,
+                    "s": 52,
+                    "l": 42
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 68,
+                    "m": 2,
+                    "y": 0,
+                    "k": 36
+                }
+            }
+        },
+        "description": "A blue color from the Meadow Green palette."
+    }
+]

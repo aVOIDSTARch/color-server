@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "12417908",
+        "unique-color-id": "9KWMSPAA",
         "name": "Desert Sand",
         "other-names": [
             {
                 "name": "Desert Sand",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "17-1524",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Antique Pink",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Red Shades",
+        "color-family": "Orange Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "B",
-                    "r2": "D",
-                    "g1": "7",
-                    "g2": "B",
-                    "b1": "7",
-                    "b2": "4",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "D",
+                    "r2": "0",
+                    "g1": "B",
+                    "g2": "4",
+                    "b1": "9",
+                    "b2": "F",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 189,
-                    "g": 123,
-                    "b": 116
+                    "r": 208,
+                    "g": 180,
+                    "b": 159
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 6,
-                    "s": 36,
-                    "l": 60
+                    "h": 26,
+                    "s": 34,
+                    "l": 72
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 35,
-                    "y": 39,
-                    "k": 26
+                    "m": 13,
+                    "y": 24,
+                    "k": 18
                 }
             }
         },
-        "description": "A medium-light, moderately saturated red with warm red tones."
+        "description": "A orange color from the Whispering Ivory Shore palette."
     }
 ]

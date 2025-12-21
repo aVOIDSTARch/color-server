@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "JACS7KAA",
+        "name": "Oxblood",
+        "other-names": [
+            {
+                "name": "Oxblood",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "D",
+                    "g1": "0",
+                    "g2": "2",
+                    "b1": "0",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 157,
+                    "g": 2,
+                    "b": 8
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 358,
+                    "s": 97,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 99,
+                    "y": 95,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A red color from the Fiery Red Sunset palette."
+    }
+]

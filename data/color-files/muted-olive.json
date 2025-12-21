@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "2ZB6PLAA",
+        "name": "Muted Olive",
+        "other-names": [
+            {
+                "name": "Muted Olive",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "D",
+                    "g1": "C",
+                    "g2": "1",
+                    "b1": "7",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 173,
+                    "g": 193,
+                    "b": 120
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 76,
+                    "s": 37,
+                    "l": 61
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 38,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A green color from the Dark Forest palette."
+    }
+]

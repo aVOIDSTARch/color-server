@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "8XB47PAA",
+        "name": "Sunlit Clay",
+        "other-names": [
+            {
+                "name": "Sunlit Clay",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "D",
+                    "g1": "A",
+                    "g2": "1",
+                    "b1": "5",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 221,
+                    "g": 161,
+                    "b": 94
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 32,
+                    "s": 65,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 57,
+                    "k": 13
+                }
+            }
+        },
+        "description": "A orange color from the Olive Garden Feast palette."
+    }
+]

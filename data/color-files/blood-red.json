@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "VB6BNJAA",
+        "name": "Blood Red",
+        "other-names": [
+            {
+                "name": "Blood Red",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "8",
+                    "r2": "C",
+                    "g1": "1",
+                    "g2": "C",
+                    "b1": "1",
+                    "b2": "3",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 140,
+                    "g": 28,
+                    "b": 19
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 4,
+                    "s": 76,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 80,
+                    "y": 86,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A red color from the Warm Earth Tones palette."
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "GW3DGQAA",
+        "name": "Punch Red",
+        "other-names": [
+            {
+                "name": "Punch Red",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "6",
+                    "g1": "3",
+                    "g2": "9",
+                    "b1": "4",
+                    "b2": "6",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 230,
+                    "g": 57,
+                    "b": 70
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 355,
+                    "s": 78,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 75,
+                    "y": 70,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A red color from the Muted American palette."
+    }
+]

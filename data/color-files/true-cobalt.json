@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "PJEU5BAA",
+        "name": "True Cobalt",
+        "other-names": [
+            {
+                "name": "True Cobalt",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "B",
+                    "g1": "2",
+                    "g2": "4",
+                    "b1": "8",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 27,
+                    "g": 36,
+                    "b": 141
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 235,
+                    "s": 68,
+                    "l": 33
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 81,
+                    "m": 74,
+                    "y": 0,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A blue color from the No Matter What Palette 1.txt palette."
+    }
+]

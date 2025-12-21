@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "VZDLWPAA",
+        "name": "Light Bronze",
+        "other-names": [
+            {
+                "name": "Light Bronze",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "4",
+                    "g1": "A",
+                    "g2": "3",
+                    "b1": "7",
+                    "b2": "3",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 212,
+                    "g": 163,
+                    "b": 115
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 53,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 23,
+                    "y": 46,
+                    "k": 17
+                }
+            }
+        },
+        "description": "A orange color from the Soft Forest palette."
+    }
+]

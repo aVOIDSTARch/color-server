@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "4687241",
+        "unique-color-id": "SKAJCAAA",
         "name": "Teal",
         "other-names": [
             {
                 "name": "Teal",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "17-4919",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Sea Caller",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Blue Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "4",
-                    "r2": "7",
+                    "r1": "0",
+                    "r2": "2",
                     "g1": "8",
-                    "g2": "5",
-                    "b1": "8",
-                    "b2": "9",
-                    "a1": "0",
-                    "a2": "0"
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 71,
-                    "g": 133,
-                    "b": 137
+                    "r": 2,
+                    "g": 128,
+                    "b": 144
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 184,
-                    "s": 32,
-                    "l": 41
+                    "h": 187,
+                    "s": 97,
+                    "l": 29
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 48,
-                    "m": 3,
+                    "c": 99,
+                    "m": 11,
                     "y": 0,
-                    "k": 46
+                    "k": 44
                 }
             }
         },
-        "description": "A medium-dark, moderately saturated blue with cool cyan-blue tones."
+        "description": "A blue color from the Turquoise Harmony palette."
     }
 ]

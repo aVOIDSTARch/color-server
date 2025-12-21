@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "9517106",
+        "unique-color-id": "CSRC6PAA",
         "name": "Red Ochre",
         "other-names": [
             {
                 "name": "Red Ochre",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "18-1442",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Thunderbird",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Brown Shades",
+        "color-family": "Red Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "9",
-                    "r2": "1",
-                    "g1": "3",
-                    "g2": "8",
-                    "b1": "3",
+                    "r1": "D",
+                    "r2": "C",
+                    "g1": "2",
+                    "g2": "F",
+                    "b1": "0",
                     "b2": "2",
-                    "a1": "0",
-                    "a2": "0"
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 145,
-                    "g": 56,
-                    "b": 50
+                    "r": 220,
+                    "g": 47,
+                    "b": 2
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 4,
-                    "s": 49,
-                    "l": 38
+                    "h": 12,
+                    "s": 98,
+                    "l": 44
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 61,
-                    "y": 66,
-                    "k": 43
+                    "m": 79,
+                    "y": 99,
+                    "k": 14
                 }
             }
         },
-        "description": "A medium-dark, moderately saturated brown with earthy warm red tones."
+        "description": "A red color from the Fiery Red Sunset palette."
     }
 ]

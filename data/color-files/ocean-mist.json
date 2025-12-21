@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "4KYMUFAA",
+        "name": "Ocean Mist",
+        "other-names": [
+            {
+                "name": "Ocean Mist",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "2",
+                    "g1": "B",
+                    "g2": "6",
+                    "b1": "9",
+                    "b2": "A",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 82,
+                    "g": 182,
+                    "b": 154
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 163,
+                    "s": 41,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 55,
+                    "m": 0,
+                    "y": 15,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A green color from the Meadow Green palette."
+    }
+]

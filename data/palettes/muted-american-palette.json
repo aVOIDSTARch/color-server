@@ -1,0 +1,36 @@
+{
+    "palette-name": "Muted American",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "muted-american-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Muted American palette",
+        "color-files": [
+            {
+                "file-path": "color-files/punch-red.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/honeydew.json",
+                "color-family": "White Shades"
+            },
+            {
+                "file-path": "color-files/frosted-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/cerulean.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/oxford-navy.json",
+                "color-family": "Blue Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Muted American"
+}

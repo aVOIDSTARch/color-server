@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "2ZXKCQAA",
+        "name": "Tangerine Dream",
+        "other-names": [
+            {
+                "name": "Tangerine Dream",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "2",
+                    "g1": "9",
+                    "g2": "5",
+                    "b1": "7",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 226,
+                    "g": 149,
+                    "b": 120
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 16,
+                    "s": 65,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 34,
+                    "y": 47,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A orange color from the Ocean Pearl Delight palette."
+    }
+]

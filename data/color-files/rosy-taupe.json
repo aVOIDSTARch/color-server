@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "8K4K2PAA",
+        "name": "Rosy Taupe",
+        "other-names": [
+            {
+                "name": "Rosy Taupe",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "8",
+                    "g1": "9",
+                    "g2": "A",
+                    "b1": "9",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 216,
+                    "g": 154,
+                    "b": 158
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 356,
+                    "s": 44,
+                    "l": 73
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 29,
+                    "y": 27,
+                    "k": 15
+                }
+            }
+        },
+        "description": "A red color from the Whimsy Chic palette."
+    }
+]

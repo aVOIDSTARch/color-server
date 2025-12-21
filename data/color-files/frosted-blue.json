@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "6P4PJLAA",
+        "name": "Frosted Blue",
+        "other-names": [
+            {
+                "name": "Frosted Blue",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "8",
+                    "g1": "D",
+                    "g2": "A",
+                    "b1": "D",
+                    "b2": "C",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 168,
+                    "g": 218,
+                    "b": 220
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 182,
+                    "s": 43,
+                    "l": 76
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 24,
+                    "m": 1,
+                    "y": 0,
+                    "k": 14
+                }
+            }
+        },
+        "description": "A blue color from the Muted American palette."
+    }
+]

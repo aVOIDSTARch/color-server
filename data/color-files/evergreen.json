@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "1136458",
+        "unique-color-id": "VBLUVBAA",
         "name": "Evergreen",
         "other-names": [
             {
                 "name": "Evergreen",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "19-5420",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Country Meadow",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Blue Shades",
+        "color-family": "Green Shades",
         "color-codes": {
             "hex": {
                 "values": {
                     "r1": "1",
-                    "r2": "1",
-                    "g1": "5",
-                    "g2": "7",
-                    "b1": "4",
-                    "b2": "A",
-                    "a1": "0",
-                    "a2": "0"
+                    "r2": "3",
+                    "g1": "2",
+                    "g2": "A",
+                    "b1": "1",
+                    "b2": "3",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 17,
-                    "g": 87,
-                    "b": 74
+                    "r": 19,
+                    "g": 42,
+                    "b": 19
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 169,
-                    "s": 67,
-                    "l": 20
+                    "h": 120,
+                    "s": 38,
+                    "l": 12
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 80,
+                    "c": 55,
                     "m": 0,
-                    "y": 15,
-                    "k": 66
+                    "y": 55,
+                    "k": 84
                 }
             }
         },
-        "description": "A dark, vibrant blue with cool cyan-blue tones."
+        "description": "A green color from the Leafy Green Garden palette."
     }
 ]

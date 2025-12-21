@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "ZFSXKEAA",
+        "name": "Iron Grey",
+        "other-names": [
+            {
+                "name": "Iron Grey",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "9",
+                    "g1": "5",
+                    "g2": "0",
+                    "b1": "5",
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 73,
+                    "g": 80,
+                    "b": 87
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 210,
+                    "s": 9,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 16,
+                    "m": 8,
+                    "y": 0,
+                    "k": 66
+                }
+            }
+        },
+        "description": "A grey color from the Light Steel palette."
+    }
+]

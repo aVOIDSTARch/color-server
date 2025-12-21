@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "W7X7ZMAA",
+        "name": "Light Blue",
+        "other-names": [
+            {
+                "name": "Light Blue",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "7",
+                    "g1": "D",
+                    "g2": "5",
+                    "b1": "D",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 183,
+                    "g": 213,
+                    "b": 212
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 178,
+                    "s": 26,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 0,
+                    "y": 0,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A blue color from the Misty Forest palette."
+    }
+]

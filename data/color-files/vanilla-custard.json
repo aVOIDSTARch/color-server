@@ -1,62 +1,55 @@
 [
     {
-        "unique-color-id": "15982782",
+        "unique-color-id": "ZMCQLQAA",
         "name": "Vanilla Custard",
         "other-names": [
             {
                 "name": "Vanilla Custard",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "12-0815",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Orange Shades",
+        "color-family": "Yellow Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "F",
-                    "r2": "3",
+                    "r1": "E",
+                    "r2": "A",
                     "g1": "E",
-                    "g2": "0",
+                    "g2": "2",
                     "b1": "B",
-                    "b2": "E",
-                    "a1": "0",
-                    "a2": "0"
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 243,
-                    "g": 224,
-                    "b": 190
+                    "r": 234,
+                    "g": 226,
+                    "b": 183
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 38,
-                    "s": 69,
-                    "l": 85
+                    "h": 51,
+                    "s": 55,
+                    "l": 82
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 8,
+                    "m": 3,
                     "y": 22,
-                    "k": 5
+                    "k": 8
                 }
             }
         },
-        "description": "A light, vibrant orange with warm orange-yellow tones."
+        "description": "A yellow color from the Warm Autumn Glow palette."
     }
 ]

@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "Z3RGLCAA",
+        "name": "Rich Cerulean",
+        "other-names": [
+            {
+                "name": "Rich Cerulean",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "A",
+                    "g1": "6",
+                    "g2": "F",
+                    "b1": "9",
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 42,
+                    "g": 111,
+                    "b": 151
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 202,
+                    "s": 56,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 72,
+                    "m": 26,
+                    "y": 0,
+                    "k": 41
+                }
+            }
+        },
+        "description": "A blue color from the Coastal Blues palette."
+    }
+]

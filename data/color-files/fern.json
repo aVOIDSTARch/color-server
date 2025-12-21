@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "10133607",
+        "unique-color-id": "PUZZREAA",
         "name": "Fern",
         "other-names": [
             {
                 "name": "Fern",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "16-0430",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Dry Grass",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Green Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "9",
-                    "r2": "A",
-                    "g1": "A",
-                    "g2": "0",
-                    "b1": "6",
-                    "b2": "7",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "4",
+                    "r2": "F",
+                    "g1": "7",
+                    "g2": "7",
+                    "b1": "2",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 154,
-                    "g": 160,
-                    "b": 103
+                    "r": 79,
+                    "g": 119,
+                    "b": 45
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 66,
-                    "s": 23,
-                    "l": 52
+                    "h": 92,
+                    "s": 45,
+                    "l": 32
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 4,
+                    "c": 34,
                     "m": 0,
-                    "y": 36,
-                    "k": 37
+                    "y": 62,
+                    "k": 53
                 }
             }
         },
-        "description": "A medium, muted green with yellow-green tones."
+        "description": "A green color from the Leafy Green Garden palette."
     }
 ]

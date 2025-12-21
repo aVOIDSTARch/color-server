@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "1350792",
+        "unique-color-id": "NYTKAEAA",
         "name": "Sea Green",
         "other-names": [
             {
                 "name": "Sea Green",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "16-5421",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Flamboyant Teal",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Blue Shades",
+        "color-family": "Green Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "1",
-                    "r2": "4",
+                    "r1": "4",
+                    "r2": "0",
                     "g1": "9",
-                    "g2": "C",
-                    "b1": "8",
-                    "b2": "8",
-                    "a1": "0",
-                    "a2": "0"
+                    "g2": "1",
+                    "b1": "6",
+                    "b2": "C",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 20,
-                    "g": 156,
-                    "b": 136
+                    "r": 64,
+                    "g": 145,
+                    "b": 108
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 171,
-                    "s": 77,
-                    "l": 35
+                    "h": 153,
+                    "s": 39,
+                    "l": 41
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 87,
+                    "c": 56,
                     "m": 0,
-                    "y": 13,
-                    "k": 39
+                    "y": 26,
+                    "k": 43
                 }
             }
         },
-        "description": "A medium-dark, highly saturated blue with cool cyan-blue tones."
+        "description": "A green color from the Fresh Greens palette."
     }
 ]

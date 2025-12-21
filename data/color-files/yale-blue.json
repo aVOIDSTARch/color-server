@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "ZHQE2BAA",
+        "name": "Yale Blue",
+        "other-names": [
+            {
+                "name": "Yale Blue",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "8",
+                    "g1": "4",
+                    "g2": "E",
+                    "b1": "7",
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 24,
+                    "g": 78,
+                    "b": 119
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 206,
+                    "s": 66,
+                    "l": 28
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 80,
+                    "m": 34,
+                    "y": 0,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A blue color from the Meadow Green palette."
+    }
+]

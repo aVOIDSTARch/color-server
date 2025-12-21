@@ -1,0 +1,36 @@
+{
+    "palette-name": "Earthy Forest Hues",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "earthy-forest-hues-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Earthy Forest Hues palette",
+        "color-files": [
+            {
+                "file-path": "color-files/dust-grey.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/dry-sage.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/fern.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/hunter-green.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/pine-teal.json",
+                "color-family": "Green Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Earthy Forest Hues"
+}

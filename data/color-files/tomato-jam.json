@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "YVFEENAA",
+        "name": "Tomato Jam",
+        "other-names": [
+            {
+                "name": "Tomato Jam",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "4",
+                    "g1": "4",
+                    "g2": "5",
+                    "b1": "3",
+                    "b2": "6",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 196,
+                    "g": 69,
+                    "b": 54
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 6,
+                    "s": 57,
+                    "l": 49
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 65,
+                    "y": 72,
+                    "k": 23
+                }
+            }
+        },
+        "description": "A red color from the Forest Hues palette."
+    }
+]

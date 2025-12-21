@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "GQCQ8PAA",
+        "name": "Alabaster Grey",
+        "other-names": [
+            {
+                "name": "Alabaster Grey",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "E",
+                    "g1": "E",
+                    "g2": "2",
+                    "b1": "E",
+                    "b2": "6",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 222,
+                    "g": 226,
+                    "b": 230
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 210,
+                    "s": 14,
+                    "l": 89
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 2,
+                    "y": 0,
+                    "k": 10
+                }
+            }
+        },
+        "description": "A blue color from the Light Steel palette."
+    }
+]

@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "11828087",
+        "unique-color-id": "U37ZDNAA",
         "name": "Old Rose",
         "other-names": [
             {
                 "name": "Old Rose",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "17-1518",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Wild Party",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Red Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "B",
-                    "r2": "4",
+                    "r1": "C",
+                    "r2": "3",
                     "g1": "7",
-                    "g2": "B",
-                    "b1": "7",
-                    "b2": "7",
-                    "a1": "0",
-                    "a2": "0"
+                    "g2": "D",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 180,
-                    "g": 123,
-                    "b": 119
+                    "r": 195,
+                    "g": 125,
+                    "b": 146
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 4,
-                    "s": 29,
-                    "l": 59
+                    "h": 342,
+                    "s": 37,
+                    "l": 63
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 32,
-                    "y": 34,
-                    "k": 29
+                    "m": 36,
+                    "y": 25,
+                    "k": 24
                 }
             }
         },
-        "description": "A medium-light, muted red with warm red tones."
+        "description": "A red color from the Whimsy Chic palette."
     }
 ]

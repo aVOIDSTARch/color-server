@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "HGE2KLAA",
+        "name": "Faded Copper",
+        "other-names": [
+            {
+                "name": "Faded Copper",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "9",
+                    "g1": "8",
+                    "g2": "4",
+                    "b1": "6",
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 169,
+                    "g": 132,
+                    "b": 103
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 26,
+                    "s": 28,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 22,
+                    "y": 39,
+                    "k": 34
+                }
+            }
+        },
+        "description": "A orange color from the Dark Forest palette."
+    }
+]

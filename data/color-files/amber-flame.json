@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "JA459RAA",
+        "name": "Amber Flame",
+        "other-names": [
+            {
+                "name": "Amber Flame",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "B",
+                    "g2": "A",
+                    "b1": "0",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 186,
+                    "b": 8
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 100,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 27,
+                    "y": 97,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A orange color from the Fiery Red Sunset palette."
+    }
+]

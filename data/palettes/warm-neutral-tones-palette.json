@@ -1,0 +1,56 @@
+{
+    "palette-name": "Warm Neutral Tones",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "warm-neutral-tones-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Warm Neutral Tones palette",
+        "color-files": [
+            {
+                "file-path": "color-files/dark-walnut.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/saddle-brown.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/toffee-brown.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/camel.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/khaki-beige.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/dry-sage.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/dry-sage.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/dusty-olive.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/ebony.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/charcoal-brown.json",
+                "color-family": "Green Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Warm Neutral Tones"
+}

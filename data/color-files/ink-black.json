@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "8BYTBAAA",
+        "name": "Ink Black",
+        "other-names": [
+            {
+                "name": "Ink Black",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "1",
+                    "g1": "1",
+                    "g2": "6",
+                    "b1": "1",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 1,
+                    "g": 22,
+                    "b": 30
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 94,
+                    "l": 6
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 97,
+                    "m": 27,
+                    "y": 0,
+                    "k": 88
+                }
+            }
+        },
+        "description": "A blue color from the Ocean Serenity palette."
+    }
+]

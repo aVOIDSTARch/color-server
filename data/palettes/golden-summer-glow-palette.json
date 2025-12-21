@@ -1,0 +1,36 @@
+{
+    "palette-name": "Golden Summer Glow",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "golden-summer-glow-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Golden Summer Glow palette",
+        "color-files": [
+            {
+                "file-path": "color-files/regal-navy.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/lemon-chiffon.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/royal-gold.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/sandy-brown.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/tomato.json",
+                "color-family": "Red Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Golden Summer Glow"
+}

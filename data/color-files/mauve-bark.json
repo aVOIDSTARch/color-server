@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "TXZXVHAA",
+        "name": "Mauve Bark",
+        "other-names": [
+            {
+                "name": "Mauve Bark",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "3",
+                    "g1": "5",
+                    "g2": "7",
+                    "b1": "5",
+                    "b2": "1",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 115,
+                    "g": 87,
+                    "b": 81
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 11,
+                    "s": 17,
+                    "l": 38
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 24,
+                    "y": 30,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A red color from the Warm Earth Tones palette."
+    }
+]

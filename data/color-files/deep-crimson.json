@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "8TDA4KAA",
+        "name": "Deep Crimson",
+        "other-names": [
+            {
+                "name": "Deep Crimson",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "A",
+                    "g1": "0",
+                    "g2": "3",
+                    "b1": "1",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 154,
+                    "g": 3,
+                    "b": 30
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 349,
+                    "s": 96,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 98,
+                    "y": 81,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A red color from the Fiery Palette palette."
+    }
+]

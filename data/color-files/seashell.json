@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "E8H8VRAA",
+        "name": "Seashell",
+        "other-names": [
+            {
+                "name": "Seashell",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "3",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "E",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 243,
+                    "g": 231,
+                    "b": 228
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 12,
+                    "s": 38,
+                    "l": 92
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 6,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A red color from the Whispering Ivory Shore palette."
+    }
+]

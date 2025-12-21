@@ -1,0 +1,36 @@
+{
+    "palette-name": "Ocean Pearl Delight",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "ocean-pearl-delight-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Ocean Pearl Delight palette",
+        "color-files": [
+            {
+                "file-path": "color-files/stormy-teal.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/pearl-aqua.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/alice-blue.json",
+                "color-family": "White Shades"
+            },
+            {
+                "file-path": "color-files/almond-silk.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/tangerine-dream.json",
+                "color-family": "Orange Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Ocean Pearl Delight"
+}

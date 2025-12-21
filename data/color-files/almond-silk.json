@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "K6T7HQAA",
+        "name": "Almond Silk",
+        "other-names": [
+            {
+                "name": "Almond Silk",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "7",
+                    "g1": "D",
+                    "g2": "1",
+                    "b1": "C",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 231,
+                    "g": 209,
+                    "b": 201
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 16,
+                    "s": 38,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 10,
+                    "y": 13,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A orange color from the Whispering Ivory Shore palette."
+    }
+]

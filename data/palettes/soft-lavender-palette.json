@@ -1,0 +1,36 @@
+{
+    "palette-name": "Soft Lavender",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "soft-lavender-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Soft Lavender palette",
+        "color-files": [
+            {
+                "file-path": "color-files/space-indigo.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/dusty-grape.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/lilac-ash.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/almond-silk.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/parchment.json",
+                "color-family": "Orange Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Soft Lavender"
+}

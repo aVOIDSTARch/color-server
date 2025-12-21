@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "7289942",
+        "unique-color-id": "ZFCEQNAA",
         "name": "Amaranth",
         "other-names": [
             {
                 "name": "Amaranth",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "19-2410",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Royal Lines",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Pink Shades",
+        "color-family": "Red Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "6",
-                    "r2": "F",
-                    "g1": "3",
-                    "g2": "C",
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "4",
+                    "g2": "2",
                     "b1": "5",
-                    "b2": "6",
-                    "a1": "0",
-                    "a2": "0"
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 111,
-                    "g": 60,
-                    "b": 86
+                    "r": 206,
+                    "g": 66,
+                    "b": 87
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 329,
-                    "s": 30,
-                    "l": 34
+                    "h": 351,
+                    "s": 59,
+                    "l": 53
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 46,
-                    "y": 23,
-                    "k": 56
+                    "m": 68,
+                    "y": 58,
+                    "k": 19
                 }
             }
         },
-        "description": "A medium-dark, muted pink with warm purple-magenta tones."
+        "description": "A red color from the Red Sunburst palette."
     }
 ]

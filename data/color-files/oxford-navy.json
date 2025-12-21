@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "ZXXV7BAA",
+        "name": "Oxford Navy",
+        "other-names": [
+            {
+                "name": "Oxford Navy",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "D",
+                    "g1": "3",
+                    "g2": "5",
+                    "b1": "5",
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 29,
+                    "g": 53,
+                    "b": 87
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 215,
+                    "s": 50,
+                    "l": 23
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 67,
+                    "m": 39,
+                    "y": 0,
+                    "k": 66
+                }
+            }
+        },
+        "description": "A blue color from the Muted American palette."
+    }
+]

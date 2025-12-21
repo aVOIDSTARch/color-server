@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "75VRSRAA",
+        "name": "Cream",
+        "other-names": [
+            {
+                "name": "Cream",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "0",
+                    "g1": "F",
+                    "g2": "3",
+                    "b1": "B",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 240,
+                    "g": 243,
+                    "b": 189
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 63,
+                    "s": 69,
+                    "l": 85
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 1,
+                    "m": 0,
+                    "y": 22,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A yellow color from the Turquoise Harmony palette."
+    }
+]

@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "5783609",
+        "unique-color-id": "FCQUZHAA",
         "name": "Chestnut",
         "other-names": [
             {
                 "name": "Chestnut",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "19-1118",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Roasted Kona",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Brown Shades",
+        "color-family": "Red Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "5",
-                    "r2": "8",
-                    "g1": "4",
-                    "g2": "0",
-                    "b1": "3",
-                    "b2": "9",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "7",
+                    "r2": "7",
+                    "g1": "2",
+                    "g2": "E",
+                    "b1": "2",
+                    "b2": "5",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 88,
-                    "g": 64,
-                    "b": 57
+                    "r": 119,
+                    "g": 46,
+                    "b": 37
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 14,
-                    "s": 21,
-                    "l": 28
+                    "h": 7,
+                    "s": 53,
+                    "l": 31
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 27,
-                    "y": 35,
-                    "k": 65
+                    "m": 61,
+                    "y": 69,
+                    "k": 53
                 }
             }
         },
-        "description": "A dark, muted brown with earthy warm red tones."
+        "description": "A red color from the Forest Hues palette."
     }
 ]

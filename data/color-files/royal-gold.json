@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "8XVPWRAA",
+        "name": "Royal Gold",
+        "other-names": [
+            {
+                "name": "Royal Gold",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "4",
+                    "g1": "D",
+                    "g2": "3",
+                    "b1": "5",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 244,
+                    "g": 211,
+                    "b": 94
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 47,
+                    "s": 87,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 14,
+                    "y": 61,
+                    "k": 4
+                }
+            }
+        },
+        "description": "A yellow color from the Golden Summer Glow palette."
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "SPCQNQAA",
+        "name": "Bone",
+        "other-names": [
+            {
+                "name": "Bone",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "C",
+                    "g1": "E",
+                    "g2": "2",
+                    "b1": "D",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 236,
+                    "g": 226,
+                    "b": 208
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 39,
+                    "s": 42,
+                    "l": 87
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 12,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A orange color from the Vintage Romance palette."
+    }
+]

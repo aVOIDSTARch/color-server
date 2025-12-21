@@ -1,0 +1,36 @@
+{
+    "palette-name": "Midnight Sky",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "midnight-sky-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Midnight Sky palette",
+        "color-files": [
+            {
+                "file-path": "color-files/imperial-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/french-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/steel-azure.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/school-bus-yellow.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/gold.json",
+                "color-family": "Yellow Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Midnight Sky"
+}

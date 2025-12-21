@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "FCNG6MAA",
+        "name": "Copperwood",
+        "other-names": [
+            {
+                "name": "Copperwood",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "C",
+                    "g1": "6",
+                    "g2": "C",
+                    "b1": "2",
+                    "b2": "5",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 188,
+                    "g": 108,
+                    "b": 37
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 67,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 43,
+                    "y": 80,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A orange color from the Olive Garden Feast palette."
+    }
+]

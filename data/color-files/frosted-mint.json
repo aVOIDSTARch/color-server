@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "67VR2PAA",
+        "name": "Frosted Mint",
+        "other-names": [
+            {
+                "name": "Frosted Mint",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "8",
+                    "g1": "F",
+                    "g2": "3",
+                    "b1": "D",
+                    "b2": "C",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 216,
+                    "g": 243,
+                    "b": 220
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 129,
+                    "s": 53,
+                    "l": 90
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 11,
+                    "m": 0,
+                    "y": 9,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A green color from the Fresh Greens palette."
+    }
+]

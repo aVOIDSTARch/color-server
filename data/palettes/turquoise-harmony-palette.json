@@ -1,0 +1,36 @@
+{
+    "palette-name": "Turquoise Harmony",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "turquoise-harmony-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Turquoise Harmony palette",
+        "color-files": [
+            {
+                "file-path": "color-files/baltic-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/teal.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/verdigris.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/mint-leaf.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/cream.json",
+                "color-family": "Yellow Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Turquoise Harmony"
+}

@@ -1,0 +1,36 @@
+{
+    "palette-name": "Warm Autumn Glow",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "warm-autumn-glow-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Warm Autumn Glow palette",
+        "color-files": [
+            {
+                "file-path": "color-files/deep-space-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/flag-red.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/vivid-tangerine.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/sunflower-gold.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/vanilla-custard.json",
+                "color-family": "Yellow Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Warm Autumn Glow"
+}

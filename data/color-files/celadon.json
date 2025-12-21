@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "12111034",
+        "unique-color-id": "U5X7XKAA",
         "name": "Celadon",
         "other-names": [
             {
                 "name": "Celadon",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "13-6108",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Pond’s Edge",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Green Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "B",
-                    "r2": "8",
-                    "g1": "C",
-                    "g2": "C",
+                    "r1": "9",
+                    "r2": "5",
+                    "g1": "D",
+                    "g2": "5",
                     "b1": "B",
-                    "b2": "A",
-                    "a1": "0",
-                    "a2": "0"
+                    "b2": "2",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 184,
-                    "g": 204,
-                    "b": 186
+                    "r": 149,
+                    "g": 213,
+                    "b": 178
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 126,
-                    "s": 16,
-                    "l": 76
+                    "h": 147,
+                    "s": 43,
+                    "l": 71
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 10,
+                    "c": 30,
                     "m": 0,
-                    "y": 9,
-                    "k": 20
+                    "y": 16,
+                    "k": 16
                 }
             }
         },
-        "description": "A light, muted green with cool green tones."
+        "description": "A green color from the Fresh Greens palette."
     }
 ]

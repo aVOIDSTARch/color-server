@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "S3PLYMAA",
+        "name": "Khaki Beige",
+        "other-names": [
+            {
+                "name": "Khaki Beige",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "6",
+                    "g1": "A",
+                    "g2": "D",
+                    "b1": "9",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 182,
+                    "g": 173,
+                    "b": 144
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 46,
+                    "s": 21,
+                    "l": 64
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 21,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A yellow color from the Warm Neutral Tones palette."
+    }
+]

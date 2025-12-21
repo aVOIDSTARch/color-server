@@ -1,0 +1,36 @@
+{
+    "palette-name": "No Matter What Palette 1.txt",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "no-matter-what-palette-1-txt-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the No Matter What Palette 1.txt palette",
+        "color-files": [
+            {
+                "file-path": "color-files/true-cobalt.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/grey.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/pumpkin-spice.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/deep-saffron.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/platinum.json",
+                "color-family": "Blue Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: No Matter What Palette 1.txt"
+}

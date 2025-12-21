@@ -1,0 +1,36 @@
+{
+    "palette-name": "Misty Forest",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "misty-forest-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Misty Forest palette",
+        "color-files": [
+            {
+                "file-path": "color-files/slate-grey.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/dark-slate-grey.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/gunmetal.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/teal.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/light-blue.json",
+                "color-family": "Blue Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Misty Forest"
+}

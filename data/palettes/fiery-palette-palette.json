@@ -1,0 +1,36 @@
+{
+    "palette-name": "Fiery Palette",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "fiery-palette-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Fiery Palette palette",
+        "color-files": [
+            {
+                "file-path": "color-files/crimson-violet.json",
+                "color-family": "Pink Shades"
+            },
+            {
+                "file-path": "color-files/deep-crimson.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/princeton-orange.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/autumn-leaf.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/dark-teal.json",
+                "color-family": "Blue Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Fiery Palette"
+}

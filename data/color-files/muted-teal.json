@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "35B63KAA",
+        "name": "Muted Teal",
+        "other-names": [
+            {
+                "name": "Muted Teal",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "9",
+                    "g1": "C",
+                    "g2": "1",
+                    "b1": "B",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 153,
+                    "g": 193,
+                    "b": 185
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 168,
+                    "s": 24,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 21,
+                    "m": 0,
+                    "y": 4,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A blue color from the Pastel Harmony palette."
+    }
+]

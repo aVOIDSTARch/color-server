@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "9DSF8FAA",
+        "name": "Stone Brown",
+        "other-names": [
+            {
+                "name": "Stone Brown",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "E",
+                    "g1": "5",
+                    "g2": "0",
+                    "b1": "3",
+                    "b2": "F",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 94,
+                    "g": 80,
+                    "b": 63
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 33,
+                    "s": 20,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 15,
+                    "y": 33,
+                    "k": 63
+                }
+            }
+        },
+        "description": "A orange color from the Neutral Earth Tones palette."
+    }
+]

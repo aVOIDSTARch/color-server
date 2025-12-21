@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "4280124",
+        "unique-color-id": "2BYDJCAA",
         "name": "Black Forest",
         "other-names": [
             {
                 "name": "Black Forest",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "19-0315",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Zepheniah’s Greed",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Green Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "4",
-                    "r2": "1",
-                    "g1": "4",
-                    "g2": "F",
-                    "b1": "3",
-                    "b2": "C",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "2",
+                    "r2": "8",
+                    "g1": "3",
+                    "g2": "6",
+                    "b1": "1",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 65,
-                    "g": 79,
-                    "b": 60
+                    "r": 40,
+                    "g": 54,
+                    "b": 24
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 104,
-                    "s": 14,
-                    "l": 27
+                    "h": 88,
+                    "s": 38,
+                    "l": 15
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 18,
+                    "c": 26,
                     "m": 0,
-                    "y": 24,
-                    "k": 69
+                    "y": 56,
+                    "k": 79
                 }
             }
         },
-        "description": "A dark, muted green with cool green tones."
+        "description": "A green color from the Olive Garden Feast palette."
     }
 ]

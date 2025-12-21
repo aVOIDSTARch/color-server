@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "KLWMQLAA",
+        "name": "Ash Grey",
+        "other-names": [
+            {
+                "name": "Ash Grey",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "E",
+                    "g1": "B",
+                    "g2": "4",
+                    "b1": "A",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 174,
+                    "g": 180,
+                    "b": 169
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 93,
+                    "s": 7,
+                    "l": 68
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 3,
+                    "m": 0,
+                    "y": 6,
+                    "k": 29
+                }
+            }
+        },
+        "description": "A grey color from the Whimsy Chic palette."
+    }
+]

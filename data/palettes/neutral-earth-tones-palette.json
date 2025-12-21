@@ -1,0 +1,36 @@
+{
+    "palette-name": "Neutral Earth Tones",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "neutral-earth-tones-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Neutral Earth Tones palette",
+        "color-files": [
+            {
+                "file-path": "color-files/black.json",
+                "color-family": "Black Shades"
+            },
+            {
+                "file-path": "color-files/jet-black.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/almond-cream.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/khaki-beige.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/stone-brown.json",
+                "color-family": "Orange Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Neutral Earth Tones"
+}

@@ -1,0 +1,36 @@
+{
+    "palette-name": "Mauve Serenity",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "mauve-serenity-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Mauve Serenity palette",
+        "color-files": [
+            {
+                "file-path": "color-files/charcoal.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/dim-grey.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/dusty-mauve.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/almond-silk.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/dust-grey.json",
+                "color-family": "Orange Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Mauve Serenity"
+}

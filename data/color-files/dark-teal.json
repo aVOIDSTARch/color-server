@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "3XFEUBAA",
+        "name": "Dark Teal",
+        "other-names": [
+            {
+                "name": "Dark Teal",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "2",
+                    "g1": "4",
+                    "g2": "5",
+                    "b1": "5",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 18,
+                    "g": 69,
+                    "b": 89
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 66,
+                    "l": 21
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 80,
+                    "m": 22,
+                    "y": 0,
+                    "k": 65
+                }
+            }
+        },
+        "description": "A blue color from the Ocean Serenity palette."
+    }
+]

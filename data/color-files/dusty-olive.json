@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "6579030",
+        "unique-color-id": "LWPYFGAA",
         "name": "Dusty Olive",
         "other-names": [
             {
                 "name": "Dusty Olive",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "18-0515",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Marble Garden",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Grey Shades",
+        "color-family": "Green Shades",
         "color-codes": {
             "hex": {
                 "values": {
                     "r1": "6",
-                    "r2": "4",
+                    "r2": "5",
                     "g1": "6",
-                    "g2": "3",
-                    "b1": "5",
-                    "b2": "6",
-                    "a1": "0",
-                    "a2": "0"
+                    "g2": "D",
+                    "b1": "4",
+                    "b2": "A",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 100,
-                    "g": 99,
-                    "b": 86
+                    "r": 101,
+                    "g": 109,
+                    "b": 74
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 56,
-                    "s": 8,
+                    "h": 74,
+                    "s": 19,
                     "l": 36
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 0,
-                    "m": 1,
-                    "y": 14,
-                    "k": 61
+                    "c": 7,
+                    "m": 0,
+                    "y": 32,
+                    "k": 57
                 }
             }
         },
-        "description": "A medium-dark, neutral grey."
+        "description": "A green color from the Warm Neutral Tones palette."
     }
 ]

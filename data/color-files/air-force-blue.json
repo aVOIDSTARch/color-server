@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "U3D23FAA",
+        "name": "Air Force Blue",
+        "other-names": [
+            {
+                "name": "Air Force Blue",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "9",
+                    "g1": "8",
+                    "g2": "3",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 89,
+                    "g": 131,
+                    "b": 146
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 196,
+                    "s": 24,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 39,
+                    "m": 10,
+                    "y": 0,
+                    "k": 43
+                }
+            }
+        },
+        "description": "A blue color from the Ocean Serenity palette."
+    }
+]

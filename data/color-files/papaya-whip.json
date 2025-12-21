@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "P6PQ4RAA",
+        "name": "Papaya Whip",
+        "other-names": [
+            {
+                "name": "Papaya Whip",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "A",
+                    "g1": "E",
+                    "g2": "D",
+                    "b1": "C",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 250,
+                    "g": 237,
+                    "b": 205
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 43,
+                    "s": 82,
+                    "l": 89
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 5,
+                    "y": 18,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A orange color from the Soft Forest palette."
+    }
+]

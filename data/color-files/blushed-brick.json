@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "CWDW9MAA",
+        "name": "Blushed Brick",
+        "other-names": [
+            {
+                "name": "Blushed Brick",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "B",
+                    "r2": "F",
+                    "g1": "4",
+                    "g2": "3",
+                    "b1": "4",
+                    "b2": "2",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 191,
+                    "g": 67,
+                    "b": 66
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 49,
+                    "l": 50
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 65,
+                    "y": 65,
+                    "k": 25
+                }
+            }
+        },
+        "description": "A red color from the Warm Earth Tones palette."
+    }
+]

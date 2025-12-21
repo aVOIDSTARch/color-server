@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "EURW9HAA",
+        "name": "Saddle Brown",
+        "other-names": [
+            {
+                "name": "Saddle Brown",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "F",
+                    "g1": "4",
+                    "g2": "F",
+                    "b1": "2",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 127,
+                    "g": 79,
+                    "b": 36
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 28,
+                    "s": 56,
+                    "l": 32
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 38,
+                    "y": 72,
+                    "k": 50
+                }
+            }
+        },
+        "description": "A orange color from the Warm Neutral Tones palette."
+    }
+]

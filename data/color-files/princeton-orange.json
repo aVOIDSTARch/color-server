@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "EUM25RAA",
+        "name": "Princeton Orange",
+        "other-names": [
+            {
+                "name": "Princeton Orange",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "B",
+                    "g1": "8",
+                    "g2": "B",
+                    "b1": "2",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 251,
+                    "g": 139,
+                    "b": 36
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 29,
+                    "s": 96,
+                    "l": 56
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 45,
+                    "y": 86,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A orange color from the Fiery Palette palette."
+    }
+]

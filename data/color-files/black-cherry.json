@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "RAEALGAA",
+        "name": "Black Cherry",
+        "other-names": [
+            {
+                "name": "Black Cherry",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "A",
+                    "g1": "0",
+                    "g2": "4",
+                    "b1": "0",
+                    "b2": "F",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 106,
+                    "g": 4,
+                    "b": 15
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 354,
+                    "s": 93,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 96,
+                    "y": 86,
+                    "k": 58
+                }
+            }
+        },
+        "description": "A red color from the Fiery Red Sunset palette."
+    }
+]

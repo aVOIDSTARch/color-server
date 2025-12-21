@@ -1,20 +1,13 @@
 [
     {
-        "unique-color-id": "15594228",
+        "unique-color-id": "WRU9PQAA",
         "name": "Platinum",
         "other-names": [
             {
                 "name": "Platinum",
                 "source": {
                     "name": "Coolors",
-                    "url": "https://coolors.co/"
-                }
-            },
-            {
-                "name": "Maui Mist",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "url": "https://coolors.co"
                 }
             }
         ],
@@ -30,8 +23,8 @@
                     "g2": "2",
                     "b1": "F",
                     "b2": "4",
-                    "a1": "0",
-                    "a2": "0"
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
@@ -57,6 +50,6 @@
                 }
             }
         },
-        "description": "A very light grey with cool blue undertones."
+        "description": "A blue color from the No Matter What Palette 1.txt palette."
     }
 ]

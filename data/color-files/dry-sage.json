@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "GJNLELAA",
+        "name": "Dry Sage",
+        "other-names": [
+            {
+                "name": "Dry Sage",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "4",
+                    "g1": "A",
+                    "g2": "C",
+                    "b1": "8",
+                    "b2": "6",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 164,
+                    "g": 172,
+                    "b": 134
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 73,
+                    "s": 19,
+                    "l": 60
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 5,
+                    "m": 0,
+                    "y": 22,
+                    "k": 33
+                }
+            }
+        },
+        "description": "A green color from the Warm Neutral Tones palette."
+    }
+]

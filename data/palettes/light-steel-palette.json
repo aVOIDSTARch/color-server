@@ -1,0 +1,52 @@
+{
+    "palette-name": "Light Steel",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "light-steel-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Light Steel palette",
+        "color-files": [
+            {
+                "file-path": "color-files/bright-snow.json",
+                "color-family": "White Shades"
+            },
+            {
+                "file-path": "color-files/platinum.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/alabaster-grey.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/pale-slate.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/pale-slate.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/slate-grey.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/iron-grey.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/gunmetal.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/carbon-black.json",
+                "color-family": "Blue Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Light Steel"
+}

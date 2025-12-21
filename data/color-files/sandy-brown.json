@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "WX539RAA",
+        "name": "Sandy Brown",
+        "other-names": [
+            {
+                "name": "Sandy Brown",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "F",
+                    "g1": "9",
+                    "g2": "B",
+                    "b1": "5",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 255,
+                    "g": 155,
+                    "b": 84
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 25,
+                    "s": 100,
+                    "l": 66
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 39,
+                    "y": 67,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A orange color from the Red Sunburst palette."
+    }
+]

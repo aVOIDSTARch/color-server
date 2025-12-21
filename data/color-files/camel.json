@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "11568234",
+        "unique-color-id": "EGLJGLAA",
         "name": "Camel",
         "other-names": [
             {
                 "name": "Camel",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "17-1224",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Cider Spice",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Orange Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "B",
-                    "r2": "0",
+                    "r1": "A",
+                    "r2": "6",
                     "g1": "8",
-                    "g2": "4",
+                    "g2": "A",
                     "b1": "6",
-                    "b2": "A",
-                    "a1": "0",
-                    "a2": "0"
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 176,
-                    "g": 132,
-                    "b": 106
+                    "r": 166,
+                    "g": 138,
+                    "b": 100
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 22,
-                    "s": 31,
-                    "l": 55
+                    "h": 35,
+                    "s": 27,
+                    "l": 52
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 25,
+                    "m": 17,
                     "y": 40,
-                    "k": 31
+                    "k": 35
                 }
             }
         },
-        "description": "A medium, moderately saturated orange with warm red tones."
+        "description": "A orange color from the Warm Neutral Tones palette."
     }
 ]

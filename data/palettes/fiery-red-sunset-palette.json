@@ -1,0 +1,56 @@
+{
+    "palette-name": "Fiery Red Sunset",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "fiery-red-sunset-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Fiery Red Sunset palette",
+        "color-files": [
+            {
+                "file-path": "color-files/ink-black.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/night-bordeaux.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/black-cherry.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/oxblood.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/brick-ember.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/red-ochre.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/cayenne-red.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/deep-saffron.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/orange.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/amber-flame.json",
+                "color-family": "Orange Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Fiery Red Sunset"
+}

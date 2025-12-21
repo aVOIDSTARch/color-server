@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "12247507",
+        "unique-color-id": "QQ49TRAA",
         "name": "Honeydew",
         "other-names": [
             {
                 "name": "Honeydew",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "12-5808",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Pale Mountain Lake Turquoise",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Green Shades",
+        "color-family": "White Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "B",
-                    "r2": "A",
-                    "g1": "E",
-                    "g2": "1",
-                    "b1": "D",
-                    "b2": "3",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "F",
+                    "r2": "1",
+                    "g1": "F",
+                    "g2": "A",
+                    "b1": "E",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 186,
-                    "g": 225,
-                    "b": 211
+                    "r": 241,
+                    "g": 250,
+                    "b": 238
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 158,
-                    "s": 39,
-                    "l": 81
+                    "h": 105,
+                    "s": 55,
+                    "l": 96
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 17,
+                    "c": 4,
                     "m": 0,
-                    "y": 6,
-                    "k": 12
+                    "y": 5,
+                    "k": 2
                 }
             }
         },
-        "description": "A light, moderately saturated green with cool cyan-blue tones."
+        "description": "A white color from the Muted American palette."
     }
 ]

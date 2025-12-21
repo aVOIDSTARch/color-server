@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "GEQUPGAA",
+        "name": "Wine Plum",
+        "other-names": [
+            {
+                "name": "Wine Plum",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "6",
+                    "r2": "D",
+                    "g1": "2",
+                    "g2": "E",
+                    "b1": "4",
+                    "b2": "6",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 109,
+                    "g": 46,
+                    "b": 70
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 337,
+                    "s": 41,
+                    "l": 30
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 58,
+                    "y": 36,
+                    "k": 57
+                }
+            }
+        },
+        "description": "A red color from the Vintage Romance palette."
+    }
+]

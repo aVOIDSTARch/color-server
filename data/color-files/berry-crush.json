@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "AG2VFLAA",
+        "name": "Berry Crush",
+        "other-names": [
+            {
+                "name": "Berry Crush",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "5",
+                    "g1": "3",
+                    "g2": "8",
+                    "b1": "6",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 165,
+                    "g": 56,
+                    "b": 96
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 338,
+                    "s": 49,
+                    "l": 43
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 66,
+                    "y": 42,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A red color from the Bold Berry palette."
+    }
+]

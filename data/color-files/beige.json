@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "14006936",
+        "unique-color-id": "S7R8RQAA",
         "name": "Beige",
         "other-names": [
             {
                 "name": "Beige",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "14-1118",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Brown Hare",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Orange Shades",
+        "color-family": "Yellow Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "D",
-                    "r2": "5",
-                    "g1": "B",
-                    "g2": "A",
-                    "b1": "9",
-                    "b2": "8",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "E",
+                    "r2": "F",
+                    "g1": "E",
+                    "g2": "F",
+                    "b1": "D",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 213,
-                    "g": 186,
-                    "b": 152
+                    "r": 239,
+                    "g": 239,
+                    "b": 208
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 33,
-                    "s": 42,
-                    "l": 72
+                    "h": 60,
+                    "s": 49,
+                    "l": 88
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 13,
-                    "y": 29,
-                    "k": 16
+                    "m": 0,
+                    "y": 13,
+                    "k": 6
                 }
             }
         },
-        "description": "A light, moderately saturated orange with warm orange-yellow tones."
+        "description": "A yellow color from the Summer Sunset palette."
     }
 ]

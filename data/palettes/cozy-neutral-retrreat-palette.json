@@ -1,0 +1,40 @@
+{
+    "palette-name": "Cozy Neutral Retrreat",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "cozy-neutral-retrreat-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Cozy Neutral Retrreat palette",
+        "color-files": [
+            {
+                "file-path": "color-files/light-bronze.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/desert-sand.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/powder-petal.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/ash-grey.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/dry-sage.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/dusty-olive.json",
+                "color-family": "Grey Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Cozy Neutral Retrreat"
+}

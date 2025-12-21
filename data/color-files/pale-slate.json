@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "75X5PLAA",
+        "name": "Pale Slate",
+        "other-names": [
+            {
+                "name": "Pale Slate",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "D",
+                    "g1": "B",
+                    "g2": "5",
+                    "b1": "B",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 173,
+                    "g": 181,
+                    "b": 189
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 210,
+                    "s": 11,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 8,
+                    "m": 4,
+                    "y": 0,
+                    "k": 26
+                }
+            }
+        },
+        "description": "A blue color from the Light Steel palette."
+    }
+]

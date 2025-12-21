@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "ES7FJQAA",
+        "name": "Cayenne Red",
+        "other-names": [
+            {
+                "name": "Cayenne Red",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "8",
+                    "g1": "5",
+                    "g2": "D",
+                    "b1": "0",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 232,
+                    "g": 93,
+                    "b": 4
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 97,
+                    "l": 46
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 60,
+                    "y": 98,
+                    "k": 9
+                }
+            }
+        },
+        "description": "A orange color from the Fiery Red Sunset palette."
+    }
+]

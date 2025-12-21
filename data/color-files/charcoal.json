@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "EGUFYFAA",
+        "name": "Charcoal",
+        "other-names": [
+            {
+                "name": "Charcoal",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "5",
+                    "r2": "6",
+                    "g1": "5",
+                    "g2": "2",
+                    "b1": "6",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 86,
+                    "g": 82,
+                    "b": 100
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 253,
+                    "s": 10,
+                    "l": 36
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 14,
+                    "m": 18,
+                    "y": 0,
+                    "k": 61
+                }
+            }
+        },
+        "description": "A grey color from the Mauve Serenity palette."
+    }
+]

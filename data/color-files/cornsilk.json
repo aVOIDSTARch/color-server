@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "15582067",
+        "unique-color-id": "AQ4R8RAA",
         "name": "Cornsilk",
         "other-names": [
             {
                 "name": "Cornsilk",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "13-0932",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Pasta Rasta",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Orange Shades",
+        "color-family": "Yellow Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "E",
-                    "r2": "D",
-                    "g1": "C",
-                    "g2": "3",
-                    "b1": "7",
-                    "b2": "3",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "F",
+                    "r2": "E",
+                    "g1": "F",
+                    "g2": "A",
+                    "b1": "E",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 237,
-                    "g": 195,
-                    "b": 115
+                    "r": 254,
+                    "g": 250,
+                    "b": 224
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 39,
-                    "s": 77,
-                    "l": 69
+                    "h": 52,
+                    "s": 94,
+                    "l": 94
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 18,
-                    "y": 51,
-                    "k": 7
+                    "m": 2,
+                    "y": 12,
+                    "k": 0
                 }
             }
         },
-        "description": "A medium-light, highly saturated orange with warm orange-yellow tones."
+        "description": "A yellow color from the Soft Forest palette."
     }
 ]

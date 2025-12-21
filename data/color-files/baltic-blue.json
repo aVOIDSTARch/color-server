@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "PJGYFAAA",
+        "name": "Baltic Blue",
+        "other-names": [
+            {
+                "name": "Baltic Blue",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "5",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "8",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 5,
+                    "g": 102,
+                    "b": 141
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 197,
+                    "s": 93,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 96,
+                    "m": 28,
+                    "y": 0,
+                    "k": 45
+                }
+            }
+        },
+        "description": "A blue color from the Turquoise Harmony palette."
+    }
+]

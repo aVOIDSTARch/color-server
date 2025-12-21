@@ -4,7 +4,10 @@
   "description": "Javascript app to serve color codes and descriptions to other applicaitons and build theme files",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "npx sucrase-node convert-coolors-palettes.ts",
+    "convert:coolors": "npx sucrase-node -e \"require('./convert-coolors-palettes').convertPalettes(require('./convert-coolors-palettes').COOLORS_SCHEMAS_CONFIG, 'Coolors Schemas')\"",
+    "convert:server": "npx sucrase-node -e \"require('./convert-coolors-palettes').convertPalettes(require('./convert-coolors-palettes').COLOR_SERVER_DATA_CONFIG, 'Color Server Data')\""
   },
   "repository": {
     "type": "git",

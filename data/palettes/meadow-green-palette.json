@@ -1,0 +1,56 @@
+{
+    "palette-name": "Meadow Green",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "meadow-green-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Meadow Green palette",
+        "color-files": [
+            {
+                "file-path": "color-files/lime-cream.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/light-green.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/light-green.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/emerald.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/ocean-mist.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/tropical-teal.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/bondi-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/cerulean.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/baltic-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/yale-blue.json",
+                "color-family": "Blue Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Meadow Green"
+}

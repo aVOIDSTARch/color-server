@@ -1,0 +1,36 @@
+{
+    "palette-name": "Ocean Serenity",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-21",
+    "collection": {
+        "file-name": "ocean-serenity-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Ocean Serenity palette",
+        "color-files": [
+            {
+                "file-path": "color-files/ink-black.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/dark-teal.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/air-force-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/ash-grey.json",
+                "color-family": "Green Shades"
+            },
+            {
+                "file-path": "color-files/beige.json",
+                "color-family": "Green Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Ocean Serenity"
+}

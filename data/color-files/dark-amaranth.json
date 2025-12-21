@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "GCAAUHAA",
+        "name": "Dark Amaranth",
+        "other-names": [
+            {
+                "name": "Dark Amaranth",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "2",
+                    "g1": "0",
+                    "g2": "0",
+                    "b1": "2",
+                    "b2": "6",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 114,
+                    "g": 0,
+                    "b": 38
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 340,
+                    "s": 100,
+                    "l": 22
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 100,
+                    "y": 67,
+                    "k": 55
+                }
+            }
+        },
+        "description": "A red color from the Red Sunburst palette."
+    }
+]

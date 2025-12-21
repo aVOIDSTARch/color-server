@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "KGQELEAA",
+        "name": "Dusty Grape",
+        "other-names": [
+            {
+                "name": "Dusty Grape",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "A",
+                    "g1": "4",
+                    "g2": "E",
+                    "b1": "6",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 74,
+                    "g": 78,
+                    "b": 105
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 232,
+                    "s": 17,
+                    "l": 35
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 30,
+                    "m": 26,
+                    "y": 0,
+                    "k": 59
+                }
+            }
+        },
+        "description": "A blue color from the Soft Lavender palette."
+    }
+]

@@ -1,62 +1,55 @@
 [
     {
-        "unique-color-id": "16040607",
+        "unique-color-id": "B6Z7HQAA",
         "name": "Almond Cream",
         "other-names": [
             {
                 "name": "Almond Cream",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "13-1017",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Orange Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "F",
-                    "r2": "4",
-                    "g1": "C",
-                    "g2": "2",
-                    "b1": "9",
-                    "b2": "F",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "E",
+                    "r2": "7",
+                    "g1": "D",
+                    "g2": "7",
+                    "b1": "C",
+                    "b2": "1",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 244,
-                    "g": 194,
-                    "b": 159
+                    "r": 231,
+                    "g": 215,
+                    "b": 193
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 25,
-                    "s": 79,
-                    "l": 79
+                    "h": 35,
+                    "s": 44,
+                    "l": 83
                 }
             },
             "cmyk": {
                 "values": {
                     "c": 0,
-                    "m": 20,
-                    "y": 35,
-                    "k": 4
+                    "m": 7,
+                    "y": 16,
+                    "k": 9
                 }
             }
         },
-        "description": "A light, highly saturated orange with warm red tones."
+        "description": "A orange color from the Warm Earth Tones palette."
     }
 ]

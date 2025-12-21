@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "10205140",
+        "unique-color-id": "735ZFEAA",
         "name": "Cerulean",
         "other-names": [
             {
                 "name": "Cerulean",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "15-4020",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Blue Satin",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Blue Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "9",
-                    "r2": "B",
-                    "g1": "B",
-                    "g2": "7",
-                    "b1": "D",
-                    "b2": "4",
-                    "a1": "0",
-                    "a2": "0"
+                    "r1": "4",
+                    "r2": "5",
+                    "g1": "7",
+                    "g2": "B",
+                    "b1": "9",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 155,
-                    "g": 183,
-                    "b": 212
+                    "r": 69,
+                    "g": 123,
+                    "b": 157
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 211,
-                    "s": 40,
-                    "l": 72
+                    "h": 203,
+                    "s": 39,
+                    "l": 44
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 27,
-                    "m": 14,
+                    "c": 56,
+                    "m": 22,
                     "y": 0,
-                    "k": 17
+                    "k": 38
                 }
             }
         },
-        "description": "A light, moderately saturated blue with cool blue-violet tones."
+        "description": "A blue color from the Muted American palette."
     }
 ]

@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "KU7VVDAA",
+        "name": "Charcoal Brown",
+        "other-names": [
+            {
+                "name": "Charcoal Brown",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "3",
+                    "g1": "3",
+                    "g2": "D",
+                    "b1": "2",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 51,
+                    "g": 61,
+                    "b": 41
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 90,
+                    "s": 20,
+                    "l": 20
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 16,
+                    "m": 0,
+                    "y": 33,
+                    "k": 76
+                }
+            }
+        },
+        "description": "A green color from the Warm Neutral Tones palette."
+    }
+]

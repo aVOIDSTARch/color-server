@@ -1,69 +1,55 @@
 [
     {
-        "unique-color-id": "14149820",
+        "unique-color-id": "U3P83PAA",
         "name": "Lime Cream",
         "other-names": [
             {
                 "name": "Lime Cream",
                 "source": {
-                    "name": "Pantone",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "12-0312",
-                "source": {
-                    "name": "pantone-number",
-                    "url": "http://www.pantone.com"
-                }
-            },
-            {
-                "name": "Celery Root",
-                "source": {
-                    "name": "color.pizza",
-                    "url": "https://github.com/meodai/color-names"
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
                 }
             }
         ],
-        "naming-source": "Pantone",
+        "naming-source": "Coolors",
         "nickname": "",
         "color-family": "Green Shades",
         "color-codes": {
             "hex": {
                 "values": {
                     "r1": "D",
-                    "r2": "7",
+                    "r2": "9",
                     "g1": "E",
-                    "g2": "8",
-                    "b1": "B",
-                    "b2": "C",
-                    "a1": "0",
-                    "a2": "0"
+                    "g2": "D",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "F",
+                    "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 215,
-                    "g": 232,
-                    "b": 188
+                    "r": 217,
+                    "g": 237,
+                    "b": 146
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 83,
-                    "s": 49,
-                    "l": 82
+                    "h": 73,
+                    "s": 72,
+                    "l": 75
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 7,
+                    "c": 8,
                     "m": 0,
-                    "y": 19,
-                    "k": 9
+                    "y": 38,
+                    "k": 7
                 }
             }
         },
-        "description": "A light, moderately saturated green with yellow-green tones."
+        "description": "A green color from the Meadow Green palette."
     }
 ]

@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "KUFUBCAA",
+        "name": "Carbon Black",
+        "other-names": [
+            {
+                "name": "Carbon Black",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "1",
+                    "g1": "2",
+                    "g2": "5",
+                    "b1": "2",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 33,
+                    "g": 37,
+                    "b": 41
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 210,
+                    "s": 11,
+                    "l": 15
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 20,
+                    "m": 10,
+                    "y": 0,
+                    "k": 84
+                }
+            }
+        },
+        "description": "A blue color from the Light Steel palette."
+    }
+]

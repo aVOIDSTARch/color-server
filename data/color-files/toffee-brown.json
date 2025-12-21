@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "3DGYVKAA",
+        "name": "Toffee Brown",
+        "other-names": [
+            {
+                "name": "Toffee Brown",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "3",
+                    "g1": "6",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "9",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 147,
+                    "g": 102,
+                    "b": 57
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 44,
+                    "l": 40
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 31,
+                    "y": 61,
+                    "k": 42
+                }
+            }
+        },
+        "description": "A orange color from the Warm Neutral Tones palette."
+    }
+]

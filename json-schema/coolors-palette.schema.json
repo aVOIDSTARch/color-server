@@ -1,0 +1,63 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "coolors-palette.schema.json",
+  "title": "Coolors Palette",
+  "description": "Schema for Coolors.co color palette data",
+  "type": "array",
+  "items": {
+    "$ref": "#/$defs/Color"
+  },
+  "$defs": {
+    "Color": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Human-readable color name"
+        },
+        "hex": {
+          "type": "string",
+          "pattern": "^[0-9a-fA-F]{6}$",
+          "description": "Hex color code without #"
+        },
+        "rgb": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 0, "maximum": 255 },
+          "minItems": 3,
+          "maxItems": 3,
+          "description": "RGB values [R, G, B]"
+        },
+        "cmyk": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 0, "maximum": 100 },
+          "minItems": 4,
+          "maxItems": 4,
+          "description": "CMYK values [C, M, Y, K]"
+        },
+        "hsb": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 0 },
+          "minItems": 3,
+          "maxItems": 3,
+          "description": "HSB values [H, S, B]"
+        },
+        "hsl": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 0 },
+          "minItems": 3,
+          "maxItems": 3,
+          "description": "HSL values [H, S, L]"
+        },
+        "lab": {
+          "type": "array",
+          "items": { "type": "integer" },
+          "minItems": 3,
+          "maxItems": 3,
+          "description": "LAB values [L, A, B]"
+        }
+      },
+      "required": ["name", "hex", "rgb", "cmyk", "hsb", "hsl", "lab"],
+      "additionalProperties": false
+    }
+  }
+}
