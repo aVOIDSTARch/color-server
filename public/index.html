@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Palette Viewer</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: #1a1a2e;
+            color: #eee;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            font-weight: 300;
+            margin-bottom: 1.5rem;
+            color: #888;
+            text-align: center;
+        }
+
+        /* Palette Picker */
+        .palette-picker {
+            margin-bottom: 2rem;
+        }
+
+        .palette-picker select {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            font-size: 1rem;
+            background: #16213e;
+            color: #eee;
+            border: 1px solid #0f3460;
+            border-radius: 8px;
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23888' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 1rem center;
+        }
+
+        .palette-picker select:hover {
+            border-color: #e94560;
+        }
+
+        .palette-picker select:focus {
+            outline: none;
+            border-color: #e94560;
+            box-shadow: 0 0 0 2px rgba(233, 69, 96, 0.2);
+        }
+
+        /* Palette View */
+        .palette-view {
+            width: 500px;
+            max-width: 100%;
+            margin: 0 auto;
+            background: #16213e;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .palette-header {
+            padding: 1rem 1.25rem;
+            border-bottom: 1px solid #0f3460;
+        }
+
+        .palette-name {
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: #fff;
+        }
+
+        .palette-meta {
+            font-size: 0.75rem;
+            color: #666;
+            margin-top: 0.25rem;
+        }
+
+        .palette-colors {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .color-row {
+            display: flex;
+            align-items: stretch;
+            border-bottom: 1px solid #0f3460;
+            transition: background 0.15s ease;
+        }
+
+        .color-row:last-child {
+            border-bottom: none;
+        }
+
+        .color-row:hover {
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        .color-swatch {
+            width: 80px;
+            min-height: 60px;
+            flex-shrink: 0;
+        }
+
+        .color-info {
+            flex: 1;
+            padding: 0.75rem 1rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .color-name {
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: #fff;
+            margin-bottom: 0.25rem;
+        }
+
+        .color-codes {
+            font-size: 0.75rem;
+            color: #888;
+            font-family: 'SF Mono', 'Fira Code', monospace;
+        }
+
+        .color-family {
+            font-size: 0.65rem;
+            color: #555;
+            margin-top: 0.25rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* Loading & Empty states */
+        .loading, .empty-state {
+            text-align: center;
+            padding: 3rem;
+            color: #666;
+        }
+
+        .loading::after {
+            content: '';
+            animation: dots 1.5s infinite;
+        }
+
+        @keyframes dots {
+            0%, 20% { content: '.'; }
+            40% { content: '..'; }
+            60%, 100% { content: '...'; }
+        }
+    </style>
+</head>
+<body>
+    <div id="app"></div>
+
+    <script type="module">
+        import { h, render, Component } from 'https://esm.sh/preact@10.19.3';
+        import { useState, useEffect } from 'https://esm.sh/preact@10.19.3/hooks';
+        import htm from 'https://esm.sh/htm@3.1.1';
+
+        const html = htm.bind(h);
+
+        // PalettePicker Component
+        function PalettePicker({ palettes, selected, onSelect }) {
+            return html`
+                <div class="palette-picker">
+                    <select
+                        value=${selected}
+                        onChange=${(e) => onSelect(e.target.value)}
+                    >
+                        <option value="">Select a palette...</option>
+                        ${palettes.map(p => html`
+                            <option key=${p.file} value=${p.file}>${p.name}</option>
+                        `)}
+                    </select>
+                </div>
+            `;
+        }
+
+        // PaletteView Component
+        function PaletteView({ palette }) {
+            if (!palette) {
+                return html`
+                    <div class="palette-view">
+                        <div class="empty-state">Select a palette to view</div>
+                    </div>
+                `;
+            }
+
+            const colors = palette.resolvedColors || [];
+
+            return html`
+                <div class="palette-view">
+                    <div class="palette-header">
+                        <div class="palette-name">${palette['palette-name']}</div>
+                        <div class="palette-meta">${colors.length} colors</div>
+                    </div>
+                    <div class="palette-colors">
+                        ${colors.map((color, i) => {
+                            const hex = getHexFromColor(color);
+                            const rgb = color['color-codes']?.rgb?.values;
+                            const rgbStr = rgb ? `rgb(${rgb.r}, ${rgb.g}, ${rgb.b})` : '';
+
+                            return html`
+                                <div class="color-row" key=${i}>
+                                    <div
+                                        class="color-swatch"
+                                        style=${{ backgroundColor: '#' + hex }}
+                                    ></div>
+                                    <div class="color-info">
+                                        <div class="color-name">${color.name}</div>
+                                        <div class="color-codes">#${hex} ${rgbStr && '/ ' + rgbStr}</div>
+                                        <div class="color-family">${color['color-family']}</div>
+                                    </div>
+                                </div>
+                            `;
+                        })}
+                    </div>
+                </div>
+            `;
+        }
+
+        // Helper to extract hex from color object
+        function getHexFromColor(color) {
+            const hex = color['color-codes']?.hex?.values;
+            if (!hex) return '000000';
+            return `${hex.r1}${hex.r2}${hex.g1}${hex.g2}${hex.b1}${hex.b2}`;
+        }
+
+        // Main App Component
+        function App() {
+            const [palettes, setPalettes] = useState([]);
+            const [selectedFile, setSelectedFile] = useState('');
+            const [paletteData, setPaletteData] = useState(null);
+            const [loading, setLoading] = useState(true);
+
+            // Load palette list on mount
+            useEffect(() => {
+                fetch('/api/palettes')
+                    .then(r => r.json())
+                    .then(data => {
+                        setPalettes(data.palettes || []);
+                        setLoading(false);
+                    })
+                    .catch(err => {
+                        console.error('Failed to load palettes:', err);
+                        setLoading(false);
+                    });
+            }, []);
+
+            // Load palette data when selection changes
+            useEffect(() => {
+                if (!selectedFile) {
+                    setPaletteData(null);
+                    return;
+                }
+
+                fetch(`/api/palette/${selectedFile}`)
+                    .then(r => r.json())
+                    .then(data => {
+                        setPaletteData(data);
+                    })
+                    .catch(err => {
+                        console.error('Failed to load palette:', err);
+                        setPaletteData(null);
+                    });
+            }, [selectedFile]);
+
+            if (loading) {
+                return html`
+                    <div class="container">
+                        <h1>Palette Viewer</h1>
+                        <div class="loading">Loading palettes</div>
+                    </div>
+                `;
+            }
+
+            return html`
+                <div class="container">
+                    <h1>Palette Viewer</h1>
+                    <${PalettePicker}
+                        palettes=${palettes}
+                        selected=${selectedFile}
+                        onSelect=${setSelectedFile}
+                    />
+                    <${PaletteView} palette=${paletteData} />
+                </div>
+            `;
+        }
+
+        // Mount the app
+        render(html`<${App} />`, document.getElementById('app'));
+    </script>
+</body>
+</html>

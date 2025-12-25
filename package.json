@@ -11,7 +11,8 @@
     "pipeline": "npx sucrase-node coolors-pipeline.ts",
     "pipeline:watch": "npx sucrase-node coolors-pipeline.ts --watch",
     "pipeline:all": "npx sucrase-node coolors-pipeline.ts --all",
-    "pipeline:file": "npx sucrase-node coolors-pipeline.ts --file"
+    "pipeline:file": "npx sucrase-node coolors-pipeline.ts --file",
+    "serve": "npx sucrase-node palette-server.ts"
   },
   "repository": {
     "type": "git",
