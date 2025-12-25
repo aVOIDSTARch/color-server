@@ -1,10 +1,10 @@
 [
     {
-        "unique-color-id": "SZ3H2HAA",
-        "name": "Grey",
+        "unique-color-id": "MALSRAAA",
+        "name": "Pitch Black",
         "other-names": [
             {
-                "name": "Grey",
+                "name": "Pitch Black",
                 "source": {
                     "name": "Coolors",
                     "url": "https://coolors.co"
@@ -13,43 +13,43 @@
         ],
         "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Grey Shades",
+        "color-family": "Black Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "7",
-                    "r2": "8",
-                    "g1": "7",
-                    "g2": "9",
-                    "b1": "7",
-                    "b2": "0",
+                    "r1": "0",
+                    "r2": "F",
+                    "g1": "0",
+                    "g2": "A",
+                    "b1": "0",
+                    "b2": "B",
                     "a1": "F",
                     "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 120,
-                    "g": 121,
-                    "b": 112
+                    "r": 15,
+                    "g": 10,
+                    "b": 11
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 67,
-                    "s": 4,
-                    "l": 46
+                    "h": 348,
+                    "s": 20,
+                    "l": 5
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 1,
-                    "m": 0,
-                    "y": 7,
-                    "k": 53
+                    "c": 0,
+                    "m": 33,
+                    "y": 27,
+                    "k": 94
                 }
             }
         },
-        "description": "A grey color from the Eye Colors 3 palette."
+        "description": "A black color from the Eye Colors 2 palette."
     }
 ]

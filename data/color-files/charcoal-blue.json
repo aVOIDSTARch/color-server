@@ -1,10 +1,10 @@
 [
     {
-        "unique-color-id": "SZ3H2HAA",
-        "name": "Grey",
+        "unique-color-id": "CGYFEEAA",
+        "name": "Charcoal Blue",
         "other-names": [
             {
-                "name": "Grey",
+                "name": "Charcoal Blue",
                 "source": {
                     "name": "Coolors",
                     "url": "https://coolors.co"
@@ -13,43 +13,43 @@
         ],
         "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Grey Shades",
+        "color-family": "Blue Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "7",
-                    "r2": "8",
-                    "g1": "7",
-                    "g2": "9",
-                    "b1": "7",
-                    "b2": "0",
+                    "r1": "4",
+                    "r2": "4",
+                    "g1": "5",
+                    "g2": "6",
+                    "b1": "6",
+                    "b2": "2",
                     "a1": "F",
                     "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 120,
-                    "g": 121,
-                    "b": 112
+                    "r": 68,
+                    "g": 86,
+                    "b": 98
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 67,
-                    "s": 4,
-                    "l": 46
+                    "h": 204,
+                    "s": 18,
+                    "l": 33
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 1,
-                    "m": 0,
-                    "y": 7,
-                    "k": 53
+                    "c": 31,
+                    "m": 12,
+                    "y": 0,
+                    "k": 62
                 }
             }
         },
-        "description": "A grey color from the Eye Colors 3 palette."
+        "description": "A blue color from the Eye Colors 2 palette."
     }
 ]

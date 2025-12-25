@@ -1,0 +1,36 @@
+{
+    "palette-name": "Eye Colors 3",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-25",
+    "collection": {
+        "file-name": "eye-colors-3-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Eye Colors 3 palette",
+        "color-files": [
+            {
+                "file-path": "color-files/oxblood.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/black-cherry.json",
+                "color-family": "Red Shades"
+            },
+            {
+                "file-path": "color-files/grey.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/dark-khaki.json",
+                "color-family": "Orange Shades"
+            },
+            {
+                "file-path": "color-files/dim-grey.json",
+                "color-family": "Grey Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Eye Colors 3"
+}

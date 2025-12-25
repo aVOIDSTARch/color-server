@@ -1,0 +1,36 @@
+{
+    "palette-name": "Eye Colors 1",
+    "version": "1.0.0",
+    "author": "Coolors.co",
+    "date-created": "2025-12-25",
+    "collection": {
+        "file-name": "eye-colors-1-colors.json",
+        "schema-file": "color-file-schema.json",
+        "description": "Collection of colors from the Eye Colors 1 palette",
+        "color-files": [
+            {
+                "file-path": "color-files/pitch-black.json",
+                "color-family": "Black Shades"
+            },
+            {
+                "file-path": "color-files/charcoal-blue.json",
+                "color-family": "Blue Shades"
+            },
+            {
+                "file-path": "color-files/dim-grey.json",
+                "color-family": "Grey Shades"
+            },
+            {
+                "file-path": "color-files/dusty-olive.json",
+                "color-family": "Yellow Shades"
+            },
+            {
+                "file-path": "color-files/charcoal.json",
+                "color-family": "Grey Shades"
+            }
+        ]
+    },
+    "project-name": "Coolors Palettes",
+    "project-url": "https://coolors.co",
+    "description": "Color palette: Eye Colors 1"
+}

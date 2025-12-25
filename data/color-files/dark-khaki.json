@@ -1,10 +1,10 @@
 [
     {
-        "unique-color-id": "SZ3H2HAA",
-        "name": "Grey",
+        "unique-color-id": "YDGWPEAA",
+        "name": "Dark Khaki",
         "other-names": [
             {
-                "name": "Grey",
+                "name": "Dark Khaki",
                 "source": {
                     "name": "Coolors",
                     "url": "https://coolors.co"
@@ -13,43 +13,43 @@
         ],
         "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Grey Shades",
+        "color-family": "Orange Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "7",
-                    "r2": "8",
-                    "g1": "7",
-                    "g2": "9",
-                    "b1": "7",
-                    "b2": "0",
+                    "r1": "4",
+                    "r2": "D",
+                    "g1": "4",
+                    "g2": "6",
+                    "b1": "3",
+                    "b2": "6",
                     "a1": "F",
                     "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 120,
-                    "g": 121,
-                    "b": 112
+                    "r": 77,
+                    "g": 70,
+                    "b": 54
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 67,
-                    "s": 4,
-                    "l": 46
+                    "h": 42,
+                    "s": 18,
+                    "l": 26
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 1,
-                    "m": 0,
-                    "y": 7,
-                    "k": 53
+                    "c": 0,
+                    "m": 9,
+                    "y": 30,
+                    "k": 70
                 }
             }
         },
-        "description": "A grey color from the Eye Colors 3 palette."
+        "description": "A orange color from the Eye Colors 3 palette."
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "unique-color-id": "EGUFYFAA",
+        "unique-color-id": "PWTXPEAA",
         "name": "Charcoal",
         "other-names": [
             {
@@ -17,39 +17,39 @@
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "5",
-                    "r2": "6",
+                    "r1": "4",
+                    "r2": "D",
                     "g1": "5",
-                    "g2": "2",
-                    "b1": "6",
-                    "b2": "4",
+                    "g2": "1",
+                    "b1": "4",
+                    "b2": "D",
                     "a1": "F",
                     "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 86,
-                    "g": 82,
-                    "b": 100
+                    "r": 77,
+                    "g": 81,
+                    "b": 77
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 253,
-                    "s": 10,
-                    "l": 36
+                    "h": 120,
+                    "s": 3,
+                    "l": 31
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 14,
-                    "m": 18,
-                    "y": 0,
-                    "k": 61
+                    "c": 5,
+                    "m": 0,
+                    "y": 5,
+                    "k": 68
                 }
             }
         },
-        "description": "A grey color from the Mauve Serenity palette."
+        "description": "A grey color from the Eye Colors 2 palette."
     }
 ]

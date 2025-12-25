@@ -1,6 +1,6 @@
 [
     {
-        "unique-color-id": "LWPYFGAA",
+        "unique-color-id": "WFSHUHAA",
         "name": "Dusty Olive",
         "other-names": [
             {
@@ -13,43 +13,43 @@
         ],
         "naming-source": "Coolors",
         "nickname": "",
-        "color-family": "Green Shades",
+        "color-family": "Yellow Shades",
         "color-codes": {
             "hex": {
                 "values": {
-                    "r1": "6",
-                    "r2": "5",
-                    "g1": "6",
-                    "g2": "D",
-                    "b1": "4",
-                    "b2": "A",
+                    "r1": "7",
+                    "r2": "2",
+                    "g1": "7",
+                    "g2": "0",
+                    "b1": "5",
+                    "b2": "4",
                     "a1": "F",
                     "a2": "F"
                 }
             },
             "rgb": {
                 "values": {
-                    "r": 101,
-                    "g": 109,
-                    "b": 74
+                    "r": 114,
+                    "g": 112,
+                    "b": 84
                 }
             },
             "hsl": {
                 "values": {
-                    "h": 74,
-                    "s": 19,
-                    "l": 36
+                    "h": 56,
+                    "s": 15,
+                    "l": 39
                 }
             },
             "cmyk": {
                 "values": {
-                    "c": 7,
-                    "m": 0,
-                    "y": 32,
-                    "k": 57
+                    "c": 0,
+                    "m": 2,
+                    "y": 26,
+                    "k": 55
                 }
             }
         },
-        "description": "A green color from the Warm Neutral Tones palette."
+        "description": "A yellow color from the Eye Colors 2 palette."
     }
 ]
